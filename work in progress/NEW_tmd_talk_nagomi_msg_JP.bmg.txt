@@ -1,0 +1,5125 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+
+---
+id: 0
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Earlier, I found a bug."
+
+
+---
+id: 1
+attribute: 0x6400E10001000001
+---
+コノマエ＿バグヲハッケンシマシタ
+
+
+---
+id: 10
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I'm calm but my
+emotions obviously show on my face."
+
+
+---
+id: 11
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+イヤシケイデスガ＿キブンガカオニデマス
+
+
+---
+id: 20
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I worry about
+a lot of things even while I'm smiling."
+
+
+---
+id: 21
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+ニコニコシナガラモ＿ツネニイロイロカンガエテマス
+
+
+---
+id: 30
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I'm the type
+that cares too much about others."
+
+
+---
+id: 31
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+ヒトニキヲツカイスギルタイプダソーデス
+
+
+---
+id: 40
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I like to do things
+at my pace, but I'm prone to worrying."
+
+
+---
+id: 41
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+オットリマイペースデスガ＿シンパイショーデス
+
+
+---
+id: 50
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! People often
+say that I'm the rejuvenating type."
+
+
+---
+id: 51
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+キューキョクノイヤシケイダト＿ヨクイワレマス
+
+
+---
+id: 60
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! People often
+say that I'm surprisingly reliable."
+
+
+---
+id: 61
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+イガイトシッカリモノダネッテ＿イワレマス
+
+
+---
+id: 70
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~
+I'm pretty gullible."
+
+
+---
+id: 71
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+ダマサレヤスイタイプラシイデス
+
+
+---
+id: 80
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~
+I usually do things at my pace."
+
+
+---
+id: 81
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}デスー．
+イロンナイミデマイペースデス
+
+
+---
+id: 649
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 650
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 651
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 652
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 653
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 654
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 655
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 656
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 657
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 658
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 659
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 660
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 661
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 662
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 663
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 664
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 665
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 666
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 667
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 668
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 669
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 670
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 671
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 672
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 673
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 674
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 675
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 676
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 677
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 678
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 679
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 680
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 681
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 682
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 683
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 684
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 685
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 686
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 687
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 688
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 689
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 690
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 691
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 692
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 693
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 694
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 695
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 696
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 697
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 698
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 699
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 700
+attribute: 0x6400E10001000002
+---
+ 
+
+
+---
+id: 100000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Good morning~"
+
+
+---
+id: 100001
+attribute: 0x6400E10001000001
+---
+オッハヨーデスー
+
+
+---
+id: 100010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Hello~"
+
+
+---
+id: 100011
+attribute: 0x6400E10001000001
+---
+ドーモデスー
+
+
+---
+id: 100020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Good evening~"
+
+
+---
+id: 100021
+attribute: 0x6400E10001000001
+---
+コンバンワー
+
+
+---
+id: 100030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm alert."
+
+
+---
+id: 100031
+attribute: 0x6400E10001000001
+---
+コーフンチューデスー
+
+
+---
+id: 100040
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Welcome, my alter ego!"
+
+
+---
+id: 100041
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿
+イラッシャーイ
+
+
+---
+id: 100050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"This is rare, but I'm so mad now."
+
+
+---
+id: 100051
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}＿
+メズラシクオコッテイマス
+
+
+---
+id: 100060
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"This is really bad..."
+
+
+---
+id: 100061
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}
+モーダメデス
+
+
+---
+id: 100070
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm miserable..."
+
+
+---
+id: 100071
+attribute: 0x6400E10001000001
+---
+セツナイ
+
+
+---
+id: 100080
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
+year!"
+
+
+---
+id: 100081
+attribute: 0x6400E10001000001
+---
+アケマシテオメデトーゴザイマス．コトシモヨロシクオネガイシマス
+
+
+---
+id: 100090
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
+year!"
+
+
+---
+id: 100091
+attribute: 0x6400E10001000001
+---
+アケマシテオメデトーゴザイマス．コトシモヨロシクオネガイシマス
+
+
+---
+id: 100100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
+year!"
+
+
+---
+id: 100101
+attribute: 0x6400E10001000001
+---
+アケマシテオメデトーゴザイマス．コトシモヨロシクオネガイシマス
+
+
+---
+id: 100110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is Christmas Eve!"
+
+
+---
+id: 100111
+attribute: 0x6400E10001000001
+---
+キョーワクリスマスイブデスネ！
+
+
+---
+id: 100120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is Christmas!"
+
+
+---
+id: 100121
+attribute: 0x6400E10001000001
+---
+キョーワクリスマスデスネ！
+
+
+---
+id: 100130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Merry Christmas!"
+
+
+---
+id: 100131
+attribute: 0x6400E10001000001
+---
+メリークリスマス！
+
+
+---
+id: 100140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+It's been a week since I met you."
+
+
+---
+id: 100141
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿イッシューカンブリデスネ
+
+
+---
+id: 100150
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Long time no see!"
+
+
+---
+id: 100151
+attribute: 0x6400E10001000001
+---
+オヒサシブリデスー！
+
+
+---
+id: 100160
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Long time no see.
+I was sad when I didn't see you..."
+
+
+---
+id: 100161
+attribute: 0x6400E10001000001
+---
+オヒサシブリデスー！
+アエナクテサビシカッタデス
+
+
+---
+id: 100170
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's been a week since I met you,
+{{1:31 arg="0x0000"}}'s lookalike."
+
+
+---
+id: 100171
+attribute: 0x6400E10001000001
+---
+イッシューカンブリクライデスカ？{{1:31 arg="0x0000"}}ノソックリサン
+
+
+---
+id: 100180
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I haven't seen you for a week.
+Did you catch a cold or something?"
+
+
+---
+id: 100181
+attribute: 0x6400E10001000001
+---
+イッシューカンブリデスネ．カゼヲヒイタリシテマセンデシタカ？
+
+
+---
+id: 100190
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+It's been 2 weeks since I met you."
+
+
+---
+id: 100191
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿ニシューカンブリデスネ
+
+
+---
+id: 100200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Thank you for visiting me!"
+
+
+---
+id: 100201
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿キテクレテアリガトーゴザイマス！
+
+
+---
+id: 100210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Long time no see. Where have you been?"
+
+
+---
+id: 100211
+attribute: 0x6400E10001000001
+---
+ヒサシブリデスネ．ドコニイッテタンデスカ？
+
+
+---
+id: 100220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+You've come to visit me!"
+
+
+---
+id: 100221
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン！キテクレタンデスネー！
+
+
+---
+id: 100230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Wow! Long time no see!"
+
+
+---
+id: 100231
+attribute: 0x6400E10001000001
+---
+ワー！オヒサシブリデス！
+
+
+---
+id: 100240
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+It's been 3 weeks since I met you."
+
+
+---
+id: 100241
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿サンシューカンブリデスネ
+
+
+---
+id: 100250
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I was just thinking that I wanted to see
+{{1:31 arg="0x0000"}}'s lookalike."
+
+
+---
+id: 100251
+attribute: 0x6400E10001000001
+---
+ヒサビサニ{{1:31 arg="0x0000"}}ノソックリサンニアッタキガシマス
+
+
+---
+id: 100260
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Glad to see you again!"
+
+
+---
+id: 100261
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン！マタアエテウレシイデス！
+
+
+---
+id: 100270
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Have you been traveling somewhere?"
+
+
+---
+id: 100271
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿ドコカニリョコーシテタンデスカ？
+
+
+---
+id: 100280
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+It's been a month since I met you."
+
+
+---
+id: 100281
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿イッカゲツブリデスネ
+
+
+---
+id: 100290
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"You haven't visited me for a month!
+That's cruel."
+
+
+---
+id: 100291
+attribute: 0x6400E10001000001
+---
+イッカゲツモキテクレナイナンテ＿ヒドイデス
+
+
+---
+id: 100300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Where have you been this whole month?"
+
+
+---
+id: 100301
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿イッカゲツモドコニイッテタンデスカ？
+
+
+---
+id: 100310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+It's been 2 months since I met you."
+
+
+---
+id: 100311
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿ニカゲツブリデスネ
+
+
+---
+id: 100320
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"You haven't visited me for 2 months!
+That's cruel."
+
+
+---
+id: 100321
+attribute: 0x6400E10001000001
+---
+ニカゲツモキテクレナイナンテ＿ヒドイデス！
+
+
+---
+id: 100330
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+it's so rare for you to be here."
+
+
+---
+id: 100331
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサンガクルナンテ＿メズラシイデスネ
+
+
+---
+id: 100340
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"You're {{1:31 arg="0x0000"}}'s
+lookalike, right...?"
+
+
+---
+id: 100341
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿デスヨネ？
+
+
+---
+id: 100350
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+It's been 3 months since I met you."
+
+
+---
+id: 100351
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿サンカゲツブリデスネ
+
+
+---
+id: 100360
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"You haven't visited me for 3 months!
+That's cruel."
+
+
+---
+id: 100361
+attribute: 0x6400E10001000001
+---
+サンカゲツモキテクレナイナンテ＿ヒドイデス！
+
+
+---
+id: 100370
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Long time no see."
+
+
+---
+id: 100371
+attribute: 0x6400E10001000001
+---
+ズイブントオヒサシブリデス
+
+
+---
+id: 100380
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Where have you been all these 3 months,
+{{1:31 arg="0x0000"}}'s lookalike?"
+
+
+---
+id: 100381
+attribute: 0x6400E10001000001
+---
+サンカゲツモドコニイッテタンデスカ？{{1:31 arg="0x0000"}}ノソックリサン
+
+
+---
+id: 100390
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Did you get bored of us,
+{{1:31 arg="0x0000"}}'s lookalike?"
+
+
+---
+id: 100391
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0100"}}タチニキョーミガナクナッタンデスカ？{{1:31 arg="0x0000"}}ノソックリサン
+
+
+---
+id: 100400
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Long time no see. Really!"
+
+
+---
+id: 100401
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿トッテモヒサシブリデスネ
+
+
+---
+id: 100410
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike...
+That's your name, right...?"
+
+
+---
+id: 100411
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿デシタッケ？
+
+
+---
+id: 100420
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's been a really long time!
+I'm glad to see you again!"
+
+
+---
+id: 100421
+attribute: 0x6400E10001000001
+---
+チョーヒサシブリデスー！マタアエテウレシイデス！
+
+
+---
+id: 200000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"How is the weather in your world?"
+
+
+---
+id: 200001
+attribute: 0x6400E10001000001
+---
+ソッチノセカイノテンキワドーデスカ？
+
+
+---
+id: 200010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Is it hot over there?"
+
+
+---
+id: 200011
+attribute: 0x6400E10001000001
+---
+ソッチノセカイモアツイデスカ？
+
+
+---
+id: 200020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Is it cold over there?"
+
+
+---
+id: 200021
+attribute: 0x6400E10001000001
+---
+ソッチノセカイモサムイデスカ？
+
+
+---
+id: 200030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's hot today."
+
+
+---
+id: 200031
+attribute: 0x6400E10001000001
+---
+キョーモアツイデスネ
+
+
+---
+id: 200040
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's cold today."
+
+
+---
+id: 200041
+attribute: 0x6400E10001000001
+---
+キョーモサムイデス
+
+
+---
+id: 200050
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's getting cooler lately."
+
+
+---
+id: 200051
+attribute: 0x6400E10001000001
+---
+ヤットスズシクナッテキマシタ
+
+
+---
+id: 200060
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's chilly today."
+
+
+---
+id: 200061
+attribute: 0x6400E10001000001
+---
+キョーワヒエマスネ
+
+
+---
+id: 200070
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Today is Valentine's Day.
+I'm a bit excited..."
+
+
+---
+id: 200071
+attribute: 0x6400E10001000001
+---
+キョーワバレンタインデーデスネ．チョットドキドキシマス
+
+
+---
+id: 200080
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Today is Valentine's Day. Will
+{{1:31 arg="0x0000"}} give me chocolate?"
+
+
+---
+id: 200081
+attribute: 0x6400E10001000001
+---
+キョーワバレンタインデーデスネ．{{1:31 arg="0x0000"}}チョコクレルカナ
+
+
+---
+id: 200090
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is White Day. What should I do?"
+
+
+---
+id: 200091
+attribute: 0x6400E10001000001
+---
+キョーワホワイトデーデスネ．ドーシヨーカナ
+
+
+---
+id: 200100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Today is Tanabata."
+
+
+---
+id: 200101
+attribute: 0x6400E10001000001
+---
+キョーワタナバタデスネ
+
+
+---
+id: 200110
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Another year has ended, huh?"
+
+
+---
+id: 200111
+attribute: 0x6400E10001000001
+---
+コトシモモーオワリデスネ
+
+
+---
+id: 200120
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's getting warm."
+
+
+---
+id: 200121
+attribute: 0x6400E10001000001
+---
+ポカポカシマスネ
+
+
+---
+id: 200130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm sleepy."
+
+
+---
+id: 200131
+attribute: 0x6400E10001000001
+---
+ネムイデス
+
+
+---
+id: 200140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Good morning,
+{{1:31 arg="0x0000"}}'s lookalike."
+
+
+---
+id: 200141
+attribute: 0x6400E10001000001
+---
+オハヨーゴザイマス．{{1:31 arg="0x0000"}}ノソックリサン
+
+
+---
+id: 200150
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Hello~"
+
+
+---
+id: 200151
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿コンニチワー
+
+
+---
+id: 200160
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+Hello~"
+
+
+---
+id: 200161
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノソックリサン＿コンバンワー
+
+
+---
+id: 200170
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Hmm, you can tell, right?
+Something good happened to me."
+
+
+---
+id: 200171
+attribute: 0x6400E10001000001
+---
+フーン＿ワカルンデスネー．{{1:31 arg="0x0000"}}ニ＿ウレシイコトガアッタッテ
+
+
+---
+id: 200180
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I'm so mad now. Is it unexpected?"
+
+
+---
+id: 200181
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ダッテ＿ハラヲタテマスヨ．ソンナニイガイデスカ？
+
+
+---
+id: 200190
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When something bad happened, my emotions
+would all show up on my face."
+
+
+---
+id: 200191
+attribute: 0x6400E10001000001
+---
+ツライコトガアルト＿スグカオニデテシマウンデス
+
+
+---
+id: 200200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"When I care so much about someone, I can't
+concentrate on doing anything else..."
+
+
+---
+id: 200201
+attribute: 0x6400E10001000001
+---
+アノヒトノコトガキニナッテ．ナニモテニツカナイデス
+
+
+---
+id: 200210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I was about to go to bed."
+
+
+---
+id: 200211
+attribute: 0x6400E10001000001
+---
+ソロソロネヨーカナト＿オモッテタトコロデス
+
+
+---
+id: 200220
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"A new year has started."
+
+
+---
+id: 200221
+attribute: 0x6400E10001000001
+---
+アタラシイトシノハジマリデスネ
+
+
+---
+id: 200230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's February now."
+
+
+---
+id: 200231
+attribute: 0x6400E10001000001
+---
+キョーカラニガツデスネ
+
+
+---
+id: 200240
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's March now."
+
+
+---
+id: 200241
+attribute: 0x6400E10001000001
+---
+キョーカラサンガツデスネ
+
+
+---
+id: 200250
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's April now."
+
+
+---
+id: 200251
+attribute: 0x6400E10001000001
+---
+キョーカラシガツデスネ
+
+
+---
+id: 200260
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's May now."
+
+
+---
+id: 200261
+attribute: 0x6400E10001000001
+---
+キョーカラゴガツデスネ
+
+
+---
+id: 200270
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's June now."
+
+
+---
+id: 200271
+attribute: 0x6400E10001000001
+---
+キョーカラロクガツデスネ
+
+
+---
+id: 200280
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's July now."
+
+
+---
+id: 200281
+attribute: 0x6400E10001000001
+---
+キョーカラシチガツデスネ
+
+
+---
+id: 200290
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's August now."
+
+
+---
+id: 200291
+attribute: 0x6400E10001000001
+---
+キョーカラハチガツデスネ
+
+
+---
+id: 200300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's September now."
+
+
+---
+id: 200301
+attribute: 0x6400E10001000001
+---
+キョーカラクガツデスネ
+
+
+---
+id: 200310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's October now."
+
+
+---
+id: 200311
+attribute: 0x6400E10001000001
+---
+キョーカラジューガツデスネ
+
+
+---
+id: 200320
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's November now."
+
+
+---
+id: 200321
+attribute: 0x6400E10001000001
+---
+キョーカラジューイチガツデスネ
+
+
+---
+id: 200330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's December now."
+
+
+---
+id: 200331
+attribute: 0x6400E10001000001
+---
+キョーカラジューニガツデスネ
+
+
+---
+id: 200340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It was the first time I've lost something
+I loved so much..."
+
+
+---
+id: 200341
+attribute: 0x6400E10001000001
+---
+ホントーニタイセツナモノワ＿ウシナッテハジメテキガツクンデスネ
+
+
+---
+id: 300000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Earlier, {{1:31 arg="0x0100"}} gave me
+{{1:31 arg="0x0000"}}."
+
+
+---
+id: 300001
+attribute: 0x6400E10001000001
+---
+コナイダ{{1:31 arg="0x0100"}}カラ＿{{1:31 arg="0x0000"}}ヲモライマシタ
+
+
+---
+id: 300010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Earlier, {{1:31 arg="0x0100"}} talked to me
+about {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300011
+attribute: 0x6400E10001000001
+---
+コナイダ{{1:31 arg="0x0100"}}ト＿{{1:31 arg="0x0000"}}ノハナシヲシマシタ
+
+
+---
+id: 300020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
+often hang out together."
+
+
+---
+id: 300021
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トワ＿フツカニイッカイワアソンデマス
+
+
+---
+id: 300030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
+get along really well."
+
+
+---
+id: 300031
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トワ＿スゴクキガアイマス
+
+
+---
+id: 300040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"By the way, do you know
+{{1:31 arg="0x0000"}}'s birthday?"
+
+
+---
+id: 300041
+attribute: 0x6400E10001000001
+---
+ソーイエバ＿{{1:31 arg="0x0000"}}ノタンジョービッテ＿イツデシタッケ？
+
+
+---
+id: 300050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's fun to have a lot of friends."
+
+
+---
+id: 300051
+attribute: 0x6400E10001000001
+---
+ヤッパリトモダチワ＿オオイホーガタノシイデスネ
+
+
+---
+id: 300060
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I like {{1:31 arg="0x0000"}}'s hairstyle."
+
+
+---
+id: 300061
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノカミガタガ＿ナントナクキニナリマス
+
+
+---
+id: 300070
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I like to be with {{1:31 arg="0x0000"}}
+and do nothing."
+
+
+---
+id: 300071
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トイッショニ＿ボーットスルジカンガスキデス
+
+
+---
+id: 300080
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I think a friend in need is a friend indeed."
+
+
+---
+id: 300081
+attribute: 0x6400E10001000001
+---
+コマッテイルトキニタスケテクレルノガ＿ホントーノトモダチダトオモイマス
+
+
+---
+id: 300090
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I've been dreaming of having 100 friends."
+
+
+---
+id: 300091
+attribute: 0x6400E10001000001
+---
+トモダチヲヒャクニンツクルノガユメデス
+
+
+---
+id: 300100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a really
+nice person!"
+
+
+---
+id: 300101
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ッテ＿スゴクイイヒトデスネ
+
+
+---
+id: 300110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} scribbled on
+my face while I was asleep..."
+
+
+---
+id: 300111
+attribute: 0x6400E10001000001
+---
+ネテイルスキニ＿{{1:31 arg="0x0000"}}ニカオニラクガキサレマシタ
+
+
+---
+id: 300120
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
+cutest girl on this island."
+
+
+---
+id: 300121
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ッテ＿コノシマデイチバンカワイイデスヨネ
+
+
+---
+id: 300130
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
+most handsome guy on this island."
+
+
+---
+id: 300131
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ッテ＿コノシマデイチバンカッコイイデスヨネ
+
+
+---
+id: 300140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
+is doing now..."
+
+
+---
+id: 300141
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}．イマナニシテルカナー
+
+
+---
+id: 300150
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When I think of {{1:31 arg="0x0000"}},
+I can't sleep."
+
+
+---
+id: 300151
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ノコトヲカンガエテタラ＿ネムレナクナリマシタ
+
+
+---
+id: 300160
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I don't need anything else if I can
+be with {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300161
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トイッショニイレタラ＿ホカニナニモイリマセン
+
+
+---
+id: 300170
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a girlfriend
+I'm really proud of."
+
+
+---
+id: 300171
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ワジマンノカノジョデス
+
+
+---
+id: 300180
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a boyfriend
+I'm really proud of."
+
+
+---
+id: 300181
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ワジマンノカレシデス
+
+
+---
+id: 300190
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I wonder how {{1:31 arg="0x0100"}}
+thinks about me."
+
+
+---
+id: 300191
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0100"}}ガ{{1:31 arg="0x0000"}}ノコトヲホントワドーオモッテルカ＿キニナリマス
+
+
+---
+id: 300200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I want to be with {{1:31 arg="0x0000"}}
+more often."
+
+
+---
+id: 300201
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トモットイッショニイタイデス
+
+
+---
+id: 300210
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I had held hands."
+
+
+---
+id: 300211
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トテヲツナイジャイマシタ
+
+
+---
+id: 300220
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Yesterday, I was so happy.
+I dreamed of {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300221
+attribute: 0x6400E10001000001
+---
+キノー＿{{1:31 arg="0x0000"}}ガユメニデテキテ＿ウレシカッタデス
+
+
+---
+id: 300230
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I still remember the first time I talked
+to {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300231
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トハジメテハナシタトキノコトヲ＿イマデモオボエテイマス
+
+
+---
+id: 300240
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Why is it so painful when I'm in love...?"
+
+
+---
+id: 300241
+attribute: 0x6400E10001000001
+---
+コイヲスルッテ＿ドーシテコンナニクルシイノデショーカ
+
+
+---
+id: 300250
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
+might be dreaming of now..."
+
+
+---
+id: 300251
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ガドンナユメヲミテルノカ＿キニナリマス
+
+
+---
+id: 300260
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
+might be doing now."
+
+
+---
+id: 300261
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ガイマ＿ナニヲシテイルノカキニナリマス
+
+
+---
+id: 300270
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} cooked for me.
+I'm so happy..."
+
+
+---
+id: 300271
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ガ＿テリョーリヲツクッテクレマシタ．シアワセデス
+
+
+---
+id: 300280
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I've been so happy to be married
+to {{1:31 arg="0x0000"}}!"
+
+
+---
+id: 300281
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トケッコンシテ＿マイニチガタノシクナリマシタ！
+
+
+---
+id: 300290
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I wonder if {{1:31 arg="0x0000"}}
+is cheating on me..."
+
+
+---
+id: 300291
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ガウワキシテナイカ＿トキドキキニナリマス
+
+
+---
+id: 300300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I think I'm so lucky to be married
+to {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300301
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トケッコンシテヨカッタト＿サイキンシミジミオモイマス
+
+
+---
+id: 300310
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I feel so happy when I talk
+with {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300311
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トノナニゲナイオシャベリガ＿ナニヨリモタノシイデス
+
+
+---
+id: 300320
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I feel so happy when I'm with
+{{1:31 arg="0x0000"}}."
+
+
+---
+id: 300321
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トイルト＿ナニゲナイコトガシアワセニカンジマス
+
+
+---
+id: 300330
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"My relationship with {{1:31 arg="0x0000"}}
+now is as good as when we started dating."
+
+
+---
+id: 300331
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}トワ＿コイビトダッタトキトカワラナイクライ＿ナカガイインデスヨ
+
+
+---
+id: 300340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It'd be nice if I could spend time
+with {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300341
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ト＿ユックリジカンヲカサネテイケタライイナート＿オモッテイマス
+
+
+---
+id: 300350
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It'd be nice if I could live with
+{{1:31 arg="0x0000"}} forever."
+
+
+---
+id: 300351
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}ト＿ズットイッショニイレタライイナトオモイマス
+
+
+---
+id: 300360
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I think my married life is great."
+
+
+---
+id: 300361
+attribute: 0x6400E10001000001
+---
+ナンダカンダイッテ＿ケッコンセイカツッテイイモノデスネ
+
+
+---
+id: 300370
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"There are many things I've learned
+after I got married..."
+
+
+---
+id: 300371
+attribute: 0x6400E10001000001
+---
+ケッコンシテカラワカルコトッテ＿イロイロアリマスヨネ
+
+
+---
+id: 300380
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Married life isn't as exciting as I thought."
+
+
+---
+id: 300381
+attribute: 0x6400E10001000001
+---
+ケッコンセイカツッテ＿オモッタヨリジミデスネ
+
+
+---
+id: 300390
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Even if something bad happens, I'll be
+fine if {{1:31 arg="0x0000"}} is with me."
+
+
+---
+id: 300391
+attribute: 0x6400E10001000001
+---
+ツライコトガアッテモ＿{{1:31 arg="0x0000"}}ガイレバ＿ノリコエラレソーデス
+
+
+---
+id: 300400
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Earlier, I went for a walk at the beach
+with {{1:31 arg="0x0000"}}."
+
+
+---
+id: 300401
+attribute: 0x6400E10001000001
+---
+コノマエ＿{{1:31 arg="0x0000"}}トハマベヲサンポシマシタ
+
+
+---
+id: 300410
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"If you don't get married, you won't
+learn much about your partner, eh?"
+
+
+---
+id: 300411
+attribute: 0x6400E10001000001
+---
+ケッコンシテミナイト＿アイテノコトッテワカラナイモノデスネ
+
+
+---
+id: 300420
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"You'll be blessed if you can enjoy your life."
+
+
+---
+id: 300421
+attribute: 0x6400E10001000001
+---
+ジンセイッテ＿タノシンダモノガチデスヨネ
+
+
+---
+id: 300430
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sometimes, I think about some nice
+memories and smile to myself."
+
+
+---
+id: 300431
+attribute: 0x6400E10001000001
+---
+タマニオモイダシワライヲシテシマイマス
+
+
+---
+id: 300440
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sometimes, I don't listen when people
+talk to me."
+
+
+---
+id: 300441
+attribute: 0x6400E10001000001
+---
+ヒトノハナシヲキイテナイコトガアリマス
+
+
+---
+id: 300450
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's fun to think about what I'd do
+if I won the lottery."
+
+
+---
+id: 300451
+attribute: 0x6400E10001000001
+---
+タカラクジガアタッタラドウシヨーカトナヤンデイルトキガ＿イチバンタノシイデス
+
+
+---
+id: 300460
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm happy when I can talk to someone."
+
+
+---
+id: 300461
+attribute: 0x6400E10001000001
+---
+ハナシカケラレルトウレシイデス
+
+
+---
+id: 300470
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Being able to wear something nice
+makes me happy."
+
+
+---
+id: 300471
+attribute: 0x6400E10001000001
+---
+オキニイリノフクヲキテイルダケデ＿ナンダカウレシクナッテキマス
+
+
+---
+id: 300480
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I believe in fortune telling."
+
+
+---
+id: 300481
+attribute: 0x6400E10001000001
+---
+ウラナイワシンジルタイプデス
+
+
+---
+id: 300490
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm usually late for my appointments."
+
+
+---
+id: 300491
+attribute: 0x6400E10001000001
+---
+マチアワセノジカンニワ＿ダイタイオクレマス
+
+
+---
+id: 300500
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Actually, I'm the type that likes
+to spoil the person I love."
+
+
+---
+id: 300501
+attribute: 0x6400E10001000001
+---
+ジツワ＿スキナヒトニタイシテワアマエンボーダッタリシマス
+
+
+---
+id: 300510
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I want to have bigger eyes."
+
+
+---
+id: 300511
+attribute: 0x6400E10001000001
+---
+モースコシ＿メガオオキカッタラナアトオモイマス
+
+
+---
+id: 300520
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I pray for a peaceful world..."
+
+
+---
+id: 300521
+attribute: 0x6400E10001000001
+---
+セカイガヘイワニナリマスヨーニ
+
+
+---
+id: 300530
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Personally, I'm very concerned about
+environmental issues."
+
+
+---
+id: 300531
+attribute: 0x6400E10001000001
+---
+ヒソカニカンキョーモンダイニトリクンデイマス
+
+
+---
+id: 300540
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Involuntarily, I've kept thinking about what
+I'm going to cook for dinner tomorrow."
+
+
+---
+id: 300541
+attribute: 0x6400E10001000001
+---
+アシタノバンゴハンワ＿ナニガイイカナ？ッテ＿オモワズカンガエテマシタ
+
+
+---
+id: 300550
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I want to befriend everyone."
+
+
+---
+id: 300551
+attribute: 0x6400E10001000001
+---
+ミンナトナカヨクシタイデス
+
+
+---
+id: 300560
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I'm not good at calculation."
+
+
+---
+id: 300561
+attribute: 0x6400E10001000001
+---
+ケイサンワニガテデス
+
+
+---
+id: 300570
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I easily get upset with trivial matters."
+
+
+---
+id: 300571
+attribute: 0x6400E10001000001
+---
+ジツワ＿チイサナコトデスグオチコミマス
+
+
+---
+id: 300580
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I never think about being famous."
+
+
+---
+id: 300581
+attribute: 0x6400E10001000001
+---
+エラクナロートワオモイマセン
+
+
+---
+id: 300590
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I tend to procrastinate."
+
+
+---
+id: 300591
+attribute: 0x6400E10001000001
+---
+ナンデモツイツイアトマワシニシテシマイマス
+
+
+---
+id: 300600
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I tend to lose things easily."
+
+
+---
+id: 300601
+attribute: 0x6400E10001000001
+---
+スグモノヲナクスタイプデス
+
+
+---
+id: 300610
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"A guy who is too honest is not
+attractive, don't you think?"
+
+
+---
+id: 300611
+attribute: 0x6400E10001000001
+---
+スナオスギルオトコッテ＿アマリミリョクテキジャナインデショーカ？
+
+
+---
+id: 300620
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"The sound of the waves is good.
+It's calming to be at the beach."
+
+
+---
+id: 300621
+attribute: 0x6400E10001000001
+---
+ナミノオトッテイイデスヨネ．ハマベニイクト＿キモチガオチツキマス
+
+
+---
+id: 300630
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I wash my right arm first when
+I take a bath."
+
+
+---
+id: 300631
+attribute: 0x6400E10001000001
+---
+オフロニハイルトキワ＿マズミギウデカラアライマス
+
+
+---
+id: 300640
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"When I do something, it usually takes me
+longer than when others do it."
+
+
+---
+id: 300641
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0000"}}＿ナニヲシテモミンナヨリジカンガカカッテシマイマス
+
+
+---
+id: 300650
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I'm secretly trying to improve my life."
+
+
+---
+id: 300651
+attribute: 0x6400E10001000001
+---
+ライブノタメニ＿コッソリヒトリデレンシューシテイマス
+
+
+---
+id: 300660
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"People say that I'm quiet."
+
+
+---
+id: 300661
+attribute: 0x6400E10001000001
+---
+ワカリヤスイヤツダトヨクイワレマス
+
+
+---
+id: 300670
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I'm pretty gullible."
+
+
+---
+id: 300671
+attribute: 0x6400E10001000001
+---
+ナンデモシンジテシマウタイプデス
+
+
+---
+id: 300680
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I usually cry out loud when I watch
+sad movies..."
+
+
+---
+id: 300681
+attribute: 0x6400E10001000001
+---
+エイガヲミテ＿オオナキスルタイプデス
+
+
+---
+id: 300690
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I hate insincere people."
+
+
+---
+id: 300691
+attribute: 0x6400E10001000001
+---
+クチサキダケノヒトワキライデス
+
+
+---
+id: 300700
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I usually go back to bed if I get up early..."
+
+
+---
+id: 300701
+attribute: 0x6400E10001000001
+---
+ハヤクオキテモ＿ニドネシテシマイマス
+
+
+---
+id: 300710
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"My personality is quite unique, right?"
+
+
+---
+id: 300711
+attribute: 0x6400E10001000001
+---
+{{1:31 arg="0x0100"}}ッテ{{1:31 arg="0x0000"}}ッポイ＿ヒトデスネ
+
+
+---
+id: 300720
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I want to just relax and take things easy."
+
+
+---
+id: 300721
+attribute: 0x6400E10001000001
+---
+ノンビリクラシタイデス
+
+
+---
+id: 300730
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I want people on this island to
+be friendly to one another."
+
+
+---
+id: 300731
+attribute: 0x6400E10001000001
+---
+コノシマノヒトタチガ＿ミンナナカヨククラセタラナー＿トオモイマス
+
+
+---
+id: 300740
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Instead of working hard to accomplish
+something, I prefer to relax and have fun."
+
+
+---
+id: 300741
+attribute: 0x6400E10001000001
+---
+ガンバッテナニカヲナシトゲルヨリ＿マイニチタノシククラセタラ＿ソレデイイデス
+
+
+---
+id: 300750
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ah... I got something I wanted to talk
+to you but I forgot what it was."
+
+
+---
+id: 300751
+attribute: 0x6400E10001000001
+---
+アー＿ナニカイオートシテタンデスガ＿ワスレテシマイマシタ
+
+
+---
+id: 300760
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I don't want my friends to be disappointed
+in me."
+
+
+---
+id: 300761
+attribute: 0x6400E10001000001
+---
+トモダチヲガッカリサセルコトダケワ
+シタクナイデス
+
+
+---
+id: 300770
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I can be very idle at times
+and I'm not aware of it."
+
+
+---
+id: 300771
+attribute: 0x6400E10001000001
+---
+ジブンデモキヅカナイウチニ＿ボーットシテマス
+
+
+---
+id: 300780
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"If people sympathized with one another,
+there wouldn't be any disputes."
+
+
+---
+id: 300781
+attribute: 0x6400E10001000001
+---
+オモイヤリノキモチヲミンナガモテバ＿アラソイゴトワナクナルトオモイマス
+
+
+---
+id: 300790
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"People keep telling me that I'm
+strange. Am I that strange?"
+
+
+---
+id: 300791
+attribute: 0x6400E10001000001
+---
+タマニフシギチャントイワレマス．ソンナニヘンデスカァ？
+
+
+---
+id: 300800
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I think I should consider more
+about others' feelings."
+
+
+---
+id: 300801
+attribute: 0x6400E10001000001
+---
+ジブンノカンガエヨリ＿アイテノキモチヲユーセンシタイト＿イツモオモッテマス
+
+
+---
+id: 300810
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm the type that is concerned about
+what others say."
+
+
+---
+id: 300811
+attribute: 0x6400E10001000001
+---
+タニンノイウコトガキニナルタイプデス
+
+
+---
+id: 300820
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm always happy when
+I can get some sleep."
+
+
+---
+id: 300821
+attribute: 0x6400E10001000001
+---
+ネテルトキガイチバンシアワセデス
+
+
+---
+id: 300830
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I feel like something nice will
+happen today."
+
+
+---
+id: 300831
+attribute: 0x6400E10001000001
+---
+キョーワイイコトガアリソーナキガシマス
+
+
+---
+id: 300840
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"I'm nervous. How will today turn
+out to be?"
+
+
+---
+id: 300841
+attribute: 0x6400E10001000001
+---
+ドンナイチニチニナルカ＿ワクワクシマス！
+
+
+---
+id: 300850
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Somehow I feel so cheerful!"
+
+
+---
+id: 300851
+attribute: 0x6400E10001000001
+---
+ナンダカトテモウキウキシテマス！
+
+
+---
+id: 300860
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm in the mood to talk to someone!"
+
+
+---
+id: 300861
+attribute: 0x6400E10001000001
+---
+ダレカトオシャベリシタイキブンデス！
+
+
+---
+id: 300870
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"When I feel sad, I watch a very sad movie
+and cry out loud to relieve my stress."
+
+
+---
+id: 300871
+attribute: 0x6400E10001000001
+---
+カナシイトキワ＿カナシイエイガヲミテ＿タクサンナイテストレスハッサンシマス
+
+
+---
+id: 300880
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's pretty cold at night, huh?"
+
+
+---
+id: 300881
+attribute: 0x6400E10001000001
+---
+ヨルワトクニヒエマスネ
+
+
+---
+id: 300890
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's the cherry blossom season again.
+We should go out for flower viewing."
+
+
+---
+id: 300891
+attribute: 0x6400E10001000001
+---
+サクラノキセツデスネ．トモダチミンナデオハナミニイキタイデス
+
+
+---
+id: 300900
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's warm and pleasant in spring."
+
+
+---
+id: 300901
+attribute: 0x6400E10001000001
+---
+ハルワアタタカクテキモチガイイデスネ
+
+
+---
+id: 300910
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"It's pretty hot and humid lately."
+
+
+---
+id: 300911
+attribute: 0x6400E10001000001
+---
+コノジキ＿ムシムシシマスネ
+
+
+---
+id: 300920
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's hot even in the morning."
+
+
+---
+id: 300921
+attribute: 0x6400E10001000001
+---
+キョーモアサカラアツイデスネ
+
+
+---
+id: 300930
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Why is it so hot in summer?"
+
+
+---
+id: 300931
+attribute: 0x6400E10001000001
+---
+ナツワドーシテコンナニアツインデショーカ
+
+
+---
+id: 300940
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"With this strong sunlight, I'm worried
+about getting sunburn."
+
+
+---
+id: 300941
+attribute: 0x6400E10001000001
+---
+コーヒザシガキツイト＿ヒヤケガシンパイデス
+
+
+---
+id: 300950
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's really hot. Be careful of
+the summer heat fatigue."
+
+
+---
+id: 300951
+attribute: 0x6400E10001000001
+---
+アツイデスネー．ナツバテニキヲツケテクダサイ
+
+
+---
+id: 300960
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's so hot outside. I'd prefer
+staying home."
+
+
+---
+id: 300961
+attribute: 0x6400E10001000001
+---
+ソトワアツイノデ＿デキルカギリヘヤノナカデスゴソートオモイマス
+
+
+---
+id: 300970
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I hear insects crying when I walk outside."
+
+
+---
+id: 300971
+attribute: 0x6400E10001000001
+---
+ソトニデルト＿ムシノコエガキコエテキマスネ
+
+
+---
+id: 300980
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"You usually have big appetite in fall.
+But you'll get fat if you eat too much."
+
+
+---
+id: 300981
+attribute: 0x6400E10001000001
+---
+ショクヨクノアキトイウコトデ＿タクサンタベテイタラフトッテシマイマシタ
+
+
+---
+id: 300990
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's getting cooler now.
+The wind feels good."
+
+
+---
+id: 300991
+attribute: 0x6400E10001000001
+---
+スズシクナッテキマシタネ．カゼガキモチイイデス
+
+
+---
+id: 301000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's cool even during the day."
+
+
+---
+id: 301001
+attribute: 0x6400E10001000001
+---
+ヒルマデモスズシイデスネ
+
+
+---
+id: 301010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I can smell some fragrant olive."
+
+
+---
+id: 301011
+attribute: 0x6400E10001000001
+---
+キンモクセイノニオイガシマスネ
+
+
+---
+id: 301020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It can't be helped that we often get
+sleepy in spring..."
+
+
+---
+id: 301021
+attribute: 0x6400E10001000001
+---
+ハルワネムタクテシカタアリマセン
+
+
+---
+id: 301030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Tulips are blooming in this season.
+Their flower language is 「Eternal Love.」"
+
+
+---
+id: 301031
+attribute: 0x6400E10001000001
+---
+コノジキニサク＿チューリップノハナコトバワ＿エイエンノアイジョーダソーデス
+
+
+---
+id: 301040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel quite lonely in fall."
+
+
+---
+id: 301041
+attribute: 0x6400E10001000001
+---
+アキニナルト＿ナンダカサミシクナリマス
+
+
+---
+id: 301050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel depressed during this season..."
+
+
+---
+id: 301051
+attribute: 0x6400E10001000001
+---
+コノジキニナルト＿ナンダカセツナクナリマス
+
+
+---
+id: 301060
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I like this kind of atmosphere in winter."
+
+
+---
+id: 301061
+attribute: 0x6400E10001000001
+---
+フユノシントシタクーキッテ＿ケッコースキデス
+
+
+---
+id: 301070
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's cold. If it isn't necessary,
+I don't want to go outside."
+
+
+---
+id: 301071
+attribute: 0x6400E10001000002
+---
+サムイノデ＿デキルカギリソトニデタクナイデス
+
+
+---
+id: 301080
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When I woke up this morning, the
+sky outside was still dark."
+
+
+---
+id: 301081
+attribute: 0x6400E10001000002
+---
+ハヤオキスルト＿マダソトガクラカッタリシマス
+
+
+---
+id: 301090
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels like a fresh start in January."
+
+
+---
+id: 301091
+attribute: 0x6400E10001000002
+---
+イチガツワ＿シンセンナキブンニナレマスネ
+
+
+---
+id: 301100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I think February is the coldest month."
+
+
+---
+id: 301101
+attribute: 0x6400E10001000002
+---
+ニガツワ＿イチバンサムイツキダトオモイマス
+
+
+---
+id: 301110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"My goal this month is to not catch a cold."
+
+
+---
+id: 301111
+attribute: 0x6400E10001000002
+---
+コンゲツノモクヒョーワ＿カゼヲヒカナイコトデス
+
+
+---
+id: 301120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"March is the season for graduation..."
+
+
+---
+id: 301121
+attribute: 0x6400E10001000002
+---
+サンガツ＿ソツギョーシーズンデスネ
+
+
+---
+id: 301130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I saw some horsetails earlier.
+Spring is around the corner."
+
+
+---
+id: 301131
+attribute: 0x6400E10001000002
+---
+コノマエツクシヲミマシタ．ハルワスグソコマデキテマスネ
+
+
+---
+id: 301140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"April is the month for a fresh start."
+
+
+---
+id: 301141
+attribute: 0x6400E10001000002
+---
+シガツワハジマリノキセツデスネ
+
+
+---
+id: 301150
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's May. I easily feel exhausted."
+
+
+---
+id: 301151
+attribute: 0x6400E10001000002
+---
+ゴガツデスネ．ナンダカツカレヤスイキガシマス
+
+
+---
+id: 301160
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels good under this warm weather.
+I want to go picnic."
+
+
+---
+id: 301161
+attribute: 0x6400E10001000002
+---
+アタタカクテキモチガイイデス．ピクニックニデカケタイデスネ
+
+
+---
+id: 301170
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I want to buy a new nice umbrella
+before the rainy season starts."
+
+
+---
+id: 301171
+attribute: 0x6400E10001000002
+---
+ツユガクルマエニ＿ステキナカサヲカイニイキタイデス
+
+
+---
+id: 301180
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's damp and humid in June.
+I don't like it."
+
+
+---
+id: 301181
+attribute: 0x6400E10001000002
+---
+ロクガツワジメジメシテテイヤデス
+
+
+---
+id: 301190
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels good to read a book
+when it's raining outside."
+
+
+---
+id: 301191
+attribute: 0x6400E10001000002
+---
+アメノナカ＿シズカニドクショスルノモ＿タマニワイイデスネ
+
+
+---
+id: 301200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you feel a little excited in July?"
+
+
+---
+id: 301201
+attribute: 0x6400E10001000002
+---
+シチガツッテ＿ナンダカワクワクシマセンカ？
+
+
+---
+id: 301210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I can hear cicadas.
+Summer is coming soon."
+
+
+---
+id: 301211
+attribute: 0x6400E10001000002
+---
+セミノナキゴエガキコエダスト＿イヨイヨナツッテキガシマス
+
+
+---
+id: 301220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's September now. It's getting
+cooler."
+
+
+---
+id: 301221
+attribute: 0x6400E10001000002
+---
+クガツニナルト＿キューニスズシクナリマスネ
+
+
+---
+id: 301230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I like October because the weather
+is so nice."
+
+
+---
+id: 301231
+attribute: 0x6400E10001000002
+---
+ジューガツワスゴシヤスイカラスキデス
+
+
+---
+id: 301240
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It was very hot earlier but all of a sudden,
+it has become this cold."
+
+
+---
+id: 301241
+attribute: 0x6400E10001000002
+---
+チョットマエマデアンナニアツカッタノニ＿キューニサムクナリマシタ
+
+
+---
+id: 301250
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Try to avoid catching a cold when
+the seasons change."
+
+
+---
+id: 301251
+attribute: 0x6400E10001000002
+---
+キセツノカワリメナノデ＿カゼニチューイシテクダサイネ
+
+
+---
+id: 301260
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"November is already winter.
+It's cold."
+
+
+---
+id: 301261
+attribute: 0x6400E10001000002
+---
+ジューイチガツワモーフユデスネ．サムイデス
+
+
+---
+id: 301270
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I went to view autumn leaves with
+{{1:31 arg="0x0000"}}."
+
+
+---
+id: 301271
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ト＿コーヨーヲミニイッテキマシタ
+
+
+---
+id: 301280
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's December already.
+This year is about to end."
+
+
+---
+id: 301281
+attribute: 0x6400E10001000002
+---
+ハヤイモノデジューニガツデス．モーコトシモオワリデスネー
+
+
+---
+id: 301290
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I don't know how many people I should
+send the New Year's cards to."
+
+
+---
+id: 301291
+attribute: 0x6400E10001000002
+---
+ネンガジョーッテ＿ダレニオクッタライイモノカマヨイマス
+
+
+---
+id: 301300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I got things I must get done within
+this month..."
+
+
+---
+id: 301301
+attribute: 0x6400E10001000002
+---
+コンゲツチューニシナイトイケナイコトガアッタヨーナ
+
+
+---
+id: 301310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels like a fresh start when
+a new month starts."
+
+
+---
+id: 301311
+attribute: 0x6400E10001000002
+---
+ツキノハジメッテ＿シンセンナキモチニナリマスネ
+
+
+---
+id: 301320
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh? Another month has passed by already?"
+
+
+---
+id: 301321
+attribute: 0x6400E10001000002
+---
+アレ？モーツキガカワッタンデスネ
+
+
+---
+id: 301330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Another week has passed by, eh?"
+
+
+---
+id: 301331
+attribute: 0x6400E10001000002
+---
+コンゲツモ＿モーイッシューカンタチマシタネ
+
+
+---
+id: 301340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is Friday the 13th. I'm worried
+whether something will happen..."
+
+
+---
+id: 301341
+attribute: 0x6400E10001000002
+---
+キョーワジューサンニチノキンヨービデスネ．ナニカオコラナイカシンパイデス
+
+
+---
+id: 301350
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Half of this month has passed by. I feel
+like I haven't done anything yet..."
+
+
+---
+id: 301351
+attribute: 0x6400E10001000002
+---
+コンゲツモ＿モーハンブンオワリマシタネ．マダナンニモシテイナイキガシマス
+
+
+---
+id: 301360
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I should
+divide our salary... Ah, nothing..."
+
+
+---
+id: 301361
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ニモキューリョーヲワケテホシイ．ア＿ナンデモナイデス
+
+
+---
+id: 301370
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is Setsubun, right?"
+
+
+---
+id: 301371
+attribute: 0x6400E10001000002
+---
+キョーワオニタイジノヒデシタッケ？
+
+
+---
+id: 301380
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is April Fools Day. I've heard
+Steve Jobs died of Ligma."
+
+
+---
+id: 301381
+attribute: 0x6400E10001000002
+---
+キョーワエイプリルフールデスガ＿ウソワツケナイタイプデス
+
+
+---
+id: 301390
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} just told me
+that people will tell lies tomorrow."
+
+
+---
+id: 301391
+attribute: 0x6400E10001000002
+---
+アシタワウソヲツイテモイイヒダト＿サッキ{{1:31 arg="0x0000"}}ガオシエテクレマシタ
+
+
+---
+id: 301400
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels nice to gaze up on
+the starry sky, right?"
+
+
+---
+id: 301401
+attribute: 0x6400E10001000002
+---
+タマニワユックリホシゾラヲナガメルノモイイデスネ
+
+
+---
+id: 301410
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Have you finished your homework or
+are you going to work on it after this?"
+
+
+---
+id: 301411
+attribute: 0x6400E10001000002
+---
+シュクダイワゼンブオワリマシタカ？モシカシテ＿コレカラデスカ？
+
+
+---
+id: 301420
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Let's make this year a good year!"
+
+
+---
+id: 301421
+attribute: 0x6400E10001000002
+---
+ヨイオトシヲ！
+
+
+---
+id: 301430
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm going on a date with
+{{1:31 arg="0x0000"}} this Sunday."
+
+
+---
+id: 301431
+attribute: 0x6400E10001000002
+---
+セッカクノニチヨーナノデ＿{{1:31 arg="0x0000"}}トデートスルヨテイデス
+
+
+---
+id: 301440
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm going on a date with
+{{1:31 arg="0x0000"}} this Sunday."
+
+
+---
+id: 301441
+attribute: 0x6400E10001000002
+---
+セッカクノニチヨーナノデ＿{{1:31 arg="0x0000"}}トデートスルヨテイデス
+
+
+---
+id: 301450
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's Sunday. I feel excited to
+think about what I'm going to do."
+
+
+---
+id: 301451
+attribute: 0x6400E10001000002
+---
+ニチヨービデスネ．ナニヲシヨーカワクワクシマス
+
+
+---
+id: 301460
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I want to sleep in on Sunday."
+
+
+---
+id: 301461
+attribute: 0x6400E10001000002
+---
+ニチヨービワネテスゴシタイデス
+
+
+---
+id: 301470
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel sad around this time on
+Sunday."
+
+
+---
+id: 301471
+attribute: 0x6400E10001000002
+---
+ニチヨーノコノジカンッテ＿チョットサミシイデス
+
+
+---
+id: 301480
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel depressed on Monday..."
+
+
+---
+id: 301481
+attribute: 0x6400E10001000002
+---
+ゲツヨービッテ＿ナンダカユウウツデス
+
+
+---
+id: 301490
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's just Tuesday but I want to
+rest already..."
+
+
+---
+id: 301491
+attribute: 0x6400E10001000002
+---
+マダカヨービデスガ＿ソロソロヤスミタイデス
+
+
+---
+id: 301500
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm in high spirits on Friday."
+
+
+---
+id: 301501
+attribute: 0x6400E10001000002
+---
+キンヨービワナンダカガンバレマス
+
+
+---
+id: 301510
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel so excited when it's Friday."
+
+
+---
+id: 301511
+attribute: 0x6400E10001000002
+---
+キンヨービノコノジカンガ＿イチバンウキウキシマス
+
+
+---
+id: 301520
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When it's Friday, I keep thinking
+about things I'll do on Saturday."
+
+
+---
+id: 301521
+attribute: 0x6400E10001000002
+---
+キンヨービニナルト＿ドニチノコトデアタマガイッパイニナリマス
+
+
+---
+id: 301530
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"At least on Saturday morning, I want to
+stay in bed until late."
+
+
+---
+id: 301531
+attribute: 0x6400E10001000002
+---
+ドヨーノアサクライ＿ユックリネタイデス
+
+
+---
+id: 301540
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's Saturday. Is today your day-off,
+{{1:31 arg="0x0000"}}'s lookalike?"
+
+
+---
+id: 301541
+attribute: 0x6400E10001000002
+---
+ドヨービデスネ．キョーワオヤスミデスカ？{{1:31 arg="0x0000"}}ノソックリサン
+
+
+---
+id: 301550
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I like a holiday when I don't have
+to do anything."
+
+
+---
+id: 301551
+attribute: 0x6400E10001000002
+---
+ヨテイノナイキュージツッテスキデス
+
+
+---
+id: 301560
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm still sleepy..."
+
+
+---
+id: 301561
+attribute: 0x6400E10001000002
+---
+マダネムイデス
+
+
+---
+id: 301570
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel lively to bask in the morning sun."
+
+
+---
+id: 301571
+attribute: 0x6400E10001000002
+---
+アサヒヲアビルトゲンキニナリマス
+
+
+---
+id: 301580
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels refreshing in the morning,
+don't you think?"
+
+
+---
+id: 301581
+attribute: 0x6400E10001000002
+---
+アサワスガスガシイデスネ
+
+
+---
+id: 301590
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels good to wake up early in
+the morning."
+
+
+---
+id: 301591
+attribute: 0x6400E10001000002
+---
+ハヤオキスルト＿キブンガイイデスネ
+
+
+---
+id: 301600
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I just woke up. My brain doesn't
+function yet..."
+
+
+---
+id: 301601
+attribute: 0x6400E10001000002
+---
+オキタテナノデ＿アタマガハタラキマセン
+
+
+---
+id: 301610
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm thinking what I'm going to do today."
+
+
+---
+id: 301611
+attribute: 0x6400E10001000002
+---
+キョーワナニヲシヨーカ＿カンガエテイルトコロデス
+
+
+---
+id: 301620
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I was thinking about going out today, but
+when I realize, it's already this time."
+
+
+---
+id: 301621
+attribute: 0x6400E10001000002
+---
+キョーワデカケヨートオモッテイタノニ＿キヅイタラコンナジカンニナッテイマシタ
+
+
+---
+id: 301630
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm thinking about going to watch
+the street live this evening."
+
+
+---
+id: 301631
+attribute: 0x6400E10001000002
+---
+コンバンワストリートライブニイッテミヨートオモイマス
+
+
+---
+id: 301640
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I plan to go to the morning market
+tomorrow. I have to go to bed early..."
+
+
+---
+id: 301641
+attribute: 0x6400E10001000002
+---
+アシタ＿アサイチニイクンデス．ダカラハヤクネナイト
+
+
+---
+id: 301650
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm chilling out."
+
+
+---
+id: 301651
+attribute: 0x6400E10001000002
+---
+マッタリシテマス
+
+
+---
+id: 301660
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel so hazy because I'm sleepy..."
+
+
+---
+id: 301661
+attribute: 0x6400E10001000002
+---
+ネムクテアタマガモーロートシテイマス
+
+
+---
+id: 301670
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"If you stay up until this late, will
+you be able to get up tomorrow?"
+
+
+---
+id: 301671
+attribute: 0x6400E10001000002
+---
+コンナヨルオソクマデオキテテ＿ダイジョーブデショーカ？
+
+
+---
+id: 301680
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Staying up until late is bad to your health."
+
+
+---
+id: 301681
+attribute: 0x6400E10001000002
+---
+ヨフカシワカラダニワルイデスヨ
+
+
+---
+id: 301690
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's bad if you eat food this late
+at night, right?"
+
+
+---
+id: 301691
+attribute: 0x6400E10001000002
+---
+コンナジカンニタベタラ＿カラダニワルイデスヨネ
+
+
+---
+id: 301700
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"What would you do today if the world
+would be destroyed tomorrow?"
+
+
+---
+id: 301701
+attribute: 0x6400E10001000002
+---
+モシアシタチキューガホロビルトシタラ＿キョーナニヲシマスカ？
+
+
+---
+id: 301710
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Between friendship and love, which
+one would you choose?"
+
+
+---
+id: 301711
+attribute: 0x6400E10001000002
+---
+ユージョートアイジョー＿ドッチヲトリマスカ？
+
+
+---
+id: 301720
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Has there been anything unbelievable
+happened lately?"
+
+
+---
+id: 301721
+attribute: 0x6400E10001000002
+---
+ツイテイイウソッテアルンデショーカ？
+
+
+---
+id: 301730
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"If I can have fun today, I think
+that's good enough."
+
+
+---
+id: 301731
+attribute: 0x6400E10001000002
+---
+キョーガタノシケレバソレデイイ＿トオモイマスカ？
+
+
+---
+id: 301740
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Can you think of the most important
+thing to you right now? I can't."
+
+
+---
+id: 301741
+attribute: 0x6400E10001000002
+---
+イチバンタイセツナモノヲ＿スグニコタエラレマスカ？{{1:31 arg="0x0000"}}ワマヨイマス
+
+
+---
+id: 301750
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you think it would be great if
+humanity came to an end?"
+
+
+---
+id: 301751
+attribute: 0x6400E10001000002
+---
+ジンセイワ＿オワリガアルカラコソタノシイトオモイマスカ？
+
+
+---
+id: 301760
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike, do you
+feel happy for other people's success?"
+
+
+---
+id: 301761
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ノソックリサンワ＿タニンノセイコーヲヨロコベルヒトデスカ？
+
+
+---
+id: 301770
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike, do you
+believe in fortune telling?"
+
+
+---
+id: 301771
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ノソックリサンワ＿ウラナイヲシンジルタイプデスカ？
+
+
+---
+id: 301780
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Is there anything you want to quit,
+but you can't?"
+
+
+---
+id: 301781
+attribute: 0x6400E10001000002
+---
+ヤメタクテモヤメラレナイコトッテアリマスヨネ？
+
+
+---
+id: 301790
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you think you have already experienced
+the most wonderful time in your life?"
+
+
+---
+id: 301791
+attribute: 0x6400E10001000002
+---
+イッショーノウチデイチバンシアワセナジカンワ＿モーケイケンシテシマッタトオモイマスカ？
+
+
+---
+id: 301800
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I wish we have more people on this island.
+It would be fun, right?"
+
+
+---
+id: 301801
+attribute: 0x6400E10001000002
+---
+シマノジューニンガ＿モットフエテホシイ＿ッテカンガエテイマス．ソノホーガタノシイデショ？
+
+
+---
+id: 301810
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I'm looking forward to have more
+people coming to live on this island."
+
+
+---
+id: 301811
+attribute: 0x6400E10001000002
+---
+ジツワ＿アタラシイジューニンガクルノヲ＿マイニチタノシミニシテイマス
+
+
+---
+id: 301820
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I think it'd be nice if a gentle woman
+would move to live on this island..."
+
+
+---
+id: 301821
+attribute: 0x6400E10001000002
+---
+ヤサシソーナオンナノヒトガ＿コノシマニキテクレタラ．ッテカンガエテマシタ
+
+
+---
+id: 301830
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It will be wonderful if this apartment
+become a little livelier."
+
+
+---
+id: 301831
+attribute: 0x6400E10001000002
+---
+コノマンションガモットニギヤカニナッタラ＿ステキダトオモイマセンカ？
+
+
+---
+id: 301840
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I've seen some mysterious dreams lately..."
+
+
+---
+id: 301841
+attribute: 0x6400E10001000002
+---
+サイキン＿フシギナユメヲヨクミマス
+
+
+---
+id: 301850
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I saw a strange dream but I already
+forgot what it was."
+
+
+---
+id: 301851
+attribute: 0x6400E10001000002
+---
+チョットカワッタユメヲミタンデスガ．ワスレテシマイマシタ
+
+
+---
+id: 301860
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know {{1:31 arg="0x0000"}}'s
+room number?"
+
+
+---
+id: 301861
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ッテナンゴーシツデシタッケ？
+
+
+---
+id: 301870
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Earlier, I saw {{1:31 arg="0x0000"}}
+fell down from the stairs."
+
+
+---
+id: 301871
+attribute: 0x6400E10001000002
+---
+コノマエ＿{{1:31 arg="0x0000"}}ガカイダンデコケテルノヲミマシタ
+
+
+---
+id: 301880
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"How is my alter ego in the
+real world doing?"
+
+
+---
+id: 301881
+attribute: 0x6400E10001000002
+---
+ソッチノセカイノ{{1:31 arg="0x0000"}}ワ＿ゲンキニシテマスカ？
+
+
+---
+id: 301890
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sometimes I wonder how my alter ego
+in your world is doing."
+
+
+---
+id: 301891
+attribute: 0x6400E10001000002
+---
+タマニ＿{{1:31 arg="0x0000"}}ノソックリサンノコトガ＿キニナッタリシマス
+
+
+---
+id: 301900
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know how big the rooms
+we live in are?"
+
+
+---
+id: 301901
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}タチガドレクライノオオキサナノカ＿シッテマスカ？
+
+
+---
+id: 301910
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I saw airplanes occasionally.
+Where did they come from?"
+
+
+---
+id: 301911
+attribute: 0x6400E10001000002
+---
+タマニヒコーキヲミカケマスガ＿ドコカラトンデクルノデショーカ？
+
+
+---
+id: 301920
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+you look good with a smiley face!"
+
+
+---
+id: 301921
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ノソックリサンワ＿エガオガステキデスネ！
+
+
+---
+id: 301930
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and you
+look pretty much alike."
+
+
+---
+id: 301931
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ト＿アナタッテ
+ホント＿ヨクニテマスヨネ
+
+
+---
+id: 301940
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
+But I must watch out for the phone bill..."
+
+
+---
+id: 301941
+attribute: 0x6400E10001000002
+---
+ケータイデンワッテベンリデスネ．ツーワリョーキンニキヲツケナイト
+
+
+---
+id: 301950
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When I talk on the phone, I lose
+track of time."
+
+
+---
+id: 301951
+attribute: 0x6400E10001000002
+---
+デンワヲシテイルト＿アットイウマニジカンガスギテシマイマス
+
+
+---
+id: 301960
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's good to play games on my
+cell phone occasionally, isn't it?"
+
+
+---
+id: 301961
+attribute: 0x6400E10001000002
+---
+ケイタイゲームッテ＿チョットシタジカンニアソベルノガイイデスネ
+
+
+---
+id: 301970
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When I play game, it's easy to
+lose track of time."
+
+
+---
+id: 301971
+attribute: 0x6400E10001000002
+---
+ゲームヲシテイルト＿ツイツイジカンヲワスレテシマイマス
+
+
+---
+id: 301980
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I've started to like cleaning after
+you gave me a duster."
+
+
+---
+id: 301981
+attribute: 0x6400E10001000002
+---
+ハタキヲモラッテカラ＿ソージガスキニナリマシタ
+
+
+---
+id: 301990
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It feels good when I clean my room."
+
+
+---
+id: 301991
+attribute: 0x6400E10001000002
+---
+ソージヲスルト＿キブンガイイデスネ
+
+
+---
+id: 302000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I've made a Mii that looked
+just like myself on Wii Channel."
+
+
+---
+id: 302001
+attribute: 0x6400E10001000002
+---
+ウィーノニガオエチャンネルデ＿ジブンソックリノミーガツクレマシタ
+
+
+---
+id: 302010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I want to call my friends and have
+them play games with me on Wii."
+
+
+---
+id: 302011
+attribute: 0x6400E10001000002
+---
+トモダチヲヨンデ＿ウィーデアソビタイデス
+
+
+---
+id: 302020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"The novel you gave me was really touching.
+I cried when I read it."
+
+
+---
+id: 302021
+attribute: 0x6400E10001000002
+---
+モラッタショーセツヲヨンデ＿カンドーシマシタ．ヨミカエシテワナイテイマス
+
+
+---
+id: 302030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I feel energetic when I listen to music."
+
+
+---
+id: 302031
+attribute: 0x6400E10001000002
+---
+オンガクヲキイテルト＿ゲンキガデマス
+
+
+---
+id: 302040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Listening to music is soothing. I listen to
+the CD you gave me everyday."
+
+
+---
+id: 302041
+attribute: 0x6400E10001000002
+---
+オンガクッテイヤサレマスネ．モラッタシーディーヲマイニチキイテイマス
+
+
+---
+id: 302050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"You can peek inside the rooms by
+sliding your stylus across the doors."
+
+
+---
+id: 302051
+attribute: 0x6400E10001000002
+---
+マンションノマドカラヘヤヲノゾクトキ＿タッチペンヲスライドサセルト＿ツギツギノゾケマス
+
+
+---
+id: 302060
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sometimes you can see our dreams
+while we are sleeping."
+
+
+---
+id: 302061
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}タチガネテイルトキ＿ヘヤニハイルトユメヲミテルコトガアルカモシレマセン
+
+
+---
+id: 302070
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"If you touch our faces when we are
+asleep... No, I can't tell you..."
+
+
+---
+id: 302071
+attribute: 0x6400E10001000002
+---
+ネテルヒトノカオニタッチスルト．コノアトワイエナイデス
+
+
+---
+id: 302080
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please pat my head occasionally, okay?"
+
+
+---
+id: 302081
+attribute: 0x6400E10001000002
+---
+タマニワアタマヲナデテクダサイネ
+
+
+---
+id: 302090
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Every time I eat rice, some rice grains
+always stick on my face."
+
+
+---
+id: 302091
+attribute: 0x6400E10001000002
+---
+ゴハンヲタベルト＿カナラズゴハンツブガカオニツイテシマイマス
+
+
+---
+id: 302100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know that giraffes cry 「Moo」 too?"
+
+
+---
+id: 302101
+attribute: 0x6400E10001000002
+---
+キリンッテ＿モートナクラシイデスヨ．シッテマシタカ？
+
+
+---
+id: 302110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Pandas have very good eyesight, you know."
+
+
+---
+id: 302111
+attribute: 0x6400E10001000002
+---
+パンダノメッテ＿イガイトスルドイラシイデスヨ
+
+
+---
+id: 302120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302121
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 302130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302131
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 302140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302141
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 302150
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302151
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 302160
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302161
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 302170
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302171
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 302180
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Please drop by often."
+
+
+---
+id: 302181
+attribute: 0x6400E10001000002
+---
+モットアイニキテクダサイネ
+
+
+---
+id: 400000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is my birthday, you know!"
+
+
+---
+id: 400001
+attribute: 0x6400E10001000002
+---
+ジツワキョー＿{{1:31 arg="0x0000"}}ノタンジョービナンデス！
+
+
+---
+id: 400010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is my birthday!"
+
+
+---
+id: 400011
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}＿キョータンジョービナンデス
+
+
+---
+id: 400020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is my birthday. Will you
+celebrate with me?"
+
+
+---
+id: 400021
+attribute: 0x6400E10001000002
+---
+キョーワ{{1:31 arg="0x0000"}}ノタンジョービデス．オイワイシテクレマスカ？
+
+
+---
+id: 400030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know whose birthday
+it is today?"
+
+
+---
+id: 400031
+attribute: 0x6400E10001000002
+---
+キョー＿ダレノタンジョービカシッテマスカ？
+
+
+---
+id: 400040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"It's my birthday today!
+I'm quite excited!"
+
+
+---
+id: 400041
+attribute: 0x6400E10001000002
+---
+キョー＿タンジョービナンデス！ナンダカワクワクシマス！
+
+
+---
+id: 400050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Today is a special day. Do you
+know what day it is?"
+
+
+---
+id: 400051
+attribute: 0x6400E10001000002
+---
+キョーワトクベツナヒデス．ナンノヒカワカリマスカ？
+
+
+---
+id: 400060
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I've grown up another year older."
+
+
+---
+id: 400061
+attribute: 0x6400E10001000002
+---
+キョーデマタヒトツ＿オトナニナリマシタ
+
+
+---
+id: 500000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"When is my birthday?"
+
+
+---
+id: 500001
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ノセイネンガッピッテ＿イツナンデショー？
+
+
+---
+id: 500010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I want to know my own birthday."
+
+
+---
+id: 500011
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}モジブンノセイネンガッピガシリタイデス
+
+
+---
+id: 500020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know when my birthday is?"
+
+
+---
+id: 500021
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ッテ＿ナンネンナンガツナンニチウマレデスカ？
+
+
+---
+id: 500030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I don't know my own birthday.
+I feel uneasy."
+
+
+---
+id: 500031
+attribute: 0x6400E10001000002
+---
+ジブンノセイネンガッピガワカラナイト＿ナンダカココロモトナイデス
+
+
+---
+id: 500040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know my alter ego in your
+world's birthday?"
+
+
+---
+id: 500041
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ノソックリサンワ＿ジブンノセイネンガッピヲシッテテイイデスネ
+
+
+---
+id: 500050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do others know their own birthdays?
+I don't know mine..."
+
+
+---
+id: 500051
+attribute: 0x6400E10001000002
+---
+ミンナ＿ジブンノセイネンガッピヲシッテルンデスカ？{{1:31 arg="0x0000"}}ワシラナイデス
+
+
+---
+id: 500060
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Does my alter ego in your world
+have a birthday?"
+
+
+---
+id: 500061
+attribute: 0x6400E10001000002
+---
+ソッチノセカイノ{{1:31 arg="0x0000"}}ニ＿{{1:31 arg="0x0000"}}ノセイネンガッピヲキイテキテクレマスカ？
+
+
+---
+id: 500070
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know my alter ego in your
+world's birthday?"
+
+
+---
+id: 500071
+attribute: 0x6400E10001000002
+---
+ソッチノセカイノ{{1:31 arg="0x0000"}}ワ＿ジブンノセイネンガッピヲシッテルンデショーカ？
+
+
+---
+id: 500080
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"How come you don't know my birthday?"
+
+
+---
+id: 500081
+attribute: 0x6400E10001000002
+---
+ナンデ{{1:31 arg="0x0000"}}ノセイネンガッピワワカラナインデスカ？
+
+
+---
+id: 500090
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Do you know my birthday?"
+
+
+---
+id: 500091
+attribute: 0x6400E10001000002
+---
+{{1:31 arg="0x0000"}}ノセイネンガッピ＿シッテマスカ？
+
+
+---
+id: 500100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I don't know my own birthday.
+I can't feel at ease."
+
+
+---
+id: 500101
+attribute: 0x6400E10001000002
+---
+ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス

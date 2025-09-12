@@ -1,0 +1,5103 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 0
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+
+---
+id: 0
+attribute: 0x6400A00001030002
+---
+It's ice cream. It's not
+healthy, but it's gooood.
+
+
+---
+id: 1
+attribute: 0x6400A00001030002
+---
+Green means healthy, right?
+Looks a bit nauseating.
+
+
+---
+id: 2
+attribute: 0x6400A00001030002
+---
+It's a hot piece of sweet
+apple pie.
+
+
+---
+id: 3
+attribute: 0x6400A00001030002
+---
+A freshly grilled sweetfish
+with some salt.
+
+
+---
+id: 4
+attribute: 0x6400A00001030002
+---
+A sweet bun packed with
+red bean filling.
+
+
+---
+id: 5
+attribute: 0x6400A00001030002
+---
+Big life-changing question:
+Do you eat the stem or not?
+
+
+---
+id: 6
+attribute: 0x6400A00001030002
+---
+Fluffy rice stuffed inside
+some juicy fried tofu.
+
+
+---
+id: 7
+attribute: 0x6400A00001030002
+---
+A tender & broiled eel that 
+can boost your stamina.
+
+
+---
+id: 8
+attribute: 0x6400A00001030002
+---
+Sweetness is buried in the
+sourness. Goes well with rice.
+
+
+
+
+---
+id: 9
+attribute: 0x6400A00001030002
+---
+Ever feel like a zombie?
+Not anymore! (I hope.)
+
+
+---
+id: 10
+attribute: 0x6400A00001030002
+---
+Lots of tender shrimps.
+Perfect for lunchtime!
+
+
+---
+id: 11
+attribute: 0x6400A00001030002
+---
+Contains plenty of plump,
+juicy shrimp for lunchtime.
+
+
+---
+id: 12
+attribute: 0x6400A00001030002
+---
+Packed with kids' favorite
+foods! Adults can enjoy it too.
+
+
+---
+id: 13
+attribute: 0x6400A00001030002
+---
+A savory pancake with pork,
+squid, and shrimp!
+
+
+---
+id: 14
+attribute: 0x6400A00001030002
+---
+Various fresh fish. I
+reccomend the sea-bream.
+
+
+---
+id: 15
+attribute: 0x6400A00001030002
+---
+A new-year's staple. Each
+food has a special meaning.
+
+
+---
+id: 16
+attribute: 0x6400A00001030002
+---
+It's just "tea," not just one
+flavor. Still tastes relaxing.
+
+
+---
+id: 17
+attribute: 0x6400A00001030002
+---
+A warm rice soup topped with
+many comfort foods. Aaaah…
+
+
+---
+id: 18
+attribute: 0x6400A00001030002
+---
+A winter dish filled with
+ingredients to warm you up.
+
+
+---
+id: 19
+attribute: 0x6400A00001030002
+---
+Eat this rice ball to find
+a jelly-filled surprise.
+
+
+---
+id: 20
+attribute: 0x6400A00001030002
+---
+Fried eggs with minced meat
+and some stuffed onions.
+
+
+---
+id: 21
+attribute: 0x6400A00001030002
+---
+A nicely baked rice cake
+filled with a sweet paste.
+
+
+---
+id: 22
+attribute: 0x6400A00001030002
+---
+A soft boiled egg and tender
+chicken served on warm rice.
+
+
+---
+id: 23
+attribute: 0x6400A00001030002
+---
+100% fruit juice. A good
+source of Vitamin C.
+
+
+---
+id: 24
+attribute: 0x6400A00001030002
+---
+Sweet and creamy, at it's
+prime. Reminds me of fall…
+
+
+---
+id: 25
+attribute: 0x6400A00001030002
+---
+Summer won't start until you
+eat this. It's strawberry.
+
+
+---
+id: 26
+attribute: 0x6400A00001030002
+---
+A fluffy & moist sponge cake 
+with sugar at the bottom.
+
+
+---
+id: 27
+attribute: 0x6400A00001030002
+---
+You fool! You thought this was
+sweet, but it's dark chocolate!
+
+
+---
+id: 28
+attribute: 0x6400A00001030002
+---
+Seems rather crabby. Good luck
+de-shelling it!
+
+
+---
+id: 29
+attribute: 0x6400A00001030002
+---
+This should be in the trash.
+What's it doing here?!
+
+
+---
+id: 30
+attribute: 0x6400A00001030002
+---
+Sometimes you need some gum
+to chew on something. Ta-da!
+
+
+---
+id: 31
+attribute: 0x6400A00001030002
+---
+Has crispy batter and tender
+chicken. The flavor's fun!
+
+
+---
+id: 32
+attribute: 0x6400A00001030002
+---
+Al dente pasta with eggs and
+cream. (They're rich.)
+
+
+---
+id: 33
+attribute: 0x6400A00001030002
+---
+Some standard curry & rice.
+Anyone can enjoy it!
+
+
+---
+id: 34
+attribute: 0x6400A00001030002
+---
+Filled with spinach and bacon.
+Good for a light meal or snack.
+
+
+---
+id: 35
+attribute: 0x6400A00001030002
+---
+Lightly sweet dashi broth
+with fried tofu. Enjoy hot!
+
+
+---
+id: 36
+attribute: 0x6400A00001030002
+---
+Low in calories & healthy.
+Has a unique texture.
+
+
+---
+id: 37
+attribute: 0x6400A00001030002
+---
+A must-try for spice lovers.
+Has an authentic taste & smell.
+
+
+---
+id: 38
+attribute: 0x6400A00001030002
+---
+A top grade delicacy. Try it
+at least once in your life!
+
+
+---
+id: 39
+attribute: 0x6400A00001030002
+---
+A beef bowl with rice topped
+with beef and onion. Dig in!
+
+
+---
+id: 40
+attribute: 0x6400A00001030002
+---
+Highly nutritious item you
+can't miss during school lunch.
+
+
+---
+id: 41
+attribute: 0x6400A00001030002
+---
+Crispy fried Chinese dumplings
+with some juicy meat stuffing!
+
+
+---
+id: 42
+attribute: 0x6400A00001030002
+---
+Smells and tastes terrible.
+It's also extremely "organic."
+
+
+---
+id: 43
+attribute: 0x6400A00001030002
+---
+Some like their cookies soft,
+some like it crunchy.
+
+
+---
+id: 44
+attribute: 0x6400A00001030002
+---
+There's a variety of gummies
+to try! Miis only get one.
+
+
+---
+id: 45
+attribute: 0x6400A00001030002
+---
+There's also white sauce and
+some grated cheese on top.
+
+
+---
+id: 46
+attribute: 0x6400A00001030002
+---
+A simmered creamy stew to
+warm your body and mind.
+
+
+---
+id: 47
+attribute: 0x6400A00001030002
+---
+Satisfaction 100% guaranteed
+with fresh cream and berries!
+
+
+---
+id: 48
+attribute: 0x6400A00001030002
+---
+Enjoy its refreshing aroma
+and juicy flesh!
+
+
+---
+id: 49
+attribute: 0x6400A00001030002
+---
+A crispy pastry with so
+many layers of fluffy dough.
+
+
+---
+id: 50
+attribute: 0x6400A00001030002
+---
+When you're tired, take a
+break and enjoy some tea.
+
+
+---
+id: 51
+attribute: 0x6400A00001030002
+---
+Let the aroma of the drink
+float around in the air!
+
+
+---
+id: 52
+attribute: 0x6400A00001030002
+---
+A warm, creamy corn soup 
+with some mild flavors.
+
+
+---
+id: 53
+attribute: 0x6400A00001030002
+---
+Freshly cooked rice. It's warm
+and yummy.
+
+
+---
+id: 54
+attribute: 0x6400A00001030002
+---
+Classic croquette with spuds
+veggies, and minced meat.
+
+
+---
+id: 55
+attribute: 0x6400A00001030002
+---
+A box set filled with filling
+food. A true hunger-buster.
+
+
+---
+id: 56
+attribute: 0x6400A00001030002
+---
+They're nice and sweet. Make
+sure to not swallow the pit!
+
+
+---
+id: 57
+attribute: 0x6400A00001030002
+---
+Some bitter snail meat that
+comes with a toothpick.
+
+
+---
+id: 58
+attribute: 0x6400A00001030002
+---
+HEATLH GOOD
+
+
+---
+id: 59
+attribute: 0x6400A00001030002
+---
+Chilled soba noodles. Perfect
+for a summer night!
+
+
+---
+id: 60
+attribute: 0x6400A00001030002
+---
+These dumplings are best enjoyed
+at a cherry blossom party.
+
+
+---
+id: 61
+attribute: 0x6400A00001030002
+---
+This ham & cucumber sandwich
+is one out of many combinations.
+
+
+---
+id: 62
+attribute: 0x6400A00001030002
+---
+A grilled pike that's a neat
+main meal to eat during fall.
+
+
+---
+id: 63
+attribute: 0x6400A00001030002
+---
+A baked potato with butter on
+top. Eat it while it's still warm!
+
+
+---
+id: 64
+attribute: 0x6400A00001030002
+---
+It's like eating happiness.
+Crispy outside, creamy inside.
+
+
+---
+id: 65
+attribute: 0x6400A00001030002
+---
+Freshly steamed dumplings. Try
+it with mustard and soy sauce.
+
+
+---
+id: 66
+attribute: 0x6400A00001030002
+---
+Fresh strawberries, smooth
+cream… It's the king of cakes!
+
+
+---
+id: 67
+attribute: 0x6400A00001030002
+---
+A real breakfast essential.
+Toast until golden-brown.
+
+
+---
+id: 68
+attribute: 0x6400A00001030002
+---
+A fresh, juicy, and sweet taste.
+You'll forget it's a potato!
+
+
+---
+id: 69
+attribute: 0x6400A00001030002
+---
+Sweet and crisp. How many 
+can you eat in one summer?
+
+
+---
+id: 70
+attribute: 0x6400A00001030002
+---
+It's always reliable if 
+there's nothing else to drink.
+
+
+---
+id: 71
+attribute: 0x6400A00001030002
+---
+A delicious meat simmered
+in a sweet and savory sauce!
+
+
+---
+id: 72
+attribute: 0x6400A00001030002
+---
+Wow, this is some top-notch
+tuna. Take a bite!
+
+
+---
+id: 73
+attribute: 0x6400A00001030002
+---
+Tender and juicy meat,
+cooked to your liking.
+
+
+---
+id: 74
+attribute: 0x6400A00001030002
+---
+The sauce is key to the meal. 
+Also comes with lots of veggies.
+
+
+---
+id: 75
+attribute: 0x6400A00001030002
+---
+A sweet and comforting soup.
+Can warm you up in the cold!
+
+
+---
+id: 76
+attribute: 0x6400A00001030002
+---
+Bite into it for a crispy
+texture and juicy meat fluid.
+
+
+---
+id: 77
+attribute: 0x6400A00001030002
+---
+A choco-vanilla swirl of sweets.
+Eat it before it melts!
+
+
+---
+id: 78
+attribute: 0x6400A00001030002
+---
+A luxurious live sea fish
+that's also savory.
+
+
+---
+id: 79
+attribute: 0x6400A00001030002
+---
+A freshly baked pastry, with
+plenty of red bean paste. 
+
+
+---
+id: 80
+attribute: 0x6400A00001030002
+---
+The secret ingredient is in
+the salsa. It's invigorating!
+
+
+---
+id: 81
+attribute: 0x6400A00001030002
+---
+Contains big chunks of octopus
+inside. Be careful, it's hot.
+
+
+---
+id: 82
+attribute: 0x6400A00001030002
+---
+A fluffy rolled omelet which
+makes a delightful side dish.
+
+
+---
+id: 83
+attribute: 0x6400A00001030002
+---
+A fish cake that has an odd
+hole to look into. Delicious!
+
+
+---
+id: 84
+attribute: 0x6400A00001030002
+---
+There's plenty of fluffy eggs
+and green onions in this dish.
+
+
+---
+id: 85
+attribute: 0x6400A00001030002
+---
+A hearty hot-pot that's a
+winter staple. Feels warm.
+
+
+---
+id: 86
+attribute: 0x6400A00001030002
+---
+A bit too sweet, but will
+melt-in-your-mouth.
+
+
+---
+id: 87
+attribute: 0x6400A00001030002
+---
+A must-try for those who love
+sweets! Packed with flavor.
+
+
+---
+id: 88
+attribute: 0x6400A00001030002
+---
+The batter's nice and crispy.
+There's also some eggplant.
+
+
+---
+id: 89
+attribute: 0x6400A00001030002
+---
+Some still find it spicy,
+even though the spice's 6/10.
+
+
+---
+id: 90
+attribute: 0x6400A00001030002
+---
+Simple cold tofu. You can eat
+it with some soy sauce.
+
+
+---
+id: 91
+attribute: 0x6400A00001030002
+---
+Freshly boiled corn. Once you
+have a bite, you can't stop.
+
+
+---
+id: 92
+attribute: 0x6400A00001030002
+---
+Savor the moment, burn off
+the calories later!
+
+
+---
+id: 93
+attribute: 0x6400A00001030002
+---
+A soft pancake-like dough with
+mildly sweet bean paste. Yum!
+
+
+---
+id: 94
+attribute: 0x6400A00001030002
+---
+A healthy food made from soy-
+beans. Very sticky!
+
+
+---
+id: 95
+attribute: 0x6400A00001030002
+---
+A hot meat bun with bamboo
+shoots that'll keep you warm.
+
+
+---
+id: 96
+attribute: 0x6400A00001030002
+---
+For a 3:00 snack, or any other
+time. Peel'N'eat it in a bite!
+
+
+---
+id: 97
+attribute: 0x6400A00001030002
+---
+This is more suitable for
+plants, but eat it if you dare.
+
+
+---
+id: 98
+attribute: 0x6400A00001030002
+---
+Freshly fried with crispy skin.
+The seasoning and meat is GOOD.
+
+
+---
+id: 99
+attribute: 0x6400A00001030002
+---
+A true Japanifornian delacy.
+Veggies balance out the meat!
+
+
+---
+id: 100
+attribute: 0x6400A00001030002
+---
+A bunless burger. It even
+comes with some special sauce!
+
+
+---
+id: 101
+attribute: 0x6400A00001030002
+---
+That's actually salami, not
+pepperoni. Fresh from the oven!
+
+
+---
+id: 102
+attribute: 0x6400A00001030002
+---
+Time for an afternoon snack?
+Give this crunchy biscuit a try!
+
+
+---
+id: 103
+attribute: 0x6400A00001030002
+---
+Please don't be sour please
+don't be sour please don't…
+
+
+---
+id: 104
+attribute: 0x6400A00001030002
+---
+These are the best fries ever.
+Too bad you can't taste them!
+
+
+---
+id: 105
+attribute: 0x6400A00001030002
+---
+A smooth pudding made with
+eggs and milk. Yum, I guess.
+
+
+---
+id: 106
+attribute: 0x6400A00001030002
+---
+It has a unique aroma and 
+mature flavor. (It's mold)
+
+
+---
+id: 107
+attribute: 0x6400A00001030002
+---
+Filled with egg yolk and honey.
+Good for breakfast or a snack.
+
+
+---
+id: 108
+attribute: 0x6400A00001030002
+---
+A BIG lollipop. Make sure to
+lick it all the way to the end!
+
+
+---
+id: 109
+attribute: 0x6400A00001030002
+---
+Once you start, you can't
+stop! You'll eat it all.
+
+
+---
+id: 110
+attribute: 0x6400A00001030002
+---
+Herb-packed, slow-grilled
+chicken with a savory aroma.
+
+
+---
+id: 111
+attribute: 0x6400A00001030002
+---
+The zesty spice is irresistible! 
+Makes you want to keep eating rice.
+
+
+---
+id: 112
+attribute: 0x6400A00001030002
+---
+Once you start, you can't stop!
+Perhaps it's the addictive salt.
+
+
+---
+id: 113
+attribute: 0x6400A00001030002
+---
+These top-class mushrooms
+have a wonderful unique aroma.
+
+
+---
+id: 114
+attribute: 0x6400A00001030002
+---
+A classic pasta loved by all,
+from kids to adults.
+
+
+---
+id: 115
+attribute: 0x6400A00001030002
+---
+This type of orange is a
+mandarin, it's sweet or sour.
+
+
+---
+id: 116
+attribute: 0x6400A00001030002
+---
+A Japanese staple made from
+dashi broth and miso paste.
+
+
+---
+id: 117
+attribute: 0x6400A00001030002
+---
+A classic part of breakfasts.
+Tastes good with toast!
+
+
+---
+id: 118
+attribute: 0x6400A00001030002
+---
+This not-too-spicy marinated
+roe goes great with rice.
+
+
+---
+id: 119
+attribute: 0x6400A00001030002
+---
+Its lovely pink flesh is soft,
+juicy, and sweet.
+
+
+---
+id: 120
+attribute: 0x6400A00001030002
+---
+Naturally sweet and tasty,
+this autumn's bounty is fluffy too.
+
+
+---
+id: 121
+attribute: 0x6400A00001030002
+---
+It has the flavor of a mother's
+homemade cooking.
+
+
+---
+id: 122
+attribute: 0x6400A00001030002
+---
+A simple grilled eggplant,
+served with ponzu and daikon.
+
+
+---
+id: 123
+attribute: 0x6400A00001030002
+---
+It tastes good both with(out)
+salt, but it does need pepper.
+
+
+---
+id: 124
+attribute: 0x6400A00001030002
+---
+Try this soft and sweet jelly
+with some hot tea.
+
+
+---
+id: 125
+attribute: 0x6400A00001030002
+---
+Tastes like soy sauce. Good
+for a quick late night meal.
+
+
+---
+id: 126
+attribute: 0x6400A00001030002
+---
+A honey-drenched apple you
+can either bite or slice.
+
+
+---
+id: 127
+attribute: 0x6400A00001030002
+---
+Don't miss out on this food,
+It's good for your health!
+
+
+---
+id: 128
+attribute: 0x6400A00001030002
+---
+A cordless iron with a steam
+function.
+
+
+---
+id: 129
+attribute: 0x6400A00001030002
+---
+It has a variety of settings
+to mess around and tinker with!
+
+
+---
+id: 130
+attribute: 0x6400A00001030002
+---
+A cute and fluffy plush toy
+that makes you feel at peace.
+
+
+---
+id: 131
+attribute: 0x6400A00001030002
+---
+When it comes to summer, it's
+a must-have.
+
+
+---
+id: 132
+attribute: 0x6400A00001030002
+---
+A fashionable, luxurious
+wristwatch.
+
+
+---
+id: 133
+attribute: 0x6400A00001030002
+---
+A beautiful blue ocarina.
+Doesn't make you time travel.
+
+
+---
+id: 134
+attribute: 0x6400A00001030002
+---
+You should give these to
+crying babies to pacify them.
+
+
+---
+id: 135
+attribute: 0x6400A00001030002
+---
+A vermilion amulet with golden
+thread. Maybe it's magical!
+
+
+---
+id: 136
+attribute: 0x6400A00001030002
+---
+A neatly folded origami crane.
+I guess it's colorful?
+
+
+---
+id: 137
+attribute: 0x6400A00001030002
+---
+There's a beautiful melody
+to hear if you wind it up.
+
+
+---
+id: 138
+attribute: 0x6400A00001030002
+---
+Cute castanets in two-tone,
+red and blue colors.
+
+
+---
+id: 139
+attribute: 0x6400A00001030002
+---
+Unlikely to hurt you in
+the upcoming robot takeover.
+
+
+---
+id: 140
+attribute: 0x6400A00001030002
+---
+A glass swan sculpture. The
+craftsmanship is top-notch.
+
+
+---
+id: 141
+attribute: 0x6400A00001030002
+---
+It's probably useless.
+Never mind, it's useless.
+
+
+---
+id: 142
+attribute: 0x6400A00001030002
+---
+The Island: The Stamp.
+You use these for mail.
+
+
+---
+id: 143
+attribute: 0x6400A00001030002
+---
+A sturdy and very detailed
+rice carving from Hokkaido.
+
+
+---
+id: 144
+attribute: 0x6400A00001030002
+---
+A commemorative print! The
+fish's presence is impressive.
+
+
+---
+id: 145
+attribute: 0x6400A00001030002
+---
+A winner is you.
+Or the winner.
+
+
+---
+id: 146
+attribute: 0x6400A00001030002
+---
+I don't think wearing this
+is a great idea.
+
+
+---
+id: 147
+attribute: 0x6400A00001030002
+---
+A cute and fluffy white
+teddy bear.
+
+
+---
+id: 148
+attribute: 0x6400A00001030002
+---
+Made with a very beautiful
+pristine-cut diamond.
+
+
+---
+id: 149
+attribute: 0x6400A00001030002
+---
+Men and women can both use it.
+Hopefully smells good.
+
+
+---
+id: 150
+attribute: 0x6400A00001030002
+---
+Its quiet presense is charming.
+Miis are based on these.
+
+
+---
+id: 151
+attribute: 0x6400A00001030002
+---
+It's plastic, it's elastic,
+it's… a thing?
+
+
+---
+id: 152
+attribute: 0x6400A00001030002
+---
+I bet this would sell more if
+someone knew who wrote this.
+
+
+---
+id: 153
+attribute: 0x6400A00001030002
+---
+I have no idea what to call
+this white-and-black ball.
+
+
+---
+id: 154
+attribute: 0x6400A00001030002
+---
+Despite its spines, it's very
+cute and tiny. Very prickly.
+
+
+---
+id: 155
+attribute: 0x6400A00001030002
+---
+A ninja's throwing weapon. The
+The dull, black shine is cool.
+
+
+---
+id: 156
+attribute: 0x6400A00001030002
+---
+It's very mysterious and
+ominous. Its mind is an enigma.
+
+
+---
+id: 157
+attribute: 0x6400A00001030002
+---
+It soothes the weary hearts
+of people. Looks interesting.
+
+
+---
+id: 158
+attribute: 0x6400A00001030002
+---
+There's a snowy scene inside
+the glass. It's romantic!
+
+
+---
+id: 159
+attribute: 0x6400A00001030002
+---
+A memento from a summer
+vacation.
+
+
+---
+id: 160
+attribute: 0x6400A00001030002
+---
+It contains some faint memories
+about romance.
+
+
+---
+id: 161
+attribute: 0x6400A00001030002
+---
+A premium fluffy towel set
+that comes in two colors.
+
+
+---
+id: 162
+attribute: 0x6400A00001030002
+---
+It's only held together by
+dust and air. Likely to break.
+
+
+---
+id: 163
+attribute: 0x6400A00001030002
+---
+A beautiful and very detailed
+light blue globe.
+
+
+---
+id: 164
+attribute: 0x6400A00001030002
+---
+It would be funny if this turned
+out to be some airplane poo.
+
+
+---
+id: 165
+attribute: 0x6400A00001030002
+---
+A common tissue box. You
+use it to blow.
+
+
+---
+id: 166
+attribute: 0x6400A00001030002
+---
+Very useless if you own a
+bidet.
+
+
+---
+id: 167
+attribute: 0x6400A00001030002
+---
+It catches your eye from top
+to bottom. It's very striking.
+
+
+---
+id: 168
+attribute: 0x6400A00001030002
+---
+It was excavated from somewhere.
+Has a charming face.
+
+
+---
+id: 169
+attribute: 0x6400A00001030002
+---
+It's a nest made from twigs
+and stuff, eggs not included.
+
+
+---
+id: 170
+attribute: 0x6400A00001030002
+---
+A wedding album filled with
+memories of a happy couple.
+
+
+---
+id: 171
+attribute: 0x6400A00001030002
+---
+A colorful jump rope. It's
+made out of vinyl.
+
+
+---
+id: 172
+attribute: 0x6400A00001030002
+---
+A genuine harmonica that
+suits a traveler's image.
+
+
+---
+id: 173
+attribute: 0x6400A00001030002
+---
+It's surprisingly heavy and
+made with a resilient material.
+
+
+---
+id: 174
+attribute: 0x6400A00001030002
+---
+Maybe it could be worth a
+bit more if it was gold.
+
+
+---
+id: 175
+attribute: 0x6400A00001030002
+---
+"Wow, is it for me? I'm really
+flattered."
+
+
+---
+id: 176
+attribute: 0x6400A00001030002
+---
+Large No. 5 firework shells,
+handcrafted by artisians.
+
+
+---
+id: 177
+attribute: 0x6400A00001030002
+---
+Playing cards made by Nintendo.
+They still make them. 
+
+
+---
+id: 178
+attribute: 0x6400A00001030002
+---
+A seal used for letters. (More
+than likely cease and desists.)
+
+
+---
+id: 179
+attribute: 0x6400A00001030002
+---
+The dolls' faces is the focal
+point. It has delicate brushwork.
+
+
+---
+id: 180
+attribute: 0x6400A00001030002
+---
+With colorful sparkle cover. A
+must-have for fashionistas!
+
+
+---
+id: 181
+attribute: 0x6400A00001030002
+---
+Why don't they make ones that 
+have a lid to grab money?
+
+
+
+
+---
+id: 182
+attribute: 0x6400A00001030002
+---
+An elegant doll with elegant
+features. She's very fragile.
+
+
+---
+id: 183
+attribute: 0x6400A00001030002
+---
+Many people in Japan believe
+this has a symbolic meaning.
+
+
+---
+id: 184
+attribute: 0x6400A00001030002
+---
+This miniature pine tree
+depicts the vast universe.
+
+
+---
+id: 185
+attribute: 0x6400A00001030002
+---
+Its tilted angle is the selling
+point. Feels good on backs.
+
+
+---
+id: 186
+attribute: 0x6400A00001030002
+---
+This lucky cat will bring
+good fortunes to their owners.
+
+
+---
+id: 187
+attribute: 0x6400A00001030002
+---
+A high-grade fountain pen. A
+classic gift on graduation day.
+
+
+---
+id: 188
+attribute: 0x6400A00001030002
+---
+Made with top grade bamboo
+and fluffy cotton fibers.
+
+
+---
+id: 189
+attribute: 0x6400A00001030002
+---
+An alarm clock that sounds
+like "CHIRP! CHIRP! CHIRP!"
+
+
+---
+id: 190
+attribute: 0x6400A00001030002
+---
+A very unique ornament.
+Do you feel its presence?
+
+
+---
+id: 191
+attribute: 0x6400A00001030002
+---
+It's made out of a material
+that doesn't melt easily.
+
+
+---
+id: 192
+attribute: 0x6400A00001030002
+---
+Probably a fond memory for
+someone who had many friends.
+
+
+---
+id: 193
+attribute: 0x6400A00001030002
+---
+A popular music instrument
+for a music class.
+
+
+---
+id: 194
+attribute: 0x6400A00001030002
+---
+It is beautiful and shiny with
+very delicate craftsmanship.
+
+
+---
+id: 195
+attribute: 0x6400A00001030002
+---
+Man, I love "that place in the
+keychain!" Don't you?
+
+
+---
+id: 196
+attribute: 0x6400A00001030002
+---
+A fantastic Japanese piece
+of architecture.
+
+
+---
+id: 197
+attribute: 0x6400A00001030002
+---
+A classic souvenir from
+Okinawa. It looks heroic.
+
+
+---
+id: 198
+attribute: 0x6400A00001030002
+---
+A silk handkerchief with
+splendid embroidery.
+
+
+---
+id: 199
+attribute: 0x6400A00001030002
+---
+A folding fan that gives off
+a gorgeous atmosphere.
+
+
+---
+id: 200
+attribute: 0x6400A00001030002
+---
+It has plenty of pretty gems.
+
+
+---
+id: 201
+attribute: 0x6400A00001030002
+---
+A classic souvenir from "that
+place." Seems original.
+
+
+---
+id: 202
+attribute: 0x6400A00001030002
+---
+This exotic mask comes from
+a very faraway country.
+
+
+---
+id: 203
+attribute: 0x6400A00001030002
+---
+The healing green algae can
+make you feel calm. Soothing.
+
+
+---
+id: 204
+attribute: 0x6400A00001030002
+---
+Use this to fight the
+butterflies in your stomach.
+
+
+---
+id: 205
+attribute: 0x6400A00001030002
+---
+If you have a slightly sore
+throat, take one pill early.
+
+
+---
+id: 206
+attribute: 0x6400A00001030002
+---
+Take some artsy photos on a
+piece of film.
+
+
+---
+id: 207
+attribute: 0x6400A00001030002
+---
+You can travel anywhere you
+want with this voucher. Wow!
+
+
+---
+id: 208
+attribute: 0x6400A00001030002
+---
+It's a one-way ticket to
+a part-time job. Time to work!
+
+
+---
+id: 209
+attribute: 0x6400A00001030002
+---
+Some games use the mic on
+the second controller.
+
+
+---
+id: 210
+attribute: 0x6400A00001030002
+---
+Needs a backlight. It's hard
+to look at without one.
+
+
+---
+id: 211
+attribute: 0x6400A00001030002
+---
+AAAAA! MY EYES! AAAAAAA!
+IT HURTS!!!!
+
+
+---
+id: 212
+attribute: 0x6400A00001030002
+---
+A set of washbowls, towels, &
+soap for an evening hot bath.
+
+
+---
+id: 213
+attribute: 0x6400A00001030002
+---
+A necessity to fight against
+the summer heat.
+
+
+---
+id: 214
+attribute: 0x6400A00001030002
+---
+You can put anyone under
+hypnosis with this kit.
+
+
+---
+id: 215
+attribute: 0x6400A00001030002
+---
+Unlock the hidden power of
+home cooking, and behold!
+
+
+---
+id: 216
+attribute: 0x6400A00001030002
+---
+An efficacious lexicon.
+
+
+---
+id: 217
+attribute: 0x6400A00001030002
+---
+A pair of plastic chopsticks,
+characterized by vivid colors.
+
+
+---
+id: 218
+attribute: 0x6400A00001030002
+---
+A yellow plastic megaphone.
+Looks nice, despite its price.
+
+
+---
+id: 219
+attribute: 0x6400A00001030002
+---
+It is made from wood and has
+a cheerful and cute design.
+
+
+---
+id: 220
+attribute: 0x6400A00001030002
+---
+Very hard to stop eating once
+you start.
+
+
+---
+id: 221
+attribute: 0x6400A00001030002
+---
+A type of ginger known for its
+refreshing aroma. Very crisp.
+
+
+---
+id: 222
+attribute: 0x6400A00001030002
+---
+"Thanks for solving our
+problems." -Island residents
+
+
+---
+id: 223
+attribute: 0x6400A00001030002
+---
+Congrats. You're like a teacher
+when it comes to problem-solving.
+
+
+---
+id: 224
+attribute: 0x6400A00001030002
+---
+Congratulations! You're a
+master of problem solving!
+
+
+---
+id: 225
+attribute: 0x6400A00001030002
+---
+Congratulations!! You're like
+a wise sage that solves problems!
+
+
+---
+id: 226
+attribute: 0x6400A00001030002
+---
+People should really stop
+relying on your generosity.
+
+
+---
+id: 227
+attribute: 0x6400A00001030002
+---
+They make these in bulk. Turn
+clockwise to open a door.
+
+
+---
+id: 228
+attribute: 0x6400A00001030002
+---
+It gets more delicious per
+bite. Has a complex flavor.
+
+
+---
+id: 229
+attribute: 0x6400A00001030002
+---
+Some soy sauce rice crackers 
+with a savory aroma.
+
+
+---
+id: 230
+attribute: 0x6400A00001030002
+---
+The raw taste of home cooking!
+It has meat and potatoes.
+
+
+---
+id: 231
+attribute: 0x6400A00001030002
+---
+Crispy outside and juicy inside!
+It's a premium pork cutlet.
+
+
+---
+id: 232
+attribute: 0x6400A00001030002
+---
+A southern (Japanese) vegetable
+with an addictive bitter taste.
+
+
+---
+id: 233
+attribute: 0x6400A00001030002
+---
+Drink a cup a day for your health,
+as the taste spreads in your mouth.
+
+
+---
+id: 234
+attribute: 0x6400A00001030002
+---
+A beautiful gold coin. Collect
+100, and you earn another life.
+
+
+---
+id: 235
+attribute: 0x6400A00001030002
+---
+A beautiful silver coin. It
+seems to have some value.
+
+
+---
+id: 236
+attribute: 0x6400A00001030002
+---
+A Nintendo Wii. It doesn't
+have HDMI, but it works.
+
+
+---
+id: 237
+attribute: 0x6400A00001030002
+---
+It can do call AND text!
+How revolutionary!
+
+
+---
+id: 238
+attribute: 0x6400A00001030002
+---
+Add music to your life. Enjoy
+it with headphones.
+
+
+---
+id: 239
+attribute: 0x6400A00001030002
+---
+Exercise your brain anytime
+you want with this study set.
+
+
+---
+id: 240
+attribute: 0x6400A00001030002
+---
+A very moving page-turner
+that's hard to put down.
+
+
+---
+id: 241
+attribute: 0x6400A00001030002
+---
+A physical melonDS (not to be
+confused with the emulator.)
+
+
+---
+id: 242
+attribute: 0x6400A00001030002
+---
+It's like a personal computer,
+but portable.
+
+
+---
+id: 243
+attribute: 0x6400A00001030002
+---
+Dust beware: You're in
+for a scare.
+
+
+---
+id: 244
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 245
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 246
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 247
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 248
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 249
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 250
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 251
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 252
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 253
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 254
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+
+---
+id: 1000
+attribute: 0x6400A00001030002
+---
+It's the clothes all Miis
+wear. Better than nothing!
+
+
+---
+id: 1001
+attribute: 0x6400A00001030002
+---
+A gray suit that gives off
+a bright impression.
+
+
+---
+id: 1002
+attribute: 0x6400A00001030002
+---
+A black suit that anyone
+can pull off. Looks natural.
+
+
+---
+id: 1003
+attribute: 0x6400A00001030002
+---
+An outfit with a vivid blue
+collar for sailing. Yep.
+
+
+---
+id: 1004
+attribute: 0x6400A00001030002
+---
+A outfit to make toast with.
+Yee-haw!
+
+
+---
+id: 1005
+attribute: 0x6400A00001030002
+---
+Time-travel wearing this toga
+and you've become a god!
+
+
+---
+id: 1006
+attribute: 0x6400A00001030002
+---
+It's black. Does that mean
+the wearer is evil?
+
+
+---
+id: 1007
+attribute: 0x6400A00001030002
+---
+Protect your shins while
+playing a game of "ball."
+
+
+---
+id: 1008
+attribute: 0x6400A00001030002
+---
+It goes well with an American
+50's diner or cocktail bar.
+
+
+---
+id: 1009
+attribute: 0x6400A00001030002
+---
+The sweat under this costume
+doubles as a layer of fat.
+
+
+---
+id: 1010
+attribute: 0x6400A00001030002
+---
+Is it a monkey or a bear?
+It's very fluffy, though.
+
+
+---
+id: 1011
+attribute: 0x6400A00001030002
+---
+Oh my goodness, that Mii's
+invisible!
+
+
+---
+id: 1012
+attribute: 0x6400A00001030002
+---
+A snug kung-fu outfit with
+bright colors to see at night.
+
+
+---
+id: 1013
+attribute: 0x6400A00001030002
+---
+You wear it in a summer festival.
+
+
+---
+id: 1014
+attribute: 0x6400A00001030002
+---
+You wear it in a summer festival.
+
+
+---
+id: 1015
+attribute: 0x6400A00001030002
+---
+It looks like it came from a dream!
+Some women wish to wear this.
+
+
+---
+id: 1016
+attribute: 0x6400A00001030002
+---
+A bright jersey flooded with
+various patches.
+
+
+---
+id: 1017
+attribute: 0x6400A00001030002
+---
+A classic office look. Very
+professional.
+
+
+---
+id: 1018
+attribute: 0x6400A00001030002
+---
+I can't make out the pattern
+on there, but it looks cool.
+
+
+---
+id: 1019
+attribute: 0x6400A00001030002
+---
+Become a pretty pretty princess
+and have tea with animal friends.
+
+
+---
+id: 1020
+attribute: 0x6400A00001030002
+---
+Eyeliner not included.
+
+
+---
+id: 1021
+attribute: 0x6400A00001030002
+---
+Wear this to gain 5% magic
+points when crafting potions.
+
+
+---
+id: 1022
+attribute: 0x6400A00001030002
+---
+What is this thing? It looks
+like a rabbit or a bear.
+
+
+---
+id: 1023
+attribute: 0x6400A00001030002
+---
+It looks as spicy as salsa:
+the song, dance, and dip.
+
+
+---
+id: 1024
+attribute: 0x6400A00001030002
+---
+A heroic shirt meant for those
+who keep grinding for EXP.
+
+
+---
+id: 1025
+attribute: 0x6400A00001030002
+---
+A morally dubious shirt meant
+for those who emulate games.
+
+
+---
+id: 1026
+attribute: 0x6400A00001030002
+---
+An evil shirt meant for evil
+people who eat babies.
+
+
+---
+id: 1027
+attribute: 0x6400A00001030002
+---
+Become the constellation in
+the universe, doing star stuff.
+
+
+---
+id: 1028
+attribute: 0x6400A00001030002
+---
+A qipao. Maybe it's passionate
+due to the pink color.
+
+
+---
+id: 1029
+attribute: 0x6400A00001030002
+---
+A qipao. Maybe it's bummed out
+due to the blue color.
+
+
+---
+id: 1030
+attribute: 0x6400A00001030002
+---
+I've never seen anyone at
+Nintendo actually wear this.
+
+
+---
+id: 1031
+attribute: 0x6400A00001030002
+---
+I've never seen anyone at
+Nintendo actually wear this.
+
+
+---
+id: 1032
+attribute: 0x6400A00001030002
+---
+Oh my! It's so graphic!
+Think of the children!
+
+
+---
+id: 1033
+attribute: 0x6400A00001030002
+---
+Pair this with some boots for
+a coordinated look.
+
+
+---
+id: 1034
+attribute: 0x6400A00001030002
+---
+It's a green cardigan, I don't
+know what else to say.
+
+
+---
+id: 1035
+attribute: 0x6400A00001030002
+---
+"Does it come in black?"
+It sure does.
+
+
+---
+id: 1036
+attribute: 0x6400A00001030002
+---
+Gorgeous twelve-layered
+ceremonial kimono.
+
+
+---
+id: 1037
+attribute: 0x6400A00001030002
+---
+A grey hoodie that's hip with
+the kids these days.
+
+
+---
+id: 1038
+attribute: 0x6400A00001030002
+---
+This will really make you
+stand out in a crowd.
+
+
+---
+id: 1039
+attribute: 0x6400A00001030002
+---
+It's time to become one with
+the cats. This is a demand.
+
+
+---
+id: 1040
+attribute: 0x6400A00001030002
+---
+Some overalls made to enjoy
+the country life with.
+
+
+---
+id: 1041
+attribute: 0x6400A00001030002
+---
+There's a tiger on the back.
+The void makes it stand out.
+
+
+---
+id: 1042
+attribute: 0x6400A00001030002
+---
+There's a tiger on the back.
+It's hidden by the pinkness.
+
+
+---
+id: 1043
+attribute: 0x6400A00001030002
+---
+It's like a very loose scarf
+that's doubled in length.
+
+
+---
+id: 1044
+attribute: 0x6400A00001030002
+---
+They slapped some flowers on
+here and called it a day.
+
+
+---
+id: 1045
+attribute: 0x6400A00001030002
+---
+The very definition of
+"Bedazzle."
+
+
+---
+id: 1046
+attribute: 0x6400A00001030002
+---
+The boots make you look like
+a punk from the 80s.
+
+
+---
+id: 1047
+attribute: 0x6400A00001030002
+---
+A sharp leather jacket that's
+ready to rock on with.
+
+
+---
+id: 1048
+attribute: 0x6400A00001030002
+---
+They're easy and comfortable
+to wear, just like shorts.
+
+
+---
+id: 1049
+attribute: 0x6400A00001030002
+---
+Two big pockets and a scarf
+to keep warm.
+
+
+---
+id: 1050
+attribute: 0x6400A00001030002
+---
+This makes you blend in with
+the snow very, very well.
+
+
+---
+id: 1051
+attribute: 0x6400A00001030002
+---
+It's neat that the color hasn't
+faded away over the years.
+
+
+---
+id: 1052
+attribute: 0x6400A00001030002
+---
+It's neat that the color hasn't
+faded away over the years.
+
+
+---
+id: 1053
+attribute: 0x6400A00001030002
+---
+It's very colorful and long,
+so you can easily style it.
+
+
+---
+id: 1054
+attribute: 0x6400A00001030002
+---
+This one makes you look Like
+a prim and proper person.
+
+
+---
+id: 1055
+attribute: 0x6400A00001030002
+---
+The fluffy ribbons create a
+gentle impression.
+
+
+---
+id: 1056
+attribute: 0x6400A00001030002
+---
+The color's more like cream
+than yellow.
+
+
+---
+id: 1057
+attribute: 0x6400A00001030002
+---
+I have no idea how this
+changes colors, but it's cool.
+
+
+---
+id: 1058
+attribute: 0x6400A00001030002
+---
+I have no idea how this
+changes colors, but it's cool.
+
+
+---
+id: 1059
+attribute: 0x6400A00001030002
+---
+This looks like a lithium
+battery that's going to pop.
+
+
+---
+id: 1060
+attribute: 0x6400A00001030002
+---
+This looks like a stack of
+tires.
+
+
+---
+id: 1061
+attribute: 0x6400A00001030002
+---
+It looks very dapper with that
+tie and subdued tones.
+
+
+---
+id: 1062
+attribute: 0x6400A00001030002
+---
+It's like a suit you wear to
+take on various chores.
+
+
+---
+id: 1063
+attribute: 0x6400A00001030002
+---
+This fluffy faux fur coat makes
+others happy all winter long.
+
+
+---
+id: 1064
+attribute: 0x6400A00001030002
+---
+Must… resist… urge… to… 
+stroke… fur…
+
+
+---
+id: 1065
+attribute: 0x6400A00001030002
+---
+A stole is like a scarf,
+but thinner and longer.
+
+
+---
+id: 1066
+attribute: 0x6400A00001030002
+---
+A stole is like a scarf,
+but thinner and longer.
+
+
+---
+id: 1067
+attribute: 0x6400A00001030002
+---
+An adorable pastel-pink romper.
+The feet have some pom-poms.
+
+
+---
+id: 1068
+attribute: 0x6400A00001030002
+---
+An adorable pastel-blue romper.
+The feet have some pom-poms.
+
+
+---
+id: 1069
+attribute: 0x6400A00001030002
+---
+WOOO! THIS OUTFIT GIVES
+YOU LOTS OF ENERGY TO RUN!
+
+
+---
+id: 1070
+attribute: 0x6400A00001030002
+---
+Summer vibes galore! Time
+to take it easy on a hot day.
+
+
+---
+id: 1071
+attribute: 0x6400A00001030002
+---
+Summer vibes galore! Suited
+well for beach fun.
+
+
+---
+id: 1072
+attribute: 0x6400A00001030002
+---
+You'll never guess what this
+dress is made of.
+
+
+---
+id: 1073
+attribute: 0x6400A00001030002
+---
+This outfit looks sassy with
+that logo shirt and scarf.
+
+
+---
+id: 1074
+attribute: 0x6400A00001030002
+---
+You're a floating torso
+now. Those legs are invisible!
+
+
+---
+id: 1075
+attribute: 0x6400A00001030002
+---
+You can supposedly see the
+face of a leopard on here.
+
+
+---
+id: 1076
+attribute: 0x6400A00001030002
+---
+It's all about those leg
+warmers. Gotta keep them warm!
+
+
+---
+id: 1077
+attribute: 0x6400A00001030002
+---
+This looks like my everyday
+commune to work, but dry.
+
+
+---
+id: 1078
+attribute: 0x6400A00001030002
+---
+A salmon pink T-shirt with a
+photo of a car printed on it.
+
+
+---
+id: 1079
+attribute: 0x6400A00001030002
+---
+Makes you look ready to fight
+a giant pig.
+
+
+---
+id: 1080
+attribute: 0x6400A00001030002
+---
+A lace-knit vest and a fluffy
+dress is super girly.
+
+
+---
+id: 1081
+attribute: 0x6400A00001030002
+---
+It's made of sturdy fabric.
+Easy to move in, handy to have.
+
+
+---
+id: 1082
+attribute: 0x6400A00001030002
+---
+The green stripes are refreshing.
+The pants are also a key feature.
+
+
+---
+id: 1083
+attribute: 0x6400A00001030002
+---
+It's a stylish look that's
+not overdone.
+
+
+---
+id: 1084
+attribute: 0x6400A00001030002
+---
+This suit looks rather devlish
+and charming.
+
+
+---
+id: 1085
+attribute: 0x6400A00001030002
+---
+Do it at the disco, like
+everybody should!
+
+
+---
+id: 1086
+attribute: 0x6400A00001030002
+---
+The clashing colors make you
+look very groovy, man.
+
+
+---
+id: 1087
+attribute: 0x6400A00001030002
+---
+The monochrome pattern and
+the silk's sheen look good.
+
+
+---
+id: 1088
+attribute: 0x6400A00001030002
+---
+Roll up the sleeves to look
+sharp and be more efficient.
+
+
+---
+id: 1089
+attribute: 0x6400A00001030002
+---
+Roll up the sleeves to look
+sharp and be more efficient.
+
+
+---
+id: 1090
+attribute: 0x6400A00001030002
+---
+It looks like a colorful wave
+from an abstract sunset.
+
+
+---
+id: 1091
+attribute: 0x6400A00001030002
+---
+Simple and elegant. The 3/4th
+sleeves are a key feature.
+
+
+---
+id: 1092
+attribute: 0x6400A00001030002
+---
+The vibrant colors create a
+cute impression.
+
+
+---
+id: 1093
+attribute: 0x6400A00001030002
+---
+The embroidery's cute! The
+soft lines give it a girly feel.
+
+
+---
+id: 1094
+attribute: 0x6400A00001030002
+---
+Has a floral motif at the hem.
+Pair with a petticoat.
+
+
+---
+id: 1095
+attribute: 0x6400A00001030002
+---
+The turtleneck looks like
+its choking the neck.
+
+
+---
+id: 1096
+attribute: 0x6400A00001030002
+---
+I sure love my headphone jack
+and home button on my phone!
+
+
+---
+id: 1097
+attribute: 0x6400A00001030002
+---
+The turtleneck looks like
+its choking the neck.
+
+
+---
+id: 1098
+attribute: 0x6400A00001030002
+---
+A rounded silhouette. The soft,
+fluffy feel's delightful.
+
+
+---
+id: 1099
+attribute: 0x6400A00001030002
+---
+Gives off a refeshing impression.
+The thick fabric keeps cold away.
+
+
+---
+id: 1100
+attribute: 0x6400A00001030002
+---
+Looks slightly unsual.
+The thick fabric keeps cold away.
+
+
+---
+id: 1101
+attribute: 0x6400A00001030002
+---
+A versatile, pink ensemble 
+for work or play.
+
+
+---
+id: 1102
+attribute: 0x6400A00001030002
+---
+A versatile, blue ensemble 
+for work or play.
+
+
+---
+id: 1103
+attribute: 0x6400A00001030002
+---
+A very dark dress with flower-
+dotted waffle-weaved leggings.
+
+
+---
+id: 1104
+attribute: 0x6400A00001030002
+---
+A trench coat that makes the
+wearer looks like a detective.
+
+
+---
+id: 1105
+attribute: 0x6400A00001030002
+---
+A trench coat that makes the
+wearer looks like a inspector.
+
+
+---
+id: 1106
+attribute: 0x6400A00001030002
+---
+I'm a fan of the loose sleeves
+and the champane gold color.
+
+
+---
+id: 1107
+attribute: 0x6400A00001030002
+---
+A refreshing style. The key
+is to show off the inner layer.
+
+
+---
+id: 1108
+attribute: 0x6400A00001030002
+---
+The bright yellow's similar to
+a shimering summer sunset.
+
+
+---
+id: 1109
+attribute: 0x6400A00001030002
+---
+The gray color's perfect for
+everyday use.
+
+
+---
+id: 1110
+attribute: 0x6400A00001030002
+---
+Wear while watching sports
+on a cold day to warm up.
+
+
+---
+id: 1111
+attribute: 0x6400A00001030002
+---
+I have no idea how this
+changes colors, but it's cool.
+
+
+---
+id: 1112
+attribute: 0x6400A00001030002
+---
+Everything else is warm except
+for the arms and abdomen.
+
+
+---
+id: 1113
+attribute: 0x6400A00001030002
+---
+A reindeer-themed knitted dress
+with cheerful Christmas colors.
+
+
+---
+id: 1114
+attribute: 0x6400A00001030002
+---
+Everything else is warm except
+for the arms and abdomen.
+
+
+---
+id: 1115
+attribute: 0x6400A00001030002
+---
+Its understated checker
+pattern is a defining feature.
+
+
+---
+id: 1116
+attribute: 0x6400A00001030002
+---
+I guess the knees can deal
+with the cold, right?
+
+
+---
+id: 1117
+attribute: 0x6400A00001030002
+---
+I guess the knees can deal
+with the cold, right?
+
+
+---
+id: 1118
+attribute: 0x6400A00001030002
+---
+The layered check pattern
+gives off a joyful vibe.
+
+
+---
+id: 1119
+attribute: 0x6400A00001030002
+---
+A cute dress with fine
+gingham checks.
+
+
+---
+id: 1120
+attribute: 0x6400A00001030002
+---
+A cute dress with fine
+gingham checks.
+
+
+---
+id: 1121
+attribute: 0x6400A00001030002
+---
+A monotone T-shirt and vest.
+Looks sharp and smart!
+
+
+---
+id: 1122
+attribute: 0x6400A00001030002
+---
+The gauze fabric feels comfy
+to wear. It's delightful!
+
+
+---
+id: 1123
+attribute: 0x6400A00001030002
+---
+A beautiful combination of
+royal blue and checks.
+
+
+---
+id: 1124
+attribute: 0x6400A00001030002
+---
+A blue plaid scarf that's good
+for taking on the cold.
+
+
+---
+id: 1125
+attribute: 0x6400A00001030002
+---
+A bright yellow scarf that
+contrasts with the gray shirt.
+
+
+---
+id: 1126
+attribute: 0x6400A00001030002
+---
+It's a very long leather
+coat with some leather boots.
+
+
+---
+id: 1127
+attribute: 0x6400A00001030002
+---
+This checkered pattern will
+surely brighten your mood.
+
+
+---
+id: 1128
+attribute: 0x6400A00001030002
+---
+A loosely knit sweater. It
+has a sophisticated look.
+
+
+---
+id: 1129
+attribute: 0x6400A00001030002
+---
+A loosely knit sweater. It
+has a sophisticated look.
+
+
+---
+id: 1130
+attribute: 0x6400A00001030002
+---
+A versatile coat meant for
+work and play. Very convient.
+
+
+---
+id: 1131
+attribute: 0x6400A00001030002
+---
+A crispy tailored polo shirt.
+Its color seems gentle.
+
+
+---
+id: 1132
+attribute: 0x6400A00001030002
+---
+Roll up the pant legs for a
+more casual look.
+
+
+---
+id: 1133
+attribute: 0x6400A00001030002
+---
+Perhaps the black color makes
+you look slimmer.
+
+
+---
+id: 1134
+attribute: 0x6400A00001030002
+---
+A sailor uniform with a long,
+tight skirt and big collar.
+
+
+---
+id: 1135
+attribute: 0x6400A00001030002
+---
+How do they get food onto the
+island in the first place?
+
+
+---
+id: 1136
+attribute: 0x6400A00001030002
+---
+A convenient vest littered in
+pockets. Good for the outdoors.
+
+
+---
+id: 1137
+attribute: 0x6400A00001030002
+---
+A convenient vest littered in
+pockets. Good for the outdoors.
+
+
+---
+id: 1138
+attribute: 0x6400A00001030002
+---
+A flowing nightgown.
+It's loose and comfy.
+
+
+---
+id: 1139
+attribute: 0x6400A00001030002
+---
+A comfortable V-neck made from
+cotton. Wear it year-round!
+
+
+---
+id: 1140
+attribute: 0x6400A00001030002
+---
+A comfortable V-neck made from
+cotton. Wear it year-round!
+
+
+---
+id: 1141
+attribute: 0x6400A00001030002
+---
+A wrap top that softly wraps
+around the wearer. It's muted.
+
+
+---
+id: 1142
+attribute: 0x6400A00001030002
+---
+A wrap top that softly wraps
+around the wearer. It's subtle.
+
+
+---
+id: 1143
+attribute: 0x6400A00001030002
+---
+Wear this if you absolutely
+despise the blue jackets.
+
+
+---
+id: 1144
+attribute: 0x6400A00001030002
+---
+Wear this if you absolutely
+despise the red jackets.
+
+
+---
+id: 1145
+attribute: 0x6400A00001030002
+---
+Smells moist.
+
+
+---
+id: 1146
+attribute: 0x6400A00001030002
+---
+It's a belly warmer and some
+long underwear to keep one warm.
+
+
+---
+id: 1147
+attribute: 0x6400A00001030002
+---
+It's a coat that seems to be
+popular at festivals.
+
+
+---
+id: 1148
+attribute: 0x6400A00001030002
+---
+Wearing this makes you feel
+a little bit smarter.
+
+
+---
+id: 1149
+attribute: 0x6400A00001030002
+---
+Hopefully not skinned from
+a real animal.
+
+
+---
+id: 1150
+attribute: 0x6400A00001030002
+---
+Something new for people who
+only have worn blazers.
+
+
+---
+id: 1151
+attribute: 0x6400A00001030002
+---
+The crisp color reminds me of
+a neat and tidy room.
+
+
+---
+id: 1152
+attribute: 0x6400A00001030002
+---
+"Give me an T! Give me an O!
+Give me a M! Give me an O…"
+
+
+---
+id: 1153
+attribute: 0x6400A00001030002
+---
+In the mood to just lounge
+around?
+
+
+---
+id: 1154
+attribute: 0x6400A00001030002
+---
+A school jersey from a school
+that was covered in red.
+
+
+---
+id: 1155
+attribute: 0x6400A00001030002
+---
+A school jersey from a school
+that was covered in blue.
+
+
+---
+id: 1156
+attribute: 0x6400A00001030002
+---
+A long dress that shows a
+slender sihouette at sunset.
+
+
+---
+id: 1157
+attribute: 0x6400A00001030002
+---
+Easy to move around and push
+cubes and buttons.
+
+
+---
+id: 1158
+attribute: 0x6400A00001030002
+---
+That bold pattern looks cool
+with those subdued colors.
+
+
+---
+id: 1159
+attribute: 0x6400A00001030002
+---
+Embrace a whole new world with
+fluffy pants and light sleeves.
+
+
+---
+id: 1160
+attribute: 0x6400A00001030002
+---
+It'll make others think you
+somewhat look like an idol.
+
+
+---
+id: 1161
+attribute: 0x6400A00001030002
+---
+A very cute getup that tells
+others "I'm famous!"
+
+
+---
+id: 1162
+attribute: 0x6400A00001030002
+---
+For outings and parties. Can
+be enjoyed by everyone.
+
+
+---
+id: 1163
+attribute: 0x6400A00001030002
+---
+A clean-lined nurse uniform
+ready to do some dirty work.
+
+
+---
+id: 1164
+attribute: 0x6400A00001030002
+---
+Also known as a Steeplejack.
+
+
+---
+id: 1165
+attribute: 0x6400A00001030002
+---
+Behold: You're the punchline!
+
+
+---
+id: 1166
+attribute: 0x6400A00001030002
+---
+Just don't walk into a
+guillotine. You'll be fine!
+
+
+---
+id: 1167
+attribute: 0x6400A00001030002
+---
+Doesn't look flattering in
+the least.
+
+
+---
+id: 1168
+attribute: 0x6400A00001030002
+---
+It's one of those costumes.
+
+
+---
+id: 1169
+attribute: 0x6400A00001030002
+---
+It's pretty worn out, but it's
+surprsingly comfortable to wear.
+
+
+---
+id: 1170
+attribute: 0x6400A00001030002
+---
+Perfect for long swims.
+
+
+---
+id: 1171
+attribute: 0x6400A00001030002
+---
+For those who always want to
+be the center of attention.
+
+
+---
+id: 1172
+attribute: 0x6400A00001030002
+---
+For those who want to stay
+calm and collected.
+
+
+---
+id: 1173
+attribute: 0x6400A00001030002
+---
+For those who brighen up the
+mood.
+
+
+---
+id: 1174
+attribute: 0x6400A00001030002
+---
+A touch of green for those who
+support others behind the shadows.
+
+
+---
+id: 1175
+attribute: 0x6400A00001030002
+---
+For those who somehow get too
+much attention and hate it.
+
+
+---
+id: 1176
+attribute: 0x6400A00001030002
+---
+It's like the ones sumo
+wrestlers wear.
+
+
+---
+id: 1177
+attribute: 0x6400A00001030002
+---
+Jump high and shoot! Time to
+run quickly across the court.
+
+
+---
+id: 1178
+attribute: 0x6400A00001030002
+---
+It looks a bit skimpy. Should
+you really give this to a Mii?
+
+
+---
+id: 1179
+attribute: 0x6400A00001030002
+---
+Made with fabric that feels as
+soft as a carpet. Such prestige!
+
+
+---
+id: 1180
+attribute: 0x6400A00001030002
+---
+A blue jumpsuit that's ideal
+for working in water.
+
+
+---
+id: 1181
+attribute: 0x6400A00001030002
+---
+A sharp looking uniform for
+protecting the peace.
+
+
+---
+id: 1182
+attribute: 0x6400A00001030002
+---
+But where's the hat or the
+helmet? It's a baseball must!
+
+
+---
+id: 1183
+attribute: 0x6400A00001030002
+---
+Become one with the ball and
+be a human blur when worn.
+
+
+---
+id: 1184
+attribute: 0x6400A00001030002
+---
+A crisp, clean uniform for
+a professional chef.
+
+
+---
+id: 1185
+attribute: 0x6400A00001030002
+---
+A chic color combination that
+suits the nighttime cityscape.
+
+
+---
+id: 1186
+attribute: 0x6400A00001030002
+---
+It somehow gives off a odd
+indispensable presence.
+
+
+---
+id: 1187
+attribute: 0x6400A00001030002
+---
+Wearing this somehow makes
+your back straight and light.
+
+
+---
+id: 1188
+attribute: 0x6400A00001030002
+---
+This sharp suit is a real
+standout at parties.
+
+
+---
+id: 1189
+attribute: 0x6400A00001030002
+---
+This is what they mean by
+"pretty in pink."
+
+
+---
+id: 1190
+attribute: 0x6400A00001030002
+---
+Somewhat useless for space
+travel without its helmet.
+
+
+---
+id: 1191
+attribute: 0x6400A00001030002
+---
+Sweat it out in this health-
+conscious flexible outfit.
+
+
+---
+id: 1192
+attribute: 0x6400A00001030002
+---
+You never know what random
+stuff you'll find wearing this.
+
+
+---
+id: 1193
+attribute: 0x6400A00001030002
+---
+A piece that suits elegant
+demeanor, with a cream color.
+
+
+---
+id: 1194
+attribute: 0x6400A00001030002
+---
+Fight your opponents as sweat
+glistens on your brow.
+
+
+---
+id: 1195
+attribute: 0x6400A00001030002
+---
+A blinding loose jersey for
+going out with.
+
+
+---
+id: 1196
+attribute: 0x6400A00001030002
+---
+A blinded loose jersey for
+going out with.
+
+
+---
+id: 1197
+attribute: 0x6400A00001030002
+---
+A blouson jacket with volume
+around the neck, with jeans.
+
+
+---
+id: 1198
+attribute: 0x6400A00001030002
+---
+An inspector needs to inspect
+this outfit for inspection.
+
+
+---
+id: 1199
+attribute: 0x6400A00001030002
+---
+A sharp-looking uniform to
+protect the city with.
+
+
+---
+id: 1200
+attribute: 0x6400A00001030002
+---
+Some jeans and an apron will
+get the job done efficiently.
+
+
+---
+id: 1201
+attribute: 0x6400A00001030002
+---
+24/7 workers can't change
+from this uniform. Convient.
+
+
+---
+id: 1202
+attribute: 0x6400A00001030002
+---
+Enjoy the marine style as you
+get a tan down to your feet.
+
+
+---
+id: 1203
+attribute: 0x6400A00001030002
+---
+A black T-shirt with kanji
+printed on the back. Neat!
+
+
+---
+id: 1204
+attribute: 0x6400A00001030002
+---
+A retro dress with a bold
+color scheme. Looks unique.
+
+
+---
+id: 1205
+attribute: 0x6400A00001030002
+---
+A brown blazer that's paired
+with gray checks. Elegant.
+
+
+---
+id: 1206
+attribute: 0x6400A00001030002
+---
+A brown blazer that's paired
+with gray checks. Elegant.
+
+
+---
+id: 1207
+attribute: 0x6400A00001030002
+---
+There's even a striped shirt
+underneath.
+
+
+---
+id: 1208
+attribute: 0x6400A00001030002
+---
+You could wear this to break
+into a big place. Camoflauge!
+
+
+---
+id: 1209
+attribute: 0x6400A00001030002
+---
+Blue coveralls with rubber
+boots for dealing with water.
+
+
+---
+id: 1210
+attribute: 0x6400A00001030002
+---
+A sophisticated monochrome
+look that suits anyone.
+
+
+---
+id: 1211
+attribute: 0x6400A00001030002
+---
+A red leather jacket with
+some vintage jeans. Awesome.
+
+
+---
+id: 1212
+attribute: 0x6400A00001030002
+---
+A vivi dress that looks cute, 
+even when viewed from behind.
+
+
+---
+id: 1213
+attribute: 0x6400A00001030002
+---
+A striaghtforward look worn
+with a straightened back.
+
+
+---
+id: 1214
+attribute: 0x6400A00001030002
+---
+It's great for standing out
+in a blizzard.
+
+
+---
+id: 1215
+attribute: 0x6400A00001030002
+---
+Aim for completion as you get
+cheers from the roadside!
+
+
+---
+id: 1216
+attribute: 0x6400A00001030002
+---
+A pure white gi with a jet-
+black belt. Very balanced.
+
+
+---
+id: 1217
+attribute: 0x6400A00001030002
+---
+Looks cool with the bold
+colors and geometric patterns.
+
+
+---
+id: 1218
+attribute: 0x6400A00001030002
+---
+Fly through the sky with this
+cute uniform! Also has a ribbon.
+
+
+---
+id: 1219
+attribute: 0x6400A00001030002
+---
+It sets itself apart from your
+ordinary collared shirt
+
+
+---
+id: 1220
+attribute: 0x6400A00001030002
+---
+A noble garment fit for a King.
+Or a Queen. Or a very royal Mii.
+
+
+---
+id: 1221
+attribute: 0x6400A00001030002
+---
+The checkrered pattern seems
+somewhat nostalgic.
+
+
+---
+id: 1222
+attribute: 0x6400A00001030002
+---
+A not-so-bold polka-dot pattern
+with a turtleneck underneath.
+
+
+---
+id: 1223
+attribute: 0x6400A00001030002
+---
+It has a rich texture that
+enhances the wearer's charm.
+
+
+---
+id: 1224
+attribute: 0x6400A00001030002
+---
+Comes with cuffed sleeves and
+cute tapered pants.
+
+
+---
+id: 1225
+attribute: 0x6400A00001030002
+---
+Perfect for kids and adults!
+Comes with felt elbow pads.
+
+
+---
+id: 1226
+attribute: 0x6400A00001030002
+---
+A pink jersey with a fancy
+logo on the back. Stylish!
+
+
+---
+id: 1227
+attribute: 0x6400A00001030002
+---
+Lace up the hem for a more
+feminine touch.
+
+
+---
+id: 1228
+attribute: 0x6400A00001030002
+---
+Some ripped jeans with a
+simple shirt for contrast.
+
+
+---
+id: 1229
+attribute: 0x6400A00001030002
+---
+You're bound to have an
+exciting time if you wear this.
+
+
+---
+id: 1230
+attribute: 0x6400A00001030002
+---
+The checkered pattern looks
+cute. Looks fresh with sandals.
+
+
+---
+id: 1231
+attribute: 0x6400A00001030002
+---
+A sophisticated casual style.
+A bit ironic.
+
+
+---
+id: 1232
+attribute: 0x6400A00001030002
+---
+But where's the sleigh
+and reindeer?
+
+
+---
+id: 1233
+attribute: 0x6400A00001030002
+---
+Fire resistant durable clothing.
+The color's bright on purpose.
+
+
+---
+id: 1234
+attribute: 0x6400A00001030002
+---
+Make a smash with this cute,
+pastel pink outfit!
+
+
+---
+id: 1235
+attribute: 0x6400A00001030002
+---
+Monochrome checker patterns:
+easy for anyone to wear.
+
+
+---
+id: 1236
+attribute: 0x6400A00001030002
+---
+A shirt with pink stripes.
+How elegant.
+
+
+---
+id: 1237
+attribute: 0x6400A00001030002
+---
+A black kimono with an elegant
+chrysanthemum pattern.
+
+
+---
+id: 1238
+attribute: 0x6400A00001030002
+---
+A thick, cotton-padded kimono
+to stay warm in the cold.
+
+
+---
+id: 1239
+attribute: 0x6400A00001030002
+---
+The red inner layer really
+stands out.
+
+
+---
+id: 1240
+attribute: 0x6400A00001030002
+---
+A classic argyle sweater.
+Some people might want it.
+
+
+---
+id: 1241
+attribute: 0x6400A00001030002
+---
+The french sleeves and frills
+make it look adorable.
+
+
+---
+id: 1242
+attribute: 0x6400A00001030002
+---
+I don't know what else to say.
+It's just a white shirt.
+
+
+---
+id: 1243
+attribute: 0x6400A00001030002
+---
+The colors are muted on this
+shirt.
+
+
+---
+id: 1244
+attribute: 0x6400A00001030002
+---
+Don't go anywhere wearing this!
+It's only for lounging around.
+
+
+---
+id: 1245
+attribute: 0x6400A00001030002
+---
+Very sophisticated, with the
+black lace at the neck.
+
+
+---
+id: 1246
+attribute: 0x6400A00001030002
+---
+A pratical garment used
+for moving around easily.
+
+
+---
+id: 1247
+attribute: 0x6400A00001030002
+---
+You must fight with honor!
+
+
+---
+id: 1248
+attribute: 0x6400A00001030002
+---
+Some things in this world are
+too fancy. This is one of them.
+
+
+---
+id: 1249
+attribute: 0x6400A00001030002
+---
+It also comes with a short
+hem. Very bold.
+
+
+---
+id: 1250
+attribute: 0x6400A00001030002
+---
+The soft lavender hue makes
+the wearer look refined.
+
+
+---
+id: 1251
+attribute: 0x6400A00001030002
+---
+It's relaxing to wear, with
+the knit top and loose bottoms.
+
+
+---
+id: 1252
+attribute: 0x6400A00001030002
+---
+It looks cute due to the color
+and short length.
+
+
+---
+id: 1253
+attribute: 0x6400A00001030002
+---
+There's something under
+that wrapping, right?
+
+
+---
+id: 1254
+attribute: 0x6400A00001030002
+---
+They might look like colorful
+chopsticks, but these are cute!
+
+
+---
+id: 1255
+attribute: 0x6400A00001030002
+---
+A classic shirt with a subdued
+checkered pattern.
+
+
+---
+id: 1256
+attribute: 0x6400A00001030002
+---
+Don't mind if your hem keeps
+dragging, just keep walking.
+
+
+---
+id: 1257
+attribute: 0x6400A00001030002
+---
+It has a beautiful gradient.
+Congrats on graduating!
+
+
+---
+id: 1258
+attribute: 0x6400A00001030002
+---
+It has the word sinserity on
+the back. It's vibrant and blue.
+
+
+---
+id: 1259
+attribute: 0x6400A00001030002
+---
+A ninja suit made for those
+who live a secret life.
+
+
+---
+id: 1260
+attribute: 0x6400A00001030002
+---
+A funny suit with a unitail. Needs
+antennas pointing from the head.[a]
+
+
+---
+id: 1261
+attribute: 0x6400A00001030002
+---
+It's not your average bodysuit,
+It has a zebra pattern!
+
+
+---
+id: 1262
+attribute: 0x6400A00001030002
+---
+A straw skirt worn to feel
+a tropical breeze.
+
+
+---
+id: 1263
+attribute: 0x6400A00001030002
+---
+Time to show off your sculpted
+physique with this tank top!
+
+
+---
+id: 1264
+attribute: 0x6400A00001030002
+---
+Bermuda? Like the triangle?
+So mysterious!
+
+
+---
+id: 1265
+attribute: 0x6400A00001030002
+---
+A red skirt that doesn't have
+much besides a necklace.
+
+
+---
+id: 1266
+attribute: 0x6400A00001030002
+---
+Is this for a hipster or a
+lumberjack? Maybe both.
+
+
+---
+id: 1267
+attribute: 0x6400A00001030002
+---
+It has a nice color, a small
+backpack, and rolled-up sleeves.
+
+
+---
+id: 1268
+attribute: 0x6400A00001030002
+---
+It kinda looks like that one
+idol with the blue hair!
+
+
+---
+id: 1269
+attribute: 0x6400A00001030002
+---
+It looks like a walking
+computer. Super stylish.
+
+
+---
+id: 1270
+attribute: 0x6400A00001030002
+---
+There's no head, but at least
+you have a tail. Stomp around!
+
+
+---
+id: 1271
+attribute: 0x6400A00001030002
+---
+Who needs to nap at night only?
+With this, you can nap anywhere!
+
+
+---
+id: 1272
+attribute: 0x6400A00001030002
+---
+Who needs to nap at night only?
+With this, you can nap anywhere!
+
+
+---
+id: 1273
+attribute: 0x6400A00001030002
+---
+Splish splash.
+
+
+---
+id: 1274
+attribute: 0x6400A00001030002
+---
+Look embarasingly adorable
+with these puffy sleeves!
+
+
+---
+id: 1275
+attribute: 0x6400A00001030002
+---
+It's the thing you're using,
+unless it's being emulated.
+
+
+---
+id: 1276
+attribute: 0x6400A00001030002
+---
+Wii would like to play!
+
+
+---
+id: 1277
+attribute: 0x6400A00001030002
+---
+The only things you fear are
+industrial revolutions and acid.
+
+
+---
+id: 1278
+attribute: 0x6400A00001030002
+---
+They run around like little
+chickens pushing cardboard.
+
+
+---
+id: 1279
+attribute: 0x6400A00001030002
+---
+The most serious outfit when
+it comes to cooking.
+
+
+---
+id: 1280
+attribute: 0x6400A00001030002
+---
+This elegant kimono evokes
+the spirit of spring.
+
+
+---
+id: 1281
+attribute: 0x6400A00001030002
+---
+This looks bland and boring.
+Maybe it's because it's gray.
+
+
+---
+id: 1282
+attribute: 0x6400A00001030002
+---
+Looks very psychedelic and
+groovy. Can you handle the funk?
+
+
+---
+id: 1283
+attribute: 0x6400A00001030002
+---
+Leaves have never looked so
+blocky before.
+
+
+---
+id: 1284
+attribute: 0x6400A00001030002
+---
+It keeps the wearer warm
+but ironically depicts snow.
+
+
+---
+id: 1285
+attribute: 0x6400A00001030002
+---
+Spring up the flowers with
+this pleasant dress.
+
+
+---
+id: 1286
+attribute: 0x6400A00001030002
+---
+These look like microplastics.
+
+
+---
+id: 1287
+attribute: 0x6400A00001030002
+---
+Wear this for any celebratory
+events. Congratulations!
+
+
+---
+id: 1288
+attribute: 0x6400A00001030002
+---
+It's a bit dissapoing that
+it doesn't come with a mask...
+
+
+---
+id: 1289
+attribute: 0x6400A00001030002
+---
+A refreshing pastel pink top
+with a denim mini skirt.
+
+
+---
+id: 1290
+attribute: 0x6400A00001030002
+---
+There's an oversized logo on
+the back. What does it mean?
+
+
+---
+id: 1291
+attribute: 0x6400A00001030002
+---
+Lightweight, warm, and
+convient.
+
+
+---
+id: 1292
+attribute: 0x6400A00001030002
+---
+If you gave this to someone
+tall, are they still a dwarf?
+
+
+---
+id: 1293
+attribute: 0x6400A00001030002
+---
+Best for hardly working after
+being hard working.
+
+
+---
+id: 1294
+attribute: 0x6400A00001030002
+---
+The cotton's soft-to-the-touch!
+
+
+---
+id: 1295
+attribute: 0x6400A00001030002
+---
+A good 'ol yellow raincoat for
+when it's absolutely pouring.
+
+
+---
+id: 1296
+attribute: 0x6400A00001030002
+---
+It could probably be great
+for gardening. Very versatile.
+
+
+---
+id: 1297
+attribute: 0x6400A00001030002
+---
+A big piece of lipstick hides
+any and all lipstick stains.
+
+
+---
+id: 1298
+attribute: 0x6400A00001030002
+---
+Become one with the flannel.
+
+
+---
+id: 1299
+attribute: 0x6400A00001030002
+---
+A cute shirt with a bear.
+You should give him honey!
+
+
+---
+id: 2000
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2001
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2002
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2003
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2004
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2005
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2006
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2007
+attribute: 0x6400A00001030002
+---
+ 
+
+
+---
+id: 2008
+attribute: 0x6400A00001030002
+---
+It's the white void
+from the mid-2000s!
+
+
+---
+id: 2009
+attribute: 0x6400A00001030002
+---
+Tatami mats, tea table, and
+a retro TV from the Showa era.
+
+
+---
+id: 2010
+attribute: 0x6400A00001030002
+---
+It's a room filled with dogs.
+Absolutely no cats allowed!
+
+
+---
+id: 2011
+attribute: 0x6400A00001030002
+---
+It's the closest thing you'll
+have to becoming a kid again.
+
+
+---
+id: 2012
+attribute: 0x6400A00001030002
+---
+It looks more like dried
+apricots than flowers.
+
+
+---
+id: 2013
+attribute: 0x6400A00001030002
+---
+You're very likely to get a
+head injury near the door.
+
+
+---
+id: 2014
+attribute: 0x6400A00001030002
+---
+Abracadabra! Did you know that
+carpet's floating on air?
+
+
+---
+id: 2015
+attribute: 0x6400A00001030002
+---
+You're bound to have FUN here if
+you're afraid of drowning.
+
+
+---
+id: 2016
+attribute: 0x6400A00001030002
+---
+The color scheme creates a
+soothing area for the heart.
+
+
+---
+id: 2017
+attribute: 0x6400A00001030002
+---
+A run-of-the-mill room with
+a fridge and a TV.
+
+
+---
+id: 2018
+attribute: 0x6400A00001030002
+---
+Yee-haw! Live it up in this
+cozy orange contry cottage.
+
+
+---
+id: 2019
+attribute: 0x6400A00001030002
+---
+Everything in this room is
+more expensive than you.
+
+
+---
+id: 2020
+attribute: 0x6400A00001030002
+---
+There's plenty of ethnic-
+inspired furniture here.
+
+
+---
+id: 2021
+attribute: 0x6400A00001030002
+---
+A serious room filled with
+nothing but books.
+
+
+---
+id: 2022
+attribute: 0x6400A00001030002
+---
+"Good day sir, I do fancy the
+interior of this faculty."
+
+
+---
+id: 2023
+attribute: 0x6400A00001030002
+---
+A quaint treehouse in the
+forest, away from the city.
+
+
+---
+id: 2024
+attribute: 0x6400A00001030002
+---
+You no longer have any
+excuses to not excercise.
+
+
+---
+id: 2025
+attribute: 0x6400A00001030002
+---
+Don't believe their lies. The
+moon IS made out of cheese.
+
+
+---
+id: 2026
+attribute: 0x6400A00001030002
+---
+A CD collector's worst
+nightmare: digitizing vinyl.
+
+
+---
+id: 2027
+attribute: 0x6400A00001030002
+---
+Uh… I guess it's humble…
+
+
+---
+id: 2028
+attribute: 0x6400A00001030002
+---
+There's some colors to make
+the monochrome room look neat.
+
+
+---
+id: 2029
+attribute: 0x6400A00001030002
+---
+A simplistic yet stylish room
+for the youth. Needs a table.
+
+
+---
+id: 2030
+attribute: 0x6400A00001030002
+---
+OH MY STARS, 
+EVERYTHING'S PINK!
+
+
+---
+id: 2031
+attribute: 0x6400A00001030002
+---
+A colorful room likely meant
+for kids to roam in.
+
+
+---
+id: 2032
+attribute: 0x6400A00001030002
+---
+An elegant room for A
+sophisticated woman. Splendid!
+
+
+---
+id: 2033
+attribute: 0x6400A00001030002
+---
+A swanky, concrete-walled room
+for professionals.
+
+
+---
+id: 2034
+attribute: 0x6400A00001030002
+---
+"You call this a room? This
+is just a hole in the building!"
+
+
+---
+id: 2035
+attribute: 0x6400A00001030002
+---
+If only there was a doctor
+to use all this equipment...
+
+
+---
+id: 2036
+attribute: 0x6400A00001030002
+---
+A room filled with plenty of
+masterpieces throughout time.
+
+
+---
+id: 2037
+attribute: 0x6400A00001030002
+---
+Oooh, shiny...
+
+
+---
+id: 2038
+attribute: 0x6400A00001030002
+---
+Hypothetically speaking, you
+could try to eat this room.
+
+
+---
+id: 2039
+attribute: 0x6400A00001030002
+---
+This is what they meant by
+"work from home," right?
+
+
+---
+id: 2040
+attribute: 0x6400A00001030002
+---
+It's very detailed and morbid.
+Plenty of white laces here.
+
+
+---
+id: 2041
+attribute: 0x6400A00001030002
+---
+A wonderful room to cook (and
+burn) your food.
+
+
+---
+id: 2042
+attribute: 0x6400A00001030002
+---
+Needs more cables, microphones,
+and loose chords flying around.
+
+
+---
+id: 2043
+attribute: 0x6400A00001030002
+---
+A room built for dancing all
+night. Tell your friends!
+
+
+---
+id: 2044
+attribute: 0x6400A00001030002
+---
+What a view! And it only cost
+me my soul to stay here!
+
+
+---
+id: 2045
+attribute: 0x6400A00001030002
+---
+Press all of the buttons.
+Nothing bad will happen, right?
+
+
+---
+id: 2046
+attribute: 0x6400A00001030002
+---
+Time to spend hours putting
+on makeup. Joy.
+
+
+---
+id: 2047
+attribute: 0x6400A00001030002
+---
+This is great! But you need
+someone else to cut your hair.
+
+
+---
+id: 2048
+attribute: 0x6400A00001030002
+---
+Become one with the frozen 
+fish by staying in the cold.
+
+
+---
+id: 2049
+attribute: 0x6400A00001030002
+---
+A room to relive school in.
+Don't doze off in class!
+
+
+---
+id: 2050
+attribute: 0x6400A00001030002
+---
+A gamer's paradise (as long
+as you have enough quarters)!
+
+
+---
+id: 2051
+attribute: 0x6400A00001030002
+---
+It's like a very annoying
+game of "spot the difference."
+
+
+---
+id: 2052
+attribute: 0x6400A00001030002
+---
+Practice your English with
+little alphabet fairies!
+
+
+---
+id: 2053
+attribute: 0x6400A00001030002
+---
+I hope that TV won't cause
+a fire. Everything's wooden.
+
+
+---
+id: 2054
+attribute: 0x6400A00001030002
+---
+I heard this Mii was in
+jail for pirating NDS games...
+
+
+---
+id: 2055
+attribute: 0x6400A00001030002
+---
+Look at that aurora! The light
+from the snow hut feels warm.
+
+
+---
+id: 2056
+attribute: 0x6400A00001030002
+---
+A relaxing room you can use
+to empty your mind. Ahhhhh…
+
+
+---
+id: 2057
+attribute: 0x6400A00001030002
+---
+Enjoy a beautiful sunset as
+gravity tries to make you fall.
+
+
+---
+id: 2058
+attribute: 0x6400A00001030002
+---
+It's nice to relax alone,
+but couples can enjoy it too.
+
+
+---
+id: 2059
+attribute: 0x6400A00001030002
+---
+For those who cherish harmony.
+The screen light is striking.
+
+
+---
+id: 2060
+attribute: 0x6400A00001030002
+---
+Ants. The only downside to
+this place is ants.
+
+
+---
+id: 2061
+attribute: 0x6400A00001030002
+---
+You don't have to only grow
+radishes. Cycle your crops!
+
+
+---
+id: 2062
+attribute: 0x6400A00001030002
+---
+Pollen. There's tons of sneezy
+pollen everywhere. Sad.
+
+
+---
+id: 2063
+attribute: 0x6400A00001030002
+---
+Be immersed in grown-up
+atmosphere of a suite room.
+
+
+---
+id: 2064
+attribute: 0x6400A00001030002
+---
+Trick or Treat!
+You're in for a spook!
+
+
+---
+id: 2065
+attribute: 0x6400A00001030002
+---
+Merry Christmas, forever!
+Muhahaha!
+
+
+---
+id: 2066
+attribute: 0x6400A00001030002
+---
+At least you'll never have
+to take a shower again.
+
+
+---
+id: 2067
+attribute: 0x6400A00001030002
+---
+It's a room filled with cats.
+Absolutely no dogs allowed!
+
+
+---
+id: 2068
+attribute: 0x6400A00001030002
+---
+Unwind with a hevenly view
+of Mt. Fuji as you bathe.
+
+
+---
+id: 2069
+attribute: 0x6400A00001030002
+---
+Why is this a "ruin" when
+it was made recently?
+
+
+---
+id: 2070
+attribute: 0x6400A00001030002
+---
+The best part is that there's
+no crying baby included!
+
+
+---
+id: 2071
+attribute: 0x6400A00001030002
+---
+Relax among your plants
+and bask under the sun.
+
+
+---
+id: 2072
+attribute: 0x6400A00001030002
+---
+This is where we milk the
+"X is being milked" jokes.
+
+
+---
+id: 2073
+attribute: 0x6400A00001030002
+---
+A nice backyard where you can
+relax and have some tea.
+
+
+---
+id: 2074
+attribute: 0x6400A00001030002
+---
+Look at the crowd cheering
+on this game of "Kick me" ball!
+
+
+---
+id: 2075
+attribute: 0x6400A00001030002
+---
+An elegant room for an
+elegant lifestyle.
+
+
+---
+id: 2076
+attribute: 0x6400A00001030002
+---
+What if I told you this whole
+room is secretly chocolate?
+
+
+---
+id: 2077
+attribute: 0x6400A00001030002
+---
+Re-create the photo where
+smealum did the thing!
+
+
+---
+id: 3000
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 5 or higher to buy.
+
+
+---
+id: 3100
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 10 or higher to buy.
+
+
+---
+id: 3200
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 15 or higher to buy.
+
+
+---
+id: 3300
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 20 or higher to buy.
+
+
+---
+id: 3400
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 25 or higher to buy.
+
+
+---
+id: 3500
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 30 or higher to buy.
+
+
+[a]The germ suit looks like a black devil without the horns, instead using ladybug antennae in its place
