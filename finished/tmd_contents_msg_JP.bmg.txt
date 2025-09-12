@@ -1,0 +1,1785 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+
+---
+id: 100000
+attribute: 0x6400B40001030002
+---
+Write something in each box. The
+Miis will move to one of them!
+
+
+
+
+
+
+---
+id: 100050
+attribute: 0x6400B40001010001
+---
+Ex. What should I eat?
+
+
+---
+id: 100051
+attribute: 0x6400B40001010001
+---
+Ex. What should I play?
+
+
+---
+id: 100052
+attribute: 0x6400B40001030001
+---
+Ex. Which hairstyle should I get?
+
+
+---
+id: 100053
+attribute: 0x6400B40001030001
+---
+Ex. Where should I go?
+
+
+---
+id: 100054
+attribute: 0x6400B40001030001
+---
+Ex. What thing should I choose?
+
+
+---
+id: 100055
+attribute: 0x6400B40001030001
+---
+Ex. What should I do?
+
+
+---
+id: 100056
+attribute: 0x6400B40001030001
+---
+Ex. Which one should I raise?
+
+
+---
+id: 100100
+attribute: 0x6400B40001010101
+---
+Begin Vote
+
+
+---
+id: 100300
+attribute: 0x6400600001010102
+---
+This one!
+
+
+---
+id: 100400
+attribute: 0x6400780001010102
+---
+Tie...
+
+
+
+
+---
+id: 100500
+attribute: 0x6400600001010101
+---
+{{255:3 arg="0x0100"}}Start Voting!
+
+
+---
+id: 100600
+attribute: 0x6400600001010101
+---
+Retry
+
+
+---
+id: 100700
+attribute: 0x6400600001010101
+---
+Quit
+
+
+---
+id: 101000
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I randomly chose this one."
+
+
+---
+id: 101001
+attribute: 0x6400E00001030001
+---
+テキトウニエラビマシタ
+
+
+---
+id: 101002
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I guess it's this one."
+
+
+---
+id: 101003
+attribute: 0x6400E00001030001
+---
+ヤッパリコッチカナー
+
+
+---
+id: 101004
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Totally this one!"
+
+
+---
+id: 101005
+attribute: 0x6400E00001030001
+---
+ゼッタイコッチ!
+
+
+---
+id: 101006
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I went with this one."
+
+
+---
+id: 101007
+attribute: 0x6400E00001030001
+---
+ドッチカトイウト_コッチカナ
+
+
+---
+id: 101008
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one's fine, isn't it?"
+
+
+---
+id: 101009
+attribute: 0x6400E00001030001
+---
+コッチデイインジャナイ?
+
+
+---
+id: 101010
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I'm not sure either..."
+
+
+---
+id: 101011
+attribute: 0x6400E00001030001
+---
+ジシンナイケド
+
+
+---
+id: 101012
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Maybe they're the same thing."
+
+
+---
+id: 101013
+attribute: 0x6400E00001030001
+---
+マー_ドッチモオナジカモネ
+
+
+---
+id: 101014
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I recommend this one!"
+
+
+---
+id: 101015
+attribute: 0x6400E00001030001
+---
+コチラヲオススメシマス
+
+
+---
+id: 101016
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one, through my process of elimination."
+
+
+---
+id: 101017
+attribute: 0x6400E00001030001
+---
+ショウキョホウデキメマシタ
+
+
+---
+id: 101018
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Perhaps I should have gone that way..."
+
+
+---
+id: 101019
+attribute: 0x6400E00001030001
+---
+ヤッパリアッチダッタカナ
+
+
+---
+id: 101020
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Everyone followed me."
+
+
+---
+id: 101021
+attribute: 0x6400E00001030001
+---
+ミンナニツイテキマシタ
+
+
+---
+id: 101022
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I smelled something good over here."
+
+
+---
+id: 101023
+attribute: 0x6400E00001030001
+---
+コッチカラ_オイシソウナニオイガシタノデ
+
+
+---
+id: 101024
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I'm in the mood for this one!"
+
+
+---
+id: 101025
+attribute: 0x6400E00001030001
+---
+コッチガイマノキブンデス!
+
+
+---
+id: 101026
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I'm on this side."
+
+
+---
+id: 101027
+attribute: 0x6400E00001030001
+---
+ワタシワコッチハデス。
+
+
+---
+id: 101028
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"It was my destiny to choose this."
+
+
+---
+id: 101029
+attribute: 0x6400E00001030001
+---
+コッチニウンメイヲカンジタノデ
+
+
+---
+id: 101030
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I can't take my eyes off this one!"
+
+
+---
+id: 101031
+attribute: 0x6400E00001030001
+---
+イマ_コッチニメガハナセナイ!
+
+
+---
+id: 101032
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This is the correct answer!"
+
+
+---
+id: 101033
+attribute: 0x6400E00001030001
+---
+コッチガセイカイ!
+
+
+---
+id: 101034
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"The other one seemed unrealistic."
+
+
+---
+id: 101035
+attribute: 0x6400E00001030001
+---
+アッチワチョットアリエナイデショ
+
+
+---
+id: 101036
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one's appropiate for this year."
+
+
+---
+id: 101037
+attribute: 0x6400E00001030001
+---
+コッチガコトシラシイヨネ
+
+
+---
+id: 101038
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Well, generally, it's this one."
+
+
+---
+id: 101039
+attribute: 0x6400E00001030001
+---
+マア_テイバンデコッチカナ
+
+
+---
+id: 101040
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I thought it was this way instead."
+
+
+---
+id: 101041
+attribute: 0x6400E00001030001
+---
+ギャクニコッチカナトオモッテ
+
+
+---
+id: 101042
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I took this one, just felt like it."
+
+
+---
+id: 101043
+attribute: 0x6400E00001030001
+---
+アエテコッチデス
+
+
+---
+id: 101044
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one is the standard one."
+
+
+---
+id: 101045
+attribute: 0x6400E00001030001
+---
+コッチガキホンカナ
+
+
+---
+id: 101046
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"It's better than the other side."
+
+
+---
+id: 101047
+attribute: 0x6400E00001030001
+---
+アッチヨリワマシダヨ
+
+
+---
+id: 101048
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Surprisingly, it's this one."
+
+
+---
+id: 101049
+attribute: 0x6400E00001030001
+---
+イガイトコッチ
+
+
+---
+id: 101050
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I got popular after choosing this one."
+
+
+---
+id: 101051
+attribute: 0x6400E00001030001
+---
+コッチニシテカラモテモテデス
+
+
+---
+id: 101052
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"From my experience, I chose this one!"
+
+
+---
+id: 101053
+attribute: 0x6400E00001030001
+---
+ケイケンカライッテコッチ!
+
+
+---
+id: 101054
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one had some change on the ground."
+
+
+---
+id: 101055
+attribute: 0x6400E00001030001
+---
+コッチニジュウエンダマガオチテタノデ
+
+
+---
+id: 101056
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"The other one's painful."
+
+
+---
+id: 101057
+attribute: 0x6400E00001030001
+---
+アッチニシテイタイメニアッタノデ
+
+
+---
+id: 101058
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Is there dodge ball here?"
+
+
+---
+id: 101059
+attribute: 0x6400E00001030001
+---
+ドッチボールジャナインデスカ
+
+
+---
+id: 101060
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Only rookies would choose the other one."
+
+
+---
+id: 101061
+attribute: 0x6400E00001030001
+---
+シロウトワアッチヲエラビタガリマスヨネ
+
+
+---
+id: 101062
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"There's a lot of stylish Miis over here."
+
+
+---
+id: 101063
+attribute: 0x6400E00001030001
+---
+コッチワセンスノイイミーガオオイデスヨネ
+
+
+---
+id: 101064
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I think this one is better."
+
+
+---
+id: 101065
+attribute: 0x6400E00001030001
+---
+コッチノホウガイイトオモウヨ
+
+
+---
+id: 101066
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I read the room and decided to try this."
+
+
+---
+id: 101067
+attribute: 0x6400E00001030001
+---
+クウキヲヨンデ_コッチニシテミマシタ
+
+
+---
+id: 101068
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"My family has chose this for many generations."
+
+
+---
+id: 101069
+attribute: 0x6400E00001030001
+---
+センゾダイダイ_コッチデスネ
+
+
+---
+id: 101070
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Probably this one? Who knows."
+
+
+---
+id: 101071
+attribute: 0x6400E00001030001
+---
+タブン_コッチカナ?
+
+
+---
+id: 101072
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"At the moment, it's definitely this one."
+
+
+---
+id: 101073
+attribute: 0x6400E00001030001
+---
+サイキンワ_ダンゼンコッチダネ
+
+
+---
+id: 101074
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I kind of like the other side, but this one's OK."
+
+
+---
+id: 101075
+attribute: 0x6400E00001030001
+---
+アッチモワルクナインダケドネ
+
+
+---
+id: 101076
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I choose this side by a narrow margin!"
+
+
+---
+id: 101077
+attribute: 0x6400E00001030001
+---
+キンサデコッチ!
+
+
+---
+id: 101078
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I don't think there's a right side."
+
+
+---
+id: 101079
+attribute: 0x6400E00001030001
+---
+ドチラガセイカイッテワケジャナイダロウケドネ
+
+
+---
+id: 101080
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I choose this. No reason, just felt like it."
+
+
+---
+id: 101081
+attribute: 0x6400E00001030001
+---
+コッチッテキブンデシタ。
+
+
+---
+id: 101082
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I had a hunch it was this one."
+
+
+---
+id: 101083
+attribute: 0x6400E00001030001
+---
+チョッカンヲシンジテミマシタ
+
+
+---
+id: 101084
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I couldn't decide, but I chose this one."
+
+
+---
+id: 101085
+attribute: 0x6400E00001030001
+---
+マヨイマシタガ_コッチニキメマシタ
+
+
+---
+id: 101086
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I'm not indecisive when it comes to this."
+
+
+---
+id: 101087
+attribute: 0x6400E00001030001
+---
+ユウジュウフダンジャナイノデ
+
+
+---
+id: 101088
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I didn't hesitate and chose this one."
+
+
+---
+id: 101089
+attribute: 0x6400E00001030001
+---
+マヨワズ_コッチニシマシタ
+
+
+---
+id: 101090
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Both are good, but I like this one."
+
+
+---
+id: 101091
+attribute: 0x6400E00001030001
+---
+アッチモステガタイケド_コッチカナ
+
+
+---
+id: 101092
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one, but I'll never tell"
+
+
+---
+id: 101093
+attribute: 0x6400E00001030001
+---
+コッチデス_キメテハナイショデスガ
+
+
+---
+id: 101094
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one's more grown up."
+
+
+---
+id: 101095
+attribute: 0x6400E00001030001
+---
+オトナワ_トウゼンコッチデスヨ
+
+
+---
+id: 101096
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I chose this one with pure intentions."
+
+
+---
+id: 101097
+attribute: 0x6400E00001030001
+---
+ジュンスイナキモチデコッチニシマシタ
+
+
+---
+id: 101098
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This side's popular with the youth!"
+
+
+---
+id: 101099
+attribute: 0x6400E00001030001
+---
+ワカモノワコッチシカアリエナイ!
+
+
+---
+id: 101100
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"It was hard to choose."
+
+
+---
+id: 101101
+attribute: 0x6400E00001030001
+---
+イヤ～_ムズカシカッタデス
+
+
+---
+id: 101102
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"To be honest, I couldn't decide."
+
+
+---
+id: 101103
+attribute: 0x6400E00001030001
+---
+ショウジキニイウト_ナヤミマシタ。
+
+
+---
+id: 101104
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one! No, maybe it's the other one..."
+
+
+---
+id: 101105
+attribute: 0x6400E00001030001
+---
+ウ～ン_コッチ!イヤ_アッチカナ?
+
+
+---
+id: 101106
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This isn't wrong, right?"
+
+
+---
+id: 101107
+attribute: 0x6400E00001030001
+---
+コッチデマチガッテマセンヨネ？
+
+
+---
+id: 101108
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"After all, it's got to be this one."
+
+
+---
+id: 101109
+attribute: 0x6400E00001030001
+---
+ヤッパリ_コッチジャナイト
+
+
+---
+id: 101110
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This side's very comfy."
+
+
+---
+id: 101111
+attribute: 0x6400E00001030001
+---
+コッチノホーガシックリキマス
+
+
+---
+id: 101112
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I decided with the pure heart of a baby."
+
+
+---
+id: 101113
+attribute: 0x6400E00001030001
+---
+コドモノコロノピュアナココロデキメマシタ
+
+
+---
+id: 101114
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Based on first impressions, this one."
+
+
+---
+id: 101115
+attribute: 0x6400E00001030001
+---
+ダイイチインショーカラキメテイマシタ
+
+
+---
+id: 101116
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I knew it the moment I saw it!"
+
+
+---
+id: 101117
+attribute: 0x6400E00001030001
+---
+ヒトメミテ_キメタヨ!
+
+
+---
+id: 101118
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"This one seemed a little funny."
+
+
+---
+id: 101119
+attribute: 0x6400E00001030001
+---
+ズバリ!コッチ!!
+
+
+---
+id: 101120
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"From my experience, it's this one!"
+
+
+---
+id: 101121
+attribute: 0x6400E00001030001
+---
+ケイケンカライッテコッチ!
+
+
+---
+id: 101700
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"{{1:10 arg="0x0000"}}"
+
+
+---
+id: 101701
+attribute: 0x6400E00001030001
+---
+{{1:10 arg="0x0000"}}
+
+
+---
+id: 200200
+attribute: 0x6400E00001010001
+---
+Test
+
+
+---
+id: 200202
+attribute: 0x6400E00001010001
+---
+{{1:1 arg="0x0000"}}
+
+
+---
+id: 200203
+attribute: 0x6400E00001010101
+---
+OK
+
+
+---
+id: 200204
+attribute: 0x6400B40001010007
+---
+Please select a Mii you want to check.
+
+
+---
+id: 200205
+attribute: 0x6400B40001010007
+---
+Select another mii 
+you want to pair with
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
+
+
+---
+id: 200206
+attribute: 0x6400E00001010001
+---
+Sort
+
+
+---
+id: 200207
+attribute: 0x6400E00001010001
+---
+Skip
+
+
+---
+id: 200208
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}This Mii's birthday needs to be filled out.
+
+
+---
+id: 200209
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}You might be mistaking {{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} for a narcicist. Select another Mii.
+
+
+---
+id: 200250
+attribute: 0x6400B40001010007
+---
+This pair will be diagnosed.
+Is it okay?
+
+
+---
+id: 200300
+attribute: 0x6400E00001010101
+---
+Yes
+
+
+---
+id: 200350
+attribute: 0x6400E00001010101
+---
+No
+
+
+---
+id: 200400
+attribute: 0x6400000101010102
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}&{{255:0 arg="0x0700"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0800"}}'s
+Their Compatibility Level is...
+
+
+---
+id: 200450
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}BFFS forever!
+
+
+---
+id: 200500
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Soul mates
+
+
+---
+id: 200600
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}} Great friends
+
+
+---
+id: 200700
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Pretty close friends
+
+
+---
+id: 200800
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Pretty good friends
+
+
+---
+id: 200900
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Just friends
+
+
+---
+id: 201000
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}} "Friends"
+
+
+---
+id: 201100
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Formal relationship
+
+
+---
+id: 201200
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Eh...
+
+
+---
+id: 201300
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}Frequent fighters
+
+
+---
+id: 201400
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}They get along well like cats and dogs
+
+
+---
+id: 201420
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0500"}}The worst friends ever?! Oh no...
+
+
+---
+id: 201450
+attribute: 0x6400000101010102
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}&{{255:0 arg="0x0700"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0800"}}'s
+Their Love Compatibility is...
+
+
+---
+id: 201470
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}The ultimate couple
+
+
+---
+id: 201500
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}The couple of destiny
+
+
+---
+id: 201600
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}} A Lovely couple
+
+
+---
+id: 201700
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}Matching-outfit couple
+
+
+---
+id: 201800
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}The talk-of-the-town
+
+
+---
+id: 201900
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}Kind of bland couple
+
+
+---
+id: 202000
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}A indecisive couple
+
+
+---
+id: 202100
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}A hopeless couple
+
+
+---
+id: 202200
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}Not a couple, just friends
+
+
+---
+id: 202300
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}Pretty incompatable couple
+
+
+---
+id: 202400
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}A hopeless Couple
+
+
+---
+id: 202500
+attribute: 0x6400F00001010101
+---
+{{255:0 arg="0x0200"}}The worst ever couple
+
+
+---
+id: 202700
+attribute: 0x6400E00001010101
+---
+Select another pair
+
+
+---
+id: 202800
+attribute: 0x6400E00001010101
+---
+Quit
+
+
+---
+id: 202850
+attribute: 0x6400E00001010001
+---
+Oh my. It's rare to see such a bad match.
+
+
+---
+id: 202900
+attribute: 0x6400E00001010002
+---
+These two like to argue about their opinions.
+Their feelings are completely incompatable.
+
+
+---
+id: 203000
+attribute: 0x6400E00001010001
+---
+There's nothing much to say about them...
+
+
+---
+id: 203100
+attribute: 0x6400E00001010002
+---
+If {{1:1 arg="0x0000"}} tries hard,
+they might become friends.
+
+
+---
+id: 203200
+attribute: 0x6400E00001010002
+---
+It appears that {{1:1 arg="0x0000"}} seems keen
+to make other friends.
+
+
+---
+id: 203300
+attribute: 0x6400E00001010002
+---
+Despite their clashes, {{1:1 arg="0x0000"}} 
+secretly wishes to become friends.
+
+
+---
+id: 203400
+attribute: 0x6400E00001010001
+---
+They don't care about each other.
+
+
+---
+id: 203500
+attribute: 0x6400E00001010001
+---
+They're on good enough terms to
+greet each other, occasionally.
+
+
+---
+id: 203600
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0100"}} doesn't really
+like it that they are friends.
+
+
+---
+id: 203700
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0000"}} is thinking about
+doing something with this relationship.
+
+
+---
+id: 203800
+attribute: 0x6400E00001010001
+---
+There's no movement in their relationship.
+
+
+---
+id: 203900
+attribute: 0x6400E00001010001
+---
+This is a pretty normal friendship, 
+nothing to see here.
+
+
+---
+id: 204000
+attribute: 0x6400E00001010002
+---
+If they start to have a fight,
+they might loose contact.
+
+
+---
+id: 204100
+attribute: 0x6400E00001010002
+---
+They seem to get along well.
+It seems easy for them to be together.
+
+
+---
+id: 204200
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0100"}} might want
+to become closer friends.
+
+
+---
+id: 204300
+attribute: 0x6400E00001010002
+---
+Sadly, {{1:1 arg="0x0100"}} doesn't want
+to get closer.
+
+
+---
+id: 204400
+attribute: 0x6400E00001010002
+---
+It seems like their relationship
+can't go any further than this.
+
+
+---
+id: 204500
+attribute: 0x6400E00001010002
+---
+It's a perfect match! They will
+cherish meeting each other for life!
+
+
+---
+id: 204600
+attribute: 0x6400E00001010002
+---
+A Perfect match! Their friendship
+will persist even through fights.
+
+
+---
+id: 204700
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0000"}} wants to be
+careful to grow a deeper relationship.
+
+
+---
+id: 204800
+attribute: 0x6400E00001010002
+---
+If the two fight, {{1:1 arg="0x0100"}}
+might want to end the relationship.
+
+
+---
+id: 204900
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0100"}} might stab them
+in the back!
+
+
+---
+id: 204950
+attribute: 0x6400E00001010002
+---
+A friendship that's once in a lifetime!
+They'll be lifelong friends!
+
+
+---
+id: 204970
+attribute: 0x6400E00001010001
+---
+It's heartbreaking to see such bad chemistry...
+
+
+---
+id: 205000
+attribute: 0x6400E00001010001
+---
+There's nothing the two can do about it.
+
+
+---
+id: 205100
+attribute: 0x6400E00001010001
+---
+They're indifferent about each other.
+Not one of them cares about the other enough.
+
+
+---
+id: 205200
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0000"}} is trying to
+make things work out for them.
+
+
+---
+id: 205300
+attribute: 0x6400E00001010002
+---
+Secretly, {{1:1 arg="0x0000"}} has
+been harboring feelings for the relationship.
+
+
+---
+id: 205400
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0000"}} tries to commit
+to this relationship, but it isn't enough...
+
+
+---
+id: 205500
+attribute: 0x6400E00001010001
+---
+Nothing will happen for these two,
+even if something wonderful happens.
+
+
+---
+id: 205600
+attribute: 0x6400E00001010001
+---
+They feel like they don't have
+anything to do with each other.
+
+
+---
+id: 205700
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0000"}} is probably
+in a unrequited relationship.
+
+
+---
+id: 205800
+attribute: 0x6400E00001010002
+---
+It seems to be a one-sided
+crush on {{1:1 arg="0x0000"}}.
+
+
+---
+id: 205900
+attribute: 0x6400E00001010001
+---
+They are satisfied with the current
+closeness between them.
+
+
+---
+id: 206000
+attribute: 0x6400E00001010001
+---
+They both have to make
+their relationship work.
+
+
+---
+id: 206100
+attribute: 0x6400E00001010002
+---
+{{1:1 arg="0x0100"}} doesn't seem
+enthusiastic about this relationship.
+
+
+---
+id: 206200
+attribute: 0x6400E00001010002
+---
+If one of them's interested, their
+relationship will grow rapidly!
+
+
+---
+id: 206300
+attribute: 0x6400E00001010002
+---
+The future can open up for them
+if they can make some compromises.
+
+
+---
+id: 206400
+attribute: 0x6400E00001010002
+---
+But {{1:1 arg="0x0000"}}'s attachment
+to this relationship is surpringly bland.
+
+
+---
+id: 206500
+attribute: 0x6400E00001010002
+---
+The relationship is based on
+{{1:1 arg="0x0000"}}'s strong feelings.
+
+
+---
+id: 206600
+attribute: 0x6400E00001010002
+---
+They were truly meant for each other!
+It wasn't a coincidence that they have met.
+Perhaps it's fate!
+
+
+---
+id: 206700
+attribute: 0x6400E00001010002
+---
+They really love each other! Just leave
+everything to {{1:1 arg="0x0000"}}!
+
+
+---
+id: 206800
+attribute: 0x6400E00001010002
+---
+Although they love each other, if they
+let their guard down, {{1:1 arg="0x0100"}}
+tends to loose interest.
+
+
+---
+id: 206900
+attribute: 0x6400E00001010002
+---
+They love each other, but they
+never stop fighting.
+
+
+---
+id: 207000
+attribute: 0x6400E00001010002
+---
+Although this looks like mutual love, the true
+feelings of {{1:1 arg="0x0100"}} are hazy.
+
+
+---
+id: 207100
+attribute: 0x6400E00001010002
+---
+They are a match made in heaven!
+They might as well be married already!
+
+
+---
+id: 300000
+attribute: 0x6400800001020005
+---
+What does vitality mean, 
+anyway? Nobody knows.
+(Birth date required)
+
+
+---
+id: 300100
+attribute: 0x6400800001020005
+---
+Who's the most popular
+boy on the island?
+(Please stop complaining
+about  being ranked 
+at the bottom.)
+
+
+---
+id: 300200
+attribute: 0x6400800001020005
+---
+Who's the most popular
+girl on the island?
+(There's more to life
+than being popular,
+you know.)
+
+
+---
+id: 300300
+attribute: 0x6400800001020005
+---
+Who's the most popular
+resident overall?
+(It's not me, that's for
+sure.)
+
+
+---
+id: 300400
+attribute: 0x6400800001020005
+---
+
+
+Who is very happy?
+(Based on a spree 
+I had while using the 
+Compatibility Tester.)
+
+
+---
+id: 300500
+attribute: 0x6400800001020005
+---
+Who's the best couple?
+(PLEASE don't take this
+as serious dating advice!)
+
+
+---
+id: 300600
+attribute: 0x6400800001020005
+---
+Who does the look-alike
+like most?
+(The Miis at the bottom
+deserve some attention
+as well!)
+
+
+---
+id: 300700
+attribute: 0x6400780001010005
+---
+Most Popular Boy
+Work In Progress
+---Conditions---
+Have a male Mii
+confesses his feelings.
+
+
+---
+id: 300800
+attribute: 0x6400780001010005
+---
+Most Popular Girl
+Work In Progress
+---Conditions---
+Have a female Mii
+confesses her feelings.
+
+
+---
+id: 300900
+attribute: 0x6400780001010005
+---
+Most Popular
+Work In Progress
+---Conditions---
+Have 15 residents on
+the island.
+
+
+---
+id: 301000
+attribute: 0x6400780001010005
+---
+Best Friendship
+Work In Progress
+---Conditions---
+Have 10 residents of the
+same-gender do compatibility tests.
+
+
+---
+id: 301100
+attribute: 0x6400780001010005
+---
+Best Couple
+Work In Progress
+---Conditions---
+Have 10 residents of the 
+opposite-gender do compatibility tests.
+
+
+---
+id: 301200
+attribute: 0x6400780001010005
+---
+Favorited by Look-alike
+Work In Progress
+---Conditions---
+Have 30 residents 
+
+
+---
+id: 301300
+attribute: 0x6400400001010001
+---
+e
+
+
+---
+id: 900000
+attribute: 0x6400000001030001
+---
+ck
