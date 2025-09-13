@@ -36,14 +36,14 @@ Cheer up!
 id: 3
 attribute: 0x6400E10001000001
 ---
-Find someone
+Find someone else.
 
 
 ---
 id: 4
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I can’t do it… "
+{{255:0 arg="0x0100"}}"I can’t do it…"
 
 
 ---
@@ -71,7 +71,7 @@ attribute: 0x6400E10001000001
 id: 10
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I got rejected..."
+{{255:0 arg="0x0100"}}"I got dumped…"
 
 
 ---
@@ -85,21 +85,21 @@ attribute: 0x6400E10001000001
 id: 12
 attribute: 0x6400E10001000001
 ---
-Cheer up
+Cheer up!
 
 
 ---
 id: 13
 attribute: 0x6400E10001000001
 ---
-Find someone
+Find someone else.
 
 
 ---
 id: 14
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Yes, I'll try."
+{{255:0 arg="0x0100"}}"Yes, I'll try my best."
 
 
 ---
@@ -113,7 +113,7 @@ attribute: 0x6400E10001000001
 id: 16
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"There's no one..."
+{{255:0 arg="0x0100"}}"They're not here…"
 
 
 ---
@@ -127,7 +127,7 @@ attribute: 0x6400E10001000001
 id: 20
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm no good..."
+{{255:0 arg="0x0100"}}"I can't do this anymore..."
 
 
 ---
@@ -141,14 +141,14 @@ attribute: 0x6400E10001000001
 id: 22
 attribute: 0x6400E10001000001
 ---
-It'll be okay
+Some days just suck.
 
 
 ---
 id: 23
 attribute: 0x6400E10001000001
 ---
-Be strong!
+Get a grip!
 
 
 ---
@@ -183,7 +183,7 @@ attribute: 0x6400E10001000001
 id: 30
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's no good..."
+{{255:0 arg="0x0100"}}"I can't do this anymore..."
 
 
 ---
@@ -211,7 +211,7 @@ Be strong!
 id: 34
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I know it..."
+{{255:0 arg="0x0100"}}"I feel hopeless..."
 
 
 ---
@@ -225,7 +225,7 @@ attribute: 0x6400E10001000001
 id: 36
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"...Okay, I'll try to be strong!"
+{{255:0 arg="0x0100"}}"...Okay, I'll try to do my best!"
 
 
 ---
@@ -1821,21 +1821,21 @@ attribute: 0x6400E10001000001
 id: 100002
 attribute: 0x6400E10001000001
 ---
-Cheer up
+Cheer up!
 
 
 ---
 id: 100003
 attribute: 0x6400E10001000001
 ---
-Find someone else
+Find someone else.
 
 
 ---
 id: 100004
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"No good..."
+{{255:0 arg="0x0100"}}"I can't..."
 
 
 ---
@@ -1877,21 +1877,21 @@ attribute: 0x6400E10001000001
 id: 100012
 attribute: 0x6400E10001000001
 ---
-Cheer up
+Cheer up!
 
 
 ---
 id: 100013
 attribute: 0x6400E10001000001
 ---
-Find someone else
+Find someone else.
 
 
 ---
 id: 100014
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Yes, I'll try."
+{{255:0 arg="0x0100"}}"Yes, I'll give it my all."
 
 
 ---
@@ -1919,7 +1919,7 @@ attribute: 0x6400E10001000001
 id: 100020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm no good..."
+{{255:0 arg="0x0100"}}"I can't do this anymore..."
 
 
 ---
@@ -2472,4 +2472,5 @@ attribute: 0x6400E10001000001
 id: 300037
 attribute: 0x6400E10001000001
 ---
+
 ハイ＿ガンバリマス！
