@@ -95,7 +95,7 @@ id: 50
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. My policy
-is 「Others are others, I am myself.」"
+is 'Others are others, & I am myself.'"
 
 
 ---
@@ -111,7 +111,7 @@ id: 60
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I look
-calm but I'm burning with passion inside."
+quiet, but I have a hidden passionate soul."
 
 
 ---
@@ -126,8 +126,8 @@ attribute: 0x6400E10001000001
 id: 70
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. There's a
-big gap between my dream and reality."
+{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I
+struggle with the gap between ideals and reality."
 
 
 ---
@@ -158,8 +158,8 @@ attribute: 0x6400E10001000001
 id: 90
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I'm calm but my
-emotions obviously show on my face."
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I'm calm, but you
+can read my face like a book."
 
 
 ---
@@ -174,8 +174,8 @@ attribute: 0x6400E10001000001
 id: 100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I worry about
-a lot of things even while I'm smiling.
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I think about
+a lot of things while I'm smiling.
 
 
 ---
@@ -190,7 +190,7 @@ attribute: 0x6400E10001000001
 id: 110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I'm the type
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I'm the type
 that cares too much about others."
 
 
@@ -206,7 +206,7 @@ attribute: 0x6400E10001000001
 id: 120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~ I like to do things
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I like to do things
 at my pace, but I'm prone to worrying."
 
 
@@ -237,7 +237,7 @@ id: 140
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}...
-People usually say that I'm very formal."
+People often tell me I'm stiff."
 
 
 ---
@@ -269,7 +269,7 @@ id: 160
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}...
-I think I'm a serious person."
+I'm very serious."
 
 
 ---
@@ -285,7 +285,7 @@ id: 170
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}!
-I always take action when an idea hits me."
+I'm very impulsive and do things in a whim."
 
 
 ---
@@ -301,7 +301,7 @@ id: 180
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}!
-You'll have fun when you're with me."
+Others say I'm fun to be around."
 
 
 ---
@@ -316,8 +316,8 @@ attribute: 0x6400E10001000001
 id: 190
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}!
-I like it when there are a lot of people."
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I enjoy
+making noise with others and having fun."
 
 
 ---
@@ -348,8 +348,8 @@ attribute: 0x6400E10001000001
 id: 210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}.
-I think I'm a capable woman."
+{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I boast
+a lot, but I'm a capable woman."
 
 
 ---
@@ -365,7 +365,7 @@ id: 220
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. People
-often say that I should stay single."
+often say that solitude suits me."
 
 
 ---
@@ -380,8 +380,8 @@ attribute: 0x6400E10001000001
 id: 230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}.
-I'm an older sister stereotype."
+{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. People
+think of me as a big sister to them."
 
 
 ---
@@ -444,8 +444,8 @@ attribute: 0x6400E10001000001
 id: 270
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~
-I'm pretty gullible."
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}!
+I'm pretty gullible, apparently."
 
 
 ---
@@ -461,7 +461,7 @@ id: 280
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~
-I usually do things at my pace."
+I usually do things at my own pace."
 
 
 ---
@@ -491,7 +491,7 @@ id: 300
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}...
-I show my emotions obviously on my face."
+I don't show emotions on my face."
 
 
 ---
@@ -580,7 +580,7 @@ attribute: 0x6400E10001000001
 id: 100010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Hello~!"
+{{255:0 arg="0x0100"}}"Good afternoon!"
 
 
 ---
@@ -594,7 +594,7 @@ attribute: 0x6400E10001000001
 id: 100020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Good evening~!"
+{{255:0 arg="0x0100"}}"Good evening!"
 
 
 ---
@@ -622,8 +622,8 @@ attribute: 0x6400E10001000001
 id: 100040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-welcome to my room!"
+{{255:0 arg="0x0100"}}"Welcome to my room,
+{{1:31 arg="0x0000"}}'s lookalike!"
 
 
 ---
@@ -638,7 +638,8 @@ attribute: 0x6400E10001000001
 id: 100050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm really mad now!"
+{{255:0 arg="0x0100"}}"Someone made
+me fustrated, now I'm angry!"
 
 
 ---
@@ -652,7 +653,7 @@ attribute: 0x6400E10001000001
 id: 100060
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Ah, hello..."
+{{255:0 arg="0x0100"}}"Oh, hi…"
 
 
 ---
@@ -723,7 +724,8 @@ attribute: 0x6400E10001000001
 id: 100110
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm not sleepy."
+{{255:0 arg="0x0100"}}"I have no idea
+how, but I can't sleep."
 
 
 ---
@@ -737,8 +739,8 @@ attribute: 0x6400E10001000001
 id: 100120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-welcome."
+{{255:0 arg="0x0100"}}"Welcome,
+{{1:31 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -753,7 +755,8 @@ attribute: 0x6400E10001000001
 id: 100130
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel unhappy now."
+{{255:0 arg="0x0100"}}"I feel a bit
+annoyed."
 
 
 ---
@@ -767,7 +770,8 @@ attribute: 0x6400E10001000001
 id: 100140
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm so tired..."
+{{255:0 arg="0x0100"}}"Are you getting
+tired, {{1:31 arg="0x0000"}}'s lookalike?"
 
 
 ---
@@ -796,7 +800,7 @@ attribute: 0x6400E10001000001
 id: 100160
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Good morning~"
+{{255:0 arg="0x0100"}}"Good morning!"
 
 
 ---
@@ -810,7 +814,7 @@ attribute: 0x6400E10001000001
 id: 100170
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Hello~"
+{{255:0 arg="0x0100"}}"Hellooo!"
 
 
 ---
@@ -824,7 +828,7 @@ attribute: 0x6400E10001000001
 id: 100180
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Good evening~"
+{{255:0 arg="0x0100"}}"Good evening!"
 
 
 ---
@@ -838,7 +842,7 @@ attribute: 0x6400E10001000001
 id: 100190
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm so alert~"
+{{255:0 arg="0x0100"}}"I'm excited!"
 
 
 ---
@@ -852,8 +856,8 @@ attribute: 0x6400E10001000001
 id: 100200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-welcome."
+{{255:0 arg="0x0100"}}"Welcome,
+{{1:31 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -868,7 +872,8 @@ attribute: 0x6400E10001000001
 id: 100210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"This is rare, but I'm so mad now."
+{{255:0 arg="0x0100"}}"I'm usually
+never angry, except for NOW."
 
 
 ---
@@ -883,7 +888,7 @@ attribute: 0x6400E10001000001
 id: 100220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"This is really bad..."
+{{255:0 arg="0x0100"}}"I've had enough..."
 
 
 ---
@@ -898,7 +903,8 @@ attribute: 0x6400E10001000001
 id: 100230
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm miserable..."
+{{255:0 arg="0x0100"}}"I can't stand
+this heartbreak..."
 
 
 ---
@@ -954,7 +960,7 @@ attribute: 0x6400E10001000001
 id: 100270
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm still up..."
+{{255:0 arg="0x0100"}}"I'm still awake..."
 
 
 ---
@@ -968,8 +974,8 @@ attribute: 0x6400E10001000001
 id: 100280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-hello..."
+{{255:0 arg="0x0100"}}"Oh, hello,
+{{1:31 arg="0x0000"}}'s lookalike..."
 
 
 ---
@@ -998,7 +1004,7 @@ attribute: 0x6400E10001000001
 id: 100300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Hah..."
+{{255:0 arg="0x0100"}}"Sigh..."
 
 
 ---
@@ -1012,7 +1018,7 @@ attribute: 0x6400E10001000001
 id: 100310
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Hah..."
+{{255:0 arg="0x0100"}}"Sigh..."
 
 
 ---
@@ -1026,8 +1032,8 @@ attribute: 0x6400E10001000001
 id: 100320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
-year!"
+{{255:0 arg="0x0100"}}"Happy New Year. I look forward
+to your support this year!"
 
 
 ---
@@ -1041,8 +1047,8 @@ attribute: 0x6400E10001000001
 id: 100330
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
-year!"
+{{255:0 arg="0x0100"}}"Happy New Year. I look forward
+to your support this year!"
 
 
 ---
@@ -1056,8 +1062,8 @@ attribute: 0x6400E10001000001
 id: 100340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
-year!"
+{{255:0 arg="0x0100"}}"Happy New Year. I look forward
+to your support this year!"
 
 
 ---
@@ -1071,7 +1077,8 @@ attribute: 0x6400E10001000001
 id: 100350
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Today is Christmas Eve!"
+{{255:0 arg="0x0100"}}"Christmas is only a day away!
+Can you believe it? I'm so excited!"
 
 
 ---
@@ -7586,4 +7593,5 @@ attribute: 0x6400E10001000001
 
 
 [a]see comment below
+
 [b]Needs to be replaced with something funny that would make the gamer go "Wait, what?!"
