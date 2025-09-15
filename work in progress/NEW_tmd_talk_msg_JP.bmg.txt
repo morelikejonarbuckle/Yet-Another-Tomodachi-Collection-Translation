@@ -1120,8 +1120,8 @@ attribute: 0x6400E10001000001
 id: 100380
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-I haven't seen you for a week."
+{{255:0 arg="0x0100"}}"I haven't seen you for a week,
+{{1:31 arg="0x0000"}}'s lookalike. What's up?"
 
 
 ---
@@ -1150,7 +1150,7 @@ id: 100400
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-I haven't seen you for a while."
+I haven't seen you in a while."
 
 
 ---
@@ -1164,7 +1164,7 @@ attribute: 0x6400E10001000001
 id: 100410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Long time no see~"
+{{255:0 arg="0x0100"}}"It's been a while!"
 
 
 ---
@@ -1179,7 +1179,7 @@ id: 100420
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Long time no see!
-I was so lonely when you weren't here."
+I missed you so much..."
 
 
 ---
@@ -1209,7 +1209,7 @@ attribute: 0x6400E10001000001
 id: 100440
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's been a week since I met you,
+{{255:0 arg="0x0100"}}"It's been a week since I saw you,
 {{1:31 arg="0x0000"}}'s lookalike."
 
 
@@ -1224,7 +1224,7 @@ attribute: 0x6400E10001000001
 id: 100450
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I haven't seen you for a week."
+{{255:0 arg="0x0100"}}"It's been a week, hasn't it?"
 Did you catch a cold or something?"
 
 
@@ -1239,8 +1239,8 @@ attribute: 0x6400E10001000001
 id: 100460
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 weeks since I met you."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+It's been 2 weeks since we talked, hasn't it?"
 
 
 ---
@@ -1254,8 +1254,8 @@ attribute: 0x6400E10001000001
 id: 100470
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Thank you for visiting me!"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+Thanks for coming over!"
 
 
 ---
@@ -1269,8 +1269,8 @@ attribute: 0x6400E10001000001
 id: 100480
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Long time no see."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+long time no see."
 
 
 ---
@@ -1284,7 +1284,7 @@ attribute: 0x6400E10001000001
 id: 100490
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Long time no see. Where have you been?"
+{{255:0 arg="0x0100"}}"Long time no see. Where've you been?"
 
 
 ---
@@ -1299,7 +1299,7 @@ id: 100500
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-You've come to visit me!"
+You finally came to visit!"
 
 
 ---
@@ -1313,7 +1313,7 @@ attribute: 0x6400E10001000001
 id: 100510
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Wow! Long time no see!"
+{{255:0 arg="0x0100"}}"Wow! It's been so long!"
 
 
 ---
@@ -1328,7 +1328,7 @@ id: 100520
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-It's been 3 weeks since I met you."
+It's been 3 weeks since we last met, no?"
 
 
 ---
@@ -1342,8 +1342,8 @@ attribute: 0x6400E10001000001
 id: 100530
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I was just thinking that I wanted to see
-{{1:31 arg="0x0000"}}'s lookalike."
+{{255:0 arg="0x0100"}}"It feels like I'm meeting you for
+the first time, {{1:31 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -1372,8 +1372,8 @@ attribute: 0x6400E10001000001
 id: 100550
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Have you been traveling somewhere?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+have you been traveling somewhere?"
 
 
 ---
@@ -1388,7 +1388,7 @@ id: 100560
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-It's been a month since I met you."
+It's been a month, hasn't it?"
 
 
 ---
@@ -1403,7 +1403,7 @@ id: 100570
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"You haven't visited me for a month!
-That's cruel."
+That's terrible."
 
 
 ---
@@ -1417,8 +1417,8 @@ attribute: 0x6400E10001000001
 id: 100580
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Where have you been this whole month?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
+Where the heck have you been all this time?"
 
 
 ---
@@ -1433,7 +1433,7 @@ id: 100590
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-I haven't seen you for a long time."
+It's been quite a while, hasn't it?"
 
 
 ---
@@ -1448,7 +1448,7 @@ id: 100600
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since I met you."
+It's been 2 months since we last met, no?"
 
 
 ---
@@ -1463,7 +1463,7 @@ id: 100610
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"You haven't visited me for 2 months!
-That's cruel."
+That's terrible!"
 
 
 ---
@@ -1507,8 +1507,8 @@ attribute: 0x6400E10001000001
 id: 100640
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-It's been 3 months since I met you."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike! It's been
+3 months since we last met, no?"
 
 
 ---
@@ -1537,7 +1537,7 @@ attribute: 0x6400E10001000001
 id: 100660
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Long time no see."
+{{255:0 arg="0x0100"}}"You finally came over!"
 
 
 ---
@@ -1551,7 +1551,7 @@ attribute: 0x6400E10001000001
 id: 100670
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Where have you been all these 3 months,
+{{255:0 arg="0x0100"}}"Where the heck have you been,
 {{1:31 arg="0x0000"}}'s lookalike?"
 
 
@@ -1581,8 +1581,8 @@ attribute: 0x6400E10001000001
 id: 100690
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Long time no see. Really!"
+{{255:0 arg="0x0100"}}"It's been ages,
+{{1:31 arg="0x0000"}}'s lookalike!"
 
 
 ---
@@ -1611,7 +1611,7 @@ attribute: 0x6400E10001000001
 id: 100710
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Um... Ah, you are
+{{255:0 arg="0x0100"}}"Um... you're
 {{1:31 arg="0x0000"}}'s lookalike, right?"
 
 
@@ -1626,8 +1626,8 @@ attribute: 0x6400E10001000001
 id: 100720
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0122"}}䤀琀✀猀 戀攀攀渀 愀 爀攀愀氀氀礀 氀漀渀最 琀椀洀攀℀਀䤀✀洀 最氀愀搀 琀漀 猀攀攀 礀漀甀 愀最愀椀渀℀∀
-
+{{255:0 arg="0x0122"}}It's been forever!
+So glad to see you again!
 
 ---
 id: 100721
@@ -1654,7 +1654,7 @@ attribute: 0x6400E10001000001
 id: 200000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"How is the weather in your world?"
+{{255:0 arg="0x0100"}}"How's the weather in your world?"
 
 
 ---
@@ -1668,7 +1668,7 @@ attribute: 0x6400E10001000001
 id: 200010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Is it hot over there?"
+{{255:0 arg="0x0100"}}"Is it hot in your world too?"
 
 
 ---
@@ -1682,7 +1682,7 @@ attribute: 0x6400E10001000001
 id: 200020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Is it cold over there?"
+{{255:0 arg="0x0100"}}"Is it cold in your world too?"
 
 
 ---
@@ -1696,7 +1696,7 @@ attribute: 0x6400E10001000001
 id: 200030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's hot today."
+{{255:0 arg="0x0100"}}"It's really hot today, isn't it?"
 
 
 ---
@@ -1724,7 +1724,8 @@ attribute: 0x6400E10001000001
 id: 200050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's getting cooler lately."
+{{255:0 arg="0x0100"}}"The weather's finally
+starting to cool down."
 
 
 ---
@@ -1738,7 +1739,7 @@ attribute: 0x6400E10001000001
 id: 200060
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's chilly today."
+{{255:0 arg="0x0100"}}"It's really chilly today."
 
 
 ---
@@ -1753,7 +1754,7 @@ id: 200070
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Today is Valentine's Day.
-I'm a bit excited..."
+I'm feeling a bit nervous..."
 
 
 ---
@@ -1767,8 +1768,8 @@ attribute: 0x6400E10001000001
 id: 200080
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is Valentine's Day. Will
-{{1:31 arg="0x0000"}} give me chocolate?"
+{{255:0 arg="0x0100"}}"Today is Valentine's Day. I wonder
+if {{1:31 arg="0x0000"}} will give me chocolate?"
 
 
 ---
@@ -1810,7 +1811,8 @@ attribute: 0x6400E10001000001
 id: 200110
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Another year has ended, huh?"
+{{255:0 arg="0x0100"}}"Another year's coming
+to an end, huh?"
 
 
 ---
@@ -1824,7 +1826,7 @@ attribute: 0x6400E10001000001
 id: 200120
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's getting warm."
+{{255:0 arg="0x0100"}}"It's nice and warm, isn't it?"
 
 
 ---
@@ -1867,8 +1869,8 @@ attribute: 0x6400E10001000001
 id: 200150
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Hello~"
+{{255:0 arg="0x0100"}}"Hello there,
+{{1:31 arg="0x0000"}}'s lookalike!"
 
 
 ---
@@ -1882,8 +1884,8 @@ attribute: 0x6400E10001000001
 id: 200160
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Hello."
+{{255:0 arg="0x0100"}}"Hello,
+{{1:31 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -1897,8 +1899,8 @@ attribute: 0x6400E10001000001
 id: 200170
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Hello~"
+{{255:0 arg="0x0100"}}"Helloo, 
+{{1:31 arg="0x0000"}}'s lookalike!"
 
 
 ---
@@ -1912,8 +1914,8 @@ attribute: 0x6400E10001000001
 id: 200180
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-Hello."
+{{255:0 arg="0x0100"}}"Good evening,
+{{1:31 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -1927,8 +1929,8 @@ attribute: 0x6400E10001000001
 id: 200190
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Something good happened!
-Do you know what it was?"
+{{255:0 arg="0x0100"}}"Something wonderful
+happened! Can you guess what it was?"
 
 
 ---
@@ -1942,7 +1944,8 @@ attribute: 0x6400E10001000001
 id: 200200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I am so mad now! I can't feel at peace!"
+{{255:0 arg="0x0100"}}"My insides are boiling!
+I can't seem to calm down!"
 
 
 ---
@@ -1956,7 +1959,8 @@ attribute: 0x6400E10001000001
 id: 200210
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"This thing doesn't suit me at all..."
+{{255:0 arg="0x0100"}}"This doesn't seem like me
+at all..."
 
 
 ---
@@ -1970,7 +1974,8 @@ attribute: 0x6400E10001000001
 id: 200220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"To be honest, I'm now in love..."
+{{255:0 arg="0x0100"}}"To be honest, 
+I think I've fallen in love..."
 
 
 ---
@@ -1984,7 +1989,7 @@ attribute: 0x6400E10001000001
 id: 200230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"No, I don't really care about it."
+{{255:0 arg="0x0100"}}"No, I'm not giddy or anything."
 
 
 ---
@@ -1998,7 +2003,8 @@ attribute: 0x6400E10001000001
 id: 200240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm not angry. I'm just a bit irritated."
+{{255:0 arg="0x0100"}}"I'm not angry. I'm just a bit irritated.
+OK, maybe it's a bit more than that."
 
 
 ---
@@ -2012,7 +2018,7 @@ attribute: 0x6400E10001000001
 id: 200250
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Well, I'm fine..."
+{{255:0 arg="0x0100"}}"Well, I'm doing fine..."
 
 
 ---
@@ -2026,7 +2032,7 @@ attribute: 0x6400E10001000001
 id: 200260
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hah... Somehow I don't feel like myself..."
+{{255:0 arg="0x0100"}}"Hah... Somehow, I don't feel like myself..."
 
 
 ---
@@ -2040,8 +2046,8 @@ attribute: 0x6400E10001000001
 id: 200270
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hmm, you can tell, right?
-Something good happened to me."
+{{255:0 arg="0x0100"}}"Something happy happened to
+{{1:31 arg="0x0000"}}. You can tell, right?"
 
 
 ---
@@ -2055,7 +2061,8 @@ attribute: 0x6400E10001000001
 id: 200280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm so mad now. Is it unexpected?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}?
+That'll make me mad. Ain't that surprising?"
 
 
 ---
@@ -2069,8 +2076,8 @@ attribute: 0x6400E10001000001
 id: 200290
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When something bad happened, my
-emotions would show up on my face."
+{{255:0 arg="0x0100"}}"When something upsets me,
+it immediately shows on my face..."
 
 
 ---
@@ -2099,7 +2106,7 @@ attribute: 0x6400E10001000001
 id: 200310
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Something good happened..."
+{{255:0 arg="0x0100"}}"Something happy happened..."
 
 
 ---
@@ -2113,7 +2120,8 @@ attribute: 0x6400E10001000001
 id: 200320
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm so mad now..."
+{{255:0 arg="0x0100"}}"There's something
+that made me very uneasy..."
 
 
 ---
@@ -2127,7 +2135,8 @@ attribute: 0x6400E10001000001
 id: 200330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"This is painful..."
+{{255:0 arg="0x0100"}}"Sometimes, things get
+tough..."
 
 
 ---
@@ -2169,7 +2178,8 @@ attribute: 0x6400E10001000001
 id: 200360
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"A new year has started."
+{{255:0 arg="0x0100"}}"It's the start of a
+new year. Hope nothing bad happens!"
 
 
 ---
@@ -2183,7 +2193,8 @@ attribute: 0x6400E10001000001
 id: 200370
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's February now."
+{{255:0 arg="0x0100"}}"I can't believe
+it's already Feburary."
 
 
 ---
@@ -2197,7 +2208,8 @@ attribute: 0x6400E10001000001
 id: 200380
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's March now."
+{{255:0 arg="0x0100"}}"Oh boy, March
+begins today!"
 
 
 ---
@@ -2211,7 +2223,8 @@ attribute: 0x6400E10001000001
 id: 200390
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's April now."
+{{255:0 arg="0x0100"}}"It's time for April
+to rise and shine!"
 
 
 ---
@@ -2225,7 +2238,7 @@ attribute: 0x6400E10001000001
 id: 200400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's May now."
+{{255:0 arg="0x0100"}}"Another year, another May."
 
 
 ---
@@ -2239,7 +2252,8 @@ attribute: 0x6400E10001000001
 id: 200410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's June now."
+{{255:0 arg="0x0100"}}"Can't wait for the
+summer to start with June!"
 
 
 ---
@@ -2253,7 +2267,8 @@ attribute: 0x6400E10001000001
 id: 200420
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's July now."
+{{255:0 arg="0x0100"}}"We're already halfway
+done with the year in July!"
 
 
 ---
@@ -2267,7 +2282,8 @@ attribute: 0x6400E10001000001
 id: 200430
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's August now."
+{{255:0 arg="0x0100"}}"August begins as
+things start to cool down a bit."
 
 
 ---
@@ -2281,7 +2297,8 @@ attribute: 0x6400E10001000001
 id: 200440
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's September now."
+{{255:0 arg="0x0100"}}"Today's the start of
+September. It's a bit dry."
 
 
 ---
@@ -2295,7 +2312,8 @@ attribute: 0x6400E10001000001
 id: 200450
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's October now."
+{{255:0 arg="0x0100"}}"It's time to get
+spooky in October!"
 
 
 ---
@@ -2309,7 +2327,8 @@ attribute: 0x6400E10001000001
 id: 200460
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's November now."
+{{255:0 arg="0x0100"}}"We're almost done
+with the year! It's November already!"
 
 
 ---
@@ -2323,7 +2342,8 @@ attribute: 0x6400E10001000001
 id: 200470
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's December now."
+{{255:0 arg="0x0100"}}"Merry December! The
+year's going to end real soon."
 
 
 ---
@@ -2352,7 +2372,7 @@ attribute: 0x6400E10001000001
 id: 200490
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm not happy today..."
+{{255:0 arg="0x0100"}}"I'm not in the mood today..."
 
 
 ---
@@ -2366,8 +2386,8 @@ attribute: 0x6400E10001000001
 id: 300000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"People had donated money to
-help to make this island better."
+{{255:0 arg="0x0100"}}"I've decied to open up a
+donation box to improve island life. Check it out!"
 
 
 ---
@@ -2397,7 +2417,7 @@ id: 300020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
-often hang out together."
+often hang out once every two days."
 
 
 ---
@@ -2426,7 +2446,7 @@ attribute: 0x6400E10001000001
 id: 300040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"By the way, do you know
+{{255:0 arg="0x0100"}}"Hey, when was
 {{1:31 arg="0x0000"}}'s birthday?"
 
 
@@ -2441,7 +2461,7 @@ attribute: 0x6400E10001000001
 id: 300050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I really can't hate {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"You can't help but like {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2470,7 +2490,7 @@ id: 300070
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I want to keep some distance between
-{{1:31 arg="0x0000"}} and me."
+{{1:31 arg="0x0000"}} and I."
 
 
 ---
@@ -2498,7 +2518,8 @@ attribute: 0x6400E10001000001
 id: 300090
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've been dreaming of having 100 friends."
+{{255:0 arg="0x0100"}}"My dream is to have 
+a hundred friends."
 
 
 ---
@@ -2512,8 +2533,8 @@ attribute: 0x6400E10001000001
 id: 300100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a really
-nice person!"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a such
+a nice person!"
 
 
 ---
@@ -2528,7 +2549,7 @@ id: 300110
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Earlier, a bird pooped on
-{{1:31 arg="0x0000"}}'s head."
+{{1:31 arg="0x0000"}}'s head. It was funny!"
 
 
 ---
@@ -2557,7 +2578,7 @@ attribute: 0x6400E10001000001
 id: 300130
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I love {{1:31 arg="0x0000"}}!"
+{{255:0 arg="0x0100"}}"I absolutely adore {{1:31 arg="0x0000"}}!"
 
 
 ---
@@ -2587,7 +2608,7 @@ id: 300150
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
-cutest girl on this island."
+cutest person on this island."
 
 
 ---
@@ -2602,7 +2623,7 @@ id: 300160
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
-most handsome guy on this island."
+coolest person on this island."
 
 
 ---
@@ -2631,8 +2652,8 @@ attribute: 0x6400E10001000001
 id: 300180
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When I think of {{1:31 arg="0x0000"}},
-I can't sleep."
+{{255:0 arg="0x0100"}}"I can't sleep when I'm thinking of
+{{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2661,8 +2682,8 @@ attribute: 0x6400E10001000001
 id: 300200
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a girlfriend
-I'm really proud of."
+{{255:0 arg="0x0100"}}"Being {{1:31 arg="0x0000"}}'s
+boyfriend is my pride and joy."
 
 
 ---
@@ -2676,8 +2697,8 @@ attribute: 0x6400E10001000001
 id: 300210
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a boyfriend
-I'm really proud of."
+{{255:0 arg="0x0100"}}"Being {{1:31 arg="0x0000"}}'s
+girlfriend is my pride and joy."
 
 
 ---
@@ -2691,7 +2712,7 @@ attribute: 0x6400E10001000001
 id: 300220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It isn't like I'm obsessed with
+{{255:0 arg="0x0100"}}"It's not like I'm obsessed with
 {{1:31 arg="0x0000"}} or anything."
 
 
@@ -2706,8 +2727,8 @@ attribute: 0x6400E10001000001
 id: 300230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm not the type that gives all my
-attention to my lover."
+{{255:0 arg="0x0100"}}"I don't believe that having
+a partners means I don't need anything else."
 
 
 ---
@@ -2722,7 +2743,7 @@ id: 300240
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I usually don't praise people, but
-{{1:31 arg="0x0000"}} is a nice girl."
+{{1:31 arg="0x0000"}} is a nice girlfriend."
 
 
 ---
@@ -2751,7 +2772,7 @@ attribute: 0x6400E10001000001
 id: 300260
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I wonder how {{1:31 arg="0x0100"}}
+{{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0100"}}
 thinks about me."
 
 
@@ -7595,3 +7616,4 @@ attribute: 0x6400E10001000001
 [a]see comment below
 
 [b]Needs to be replaced with something funny that would make the gamer go "Wait, what?!"
+
