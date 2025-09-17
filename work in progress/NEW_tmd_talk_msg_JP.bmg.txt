@@ -2802,8 +2802,8 @@ attribute: 0x6400E10001000001
 id: 300280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want to be with {{1:31 arg="0x0000"}}
-more often."
+{{255:0 arg="0x0100"}}"I should spend some time
+with {{1:31 arg="0x0000"}} more often."
 
 
 ---
@@ -2817,7 +2817,8 @@ attribute: 0x6400E10001000001
 id: 300290
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I had held hands."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I were
+holding hands. Jealous?"
 
 
 ---
@@ -2831,8 +2832,8 @@ attribute: 0x6400E10001000001
 id: 300300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yesterday, I was so happy.
-I dreamed of {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"Yesterday, I had a dream
+with {{1:31 arg="0x0000"}}. I was so happy!"
 
 
 ---
@@ -2847,7 +2848,7 @@ id: 300310
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm falling in love with {{1:31 arg="0x0000"}}
-all over again but I can't say that..."
+again. I don't say it out loud, though..."
 
 
 ---
@@ -2861,8 +2862,8 @@ attribute: 0x6400E10001000001
 id: 300320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"If two people don't share mutual feelings,
-it's hard to be lovers, right?"
+{{255:0 arg="0x0100"}}"If two people don't share their feelings,
+they can't be lovers, right?"
 
 
 ---
@@ -2920,8 +2921,8 @@ attribute: 0x6400E10001000001
 id: 300360
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} cooked for me.
-I'm so happy..."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} cooked 
+some food for me. I'm so happy..."
 
 
 ---
@@ -2935,8 +2936,8 @@ attribute: 0x6400E10001000001
 id: 300370
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I've been so happy to be married
-to {{1:31 arg="0x0000"}}!"
+{{255:0 arg="0x0100"}}"After marrying {{1:31 arg="0x0000"}},
+every day has become more enjoyable!"
 
 
 ---
@@ -2965,8 +2966,8 @@ attribute: 0x6400E10001000001
 id: 300390
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think I'm so lucky to be married
-to {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"I'm so lucky that I married
+{{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2980,8 +2981,8 @@ attribute: 0x6400E10001000001
 id: 300400
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I feel so happy when I talk
-with {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"The most enjoyable thing
+of the day is my chats with {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2996,7 +2997,7 @@ id: 300410
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I feel so happy when I'm with
-{{1:31 arg="0x0000"}}."
+{{1:31 arg="0x0000"}}!"
 
 
 ---
@@ -3010,8 +3011,8 @@ attribute: 0x6400E10001000001
 id: 300420
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It'd be nice if I could spend time
-with {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"I hope I can slowly build up
+more time together with {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -3025,7 +3026,8 @@ attribute: 0x6400E10001000001
 id: 300430
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Married life isn't as exciting as I thought."
+{{255:0 arg="0x0100"}}"Married life is
+more mundane than I thought."
 
 
 ---
@@ -3054,8 +3056,8 @@ attribute: 0x6400E10001000001
 id: 300450
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I've been thinking about merits and
-demerits of getting married."
+{{255:0 arg="0x0100"}}"I've been thinking about 
+the pros and cons of getting married."
 
 
 ---
@@ -3085,7 +3087,7 @@ id: 300470
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Earlier, I went for a walk at the beach
-with {{1:31 arg="0x0000"}}."
+with {{1:31 arg="0x0000"}}. It was nice."
 
 
 ---
@@ -3100,7 +3102,7 @@ id: 300480
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Sometimes, I want to go back to be
-single again. Please don't tell anyone."
+single again. Please don't tell anyone!"
 
 
 ---
@@ -3115,7 +3117,7 @@ id: 300490
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"If you don't get married, you won't
-learn much about your partner, right?"
+get to learn much about your partner, right?"
 
 
 ---
@@ -3129,8 +3131,8 @@ attribute: 0x6400E10001000001
 id: 300500
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you think I would make
-a good leader for this island?"
+{{255:0 arg="0x0100"}}"Do you think {{1:31 arg='0x0000'}}
+would make a good leader for this island?"
 
 
 ---
@@ -3144,7 +3146,8 @@ attribute: 0x6400E10001000001
 id: 300510
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to be famous someday."
+{{255:0 arg="0x0100"}}"I want to be famous someday,
+and become a celebrity to look up to."
 
 
 ---
@@ -3158,8 +3161,8 @@ attribute: 0x6400E10001000001
 id: 300520
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I usually say what I think.
-It's normal, right?"
+{{255:0 arg="0x0100"}}"It's normal common sense
+to say what I think, right?"
 
 
 ---
@@ -3174,7 +3177,7 @@ id: 300530
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do you think taking over the world sounds
-charming to you?"
+charming to you? You're already a ruler of this island."
 
 
 ---
@@ -3189,7 +3192,8 @@ attribute: 0x6400E10001000001
 id: 300540
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I think I've lived a fun life everyday."
+{{255:0 arg="0x0100"}}"I think I've lived a fun life everyday.
+You should strive for a goal like that."
 
 
 ---
@@ -3203,7 +3207,8 @@ attribute: 0x6400E10001000001
 id: 300550
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to be prettier."
+{{255:0 arg="0x0100"}}"I want to be prettier and
+super beautiful."
 
 
 ---
@@ -3231,9 +3236,8 @@ attribute: 0x6400E10001000001
 id: 300570
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's refreshing when you can shout in
-a loud voice."
-
+{{255:0 arg="0x0100"}}"It's refreshing to yell, but that
+might annoy a lot of people."
 
 ---
 id: 300571
@@ -7616,4 +7620,5 @@ attribute: 0x6400E10001000001
 [a]see comment below
 
 [b]Needs to be replaced with something funny that would make the gamer go "Wait, what?!"
+
 
