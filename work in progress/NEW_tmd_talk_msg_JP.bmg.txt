@@ -3622,7 +3622,7 @@ attribute: 0x6400E10001000001
 id: 300830
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I think outward appearance is important."
+{{255:0 arg="0x0100"}}"I think looks are pretty important."
 
 
 ---
@@ -3636,7 +3636,8 @@ attribute: 0x6400E10001000001
 id: 300840
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I like people who are stylish."
+{{255:0 arg="0x0100"}}"I like stylish people.
+They're so cool!"
 
 
 ---
@@ -3650,7 +3651,8 @@ attribute: 0x6400E10001000001
 id: 300850
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I like to eat the bits I like first."
+{{255:0 arg="0x0100"}}"I eat my favorite things first
+in a big meal."
 
 
 ---
@@ -3664,8 +3666,8 @@ attribute: 0x6400E10001000001
 id: 300860
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Even when I become an old lady,
-I still want some excitement."
+{{255:0 arg="0x0100"}}"I want to have plenty of thrills
+in my life, even when I become a grandma."
 
 
 ---
@@ -3679,8 +3681,8 @@ attribute: 0x6400E10001000001
 id: 300870
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think if you never take a gamble
-on life, your life would be boring."
+{{255:0 arg="0x0100"}}"If you only play it safe all the time,
+I don't think you'd have an interesting life."
 
 
 ---
@@ -3694,8 +3696,8 @@ attribute: 0x6400E10001000001
 id: 300880
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} said that
-I walked too fast."
+{{255:0 arg="0x0100"}}" {{1:31 arg="0x0000"}} said that
+I walk too fast."
 
 
 ---
