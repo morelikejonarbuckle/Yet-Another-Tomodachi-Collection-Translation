@@ -3236,7 +3236,7 @@ attribute: 0x6400E10001000001
 id: 300570
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's refreshing to yell, but that
+{{255:0 arg="0x0100"}}"It's refreshing to yell, but it
 might annoy a lot of people."
 
 ---
@@ -3250,7 +3250,8 @@ attribute: 0x6400E10001000001
 id: 300580
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"To be honest, I really love myself."
+{{255:0 arg="0x0100"}}"I like myself. Not a lot
+of people can say that nowadays."
 
 
 ---
@@ -3264,8 +3265,8 @@ attribute: 0x6400E10001000001
 id: 300590
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"People say that I'm talkative
-and I agree so."
+{{255:0 arg="0x0100"}}"People say that I'm very talkative.
+That sure sounds like me!"
 
 
 ---
@@ -3279,8 +3280,8 @@ attribute: 0x6400E10001000001
 id: 300600
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When I'm in high spirits, I usually act without
-thinking. That's my bad habit."
+{{255:0 arg="0x0100"}}"When I get carried away, I tend
+to go overboard. That's a bad habit."
 
 
 ---
@@ -3309,8 +3310,8 @@ attribute: 0x6400E10001000001
 id: 300620
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I like to do many things at a time so that
-I don't get bored of them."
+{{255:0 arg="0x0100"}}"I have many hobbies, so I won't bore
+myself with doing one thing."
 
 
 ---
@@ -3324,7 +3325,8 @@ attribute: 0x6400E10001000001
 id: 300630
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel blessed to have been born."
+{{255:0 arg="0x0100"}}"I'm glad I was born. You only
+get to live once, you know! Make it worthwhile."
 
 
 ---
@@ -3338,8 +3340,8 @@ attribute: 0x6400E10001000001
 id: 300640
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I hate it when someone is hesitating.
-That's such a waste of time."
+{{255:0 arg="0x0100"}}"I hate moping around. It's better
+to think about happier things, right?"
 
 
 ---
@@ -3367,7 +3369,8 @@ attribute: 0x6400E10001000001
 id: 300660
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"You'll be blessed if you can enjoy life."
+{{255:0 arg="0x0100"}}"Life is all about having fun, right?
+Try to shove some happy things into your life."
 
 
 ---
@@ -3396,8 +3399,8 @@ attribute: 0x6400E10001000001
 id: 300680
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"When it comes to food, I only eat
-the dishes I like."
+{{255:0 arg="0x0100"}}"I'm very picky and eat only the foods
+I like."
 
 
 ---
@@ -3439,8 +3442,8 @@ attribute: 0x6400E10001000001
 id: 300710
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Sometimes, I think about some nice
-memories and smile to myself."
+{{255:0 arg="0x0100"}}"Sometimes, I think about some fun
+memories and laugh at them."
 
 
 ---
@@ -3454,8 +3457,8 @@ attribute: 0x6400E10001000001
 id: 300720
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"There are a lot of things I regretted
-I had said them."
+{{255:0 arg="0x0100"}}"There are a lot of things I regret
+saying. That's one of them."
 
 
 ---
@@ -3469,7 +3472,8 @@ attribute: 0x6400E10001000001
 id: 300730
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I have a lot of things I want to do!"
+{{255:0 arg="0x0100"}}"There's so much I want to do, it's
+overwhelming!"
 
 
 ---
@@ -3483,8 +3487,8 @@ attribute: 0x6400E10001000001
 id: 300740
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I might be careless but I take
-things seriously."
+{{255:0 arg="0x0100"}}"I'm a bit scatterbrained, but I
+do well under pressure."
 
 
 ---
@@ -3498,8 +3502,8 @@ attribute: 0x6400E10001000001
 id: 300750
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Did you see it when I farted in
-my room earlier?"
+{{255:0 arg="0x0100"}}"Did you see me take fart in
+my room the other day? That was a big one!"
 
 
 ---
@@ -3528,7 +3532,8 @@ attribute: 0x6400E10001000001
 id: 300770
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm happy when I can talk to someone."
+{{255:0 arg="0x0100"}}"I'm happy when people talk to me.
+Thanks for checking in!"
 
 
 ---
@@ -3542,7 +3547,7 @@ attribute: 0x6400E10001000001
 id: 300780
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Being able to wear something nice
+{{255:0 arg="0x0100"}}"Just wearing my favorite clothes
 makes me happy."
 
 
@@ -3557,8 +3562,8 @@ attribute: 0x6400E10001000001
 id: 300790
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm the type that believes in
-fortune telling."
+{{255:0 arg="0x0100"}}"I'm believe in
+fortune-telling."
 
 
 ---
@@ -3572,7 +3577,8 @@ attribute: 0x6400E10001000001
 id: 300800
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm usually late for my appointments."
+{{255:0 arg="0x0100"}}"I'm usually late for appointments.
+Even when I come 15 minutes early!"
 
 
 ---
@@ -3586,7 +3592,8 @@ attribute: 0x6400E10001000001
 id: 300810
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I don't care about trivial things."
+{{255:0 arg="0x0100"}}"I don't care about trivial things or
+small details. Who's going to notice, huh?"
 
 
 ---
@@ -3600,8 +3607,8 @@ attribute: 0x6400E10001000001
 id: 300820
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm the type that has short span of
-attention."
+{{255:0 arg="0x0100"}}"I have a short attention span.
+Wait, what are you doing here?"
 
 
 ---
@@ -7620,5 +7627,6 @@ attribute: 0x6400E10001000001
 [a]see comment below
 
 [b]Needs to be replaced with something funny that would make the gamer go "Wait, what?!"
+
 
 
