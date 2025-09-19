@@ -460,7 +460,7 @@ attribute: 0x6400E10001000001
 id: 280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}~
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}!
 I usually do things at my own pace."
 
 
@@ -4460,8 +4460,8 @@ attribute: 0x6400E10001000001
 id: 301390
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's hard for me to look people
-in the eyes while I'm talking."
+{{255:0 arg="0x0100"}}"I struggle with maintaining
+eye contact when talking."
 
 
 ---
@@ -4475,7 +4475,7 @@ attribute: 0x6400E10001000001
 id: 301400
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you think I'm not gorgeous at all?"
+{{255:0 arg="0x0100"}}"Do you think I'm not glamorus at all?"
 
 
 ---
@@ -4490,7 +4490,8 @@ attribute: 0x6400E10001000001
 id: 301410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I don't have self-confidence..."
+{{255:0 arg="0x0100"}}"I don't have any self-confidence.
+I wish I could have some..."
 
 
 ---
@@ -4504,7 +4505,8 @@ attribute: 0x6400E10001000001
 id: 301420
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I hate to talk in front of people."
+{{255:0 arg="0x0100"}}"I'm not good at speaking
+in public."
 
 
 ---
@@ -6164,7 +6166,7 @@ attribute: 0x6400E10001000001
 id: 302550
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's already Thursday? It' so fast~"
+{{255:0 arg="0x0100"}}"It's already Thursday? That was fast."
 
 
 ---
@@ -7638,6 +7640,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
