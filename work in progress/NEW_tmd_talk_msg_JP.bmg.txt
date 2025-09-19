@@ -4520,8 +4520,8 @@ attribute: 0x6400E10001000001
 id: 301430
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"People say that I'm stubborn and that
-I like to argue. I'm okay with it, though."
+{{255:0 arg="0x0100"}}"People say that I'm stubborn or
+overly logical. What, you have a problem with that?"
 
 
 ---
@@ -4536,7 +4536,7 @@ attribute: 0x6400E10001000001
 id: 301440
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel comfortable to keep silent."
+{{255:0 arg="0x0100"}}"I like staying quiet. It's easy."
 
 
 ---
@@ -4550,7 +4550,8 @@ attribute: 0x6400E10001000001
 id: 301450
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I always save my favorite bits to eat last."
+{{255:0 arg="0x0100"}}"I always save my favorite things
+at the end. The payoff is satisfying!"
 
 
 ---
@@ -4564,7 +4565,8 @@ attribute: 0x6400E10001000001
 id: 301460
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My personality is quite unique, right?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0100"}}'s personality
+is very {{1:31 arg="0x0000"}}, you know?"
 
 
 ---
@@ -4578,7 +4580,8 @@ attribute: 0x6400E10001000001
 id: 301470
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I just want to live a peaceful life."
+{{255:0 arg="0x0100"}}"All I ask for is to live a quiet life.
+OK, maybe make it a bit louder with some friends."
 
 
 ---
@@ -4592,7 +4595,8 @@ attribute: 0x6400E10001000001
 id: 301480
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to just relax and take things easy."
+{{255:0 arg="0x0100"}}"I want to just relax and take things easy.
+Make it a life of leisure!"
 
 
 ---
@@ -4620,8 +4624,8 @@ attribute: 0x6400E10001000001
 id: 301500
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's a must to go outside
-occasionally, right?"
+{{255:0 arg="0x0100"}}"I should really go outside
+some more."
 
 
 ---
@@ -4635,8 +4639,8 @@ attribute: 0x6400E10001000001
 id: 301510
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want people on this island to
-be friendly to one another."
+{{255:0 arg="0x0100"}}"I wish everyone on this island
+were friendly to one another and would live in harmony."
 
 
 ---
@@ -4650,8 +4654,8 @@ attribute: 0x6400E10001000001
 id: 301520
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I know I'm quite aloof, but I really
-don't know what to say to people..."
+{{255:0 arg="0x0100"}}"I know I'm quite quiet, but I really
+don't have much to say..."
 
 
 ---
@@ -7640,6 +7644,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
