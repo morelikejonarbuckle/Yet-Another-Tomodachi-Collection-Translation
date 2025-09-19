@@ -3983,8 +3983,8 @@ attribute: 0x6400E10001000001
 id: 301070
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm concerned about nutrition
-balance for my food."
+{{255:0 arg="0x0100"}}"I'm concerned about making sure
+I have a balanced diet."
 
 
 ---
@@ -3998,8 +3998,8 @@ attribute: 0x6400E10001000001
 id: 301080
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've never cried, not even once,
-when I watch movies."
+{{255:0 arg="0x0100"}}"I've never cried while
+watching a movie. Not even that one about the ship."
 
 
 ---
@@ -4013,8 +4013,8 @@ attribute: 0x6400E10001000001
 id: 301090
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm the type that thinks relaxing time
-is so wasteful."
+{{255:0 arg="0x0100"}}"I think taking it easy is a
+waste of time."
 
 
 ---
@@ -4028,7 +4028,7 @@ attribute: 0x6400E10001000001
 id: 301100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I can't accept anything unreasonable."
+{{255:0 arg="0x0100"}}"I can NOT tolerate injustice."
 
 
 ---
@@ -4042,8 +4042,8 @@ attribute: 0x6400E10001000001
 id: 301110
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I might look like this, but I do
-care about human relations."
+{{255:0 arg="0x0100"}}"I do try to value my relationships,
+despite my personality."
 
 
 ---
@@ -4057,8 +4057,8 @@ attribute: 0x6400E10001000001
 id: 301120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"People have a thing or two that
-they want to forget."
+{{255:0 arg="0x0100"}}"You ever have one or two things that
+you'd rather forget?"
 
 
 ---
@@ -4073,7 +4073,7 @@ id: 301130
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When I'm curious about something, I'll
-keep investigating it."
+look it up. Like that thing over there!"
 
 
 ---
@@ -4087,8 +4087,8 @@ attribute: 0x6400E10001000001
 id: 301140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Actually, I'm the type that likes
-to spoil the person I love."
+{{255:0 arg="0x0100"}}"Actually, I tend to be a bit
+of a mama's boy with people I like."
 
 
 ---
@@ -4102,7 +4102,8 @@ attribute: 0x6400E10001000001
 id: 301150
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to have bigger eyes."
+{{255:0 arg="0x0100"}}"I wish my eyes were a bit bigger.
+Could you do that? Pretty please with sprinkles on top?"
 
 
 ---
@@ -4116,7 +4117,8 @@ attribute: 0x6400E10001000001
 id: 301160
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Why me...?"
+{{255:0 arg="0x0100"}}"Anyway, it's just
+{{1:31 arg="0x0000"}}..."
 
 
 ---
@@ -4130,7 +4132,8 @@ attribute: 0x6400E10001000001
 id: 301170
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I pray for a peaceful world..."
+{{255:0 arg="0x0100"}}"May the world be at peace,
+even for a moment..."
 
 
 ---
@@ -4159,7 +4162,7 @@ attribute: 0x6400E10001000001
 id: 301190
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Involuntarily, I've kept thinking about what
+{{255:0 arg="0x0100"}}"I keep thinking about what
 I'm going to cook for dinner tomorrow."
 
 
@@ -4174,7 +4177,8 @@ attribute: 0x6400E10001000001
 id: 301200
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to befriend everyone."
+{{255:0 arg="0x0100"}}"I want to get along with everyone
+on this island. Hopefully, it won't be too hard!"
 
 
 ---
@@ -4188,7 +4192,7 @@ attribute: 0x6400E10001000001
 id: 301210
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm not good at calculation."
+{{255:0 arg="0x0100"}}"I'm not good at math."
 
 
 ---
@@ -4202,7 +4206,7 @@ attribute: 0x6400E10001000001
 id: 301220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I easily get upset with trivial matters."
+{{255:0 arg="0x0100"}}"I easily get upset with small things."
 
 
 ---
@@ -4216,7 +4220,8 @@ attribute: 0x6400E10001000001
 id: 301230
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I never think about being famous."
+{{255:0 arg="0x0100"}}"I never think about being important
+or great."
 
 
 ---
@@ -4230,7 +4235,8 @@ attribute: 0x6400E10001000001
 id: 301240
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I tend to procrastinate."
+{{255:0 arg="0x0100"}}"I tend to procrastinate.
+Guess what I'm doing right now!"
 
 
 ---
@@ -4244,7 +4250,8 @@ attribute: 0x6400E10001000001
 id: 301250
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I tend to lose things easily."
+{{255:0 arg="0x0100"}}"I tend to lose things easily.
+Hopefully, I can find all my stuff one day."
 
 
 ---
@@ -4258,7 +4265,7 @@ attribute: 0x6400E10001000001
 id: 301260
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"A guy who is too honest is not
+{{255:0 arg="0x0100"}}"A very honest guy isn't
 attractive, don't you think?"
 
 
@@ -4273,8 +4280,8 @@ attribute: 0x6400E10001000001
 id: 301270
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"The sound of the waves is good.
-It's calming to be at the beach."
+{{255:0 arg="0x0100"}}"The sound of the waves is nice,
+isn't it? It's calming to be at the beach."
 
 
 ---
@@ -7627,12 +7634,8 @@ I can't feel at ease."
 id: 500101
 attribute: 0x6400E10001000001
 ---
-ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス    
+ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
 
-
-[a]see comment below
-
-[b]Needs to be replaced with something funny that would make the gamer go "Wait, what?!"
 
 
 
