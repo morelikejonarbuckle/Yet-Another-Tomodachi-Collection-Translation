@@ -3711,8 +3711,8 @@ attribute: 0x6400E10001000001
 id: 300890
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I like the sense of accomplishment
-after my hard work."
+{{255:0 arg="0x0100"}}"I love the sense of accomplishment
+I get after working hard."
 
 
 ---
@@ -3726,8 +3726,8 @@ attribute: 0x6400E10001000001
 id: 300900
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you think I'm the type that
-people misunderstand easily?"
+{{255:0 arg="0x0100"}}"Do you think that I'm easily
+misunderstood a lot?"
 
 
 ---
@@ -3743,7 +3743,7 @@ id: 300910
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I sometimes think that sleeping
-is such a waste of time."
+is a waste of time. You can do many other things!"
 
 
 ---
@@ -3757,8 +3757,8 @@ attribute: 0x6400E10001000001
 id: 300920
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"To be kind to someone, it's not limited
-to only actions."
+{{255:0 arg="0x0100"}}"Kindness isn't always about being
+gentle. You gotta help others out!"
 
 
 ---
@@ -3772,8 +3772,8 @@ attribute: 0x6400E10001000001
 id: 300930
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Have you ever scared of your own
-intelligence?"
+{{255:0 arg="0x0100"}}"Do you ever feel scared of
+your own talent?"
 
 
 ---
@@ -3788,8 +3788,8 @@ attribute: 0x6400E10001000001
 id: 300940
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think I'm the type that really fusses
-over the results whether I win or lose."
+{{255:0 arg="0x0100"}}"I'm starting to think that I
+fixate on the results of who wins and looses."
 
 
 ---
@@ -3805,7 +3805,7 @@ id: 300950
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Someday, I want to accomplish
-something big."
+something great."
 
 
 ---
@@ -3834,7 +3834,8 @@ attribute: 0x6400E10001000001
 id: 300970
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm bad at praising people."
+{{255:0 arg="0x0100"}}"I'm bad at giving compliments. At
+least you don't stink today!"
 
 
 ---
@@ -3848,8 +3849,8 @@ attribute: 0x6400E10001000001
 id: 300980
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Secretly, I want to do what I want,
-but I just can't..."
+{{255:0 arg="0x0100"}}"Secretly, I want to let loose. But
+I'll never do it..."
 
 
 ---
@@ -3863,7 +3864,7 @@ attribute: 0x6400E10001000001
 id: 300990
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Actually, I really like a competitive
+{{255:0 arg="0x0100"}}"Actually, I'm drawn to competitive
 society."
 
 
@@ -3878,8 +3879,8 @@ attribute: 0x6400E10001000001
 id: 301000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"People might see me as a cold guy,
-but I don't think I am like that."
+{{255:0 arg="0x0100"}}"People might see me as a cold person.
+I don't think that's the case, though."
 
 
 ---
@@ -3893,8 +3894,8 @@ attribute: 0x6400E10001000001
 id: 301010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I yearn to be a career woman.
-A hard-working woman is so cool."
+{{255:0 arg="0x0100"}}"I admire career women.
+A hard-working woman is so cool!"
 
 
 ---
@@ -3908,7 +3909,8 @@ attribute: 0x6400E10001000001
 id: 301020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I don't like to be lazy."
+{{255:0 arg="0x0100"}}"I don't like to be lazy, but
+I'm too lazy to stop being lazy."
 
 
 ---
@@ -3922,8 +3924,8 @@ attribute: 0x6400E10001000001
 id: 301030
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I hate it when someone is hesitating.
-That's such a waste of time."
+{{255:0 arg="0x0100"}}"I hate it when someone mopes around.
+It's such a waste of time!"
 
 
 ---
@@ -3937,7 +3939,7 @@ attribute: 0x6400E10001000001
 id: 301040
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I don't do any meaningless things."
+{{255:0 arg="0x0100"}}"I won't do any meaningless things."
 
 
 ---
@@ -3951,7 +3953,8 @@ attribute: 0x6400E10001000001
 id: 301050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I always think that people are different."
+{{255:0 arg="0x0100"}}"I'm always thinking about doing
+things differently from others."
 
 
 ---
@@ -3965,7 +3968,8 @@ attribute: 0x6400E10001000001
 id: 301060
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"To be honest, I can be annoying at times."
+{{255:0 arg="0x0100"}}"I'm very particular about how much
+time I'm spending. Some people think it's annoying."
 
 
 ---
@@ -7629,6 +7633,7 @@ attribute: 0x6400E10001000001
 [a]see comment below
 
 [b]Needs to be replaced with something funny that would make the gamer go "Wait, what?!"
+
 
 
 
