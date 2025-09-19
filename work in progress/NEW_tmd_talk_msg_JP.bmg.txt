@@ -4339,8 +4339,8 @@ attribute: 0x6400E10001000001
 id: 301310
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I usually cry out loud when I watch
-sad movies..."
+{{255:0 arg="0x0100"}}"I usually cry waterfalls at
+movies..."
 
 
 ---
@@ -4354,7 +4354,8 @@ attribute: 0x6400E10001000001
 id: 301320
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I hate insincere people."
+{{255:0 arg="0x0100"}}"I hate people who always
+talk but never take any actions."
 
 
 ---
@@ -4368,7 +4369,8 @@ attribute: 0x6400E10001000001
 id: 301330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I usually go back to bed if I get up early..."
+{{255:0 arg="0x0100"}}"Even if I wake up early,
+I end up going back to sleep..."
 
 
 ---
@@ -4382,7 +4384,7 @@ attribute: 0x6400E10001000001
 id: 301340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's fun to know a lot of people, but
+{{255:0 arg="0x0100"}}"It's fun to meet new people, but
 it's pretty troublesome sometimes."
 
 
@@ -4397,7 +4399,8 @@ attribute: 0x6400E10001000001
 id: 301350
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I like to exercise my brain."
+{{255:0 arg="0x0100"}}"I like to exercise my brain.
+If you don't use it that much, it'll smooth out."
 
 
 ---
@@ -7635,6 +7638,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
