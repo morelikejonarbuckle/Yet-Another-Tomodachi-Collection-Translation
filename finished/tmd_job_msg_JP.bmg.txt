@@ -1,0 +1,8302 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 0
+attribute: 0x6400910001010101
+---
+Super Swimmer
+
+---
+id: 1
+attribute: 0x6400910001010101
+---
+Pilot
+
+---
+id: 2
+attribute: 0x6400910001010101
+---
+Baseball Coach
+
+---
+id: 3
+attribute: 0x6400910001010101
+---
+Craftsman
+
+---
+id: 4
+attribute: 0x6400910001010101
+---
+Magician
+
+---
+id: 5
+attribute: 0x6400910001010101
+---
+Supermodel
+
+---
+id: 6
+attribute: 0x6400910001010101
+---
+Company Manager
+
+---
+id: 7
+attribute: 0x6400910001010101
+---
+Surgeon
+
+---
+id: 8
+attribute: 0x6400910001010101
+---
+Baseball Player
+
+---
+id: 9
+attribute: 0x6400910001010101
+---
+Police Officer
+
+---
+id: 10
+attribute: 0x6400910001010101
+---
+Programmer
+
+---
+id: 11
+attribute: 0x6400910001010101
+---
+Princess
+
+---
+id: 12
+attribute: 0x6400910001010101
+---
+Genius Painter
+
+---
+id: 13
+attribute: 0x6400910001010101
+---
+Waitress
+
+---
+id: 14
+attribute: 0x6400910001010101
+---
+Comedian
+
+---
+id: 15
+attribute: 0x6400910001010101
+---
+Plumber
+
+---
+id: 16
+attribute: 0x6400910001010101
+---
+Weatherperson
+
+---
+id: 17
+attribute: 0x6400910001010101
+---
+Inventor
+
+---
+id: 18
+attribute: 0x6400910001010101
+---
+Nail Artist
+
+---
+id: 19
+attribute: 0x6400910001010101
+---
+Pharmacist
+
+---
+id: 20
+attribute: 0x6400910001010101
+---
+Homeschooling Mother
+
+---
+id: 21
+attribute: 0x6400910001010101
+---
+Fisherman
+
+---
+id: 22
+attribute: 0x6400910001010101
+---
+TV Announcer
+
+---
+id: 23
+attribute: 0x6400910001010101
+---
+Smooth Commentator
+
+---
+id: 24
+attribute: 0x6400910001010101
+---
+Factory Inspector
+
+---
+id: 25
+attribute: 0x6400910001010101
+---
+Fortune Teller
+
+---
+id: 26
+attribute: 0x6400910001010101
+---
+Detective
+
+---
+id: 27
+attribute: 0x6400910001010101
+---
+Shojo Manga Artist
+
+---
+id: 28
+attribute: 0x6400910001010101
+---
+Table Tennis Player
+
+---
+id: 29
+attribute: 0x6400910001010101
+---
+Film Director
+
+---
+id: 30
+attribute: 0x6400910001010101
+---
+Actress
+
+---
+id: 31
+attribute: 0x6400910001010101
+---
+Pastry Chef
+
+---
+id: 32
+attribute: 0x6400910001010101
+---
+Circus Leader
+
+---
+id: 33
+attribute: 0x6400910001010101
+---
+Secretary
+
+---
+id: 34
+attribute: 0x6400910001010101
+---
+Idol
+
+---
+id: 35
+attribute: 0x6400910001010101
+---
+Boxer
+
+---
+id: 36
+attribute: 0x6400910001010101
+---
+Sumo Wrestler
+
+---
+id: 37
+attribute: 0x6400910001010101
+---
+Drummer
+
+---
+id: 38
+attribute: 0x6400910001010101
+---
+Basketball Player
+
+---
+id: 39
+attribute: 0x6400910001010101
+---
+Sentai Hero
+
+---
+id: 40
+attribute: 0x6400910001010101
+---
+Stunt Man
+
+---
+id: 41
+attribute: 0x6400910001010101
+---
+Dancer
+
+---
+id: 42
+attribute: 0x6400910001010101
+---
+Ballerina
+
+---
+id: 43
+attribute: 0x6400910001010101
+---
+Dolphin Trainer
+
+---
+id: 44
+attribute: 0x6400910001010101
+---
+Companion
+
+---
+id: 45
+attribute: 0x6400910001010101
+---
+Soccer Player
+
+---
+id: 46
+attribute: 0x6400910001010101
+---
+Yoga Instructor
+
+---
+id: 47
+attribute: 0x6400910001010101
+---
+Dog Trainer
+
+---
+id: 48
+attribute: 0x6400910001010101
+---
+Store Greeter
+
+---
+id: 49
+attribute: 0x6400910001010101
+---
+Astronaut
+
+---
+id: 50
+attribute: 0x6400910001010101
+---
+Florist
+
+---
+id: 51
+attribute: 0x6400910001010101
+---
+Pianist
+
+---
+id: 52
+attribute: 0x6400910001010101
+---
+Detective
+
+---
+id: 53
+attribute: 0x6400910001010101
+---
+Newspaper Reporter
+
+---
+id: 54
+attribute: 0x6400910001010101
+---
+Teacher
+
+---
+id: 55
+attribute: 0x6400910001010101
+---
+Ramen Shop Owner
+
+---
+id: 56
+attribute: 0x6400910001010101
+---
+Pre-K Teacher
+
+---
+id: 57
+attribute: 0x6400910001010101
+---
+Zoo Keeper
+
+---
+id: 58
+attribute: 0x6400910001010101
+---
+Babysitter
+
+---
+id: 59
+attribute: 0x6400910001010101
+---
+Car Mechanic
+
+---
+id: 60
+attribute: 0x6400910001010101
+---
+Convenience Store Manager
+
+---
+id: 61
+attribute: 0x6400910001010101
+---
+Train Driver
+
+---
+id: 62
+attribute: 0x6400910001010101
+---
+Reporter
+
+---
+id: 63
+attribute: 0x6400910001010101
+---
+Valet (lesser)
+
+---
+id: 64
+attribute: 0x6400910001010101
+---
+Cabbie
+
+---
+id: 65
+attribute: 0x6400910001010101
+---
+Violinist
+
+---
+id: 66
+attribute: 0x6400910001010101
+---
+Carpenter
+
+---
+id: 67
+attribute: 0x6400910001010101
+---
+Magazine Editor
+
+---
+id: 68
+attribute: 0x6400910001010101
+---
+Dairy Farmer
+
+---
+id: 69
+attribute: 0x6400910001010101
+---
+Celebrity Agent
+
+---
+id: 70
+attribute: 0x6400910001010101
+---
+Costume Designer
+
+---
+id: 71
+attribute: 0x6400910001010101
+---
+Actor
+
+---
+id: 72
+attribute: 0x6400910001010101
+---
+Caddy
+
+---
+id: 73
+attribute: 0x6400910001010101
+---
+Farmer
+
+---
+id: 74
+attribute: 0x6400910001010101
+---
+Conductor
+
+---
+id: 75
+attribute: 0x6400910001010101
+---
+Archaeologist
+
+---
+id: 76
+attribute: 0x6400910001010101
+---
+Fireworks Craftsman
+
+---
+id: 77
+attribute: 0x6400910001010101
+---
+Hairdresser
+
+---
+id: 78
+attribute: 0x6400910001010101
+---
+Gas Attendant
+
+---
+id: 79
+attribute: 0x6400910001010101
+---
+Flight Attendant
+
+---
+id: 80
+attribute: 0x6400910001010101
+---
+Salesperson
+
+---
+id: 81
+attribute: 0x6400910001010101
+---
+Photographer
+
+---
+id: 82
+attribute: 0x6400910001010101
+---
+Beautician
+
+---
+id: 83
+attribute: 0x6400910001010101
+---
+Amusement Park Staff
+
+---
+id: 84
+attribute: 0x6400910001010101
+---
+Homemaker
+
+---
+id: 85
+attribute: 0x6400910001010101
+---
+Karate Practitioner
+
+---
+id: 86
+attribute: 0x6400910001010101
+---
+Pro. Golfer
+
+---
+id: 87
+attribute: 0x6400910001010101
+---
+Pro. Surfer
+
+---
+id: 88
+attribute: 0x6400910001010101
+---
+Cheerleader
+
+---
+id: 89
+attribute: 0x6400910001010101
+---
+Literary Master
+
+---
+id: 90
+attribute: 0x6400910001010101
+---
+Disk Jockey
+
+---
+id: 91
+attribute: 0x6400910001010101
+---
+Jockey
+
+---
+id: 92
+attribute: 0x6400910001010101
+---
+CEO
+
+---
+id: 93
+attribute: 0x6400910001010101
+---
+Firefighter
+
+---
+id: 94
+attribute: 0x6400910001010101
+---
+Volleyball Player
+
+---
+id: 95
+attribute: 0x6400910001010101
+---
+Butler
+
+---
+id: 96
+attribute: 0x6400910001010101
+---
+Pro. Mahjong Player
+
+---
+id: 97
+attribute: 0x6400910001010101
+---
+Maid
+
+---
+id: 98
+attribute: 0x6400910001010101
+---
+Ad Designer
+
+---
+id: 99
+attribute: 0x6400910001010101
+---
+Guitarist
+
+---
+id: 100
+attribute: 0x6400910001010101
+---
+Tennis Player
+
+---
+id: 101
+attribute: 0x6400910001010101
+---
+Radio DJ
+
+---
+id: 102
+attribute: 0x6400910001010101
+---
+Marathoner
+
+---
+id: 103
+attribute: 0x6400910001010101
+---
+King
+
+---
+id: 104
+attribute: 0x6400910001010101
+---
+Opera Singer
+
+---
+id: 105
+attribute: 0x6400910001010101
+---
+Salaryman
+
+---
+id: 106
+attribute: 0x6400910001010101
+---
+Spy
+
+---
+id: 107
+attribute: 0x6400910001010101
+---
+Celebrity
+
+---
+id: 108
+attribute: 0x6400910001010101
+---
+TV Shopping Host
+
+---
+id: 109
+attribute: 0x6400910001010101
+---
+Building Janitor
+
+---
+id: 110
+attribute: 0x6400910001010101
+---
+Postman
+
+---
+id: 111
+attribute: 0x6400910001010101
+---
+Nurse
+
+---
+id: 112
+attribute: 0x6400910001010101
+---
+Sushi Artisan
+
+---
+id: 113
+attribute: 0x6400910001010101
+---
+Santa Claus
+
+---
+id: 114
+attribute: 0x6400910001010101
+---
+Scientist
+
+---
+id: 115
+attribute: 0x6400910001010101
+---
+Flower Arranger
+
+---
+id: 116
+attribute: 0x6400910001010101
+---
+Sentai Heros
+
+---
+id: 117
+attribute: 0x6400910001010101
+---
+Adventurer
+
+---
+id: 118
+attribute: 0x6400910001010101
+---
+Karuta Card Expert
+
+---
+id: 119
+attribute: 0x6400910001010101
+---
+Fairy
+
+---
+id: 200000
+attribute: 0x6400910001030001
+---
+Synchro Sensor
+
+---
+id: 200001
+attribute: 0x6400910001030001
+---
+Pilot
+
+---
+id: 200002
+attribute: 0x6400910001030001
+---
+Baseball Manager
+
+---
+id: 200003
+attribute: 0x6400910001030001
+---
+Craftsman Artisan
+
+---
+id: 200004
+attribute: 0x6400910001030001
+---
+Street Magician
+
+---
+id: 200005
+attribute: 0x6400910001030001
+---
+Supermodel
+
+---
+id: 200006
+attribute: 0x6400910001030001
+---
+Boss
+
+---
+id: 200007
+attribute: 0x6400910001030001
+---
+Physician
+
+---
+id: 200008
+attribute: 0x6400910001030001
+---
+Baseball Player
+
+---
+id: 200009
+attribute: 0x6400910001030001
+---
+Police Officer
+
+---
+id: 200010
+attribute: 0x6400910001030001
+---
+Programmer
+
+---
+id: 200011
+attribute: 0x6400910001030001
+---
+Princess
+
+---
+id: 200012
+attribute: 0x6400910001030001
+---
+Talented Artist
+
+---
+id: 200013
+attribute: 0x6400910001030001
+---
+Waitress
+
+---
+id: 200014
+attribute: 0x6400910001030001
+---
+Comedian
+
+---
+id: 200015
+attribute: 0x6400910001030001
+---
+Water Company
+
+---
+id: 200016
+attribute: 0x6400910001030001
+---
+Weatherperson
+
+---
+id: 200017
+attribute: 0x6400910001030001
+---
+Inventor
+
+---
+id: 200018
+attribute: 0x6400910001030001
+---
+Nail Artist
+
+---
+id: 200019
+attribute: 0x6400910001030001
+---
+Chemist
+
+---
+id: 200020
+attribute: 0x6400910001030001
+---
+Homeschooling Mother
+
+---
+id: 200021
+attribute: 0x6400910001030001
+---
+Skilled Physician
+
+---
+id: 200022
+attribute: 0x6400910001030001
+---
+Upper management
+
+---
+id: 200023
+attribute: 0x6400910001030001
+---
+Commentator
+
+---
+id: 200024
+attribute: 0x6400910001030001
+---
+Women's doctor
+
+---
+id: 200025
+attribute: 0x6400910001030001
+---
+Fortune Teller
+
+---
+id: 200026
+attribute: 0x6400910001030001
+---
+Detective
+
+---
+id: 200027
+attribute: 0x6400910001030001
+---
+Shojo Manga Artist
+
+---
+id: 200028
+attribute: 0x6400910001030001
+---
+Calligrapher 
+
+---
+id: 200029
+attribute: 0x6400910001030001
+---
+Film Director
+
+---
+id: 200030
+attribute: 0x6400910001030001
+---
+High-Society Woman
+
+---
+id: 200031
+attribute: 0x6400910001030001
+---
+Pastry Chef
+
+---
+id: 200032
+attribute: 0x6400910001030001
+---
+Circus Ringmaster
+
+---
+id: 200033
+attribute: 0x6400910001030001
+---
+Secretary
+
+---
+id: 200034
+attribute: 0x6400910001030001
+---
+Idol
+
+---
+id: 200035
+attribute: 0x6400910001030001
+---
+Boxer
+
+---
+id: 200036
+attribute: 0x6400910001030001
+---
+Sumo Wrestler
+
+---
+id: 200037
+attribute: 0x6400910001030001
+---
+Drummer
+
+---
+id: 200038
+attribute: 0x6400910001030001
+---
+Basketball Player
+
+---
+id: 200039
+attribute: 0x6400910001030001
+---
+Pillar of the family
+
+---
+id: 200040
+attribute: 0x6400910001030001
+---
+Sentai Hero
+
+---
+id: 200041
+attribute: 0x6400910001030001
+---
+Dancer
+
+---
+id: 200042
+attribute: 0x6400910001030001
+---
+Ballerina
+
+---
+id: 200043
+attribute: 0x6400910001030001
+---
+Dolphin Trainer
+
+---
+id: 200044
+attribute: 0x6400910001030001
+---
+Companion
+
+---
+id: 200045
+attribute: 0x6400910001030001
+---
+Soccer Player
+
+---
+id: 200046
+attribute: 0x6400910001030001
+---
+Yoga Instructor
+
+---
+id: 200047
+attribute: 0x6400910001030001
+---
+Dog Trainer
+
+---
+id: 200048
+attribute: 0x6400910001030001
+---
+Department Store Employee
+
+---
+id: 200049
+attribute: 0x6400910001030001
+---
+Astronaut
+
+---
+id: 200050
+attribute: 0x6400910001030001
+---
+Florist
+
+---
+id: 200051
+attribute: 0x6400910001030001
+---
+Pianist
+
+---
+id: 200052
+attribute: 0x6400910001030001
+---
+Detective
+
+---
+id: 200053
+attribute: 0x6400910001030001
+---
+Newspaper Journalist
+
+---
+id: 200054
+attribute: 0x6400910001030001
+---
+Teacher
+
+---
+id: 200055
+attribute: 0x6400910001030001
+---
+Ramen Chef
+
+---
+id: 200056
+attribute: 0x6400910001030001
+---
+Kindergarten Teacher
+
+---
+id: 200057
+attribute: 0x6400910001030001
+---
+Zoo Keeper
+
+---
+id: 200058
+attribute: 0x6400910001030001
+---
+Babysitter
+
+---
+id: 200059
+attribute: 0x6400910001030001
+---
+Car Mechanic
+
+---
+id: 200060
+attribute: 0x6400910001030001
+---
+Convenience Store Manager
+
+---
+id: 200061
+attribute: 0x6400910001030001
+---
+Train Conductor
+
+---
+id: 200062
+attribute: 0x6400910001030001
+---
+Reporter
+
+---
+id: 200063
+attribute: 0x6400910001030001
+---
+Parking Lot Attendant
+
+---
+id: 200064
+attribute: 0x6400910001030001
+---
+Cabbie
+
+---
+id: 200065
+attribute: 0x6400910001030001
+---
+Violinist
+
+---
+id: 200066
+attribute: 0x6400910001030001
+---
+Carpenter
+
+---
+id: 200067
+attribute: 0x6400910001030001
+---
+Magazine Editor
+
+---
+id: 200068
+attribute: 0x6400910001030001
+---
+Dairy Farmer
+
+---
+id: 200069
+attribute: 0x6400910001030001
+---
+Talent Manager
+
+---
+id: 200070
+attribute: 0x6400910001030001
+---
+Costume Designer
+
+---
+id: 200071
+attribute: 0x6400910001030001
+---
+Entertainer
+
+---
+id: 200072
+attribute: 0x6400910001030001
+---
+Caddy
+
+---
+id: 200073
+attribute: 0x6400910001030001
+---
+Farmer
+
+---
+id: 200074
+attribute: 0x6400910001030001
+---
+Train Conductor
+
+---
+id: 200075
+attribute: 0x6400910001030001
+---
+Teacher
+
+---
+id: 200076
+attribute: 0x6400910001030001
+---
+Fireworks Artisan
+
+---
+id: 200077
+attribute: 0x6400910001030001
+---
+Hairdresser (With Charisma!)
+
+---
+id: 200078
+attribute: 0x6400910001030001
+---
+Gas Station Attendant
+
+---
+id: 200079
+attribute: 0x6400910001030001
+---
+Flight Attendant
+
+---
+id: 200080
+attribute: 0x6400910001030001
+---
+Salesperson (With Charisma!)
+
+---
+id: 200081
+attribute: 0x6400910001030001
+---
+Photographer
+
+---
+id: 200082
+attribute: 0x6400910001030001
+---
+Skincare Specialist
+
+---
+id: 200083
+attribute: 0x6400910001030001
+---
+Amusement Park Staff
+
+---
+id: 200084
+attribute: 0x6400910001030001
+---
+Housewife
+
+---
+id: 200085
+attribute: 0x6400910001030001
+---
+Karate Practitioner
+
+---
+id: 200086
+attribute: 0x6400910001030001
+---
+Pro. Golfer
+
+---
+id: 200087
+attribute: 0x6400910001030001
+---
+Pro. Surfer
+
+---
+id: 200088
+attribute: 0x6400910001030001
+---
+Cheerleader
+
+---
+id: 200089
+attribute: 0x6400910001030001
+---
+Writer
+
+---
+id: 200090
+attribute: 0x6400910001030001
+---
+Disk Jockey
+
+---
+id: 200091
+attribute: 0x6400910001030001
+---
+Tree tender
+
+---
+id: 200092
+attribute: 0x6400910001030001
+---
+CEO
+
+---
+id: 200093
+attribute: 0x6400910001030001
+---
+Firefighter
+
+---
+id: 200094
+attribute: 0x6400910001030001
+---
+Volleyball Player
+
+---
+id: 200095
+attribute: 0x6400910001030001
+---
+Butler
+
+---
+id: 200096
+attribute: 0x6400910001030001
+---
+Pro. Journalist
+
+---
+id: 200097
+attribute: 0x6400910001030001
+---
+Maid
+
+---
+id: 200098
+attribute: 0x6400910001030001
+---
+Advertising Designer
+
+---
+id: 200099
+attribute: 0x6400910001030001
+---
+Guitarist
+
+---
+id: 200100
+attribute: 0x6400910001030001
+---
+Tennis Player
+
+---
+id: 200101
+attribute: 0x6400910001030001
+---
+Radio DJ
+
+---
+id: 200102
+attribute: 0x6400910001030001
+---
+Marathon Runner
+
+---
+id: 200103
+attribute: 0x6400910001030001
+---
+King
+
+---
+id: 200104
+attribute: 0x6400910001030001
+---
+Opera Singer
+
+---
+id: 200105
+attribute: 0x6400910001030001
+---
+Salaryman
+
+---
+id: 200106
+attribute: 0x6400910001030001
+---
+Spy
+
+---
+id: 200107
+attribute: 0x6400910001030001
+---
+Celebrity
+
+---
+id: 200108
+attribute: 0x6400910001030001
+---
+TV Shopping Host
+
+---
+id: 200109
+attribute: 0x6400910001030001
+---
+Janitor
+
+---
+id: 200110
+attribute: 0x6400910001030001
+---
+Postman
+
+---
+id: 200111
+attribute: 0x6400910001030001
+---
+Nurse
+
+---
+id: 200112
+attribute: 0x6400910001030001
+---
+Sushi Chef
+
+---
+id: 200113
+attribute: 0x6400910001030001
+---
+Santa Claus
+
+---
+id: 200114
+attribute: 0x6400910001030001
+---
+Scientific Technician
+
+---
+id: 200115
+attribute: 0x6400910001030001
+---
+Undecided
+
+---
+id: 200116
+attribute: 0x6400910001030001
+---
+Sentai Heros
+
+---
+id: 200117
+attribute: 0x6400910001030001
+---
+Explorer
+
+---
+id: 200118
+attribute: 0x6400910001030001
+---
+Karuta Card Master
+
+---
+id: 200119
+attribute: 0x6400910001030001
+---
+Fairy
+
+---
+id: 300050
+attribute: 0x6400500001010001
+---
+Result
+
+---
+id: 300100
+attribute: 0x6400D00001010001
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}
+
+---
+id: 300200
+attribute: 0x6400900001030001
+---
+.
+
+---
+id: 300300
+attribute: 0x6400900001010001
+---
+.
+
+---
+id: 300400
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}{{1:1 arg="0x0000"}}：
+
+---
+id: 300500
+attribute: 0x6400E00001030001
+---
+Expert
+
+---
+id: 300600
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"One job, please!"
+
+---
+id: 300601
+attribute: 0x6400E00001030001
+---
+One job, please!
+
+---
+id: 300700
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Please wait a moment."
+
+---
+id: 300701
+attribute: 0x6400E00001030001
+---
+Please wait a moment.
+
+---
+id: 300800
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Here you go."
+
+---
+id: 300801
+attribute: 0x6400E00001030001
+---
+Please
+
+---
+id: 300900
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"I need to know your birthday."
+
+---
+id: 300901
+attribute: 0x6400E00001030001
+---
+I can't understand you.
+
+---
+id: 301000
+attribute: 0x6400B40001010007
+---
+Please select a Mii to counsel.
+
+---
+id: 301001
+attribute: 0x6400E00001030001
+---
+Please wait for the job review.
+
+---
+id: 301100
+attribute: 0x6400320001010101
+---
+Diagnose
+
+---
+id: 301200
+attribute: 0x6400320001010001
+---
+Rearrange
+
+---
+id: 301300
+attribute: 0x6400800001010101
+---
+Choose another
+
+---
+id: 301400
+attribute: 0x6400800001010101
+---
+Quit
+
+---
+id: 302000
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} has tried this job…
+
+---
+id: 302100
+attribute: 0x6400800001030001
+---
+Thanks for your hard work.
+
+---
+id: 302200
+attribute: 0x6400C40001030001
+---
+Take a shot every time they use the word "However" and you'd be drunk in minutes
+
+---
+id: 302300
+attribute: 0x6400C40001030001
+---
+Thanks for your hard work.
+
+---
+id: 400000
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}His personality, which is
+quick to heat up and cool down, is
+like chicken broth.
+
+---
+id: 400001
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Dried squid this, firefly
+squid that… Shut up! Anything with
+a lot of legs is a octopus!"
+400001
+
+---
+id: 400002
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If you used your own water
+to put out a fire, it's like your
+effort and gains cancel out.
+
+---
+id: 400003
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I was struggling to clean
+pidgeon droppins for an hour. When I
+finished, there's more droppings. Dang."
+
+---
+id: 400010
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A popular segment among
+30 year-old women is the advice column, 
+involving teens struggling with love.
+
+---
+id: 400011
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The report a intern stayed
+up all night to write was dramatically
+thrown up into the air in slow-mo.
+
+---
+id: 400012
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Pickup artists will shiver
+over her intimidating vibe. Yes, there's people
+who try to give flight attendants their number.
+
+---
+id: 400013
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Wearing all black does
+make you not stand out, but your
+atmosphere lets others know about you.
+
+---
+id: 400020
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The way you deal with others
+by keeping a low and steady stance
+is a bit like dribbling.
+
+---
+id: 400021
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}You can't take your helmet
+off, even when you're taking a bath.
+
+---
+id: 400022
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The lower the car height,
+the better.
+
+---
+id: 400023
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"We'll take care of your
+care with the utmost sincerity!"
+
+---
+id: 400030
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They smile at everyone,
+but as soon as someone's being strict
+with themselves, it dies down a bit.
+
+---
+id: 400031
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}He holds a violin that's
+more expensive than his apartment as
+if it were a part of his body.
+
+---
+id: 400032
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}falala fa, falala fa,
+may everyone fall in love with me!
+
+---
+id: 400033
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"What's the difference with
+boyfriend #4 and #5? Whether or not he
+owns an island."
+
+---
+id: 400040
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's common to reveal the price
+at the end, but we tend to reveal
+it early on into the program.
+400040
+
+---
+id: 400041
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's not about breaking it,
+but it's about how to do so
+beautifully and reasonably.
+
+---
+id: 400042
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}No matter how efficient it seems,
+you'd beter not hand sushi
+directly to the customer.
+
+---
+id: 400043
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If the opening act
+fails to get the crowd pumped,
+he shows his fustrated rage.
+
+---
+id: 400050
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}She can adapt her cheers per sport,
+such as changing "Kattobase!" in
+baseball into "Cut-in!" for football.
+
+---
+id: 400051
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I love to take care of people
+and dogs, but my lack of sex
+appeal is my only flaw.
+Dogs think the same as well.
+
+---
+id: 400052
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even if your shot was bad,
+you can still get a great 
+response from it.
+
+---
+id: 400053
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Among the performers, there
+are some elderly folks and
+those who can't read kanji.
+
+---
+id: 400060
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even when people say
+"Their material isn't as good,"
+I shrug it off. Feels great!
+
+
+---
+id: 400061
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}He has a good sense of humor
+and is popular among members, but he
+skips practice if he has a slight cold.
+
+---
+id: 400062
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Make it so seals can understand,
+then maybe the audience might
+laugh at your jokes.
+
+
+---
+id: 400063
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}His slender looks, on the
+contrary, attracks female fans.
+In life, anything cean be a blessing.
+
+---
+id: 400070
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If her boyfriend doesn't reply
+within 20 mins, she becomes gloomy.
+This is a nuisance for her co-workers.
+
+---
+id: 400071
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}She hides the fact that her
+son got 30 points out of 50, but
+she lies and says he got 87 points.
+
+
+
+---
+id: 400072
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When babies start to cry, she
+instantly gives him formula
+before the waterworks opened up.
+
+---
+id: 400073
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"There's plenty of other
+fortune tellers that inform you about
+your past, but I can go beyond that!"
+
+---
+id: 400080
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}His killer pick-up line's
+"Would you sing my song next time?"
+
+
+---
+id: 400081
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"It's like 'fah-ah-ah.'"
+"It feels more like 'ti-ti-ti.'"
+
+
+---
+id: 400082
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Even when you take off
+the costume, their impression
+doesn't change that much.
+
+---
+id: 400083
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The relaxed style of the NC's
+part of the charm, but let's ensure
+they'll say the next person's name.
+
+---
+id: 400090
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I think it suits you, but
+based on your expression, I
+personally black suits you better."
+
+---
+id: 400091
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}We respect the individuality
+of each member. Our goal is to be the
+#1 group in the North Hemisphere!
+
+---
+id: 400092
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Everytime I get the advice
+'Don't hit the duster, sweep it,' I
+secretly get annoyed.
+
+---
+id: 400093
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Even though the bride wanted
+to wear white, he insisted her to
+wear black; he wouldn't budge.
+
+---
+id: 400100
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When I wore a sweater over
+my shoulders, my co-workers said
+"That's not right…"
+
+---
+id: 400101
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The team signals are too
+predictable; their opponents can read
+them like a book. The team never knew!
+
+---
+id: 400102
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I like teaching people,
+but being called "teacher" is
+quite a pleasure.
+
+---
+id: 400103
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}However, when it comes to
+making lunch boxes and plastic for
+themselves, there's no restraints.
+
+---
+id: 400110
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Now! Go, go! Bunt it!
+Go for the safety squeeze!
+
+
+---
+id: 400111
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}These moves are exaggerated.
+I leaned back too far and my wrist
+got tangled with my ankle.
+
+---
+id: 400112
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Even if my personal life sucks,
+I never let it show on my face.
+
+---
+id: 400113
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Every time I take a card, the
+wind pressure causes them all 
+to flip over.
+
+---
+id: 400120
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even if the female Journalist
+by my side throws sarcastic remarks,
+I won't back down an inch!
+
+
+---
+id: 400121
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}During the winner's interview,
+even though I'm happy, I can help
+but make sarcastic remaks about me.
+{{255:0 arg="0x0900"}}asdfgasrdegasdfgadsfgadfgadfg
+legendarybirdssoaringthroughthespa
+amagicalminidouxmakesmuffinsoutofmoo
+
+---
+id: 400122
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I look at other driver's eyes
+and we stare at each other for a bit.
+I gently avert my gaze.
+
+---
+id: 400123
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}His comments are always
+aggressive. I bet he'll form a duo
+with a broad-minded video jocket!
+
+---
+id: 400130
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's common for leotards to
+vanish, but I'm already prepared.
+I always have two or three on hand.
+
+---
+id: 400131
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}In a drama, her boyfriend
+would slap the other and says
+"You're not playing with your heart."
+
+---
+id: 400132
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}In order to win a popularity
+contest, I can easily write a fake story
+that doesn't match my prefrences.
+
+---
+id: 400133
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"How much for that gemstone?"
+"18.6 million yen."
+
+
+---
+id: 400140
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Release the stress that built
+up over time on paper.
+
+---
+id: 400141
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The game isn't poker, 
+but they have a remarkable poker face.
+
+---
+id: 400142
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}I'm better than anyone else
+when it comes to small talk!
+
+---
+id: 400143
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The meanings of "patience" &
+"endurance" overlap slightly, but
+that's okay.
+
+---
+id: 400150
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You were born with a flirty
+nature. That's how you'll come back
+after your marriage and retirement.
+
+---
+id: 400151
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}No staff member dares to
+oppose her. As an actress, she tends
+to buy elegant items, like silk.
+
+---
+id: 400152
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Since he's too good at being
+spoiled, the editor volunteered to
+help with the coloring himself.
+
+---
+id: 400153
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}She moves perfectly while
+filming, but in her private life,
+she rolls around like a caterpillar.
+
+---
+id: 400160
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's fine to make prototypes,
+but before going to retail, let's
+at least write a shopping list.
+
+---
+id: 400161
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}I'm a different person on and
+off the podium. More than anything, I'm
+afraid of that secret being known.
+
+---
+id: 400162
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}During the sketching stage,
+it's clear to everyone that this
+design seems impossible.
+
+---
+id: 400163
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"It's not even a sports day,
+so don't use fireworks in the morning!"
+The neighborhood always complained.
+
+---
+id: 400170
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The attention to detail for
+the program's participants noteworthy.
+Those directed comments are divine.
+
+---
+id: 400171
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Deep down, she wants to be
+dominated by a man who'll scold her
+for being that way.
+
+---
+id: 400172
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A pro. way to elicit laughter
+is by not wiping a piece of snot that
+accidentally dripped of one's nose.
+
+---
+id: 400173
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When I work with male idols,
+unpleasant rumors start spreading,
+so I specialize in female talents.
+
+---
+id: 400180
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You can only play melodies
+with an electric guitar, which is
+my only regret not choosing piano.
+
+---
+id: 400181
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Student band members who
+neglect practice and use "I'm busy" as
+an excuse will be thoroughly drilled.
+
+---
+id: 400182
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I don't talk back to
+customers, but yelling at trainees
+in front of them is awkward.
+
+
+---
+id: 400183
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Auxiliary verb? Don't say
+things that don't make sense!
+
+---
+id: 400190
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I have a tendency to say my
+thoughts out loud, which is why I'm
+not suited for live broadcasts.
+
+---
+id: 400191
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The moment I turned around,
+I cheerfully said, "Let's cut it!"
+
+---
+id: 400192
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The footsteps carrying the
+in-flight meal are unbalanced. The
+minestrone almost spilled everywhere.
+
+---
+id: 400193
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Writing "Poison" in bold and
+clear writing on a small brown
+bottle shows a rather bold side.
+
+---
+id: 400200
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The tonkotsu soup you make's
+delicious… or so I thought, since
+the secret ingredient is nasty bones.
+
+---
+id: 400201
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Due to family obligations,
+I'll likely end practice at 5:30.
+
+---
+id: 400202
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Getting too pumped up makes
+my neck stuffy. Even though it's
+hot, I better not take my suit off."
+
+---
+id: 400203
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It seems like I can live off
+the homemade dishes served by the
+host's wife. They're delicious!
+
+---
+id: 400210
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}If you think all the dancers
+are trendy, you're completely
+mistaken.
+
+---
+id: 400211
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Once you cross that barrier,
+you become inseparable. At night,
+you even sleep next to each other.
+
+---
+id: 400212
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}If there's a gap before the
+next competition, it'll be like starting
+the relationship from scratch.
+
+---
+id: 400213
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I'm Dedicated to table tennis.
+It's my life! What do I like? My
+table-tennis outfit.
+
+
+---
+id: 400220
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}In times of crisis, they show
+their inner fragility with their
+"distant gaze." They're powerful.
+
+---
+id: 400221
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}No matter how much they come
+at me, I won't step down. This strength
+won the board-breaking competition.
+
+---
+id: 400222
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The punishment for no homework
+turned in is "call them out and
+give 'em a death stare."
+
+---
+id: 400223
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}They may be a one-man show,
+but their work is reliable. They
+often trip over their coat's hem.
+
+---
+id: 400230
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}After the battle, Blue walked
+with me partway since it's dangerous
+at night. "Is your house that way?"
+
+---
+id: 400231
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The strength of this core even
+confronts luxury black-painted cars.
+
+---
+id: 400232
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}No matter what my husband
+smells like when returns, I never
+interfere. After all, I have my own… 
+
+
+---
+id: 400233
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}While working undercover, it's
+not uncommon to end up being the
+psychological counselor for them.
+
+---
+id: 400240
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The motivation for men to get
+into surfing is based on a "if I get
+lucky" mind, but you're different.
+
+---
+id: 400241
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You, with your burlesque
+demeanor, are truly a man of the
+sea, specifically from Japan's sea.
+
+---
+id: 400242
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}As a delivery person, it's
+rude to be too intrusive. You have
+to maintain the right distance.
+
+---
+id: 400243
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}There's a begining and end,
+but there's no exciting scenes.
+Despite this, the fans love it.
+
+---
+id: 400250
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's prefered that your
+partner's a celebrity. However, it's
+better to avoid idols and actors.
+
+---
+id: 400251
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's too late to be modest.
+When someone complements me, I say
+"Do you really think so?"
+
+---
+id: 400252
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}In front of the children, I
+ confessed to being decieved by a
+ bad man. The parents are now aware.
+
+---
+id: 400253
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I share everything about how
+I overcame the breakup with my boss
+in the break room.
+
+---
+id: 400260
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have no motivation or any
+hardships. Is that the kind of vibe
+people wants from idols these days?
+
+---
+id: 400261
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even though you're strong, you
+think you're weak. Your percieved
+lack of worth challenges yourself.
+
+---
+id: 400262
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}While shouting "Let's do it!"
+and being so energetic, I actually
+don't want to do it at all.
+
+---
+id: 400263
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}On weekdays, I work until 9PM
+and afterwards, I complain about my
+colleagues and bosses at a bar.
+
+---
+id: 400270
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The moment our eyes meet, if
+you shyly lower your head, it makes
+anyone think they're likeable.
+
+---
+id: 400271
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When I perform with you,
+everyone becomes bewildered. But
+I only select who I perform with.
+
+---
+id: 400272
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The baby mistook my breath
+for one from a rose.
+
+---
+id: 400273
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Although the classroom's only
+filled with women of my generation,
+I confidently express my allure.
+
+---
+id: 400280
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Making curry at a training
+camp's extremely difficult. Others
+might percieve it as hostile.
+
+---
+id: 400281
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If you're asked to break some
+tiles, first check if the prepared
+tiles are (un)breakable.
+
+---
+id: 400282
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Due to me overwatering the
+plants, the root veggies have all
+weathered up. I often get fustrated.
+
+---
+id: 400283
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Me, being cool, continously
+make rational and quick choices on
+handling sequentially moving cars.
+
+---
+id: 400290
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Continuing to reign as queen
+isn't easy. If that's the case,
+then I must become a legend.
+
+---
+id: 400291
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}For someone with a queen-like
+nature, the king of instruments,
+the piano, is a perfect match!
+
+---
+id: 400292
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I bought a bunch of books on
+"how to draw funny cartoons" and
+read them throughly, day and night.
+
+---
+id: 400293
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When the number of remaining
+cards gets low, just go
+for the card in front of you!
+
+---
+id: 400300
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's unlikely for a service
+industry to be selective about its
+customers, excluding ryokan inns.
+
+---
+id: 400301
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The cast only consists of
+one to three people, including the
+lead. A bit too selective, isn't it?
+
+---
+id: 400302
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even in contests, it keeps
+being highly-ranked, but it's too
+odd to be recieved well in stores.
+
+---
+id: 400303
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Before long, it won't be only
+records they choose, but they'll
+start to choose their audiences.
+
+---
+id: 400310
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}A kind-hearted princess who
+treats her servants to some cream
+puffs. What a delicious reward!
+
+---
+id: 400311
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Before long, we'll probably
+start sleeping together.
+
+---
+id: 400312
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Babies have unpredictable
+behavior. Your natural intuition will
+become a great weapon against them.
+
+---
+id: 400313
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I'm worried about various
+things, like if they'll get hurt by
+catching their nails in the frills.
+
+---
+id: 400320
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Because he's a shy person,
+he is also shy around the enemy
+army, creating a odd atmosphere.
+
+---
+id: 400321
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}If someone says "You can't do
+this job" to me, I'd risk my life.
+
+---
+id: 400322
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The reason the black tea
+wouldn't cool down is that you poured
+hot water into the cup already, no?
+
+---
+id: 400323
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You may be quiet at work, but
+when you get home, you relax on the
+sofa with the air of an executive.
+
+---
+id: 400330
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Focusing on familiar props
+like doves and playing cards, a
+laid-back show unfolded. It's neat.
+
+---
+id: 400331
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The wild animal show's filled
+with excitement, but the whip crack
+feels a little loose.
+
+---
+id: 400332
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}That relaxed swimming style
+fits you to a T, 
+you laid-back person.
+
+---
+id: 400333
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Whether at a crime scene or
+in the Amazon, you can always take
+close-ups without distractions.
+
+---
+id: 400340
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Due to their troublesome
+personality, they get stressed out
+over other members gossiping.
+
+---
+id: 400341
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I accidentallly called the
+client weak. I feel like I'm going
+to be ignored in the break room."
+
+---
+id: 400342
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}She was in charge of handling
+shoehorns, but she was valued for
+her character, rising in the ranks.
+
+---
+id: 400343
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The buisness card slogan says
+"Don't be spoiled. Don't spoil others."
+Seems ambigious for the reciever.
+
+---
+id: 400350
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}All things considered, it's
+convient for men to do the heavy
+lifting. I keep relying on them.
+
+---
+id: 400351
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Rather than advocating for
+gender equality, I end up imposing
+parking duties on men, then I leave.
+
+---
+id: 400352
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}All the children are under
+control. The father can't even watch
+TV at his own leisure.
+
+---
+id: 400353
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I'm paying a male rookie to
+gather some juicy office gossip."
+
+---
+id: 400360
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"That said, I usually don't
+make up rumors or gossip."
+
+---
+id: 400361
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}From their looks, you'd think
+they'd only play niche roles, but
+their style's more diverse.
+
+---
+id: 400362
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}For them, interacting with
+machines is easier and comfortable
+compared to interacting with people.
+
+---
+id: 400363
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even with simple calculation
+programs, I pour my heart into the
+presentation of the results."
+
+---
+id: 400370
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Outwardly open but actually
+timid. They announce things to
+avoid being pressed about it later.
+
+---
+id: 400371
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You may look fearless, but
+deep down, you're timid. The only
+one who knows this is Tora-maru.
+
+---
+id: 400372
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Would it be OK to give you
+lymphatic care to reduce the swells
+in your face?"
+
+---
+id: 400373
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You act like a noble, but
+ordinary tasks like folding shirts
+eventually show your ordinary side.
+
+---
+id: 400380
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their article tickles the
+human instict to gather secrets.
+Smarter readers are glued to it!
+
+---
+id: 400381
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even in the winner's
+interview, they say "Ask them first,"
+showing how he puts the horse first.
+
+---
+id: 400382
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Don't get so caught up in
+your chats that you fall down into
+the irrigation ditch.
+
+---
+id: 400383
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Even if the culprit's among
+many people gathered in the hall,
+they'll never be restrained.
+
+---
+id: 400390
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}When commentators start to go
+wild, they immediately cause quite
+a stir.
+
+---
+id: 400391
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When you press them, even the
+most powerful politicians will
+say something they shouldn't say.
+
+---
+id: 400392
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They go into detail about
+what happens if this one area won't
+get treated. It's very realistic!
+
+
+---
+id: 400393
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I went out for pork shabu-
+shabu and complained to a talent.
+Even though I have to support them…
+
+---
+id: 400400
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If I cut it sideways, it'd
+look awkward, and if I cut it length-
+wise, it'd be too tedious.
+
+---
+id: 400401
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even though I'm intuitive, I
+edit in a rational way. I get annoyed
+at my own work being in screenings."
+
+---
+id: 400402
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When it comes to newborn
+pandas and fauns, everyone tends
+to overfeed them, but I don't."
+
+---
+id: 400403
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When I feel anxious about
+being left behind by the times, I
+change my BGM to J-rap and work.
+
+---
+id: 400410
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Please make sure not to
+choose fans at the handshake event."
+
+---
+id: 400411
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even though he was playing
+a victim of bullying, he glared at
+the other actor, ruining the immersion.
+
+---
+id: 400412
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A secret blog about a new
+nurse's drama diary was discovered
+by the director and blew up.
+
+---
+id: 400413
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Please refrain from deciding
+fortune-telling results
+based on your mood."
+
+---
+id: 400420
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Invented some kind of sweat pad
+for a girl he likes, as a gift.
+She hates him now.
+
+---
+id: 400421
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Has very strong opinions about
+one's appearance. They're rumored to
+like students with a buzz-cut.
+
+---
+id: 400422
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}When push comes to shove,
+I'll rely on my life experiences
+to make a decisive breakthrough.
+
+---
+id: 400423
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}I wanted to make a complex
+firework, so I focued on one.
+The other 9999 were all useless.
+
+---
+id: 400430
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Her intention to marry
+a baseball player (given the
+chance) is pretty obvious.
+
+---
+id: 400431
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When you reccomend something
+it makes customers choose that thing.
+Please avoid imposing your opinion."
+
+---
+id: 400432
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their segment on the westerly
+winds is the station's highlight,
+but it's unpopular with women.
+
+---
+id: 400433
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even when I pick up files, I
+unconciously calculate the angle of
+my waist. It's an odd habit."
+
+---
+id: 400440
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Take revenge on those who
+annoy you in work, by making them
+do stupid poses or wear odd clothes.
+
+---
+id: 400441
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I hope people will share the
+same excitement they have with
+going to the movies with racing."
+
+---
+id: 400442
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"As I refueled the vechicle,
+I felt a pain in my heart knowing
+the exhaust will pollute the earth."
+
+---
+id: 400443
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Even during the five-hour
+pre-meeting, he never voiced his 
+opinion until the very end.
+
+---
+id: 400450
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}She's selfish, a crybaby, and
+clingy. She bosses the adults around
+and cries in front of the MC.
+
+---
+id: 400451
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Although you're selfish, when
+you bake cookies, you make your
+co-stars and sponsors devistated.
+
+---
+id: 400452
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"A kid sarcastically said to
+me, 'You're slow at everything but
+fast at calculating.' They suck."
+
+---
+id: 400453
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"That camera man's always on
+edge! He never knows what might
+trigger a landmine."
+
+---
+id: 400460
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}This Mii will likely become a
+host of a debate program. Or not.
+
+---
+id: 400461
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}He has a weird charm to him.
+To employees, he's unapproachable,
+but he's cheerful and humorous IRL.
+
+---
+id: 400462
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I prepared the gifts the 
+kids want, just as they requested.
+But I put deodorant in the socks."
+
+---
+id: 400463
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When she makes eye contact
+with someone, she smiles, then pouts
+her lips and turns her head away.
+
+---
+id: 400470
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I think your relationship's
+doomed if you're talking to someone
+else about your love problems!"
+
+---
+id: 400471
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I speak my thoughts as I
+think them. In the end, I make the
+citizens cry with my abusive words."
+
+---
+id: 400472
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The customer has no "waist."
+They have more in common with
+a tea canister than a waist.
+
+---
+id: 400473
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"It looks like I'm mixing
+medication without any soul, but
+my heart is saying 'Get well soon!'"
+
+---
+id: 400480
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}He said something bad to the
+female singer, and it escalated.
+Despite this, he didn't appologize.
+
+---
+id: 400481
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I'm a bit harsh when I give
+feedback to my subordinates. It's
+sadly how I express my feelings.
+
+---
+id: 400482
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Even in the company's blind
+spots, such as under the vehicle,
+I never cut corners in inspecting."
+
+---
+id: 400483
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"For someone like you, I'd
+reccomend crafting shamoji paddles
+over kokeshi dolls."
+
+---
+id: 400490
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even if your tied-up hair
+is undone from dancing too much,
+it won't lead to any allure."
+
+---
+id: 400491
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I headed south and ended up
+at the South Pole. How can I get
+back home?"
+
+---
+id: 400492
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Why did I become a trainer?
+I guess I had a feeling, haha."
+
+---
+id: 400493
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Capturing nature on film is
+a breathtaking task, but you're
+fine waiting two years for it."
+
+---
+id: 400500
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I always start my chats
+with 'This is just a guess, but…'"
+
+---
+id: 400501
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Due to his clean image, he
+published a solo photo book that
+was unusual for sumo-wrestling.
+
+---
+id: 400502
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}The uniform suits them very
+well! It'd be perfect if they had
+some white gloves to wear.
+
+---
+id: 400503
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Nails that stick out get
+hammered down. It's fine to be a
+nail that sticks out. No regrets."
+
+---
+id: 400510
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Really?! You have a 
+boyfriend?! It'd be nice if he came
+with you. Show me his friends!"
+
+---
+id: 400511
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They tend to pressure others
+to buy the art they want to sell
+in a uniquely sweet tone.
+
+---
+id: 400512
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Unfortunately, they don't
+know anything about the language
+of flowers.
+
+
+---
+id: 400513
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"After working overtime, my
+husband feels the arrival of spring
+before dinner… or so I wish."
+
+---
+id: 400520
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Known for his one-line jokes.
+His jokes are more famous than the
+name of his comedy duo.
+
+---
+id: 400521
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}At the peak of his career,
+he won by 60K points. At his worst,
+he lost by a landslide.
+
+---
+id: 400522
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}They predict pretty much
+everything, from weather to pest
+outbreaks. It's almost prophetic.
+
+---
+id: 400523
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}He tends to make sarcastic
+remarks at press conferences due
+to his short temper.
+
+---
+id: 400530
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}They use a cheerful smile to
+mask their loneliness.
+
+---
+id: 400531
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}None of my co-stars know that
+at night, I'm alone, hugging my
+knees.
+
+---
+id: 400532
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}After everyone left, I sighed
+alone in the staff room.
+
+---
+id: 400533
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}As a woman, I'm supposed to
+have a sharp and strong expression,
+but I struggle with that. I'm shy.
+
+---
+id: 400540
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"We departed on the S.S.
+Beranmee, departing for a new planet
+without enough money to survive.
+
+---
+id: 400541
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"The work I do is very
+dangerous. I'm constantly exposed
+to life-threatining situations."
+
+---
+id: 400542
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I like my uniform, but I'd
+rather respond in style for the
+New Year's firefighting ceremony."
+
+---
+id: 400543
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Usually, scholars would have
+a white coat and glasses, but this
+scholar is more action-oriented.
+
+---
+id: 400550
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I check every day to see if
+there are any pushpins in my
+ballet shoes.
+
+---
+id: 400551
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"It's difficult for me to
+stabilize my emotions and my pitch."
+
+---
+id: 400552
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I liked the cute costumes
+at first, but standing around all
+day in sweaty fur became too much."
+
+---
+id: 400553
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"At first, I was happy about
+making dress after dress, but then
+I got overwhelmed by other tasks."
+
+---
+id: 400560
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}He speaks about himself as if
+it was someone else's story,
+causing the guests to chuckle.
+
+---
+id: 400561
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I don't look at discarded
+tiles. At the game center, I bet
+the CPU's taking advantage of me."
+
+---
+id: 400562
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They will insist on silly
+trivial matters, such as "you
+must chew candy before eating it."
+
+---
+id: 400563
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"The masterpiece 'Oretti Inu
+Desuken' is a provocative work that
+depicts life in the lens of a dog."
+
+---
+id: 400570
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They never move from their
+spot, even when the delivery truck
+arrives.
+
+---
+id: 400571
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Instead of yelling "GO STUDY"
+at people, they stand their with
+their arms crossed at the entrance.
+
+---
+id: 400572
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}In addition to their skills
+guiding others around the store,
+they handle complaints efficently.
+
+---
+id: 400573
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Don't interupt them during
+their training. If you do, they'll
+give you a devlish glare.
+
+---
+id: 400580
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have oddly practical
+inventions, such as a stand that
+allows you to stamp straight. Odd.
+
+---
+id: 400581
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They can finish a script that
+spans hundreds of pages in a night,
+but loose interest as it's finished.
+
+---
+id: 400582
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They don't read textbooks,
+despite their self-published book,
+"How to Make the Right Sweets."
+
+---
+id: 400583
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have a variety of odd
+flasks, but less than 20% of them
+are actually used.
+
+---
+id: 400590
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"0/10: The drum roll feels
+tacked on, and the audience doesn't
+know when to applaud."
+
+---
+id: 400591
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They had the go-ahead for
+the surgery, but the decision was
+in haste. Patient family's anxious.
+
+---
+id: 400592
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"To the passengers who are
+panicking as we enter turbulence:
+Would you like a blanket?"
+
+---
+id: 400593
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"He joined the company when
+I did, and we became drinking
+buddies. But that means nothing."
+
+---
+id: 400600
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They frequently argue with
+the other members over which one
+gets more screen time.
+
+---
+id: 400601
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Keeps a perfectly straight
+fingertip when showing others the
+way. (They're unsure where to point)
+
+---
+id: 400602
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They risk their life to
+rescue a dummy, and even the chief
+couldn't tell them to stop.
+
+---
+id: 400603
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They had to mop the top of
+a high skyscraper and yelled
+"WHAT?! All the way up there?!"
+
+---
+id: 400610
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Asking a pitcher who gave
+up on a home run "What are your
+goals?" seems a bit out of touch.
+
+---
+id: 400611
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I have no idea how, but the
+ball keeps hitting me in the face
+over and over again."
+
+---
+id: 400612
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When you tell me to take an
+umbrella when it rains, I agree
+for some reason. I'm not sure why."
+
+---
+id: 400613
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}This job is actually
+exciting for them. Meanwhile, I'm
+stuck reccomending jobs to others.
+
+---
+id: 400620
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Those who prefer a firmer
+option must choose "Absurdly Firm."
+
+---
+id: 400621
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}They name each and every
+string attached to the mawashi
+and cherish them.
+
+---
+id: 400622
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}What enriches grains more
+than the fresh manure of horses is
+love.
+
+---
+id: 400623
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}} "Maybe if we think like
+ancient people, we can decode
+the mysteries of mysterious ruins."
+
+---
+id: 400630
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The team signals are too
+predictable; their opponents can read
+them like a book. The team never knew!
+
+---
+id: 400631
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"No matter how cheerful the
+song, when you play it, it sounds
+like a sad sonata. Very dramatic."
+
+---
+id: 400632
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When asked about something
+they don't understand, they twist
+their mouth and start to cry.
+
+---
+id: 400633
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Customers become more
+concerned about your personal life
+rather than their future.
+
+---
+id: 400640
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The products being developed
+are more complex, such as a super-
+duper-turbo-power-swiss-army-knife.
+
+---
+id: 400641
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"To those who find buried
+treasure, I'll give a treasure map
+of that treasure as a reward!"
+
+---
+id: 400642
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The products being developed
+are more complex, such as a super-
+duper-turbo-power-swiss-army-knife.
+
+
+---
+id: 400643
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"During breaks at work, I use
+a program to calculate the most
+likely way to win the lottery."
+
+---
+id: 400650
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When I was out sick, I got
+a moving letter of support from 
+a fan. Sadly, I forgot their name."
+
+---
+id: 400651
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If we accept all the
+comedians who were fired elsewhere,
+we'd be too big. Not everyone fits.
+
+---
+id: 400652
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When they hold the pre-
+schooler's hands, they tend to
+unconciously choose their favorites.
+
+---
+id: 400653
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You can say "Oh, really?"
+"Haha" and "I'm sorry," the show
+can get through at least 2 seasons.
+
+---
+id: 400660
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Somehow, I've got my own
+fans and I'm more popular than the
+singer, despite my bland clothes."
+
+---
+id: 400661
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Since I don't aggressively
+pursue women, I end up being
+popular with flight attendants."
+
+---
+id: 400662
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I saw a piece of food stuck
+in my wife's teeth, but I didn't
+say anything. Then she went out."
+{{255:0 arg="0x0900"}}asdfgasrdegasdfgadsfgadfgadfg
+legendarybirdssoaringthroughthespa
+amagicalminidouxmakesmuffinsoutofmoo
+
+---
+id: 400663
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}He has plenty of potential to
+be popular, but he's not so popular
+with the girls at work.
+
+---
+id: 400670
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They smile at everyone, but
+they politely smile for executives
+of sucessful companies.
+
+---
+id: 400671
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"If two or three other companies
+come to interview me, I'll leave.
+
+---
+id: 400672
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I've never thought about
+work as soon as I get back home."
+
+---
+id: 400673
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Since I don't have any
+strong feelings towards the talents,
+I can easily switch responsibilities.
+
+---
+id: 400680
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They change sticks for each
+musical style, even going as far
+as to own four brushes.
+
+---
+id: 400681
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}As soon as they won the
+district tournament, they became
+very arrogant.
+
+---
+id: 400682
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I often think about giving
+change pleasantly, but I think
+too much and just give them change.
+
+---
+id: 400683
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're quite friendly to
+others in TV interviews, and don't
+seem to mind it too much.
+
+---
+id: 400690
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their dignified demeanor
+often leads them to be placed next
+to popular name-brand products.
+
+---
+id: 400691
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They highly reccomend
+glitter and shiny coats, even to
+those how dislike glitter.
+
+---
+id: 400692
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}However, they can't figure
+out which ones are wedges or irons.
+
+---
+id: 400693
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're quite insensitive
+to themselves. Even if some fat
+is showing, everyone overlooks it.
+
+---
+id: 400700
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}They return from the sea in a
+straight line, from the offshore
+to the coast.
+
+---
+id: 400701
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have somewhat slow
+reflexes, often tripping over
+thin stakes then falling down.
+
+---
+id: 400702
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I have an incredible rhythm
+with the cows, I can even chew my
+food at least 40 times."
+
+---
+id: 400703
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I don't realize it's the end
+until I'm told it's over."
+
+
+---
+id: 400710
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Whether it's a daytime
+network program or a late-night local program, they
+can any type of talk show.
+
+---
+id: 400711
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They doesn't have many
+opportunities to speak, but when
+they do, they're very eloquent.
+
+---
+id: 400712
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have overwhelming
+popularity from the children,
+due to their original jokes.
+
+---
+id: 400713
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}In these eco-conscious times,
+saying you use disposable undies 
+isn't something you would admit…
+
+---
+id: 400720
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"However, I can't seem to
+score a goal when it comes to
+love…"
+
+---
+id: 400721
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}This person has so much
+character, they could make a
+hijacker cry with their stories.
+
+---
+id: 400722
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}In reality, they're as gentle
+as a wagyu cow.
+
+---
+id: 400723
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"When entering a royal tomb,
+I make sure to respectfully take
+off my shoes."
+
+---
+id: 400730
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I'm part of the 'Help Me
+Find It' Corner! Don't bother me.
+I'm still trying to find stuff."
+
+---
+id: 400731
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Nobody notices me, even when
+I wave farewell in my regular
+clothes."
+
+---
+id: 400732
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Sometimes I think I overdust
+everything. My room's constantly
+covered in dusty clouds."
+
+---
+id: 400733
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their expression when they
+mix medicine is very beautiful,
+but it's a shame nobody's watching.
+
+---
+id: 400740
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When customers want an old-
+fashioned hairstyle, I say 'That's
+great,' but I'm thinking 'NONONONO!'
+
+---
+id: 400741
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their tendency to show off
+too much in interviews leads to
+other players resenting them.
+
+---
+id: 400742
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I try to be nice to
+customers, but I can't stand people
+who poke at food with chopsticks."
+
+---
+id: 400743
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My goal is to polish rooms
+that scares people, making them ask,
+"Didn't this room have windows?"
+
+---
+id: 400750
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When I read the news,
+I hold back the urge to say,
+"This is ridiculous!"
+
+---
+id: 400751
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They didn't want an orchestra
+but realized they needed an
+accompanist since they're a soloist.
+
+---
+id: 400752
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their standards are very
+personal and simple. For example,
+they praised a watch from an anime.
+
+
+---
+id: 400753
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It appears that she has
+some deep hatred rooted inside,
+yet her husband doesn't question it.
+
+---
+id: 400760
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Although no warnings have
+been issues, we strongly reccomend
+to watch out for strong tides."
+
+---
+id: 400761
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The crew member even takes
+off their wristwatch since it might
+ruin the instruments. Very thorough.
+
+---
+id: 400762
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"If I even deliver a single
+letter to the wrong address, the
+world will end!"
+
+---
+id: 400763
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They can naturally be
+invited into other people's homes,
+even if they aren't on duty.
+
+---
+id: 400770
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Your face didn't match the
+tone of the line! Stop making
+that mistake already!"
+
+---
+id: 400771
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If you even talk about
+the education policy, they'll flip
+out and throw a tantrum.
+
+---
+id: 400772
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When turbulence lasts for
+a bit too long, I go to the cockpit
+and say 'Let me fly for a bit!'"
+
+---
+id: 400773
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their lesson includes how
+to deliver intimidating shouts, and
+how to pressure your opponents.
+
+---
+id: 400780
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The tone of the article
+gives off a cold vibe. Maybe it'll
+cool you down as a fan.
+
+---
+id: 400781
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My personality grabs the
+bull by its horns, rather than one
+that's cautious."
+
+---
+id: 400782
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their confidant is a baby
+elephant named Yuriko. They look
+into her eyes instead of talking.
+
+---
+id: 400783
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Make sure not to wipe away
+the perp's fingerprints! Don't be
+too thorough."
+
+---
+id: 400790
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They are a diligent
+interviewer, even researching the
+name of the parakeet in advance.
+
+---
+id: 400791
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"It's more painful to have
+a scoop taken by another company
+than to be seen without makeup."
+
+---
+id: 400792
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I work diligently, but it's
+about time I let my colleagues
+wipe the tables."
+
+---
+id: 400793
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A piece of tape stuck to the
+floor won the Honorary Chairman's
+award at a big art festival.
+
+---
+id: 400800
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're the only one who can
+stay on stage for 4.5 hours, while
+the guitar and singer is replaced.
+
+---
+id: 400801
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I tend to work underground
+frequently, but not all the time."
+
+---
+id: 400802
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"We developed some new tech
+that completely cleans vehicles.
+Pidgeon droppings can be 99% erased."
+
+---
+id: 400803
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"If I overlook a defective
+product, the world will be taken
+over by a terrible shadow plague."
+
+
+---
+id: 400810
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When I dropped the hankie
+with a pigeon inside, I went 'Oh
+no!'"
+
+---
+id: 400811
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I spent all this time
+getting to know these skills…
+I wish I could make art with them."
+
+---
+id: 400812
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"In the evening, when a
+customer asks 'Where's the
+bathroom?' I become half-asleep."
+
+---
+id: 400813
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Some customers have trouble
+with women. I tell them, 'Popular
+people likely lead to trouble, no?'"
+
+---
+id: 400820
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I made a random drawing in
+my bed once. I never realized it,
+but it sold for millions of yen."
+
+---
+id: 400821
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Life is always a game of
+waiting. My specialty is getting a
+kokushi musou with a chiho."
+
+
+---
+id: 400822
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You have many opportunities
+to be called "sensei" in your life.
+There's always requests for advice.
+
+---
+id: 400823
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They give off an intimidating
+atmosphere before the match. After
+it, no one comes to them.
+
+---
+id: 400830
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Your pose is elegant, but
+you keep trying to breathe. It's
+too much and it feels weird."
+
+---
+id: 400831
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My husband always says, 'You
+weren't like this when we first
+started dating…'"
+
+---
+id: 400832
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"You have no idea that your
+husband is swallowing his pride,
+shamefully eating the appetizer."
+
+Psst!
+translate this into deepL it's hillarious if you're older than 13
+
+ご主人が、恥をしのんで
+お通しをカッ
+トしていることなど あなたは知る由もありません。
+
+---
+id: 400833
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They tend to flip the table
+when they loose, so their partner
+tries to hold it down.
+
+---
+id: 400840
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have the ability to turn
+a hum from a song into a demo, then
+into a full song. That's talent!
+
+---
+id: 400841
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"That lunch was so terrible,
+I canceled the afternoon shoot.
+It even surprised the lead actress!"
+
+---
+id: 400842
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Thanks to the overly sweet
+expectations that exceed the sweets
+being made, the staff have it rough.
+
+---
+id: 400843
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I easily get fustrated if I
+don't set the DVR for my favorite
+late-night anime."
+
+---
+id: 400850
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I'm secretely dating an
+athlete, but when we interact on
+the show, nobody notices."
+
+---
+id: 400851
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even though an ex-lover was
+involved, I won't be shaken! Let's
+arrange the bus for interviews."
+
+---
+id: 400852
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When the head doctor comes
+out to observe, they do their job.
+But they faint at the sight of blood.
+
+---
+id: 400853
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"If it's part of my mission,
+I'll even infiltrate companies
+where my family works."
+
+---
+id: 400860
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I even give half-price
+discounts to make the audience go
+'Wow!' Too bad they're paid."
+
+---
+id: 400861
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I put a lot of thought into
+my presentations, Next time, I'll
+even use sound effects!"
+
+---
+id: 400862
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Coincidentally, I managed
+to give mail to someone who was
+watering. It was the water bill."
+
+---
+id: 400863
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I try to inform others about
+arrival times and whatnot, but
+everyone goes to the conductor."
+
+---
+id: 400870
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The judges and audience think
+to themselves "Is he OK?" He leads
+a pretty captivating performance.
+
+---
+id: 400871
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They took a lightning spike,
+which shocked the rookie due to
+their throbbing and swolen arm.
+
+---
+id: 400872
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They suddenly act distant and
+try to look away. Something fishy
+is going on with them…
+
+---
+id: 400873
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}He's already at the water
+station after 4km from the start.
+He's clearly struggling to move.
+
+---
+id: 400880
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They don't participate in
+any comedy competion. Others say,
+"You're only trying to look cool!"
+
+---
+id: 400881
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}He used to be an ally of the
+people as a prince, but as a king,
+he flaunted his power.
+
+---
+id: 400882
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I have no interest in the
+rat race for promotion. My day
+begins with fresh, lukewarm milk."
+
+---
+id: 400883
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their catchphrase is "A real
+young master can't write 'Botchan.'"
+
+---
+id: 400890
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They could be a little kinder
+to the junior companions.
+
+---
+id: 400891
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}One reason for the growing
+enthusiasm for education is that
+they can't blend in at PTA meetings.
+
+---
+id: 400892
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Just by hearing a child's
+cry, I can predict where they'll be
+hired in 25 years."
+
+---
+id: 400893
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"If the branch shifts by 2mm,
+I'll rush over to fix it."
+
+---
+id: 400900
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The moment they call "Cut!"
+they stop speaking, confusing their
+assistant.
+
+---
+id: 400901
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"We main silent throughout
+the flight, but when we cross the
+date line, we somehow get excited."
+
+---
+id: 400902
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}With wild gas prices, their
+quick calculation skills are
+useful… in a computer world.
+
+
+---
+id: 400903
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They are very obsessed with
+numbers, they even know their local
+train schedule on holidays.
+
+---
+id: 400910
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I was forced to take it
+since I had a good sword stand.
+I stayed up all night crafting."
+
+---
+id: 400911
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"If I go to Antartica, I 
+won't be caught in the rotation,
+which should slow down how I age."
+
+---
+id: 400912
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"The second someone finishes
+their meal, I swipe their plate
+away from them."
+
+---
+id: 400913
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"The interviewees were
+puzzled at my answer, 'I wanted to
+combine hobbies with practicality."
+
+---
+id: 400920
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Making a dunk shot's 
+actually quite rare, only happening
+every one to two months."
+
+---
+id: 400921
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're well respected, but
+not really articulate. players
+often ask them to repeat themselves.
+
+---
+id: 400922
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Veggies are like my
+students." They don't refer to them
+as children, though.
+
+---
+id: 400923
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"We only conduct experiments
+with known results, but is that
+really an experiment?"
+
+---
+id: 400930
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A nostalgic show unfolds,
+exuding a scent of the Showa era.
+The BGM adds to the atmosphere.
+
+---
+id: 400931
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"In daily life communication,
+I'm always the receiver."
+
+---
+id: 400932
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When I realized I stood in
+the station for four hours in the 
+heavy rain, my master said '"Sorry.'"
+
+---
+id: 400933
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}From a lung's perspective,
+it's possible to exhale for a long
+time.
+
+---
+id: 400940
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Look, there I am! In the
+middle of the club activities
+photo!"
+
+---
+id: 400941
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Repairing the castle walls
+is up to a vote. If nobody wants
+it, the walls get shredded.
+
+---
+id: 400942
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're popular with the
+animals, as well as the company
+that feeds them.
+
+---
+id: 400943
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"'Fireworks inspired by
+roasted chestnuts?' As more people
+complained, I grew more determined."
+
+---
+id: 400950
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When the scandal about that
+actor went out, I thought he'd deny
+it, but he had some meaningful words."
+
+---
+id: 400951
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They don't care if they have
+a partner or not, they just charge
+towards the ball.
+
+---
+id: 400952
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Even though the forecast
+predicts rain, I still think it's
+sunny."
+
+---
+id: 400953
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Fickle, playful, and
+competitive. She's a devilish
+Madonna out of place in the office.
+
+---
+id: 400960
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have a cold side to them
+and makes the other members on edge
+about their words and choices.
+
+---
+id: 400961
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Residents live in constant
+fear of being arrested for asking
+for directions.
+
+---
+id: 400962
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Regarded as brave, they were
+just not afraid of fire.
+
+---
+id: 400963
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Relationships aren't as
+smooth as diamonds.
+
+---
+id: 400970
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"As a DJ, I stress about
+pronouncing songs in an American
+style while in the booth."
+
+---
+id: 400971
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}She has maternal instinct
+like a lioness. She pushes her cubs
+into despair and won't let them rise.
+
+---
+id: 400972
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A true pro believes he has no
+credibility unless they have a
+perfect figure.
+
+---
+id: 400973
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}They hold hands to help cross
+the street. However,However,However
+However,how,now brown cow, however.
+
+---
+id: 400980
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I stay in the training room
+until the end. I even mop the floor
+and turn the lights off."
+
+---
+id: 400981
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Ideal for fireball stunts,
+but staying heated too long is
+dangerous.
+
+---
+id: 400982
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I settled for one package
+per building in the city, but got
+lectured by the reindeer going back."
+
+
+---
+id: 400983
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Visiting different homes for
+work seems to suit me."
+
+---
+id: 400990
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"They misinterpret me as
+having no interest in this news."
+
+---
+id: 400991
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I just throw a bone to a dog
+I don't like. That's it."
+
+---
+id: 400992
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Beef or chicken: Chicken!?
+Why chicken!?"
+
+---
+id: 400993
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"As a judge, I see all the
+works feature the same flower.
+Guess I'll favor the udon."
+
+---
+id: 401000
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"In a space without water,
+air, or stores, take your taut
+nerves."
+
+---
+id: 401001
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}When they adjust their belt,
+citizens instinctively brace
+themselves.
+
+---
+id: 401002
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Whether it's a huge city
+mall or a rural doghouse, I'm
+determined to extinguish fires."
+
+---
+id: 401003
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have no fighting stance,
+since they have yet to understand
+that life itself is a fight.
+
+---
+id: 401010
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I only smile for the stage,
+I've never opened my heart up
+to my partner."
+
+---
+id: 401011
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}From the first shot, the
+tension was intense as putting.
+
+---
+id: 401012
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I relieve my worries by
+talking to babies. It would be a
+big deal if they understood words."
+
+---
+id: 401013
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"All the information I have
+is on this one disk."
+
+---
+id: 401020
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"You think you're just riding
+the wave, but soon, you're leading
+a pod of orcas.
+
+---
+id: 401021
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I took this job for my love
+of the ocean, but I actually
+perfer the mountains."
+
+---
+id: 401022
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My love for animals makes me
+think from their perspective: Styluses
+are too thin for a nose to grasp."
+
+---
+id: 401023
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Rather than wanting the
+audience to see, I aim to beautify
+the night sky."
+
+---
+id: 401030
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Sitting in the audience are
+pumpkins! They're all giant Western
+pumpkins!
+
+---
+id: 401031
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're famous for flawlessly
+following sheet music, but I still
+question if that's enough.
+
+---
+id: 401032
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When an old friend visits
+and says 'Hey!', I reply with
+'Welcome!'"
+
+---
+id: 401033
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Spends their time sunbathing
+at a cottage among birch trees. True
+celeberties don't live in cities.
+
+---
+id: 401040
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}It's a shame that a painting
+worth millions is deemed a failure
+and is stored away in a closet.
+
+---
+id: 401041
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Maintaining motivation from
+filming to the screening will lead
+to success."
+
+---
+id: 401042
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Being surrounded by hyper
+elementary students makes me
+nervous."
+
+---
+id: 401043
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I express a desire to create
+a flower-inspired work and get
+laughed at. Such a shame!"
+
+---
+id: 401050
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I don't like studying, but
+I'm quick-witted and can use a
+sewing machine by myself."
+
+---
+id: 401051
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I don't look at the sheet
+music. If I'm confused, I comopse
+something on my own."
+
+---
+id: 401052
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"If I life my right foot
+before my left touches the ground,
+I could probably walk in the sky!"
+
+---
+id: 401053
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}If you think of yourself as
+"maybe a fairy," you might not be
+blessed with good encounters."
+
+---
+id: 401060
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They get laughts through
+actions in punchlines, and will
+gain broad but shallow popularity.
+
+---
+id: 401061
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even though I'm a sports
+player, my laid-back personality
+makes me befriend many herbivores."
+
+---
+id: 401062
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}She's skilled at dodging
+bored housewives' "You won't believe
+THIS!" stories.
+
+---
+id: 401063
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When schedules are ruined
+due to rain, I feel a bit excited,
+even though that's inappropriate."
+
+---
+id: 401070
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The dance is cool, but the
+thick white socks are a lazy choice.
+
+---
+id: 401071
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I love how you wag your
+tail and run over when you're happy."
+
+---
+id: 401072
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"Sensei, does your skin
+look rough lately?"
+"Akira, say that again."
+
+---
+id: 401073
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Everyone thinks I might
+ignore them if they all talk to me
+at once."
+
+---
+id: 401080
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"No matter what show I appear
+on, someone always says, 'You love
+yourself, don't you?'"
+
+---
+id: 401081
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My friends describe me like
+a piece of cut lumber, rather than
+split bamboo."
+
+---
+id: 401082
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I can't help but talk about
+myself the entire time, and it's
+all about me bragging."
+
+---
+id: 401083
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My assistant describes me
+like electrolyzed water, not apple
+juice."
+
+---
+id: 401090
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"There was talk about the
+first female leader in history,
+but I let it slide."
+
+---
+id: 401091
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When I am the negotiator,
+my expression changes, and I
+confidently hold the megaphone."
+
+---
+id: 401092
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I get enthusiastic pushes
+from my peers. The more I resist,
+the more they push."
+
+---
+id: 401093
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"One day, I want to finish A
+42.195km three-legged race
+with my beloved."
+
+---
+id: 401100
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"My timing gets great laughs
+from employees, but it doesn't
+have anything to do with sales."
+
+---
+id: 401101
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I sprinkle salt in three
+areas, paying attention to detail.
+I stop before it becomes obvious."
+
+---
+id: 401102
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I aim to deliver a dairy
+joke when my family drinks milk.
+Getting splashed is my goal."
+
+---
+id: 401103
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I enjoy leaving odd phrases
+like 'famous dog' on the pipes,
+just to see others get confused."
+
+---
+id: 401110
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I protested to the judges
+with teary eyes, asking if costumes
+are included in the artistic score."
+
+---
+id: 401111
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"After five games, during a
+break, I asked the judges if there
+is no artstic score in tennis."
+
+---
+id: 401112
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I wish I could chat with
+dolphins someday."
+
+---
+id: 401113
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"When I'm moved by a color,
+I get so close to the subject that
+the photo becomes unrecognizable."
+
+---
+id: 401120
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I ignore calls for a pass
+and sprint around the court with
+an old-school dribble."
+
+---
+id: 401121
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Despite being called the top
+scorer, they don't high-five after
+a home run, causing tension.
+
+---
+id: 401122
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Based on my opinion, for
+some reason, nameko mushrooms sit
+in the space next to the register."
+
+---
+id: 401123
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I refuse to let a nimble car
+in while trying to park by size."
+
+---
+id: 401130
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Questioning the losing 
+pitcher about the photo magazine
+scandal just adds insult to injury.
+
+---
+id: 401131
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I wish the gallery would
+show the 'gap' of reading the grass
+or wind, even if it's a lie."
+
+
+---
+id: 401132
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Even if I'm not a middle
+schooler in puberty, I don't use
+one specific type of club."
+
+---
+id: 401133
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Please think of the staff
+waiting with a towel to catch you
+as you fall."
+
+---
+id: 401140
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Drums are essential for many
+songs, that's why I chose them."
+That seems a bit lackluster…
+
+---
+id: 401141
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They think rationally rather
+than relying on intution,
+prioritizing logic over rhythm.
+
+---
+id: 401142
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"The store's open 24/7, but
+if I don't check the shutters, I
+get uneasy and can't concentrate."
+
+---
+id: 401143
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"What you make doesn't matter
+but having two side dishes on the
+table is.
+
+---
+id: 401150
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I don't have much ambition.
+I'm only dancing for money."
+
+---
+id: 401151
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They tend to choose more
+complex pieces, since simple ones
+have too many flaws.
+
+---
+id: 401152
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Even though it's a shoujo
+manga, it uses four panels, as
+it's easier to plan the punchline.
+
+---
+id: 401153
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"Hearing a friend say 'Long
+time no see!' makes me want to
+read poems by Kiyotomo no Takanori."
+
+---
+id: 401160
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"After many years, we've
+made a ramen sure to sell! We even
+monitor sales with a noddle graph."
+
+---
+id: 401161
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}"I speak politely to new 
+hires and am well trusted
+by female staff."
+
+---
+id: 401162
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"I meant to say 'This is a
+present,' but I said 'This is a
+reward,' and laughed at myself.
+
+---
+id: 401163
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}A perfect programmer is a
+good communicator. Too bad there
+aren't any perfect programmers!
+
+---
+id: 401170
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}"From head to toe, there is
+NOT a part of my body that isn't
+dedicated to being an idol."
+
+---
+id: 401171
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Dating a bold go-getter can
+take them as far as the South pole.
+
+---
+id: 401172
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They have excellent
+coordination. They'd be unstopable
+if a family member manages things.
+
+---
+id: 401173
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Their nails would shine like
+diamonds in a dull office!
+
+---
+id: 401180
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}The mother said "It's OK to
+have big dreams," but with a half-
+smile.
+
+---
+id: 401181
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Having 12 screens is totally
+over the top… The company didn't
+make up their mind if that's good.
+
+---
+id: 401182
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Good rice comes from good
+soil. Even if you don't water,
+rich land will support growth.
+
+---
+id: 401183
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}Those unconventional
+thinkers such as this Mii have
+always solved strange mysteries.
+
+---
+id: 401190
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They're easy to handle if
+you complement their face. If you
+do, they become quite cheerful!
+
+---
+id: 401191
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}You'd have no choice but to
+enter the Amazon with that diagonal
+anaconda sling!
+
+---
+id: 401192
+attribute: 0x6400E00001010002
+---
+{{255:0 arg="0x0900"}}Planter, planter, ampoule,
+Khob Khun! And now the flowers are
+strong and healthy.
+
+---
+id: 401193
+attribute: 0x6400E00001010003
+---
+{{255:0 arg="0x0900"}}They figured out if you call
+your subject cute, they'll smile
+for a bit longer.
+
+---
+id: 500000
+attribute: 0x6400E00001010001
+---
+Serious, but clumsy
+
+---
+id: 500001
+attribute: 0x6400E00001010001
+---
+Awkward, but unique
+
+---
+id: 500002
+attribute: 0x6400E00001010001
+---
+An opportunist
+
+---
+id: 500003
+attribute: 0x6400E00001010001
+---
+Very serious
+
+---
+id: 500010
+attribute: 0x6400E00001010001
+---
+Caring yet powerful.
+
+---
+id: 500011
+attribute: 0x6400E00001010001
+---
+Very dry, like a drought of feelings.
+
+---
+id: 500012
+attribute: 0x6400E00001010001
+---
+Keeps gnats away
+
+---
+id: 500013
+attribute: 0x6400E00001010001
+---
+Sharp eyes
+
+---
+id: 500020
+attribute: 0x6400E00001010001
+---
+Humble and patient
+
+---
+id: 500021
+attribute: 0x6400E00001010001
+---
+Safety first, no matter what
+
+---
+id: 500022
+attribute: 0x6400E00001010001
+---
+Feels great under the hood
+
+---
+id: 500023
+attribute: 0x6400E00001010001
+---
+more like a loyal samurai than a sergeant
+
+---
+id: 500030
+attribute: 0x6400E00001010001
+---
+always spoiled, regardless of age
+
+---
+id: 500031
+attribute: 0x6400E00001010001
+---
+adorable and dignified
+
+---
+id: 500032
+attribute: 0x6400E00001010001
+---
+always spoiled, regardless of age
+
+---
+id: 500033
+attribute: 0x6400E00001010001
+---
+strict line between top & bottom
+
+---
+id: 500040
+attribute: 0x6400E00001010001
+---
+jumps to conclusions often
+
+---
+id: 500041
+attribute: 0x6400E00001010001
+---
+specializes in board cutting
+
+---
+id: 500042
+attribute: 0x6400E00001010001
+---
+time-saving
+
+---
+id: 500043
+attribute: 0x6400E00001010001
+---
+strict with subordinates
+
+---
+id: 500050
+attribute: 0x6400E00001010001
+---
+flexible, provides temp. support
+
+---
+id: 500051
+attribute: 0x6400E00001010001
+---
+too caring, neglectful towards self
+
+---
+id: 500052
+attribute: 0x6400E00001010001
+---
+always calm, even in buisness meetings
+
+---
+id: 500053
+attribute: 0x6400E00001010001
+---
+needs clearer text on cue cards
+
+---
+id: 500060
+attribute: 0x6400E00001010001
+---
+when sucessful, starts to focus
+
+---
+id: 500061
+attribute: 0x6400E00001010001
+---
+doesn't loose their pace
+
+---
+id: 500062
+attribute: 0x6400E00001010001
+---
+finally popular with creatures
+
+---
+id: 500063
+attribute: 0x6400E00001010001
+---
+tends to be physically weak
+
+---
+id: 500070
+attribute: 0x6400E00001010001
+---
+private life affects their job
+
+---
+id: 500071
+attribute: 0x6400E00001010001
+---
+too vain
+
+---
+id: 500072
+attribute: 0x6400E00001010001
+---
+never makes a fuss
+
+---
+id: 500073
+attribute: 0x6400E00001010001
+---
+unsettling predictions
+
+---
+id: 500080
+attribute: 0x6400E00001010001
+---
+quite the heartthrob
+
+---
+id: 500081
+attribute: 0x6400E00001010001
+---
+uses onomatopoeias a lot
+
+---
+id: 500082
+attribute: 0x6400E00001010001
+---
+takes mascots to the next level
+
+---
+id: 500083
+attribute: 0x6400E00001010001
+---
+too casual
+
+---
+id: 500090
+attribute: 0x6400E00001010001
+---
+imposes opinions on customers
+
+---
+id: 500091
+attribute: 0x6400E00001010001
+---
+generous, has big plans
+
+---
+id: 500092
+attribute: 0x6400E00001010001
+---
+doesn't get along with mom-in-law
+
+---
+id: 500093
+attribute: 0x6400E00001010001
+---
+no clear goals, forceful
+
+---
+id: 500100
+attribute: 0x6400E00001010001
+---
+focues on appearances than substance
+
+---
+id: 500101
+attribute: 0x6400E00001010001
+---
+isn't a good player of mind games
+
+---
+id: 500102
+attribute: 0x6400E00001010001
+---
+easily influenced by prestige
+
+---
+id: 500103
+attribute: 0x6400E00001010001
+---
+perfectionist, has a sharp eye
+
+---
+id: 500110
+attribute: 0x6400E00001010001
+---
+tries to help, but gets in the way
+
+---
+id: 500111
+attribute: 0x6400E00001010001
+---
+always turns when getting the ball
+
+---
+id: 500112
+attribute: 0x6400E00001010001
+---
+their smile brightens up people's days
+
+---
+id: 500113
+attribute: 0x6400E00001010001
+---
+annoyingly exaggerates actions
+
+---
+id: 500120
+attribute: 0x6400E00001010001
+---
+need to speak softly to
+
+---
+id: 500121
+attribute: 0x6400E00001010001
+---
+rebellious and stuborn
+
+---
+id: 500122
+attribute: 0x6400E00001010001
+---
+deep and mysterious
+
+---
+id: 500123
+attribute: 0x6400E00001010001
+---
+frequently uses harsh language
+
+---
+id: 500130
+attribute: 0x6400E00001010001
+---
+likes a good challenge
+
+---
+id: 500131
+attribute: 0x6400E00001010001
+---
+thinks of it like a competition than an artform
+
+---
+id: 500132
+attribute: 0x6400E00001010001
+---
+sold their soul to the editor
+
+---
+id: 500133
+attribute: 0x6400E00001010001
+---
+thinks it's fine to be in the ten-thousands
+
+---
+id: 500140
+attribute: 0x6400E00001010001
+---
+never knows when to shut up
+
+---
+id: 500141
+attribute: 0x6400E00001010001
+---
+completely unpredictable
+
+---
+id: 500142
+attribute: 0x6400E00001010001
+---
+drives like they talk, very calm
+
+---
+id: 500143
+attribute: 0x6400E00001010001
+---
+their motto's "intution, patience, and peserverance"
+
+---
+id: 500150
+attribute: 0x6400E00001010001
+---
+has the qualities to stay young
+
+---
+id: 500151
+attribute: 0x6400E00001010001
+---
+can get away with being selfish
+
+---
+id: 500152
+attribute: 0x6400E00001010001
+---
+finishes at the last second
+
+---
+id: 500153
+attribute: 0x6400E00001010001
+---
+has a charming appeal
+
+---
+id: 500160
+attribute: 0x6400E00001010001
+---
+prematurely begins w. a casual attitude
+
+---
+id: 500161
+attribute: 0x6400E00001010001
+---
+doesn't attend drinking parties
+
+---
+id: 500162
+attribute: 0x6400E00001010001
+---
+easily fustrated over failed plans
+
+---
+id: 500163
+attribute: 0x6400E00001010001
+---
+tests out work in the backyard
+
+---
+id: 500170
+attribute: 0x6400E00001010001
+---
+best in popularity and ability
+
+---
+id: 500171
+attribute: 0x6400E00001010001
+---
+walks with a swagger
+
+---
+id: 500172
+attribute: 0x6400E00001010001
+---
+doesn't take sick days off
+
+---
+id: 500173
+attribute: 0x6400E00001010001
+---
+goes above and beyond to help others
+
+---
+id: 500180
+attribute: 0x6400E00001010001
+---
+prefers to perform alone
+
+---
+id: 500181
+attribute: 0x6400E00001010001
+---
+has a strict attitude, even with rookies
+
+---
+id: 500182
+attribute: 0x6400E00001010001
+---
+welcomes people like a tough father
+
+---
+id: 500183
+attribute: 0x6400E00001010001
+---
+relies on emotions when writing
+
+---
+id: 500190
+attribute: 0x6400E00001010001
+---
+unexpectedly surprises the audience
+
+---
+id: 500191
+attribute: 0x6400E00001010001
+---
+their confident attitude ironically
+makes patients anxious
+
+---
+id: 500192
+attribute: 0x6400E00001010001
+---
+can't say "fish or chicken" smoothly
+
+---
+id: 500193
+attribute: 0x6400E00001010001
+---
+efficient mixer
+
+---
+id: 500200
+attribute: 0x6400E00001010001
+---
+solid, both in looks and personality
+
+---
+id: 500201
+attribute: 0x6400E00001010001
+---
+perfers their private room than the sumo stable
+
+---
+id: 500202
+attribute: 0x6400E00001010001
+---
+peforms passionately, even in small crowds
+
+---
+id: 500203
+attribute: 0x6400E00001010001
+---
+they have many advantages by being nice
+
+---
+id: 500210
+attribute: 0x6400E00001010001
+---
+vibe is from the Showa era
+
+---
+id: 500211
+attribute: 0x6400E00001010001
+---
+their club doesn't suit them yet
+
+---
+id: 500212
+attribute: 0x6400E00001010001
+---
+personally opens up after finishing all 18 holes
+
+---
+id: 500213
+attribute: 0x6400E00001010001
+---
+dislikes flashy decorations
+
+---
+id: 500220
+attribute: 0x6400E00001010001
+---
+they're a stuborn narcicist
+
+---
+id: 500221
+attribute: 0x6400E00001010001
+---
+likely to hold the board
+
+---
+id: 500222
+attribute: 0x6400E00001010001
+---
+passionate about justice, hates laziness
+
+---
+id: 500223
+attribute: 0x6400E00001010001
+---
+prone to firing those who disobey
+
+---
+id: 500230
+attribute: 0x6400E00001010001
+---
+keeps their home address private
+
+---
+id: 500231
+attribute: 0x6400E00001010001
+---
+fearless
+
+---
+id: 500232
+attribute: 0x6400E00001010001
+---
+likely to hide the truth
+
+---
+id: 500233
+attribute: 0x6400E00001010001
+---
+takes cares of others
+
+---
+id: 500240
+attribute: 0x6400E00001010001
+---
+goes with the flow
+
+---
+id: 500241
+attribute: 0x6400E00001010001
+---
+they are synonomous with effort
+
+---
+id: 500242
+attribute: 0x6400E00001010001
+---
+moderately friendly
+
+---
+id: 500243
+attribute: 0x6400E00001010001
+---
+their calm worldview is quite popular
+
+---
+id: 500250
+attribute: 0x6400E00001010001
+---
+uses their life as joke material
+
+---
+id: 500251
+attribute: 0x6400E00001010001
+---
+became used to being spoiled
+
+---
+id: 500252
+attribute: 0x6400E00001010001
+---
+very honest
+
+---
+id: 500253
+attribute: 0x6400E00001010001
+---
+unsuitable for office romance
+
+---
+id: 500260
+attribute: 0x6400E00001010001
+---
+has a soft grin
+
+---
+id: 500261
+attribute: 0x6400E00001010001
+---
+always dissatisfied
+
+---
+id: 500262
+attribute: 0x6400E00001010001
+---
+does what the higher-ups say
+
+---
+id: 500263
+attribute: 0x6400E00001010001
+---
+perfectly ordinary
+
+---
+id: 500270
+attribute: 0x6400E00001010001
+---
+audience doesn't understand them
+
+---
+id: 500271
+attribute: 0x6400E00001010001
+---
+has a certain charm
+
+---
+id: 500272
+attribute: 0x6400E00001010001
+---
+has a subtle, yet elegant charm
+
+---
+id: 500273
+attribute: 0x6400E00001010001
+---
+focuses too much on their neck
+
+---
+id: 500280
+attribute: 0x6400E00001010001
+---
+ranks teammates by skill level
+
+---
+id: 500281
+attribute: 0x6400E00001010001
+---
+should learn how to be resourceful
+
+---
+id: 500282
+attribute: 0x6400E00001010001
+---
+can't wait for crops to grow
+
+---
+id: 500283
+attribute: 0x6400E00001010001
+---
+really self-absorbed
+
+---
+id: 500290
+attribute: 0x6400E00001010001
+---
+considering retirement although they're new
+
+---
+id: 500291
+attribute: 0x6400E00001010001
+---
+continues to proudly reign supreme
+
+---
+id: 500292
+attribute: 0x6400E00001010001
+---
+does anything to sell their product
+
+---
+id: 500293
+attribute: 0x6400E00001010001
+---
+has sloppy ways to win
+
+---
+id: 500300
+attribute: 0x6400E00001010001
+---
+introduced the reverse draft system
+
+---
+id: 500301
+attribute: 0x6400E00001010001
+---
+a crafty genius
+
+---
+id: 500302
+attribute: 0x6400E00001010001
+---
+excellent planning skills!
+
+---
+id: 500303
+attribute: 0x6400E00001010001
+---
+eliminates everything they dislike
+
+---
+id: 500310
+attribute: 0x6400E00001010001
+---
+filled with compassion
+
+---
+id: 500311
+attribute: 0x6400E00001010001
+---
+has a bond that surpasses love
+
+---
+id: 500312
+attribute: 0x6400E00001010001
+---
+has a feeling they'll cry after five seconds
+
+---
+id: 500313
+attribute: 0x6400E00001010001
+---
+makes people-friendly designs
+
+---
+id: 500320
+attribute: 0x6400E00001010001
+---
+very responsible, goes all out
+
+---
+id: 500321
+attribute: 0x6400E00001010001
+---
+hates to loose
+
+---
+id: 500322
+attribute: 0x6400E00001010001
+---
+does their best, without expecting praise
+
+---
+id: 500323
+attribute: 0x6400E00001010001
+---
+first class at home
+
+---
+id: 500330
+attribute: 0x6400E00001010001
+---
+stays away from stage magic
+
+---
+id: 500331
+attribute: 0x6400E00001010001
+---
+somewhat sluggish movement
+
+---
+id: 500332
+attribute: 0x6400E00001010001
+---
+has nothing in particular to teach
+
+---
+id: 500333
+attribute: 0x6400E00001010001
+---
+blends in with the scenery
+
+---
+id: 500340
+attribute: 0x6400E00001010001
+---
+is a leader in title with no influence
+
+---
+id: 500341
+attribute: 0x6400E00001010001
+---
+"help the weak" is their motto
+
+---
+id: 500342
+attribute: 0x6400E00001010001
+---
+worked their way up from the bottom
+
+---
+id: 500343
+attribute: 0x6400E00001010001
+---
+a lone wolf, even in a huge company
+
+---
+id: 500350
+attribute: 0x6400E00001010001
+---
+waits for the moment to go independent
+
+---
+id: 500351
+attribute: 0x6400E00001010001
+---
+might rival the chief of police
+
+---
+id: 500352
+attribute: 0x6400E00001010001
+---
+the real boss of the household
+
+---
+id: 500353
+attribute: 0x6400E00001010001
+---
+nobody dares to defy them
+
+---
+id: 500360
+attribute: 0x6400E00001010001
+---
+a genius who creates something from nothing
+
+---
+id: 500361
+attribute: 0x6400E00001010001
+---
+quickly adapts to the situation
+
+---
+id: 500362
+attribute: 0x6400E00001010001
+---
+fragile like glass
+
+---
+id: 500363
+attribute: 0x6400E00001010001
+---
+particular about tiny details
+
+---
+id: 500370
+attribute: 0x6400E00001010001
+---
+quickly sends scoops to the press
+
+---
+id: 500371
+attribute: 0x6400E00001010001
+---
+quiet behind the scenes
+
+---
+id: 500372
+attribute: 0x6400E00001010001
+---
+their sincerity makes up for their grammar issues
+
+---
+id: 500373
+attribute: 0x6400E00001010001
+---
+can't be pushed beyond their limit
+
+---
+id: 500380
+attribute: 0x6400E00001010001
+---
+knows too much about the criminal world
+
+---
+id: 500381
+attribute: 0x6400E00001010001
+---
+loves horses
+
+---
+id: 500382
+attribute: 0x6400E00001010001
+---
+good listener
+
+---
+id: 500383
+attribute: 0x6400E00001010001
+---
+good at reasoning, lacks execution
+
+---
+id: 500390
+attribute: 0x6400E00001010001
+---
+is the center of attention
+
+---
+id: 500391
+attribute: 0x6400E00001010001
+---
+has plenty of sex appeal and charm
+
+---
+id: 500392
+attribute: 0x6400E00001010001
+---
+persuades anti-vaccination to change
+
+---
+id: 500393
+attribute: 0x6400E00001010001
+---
+always dissatisfied
+
+---
+id: 500400
+attribute: 0x6400E00001010001
+---
+trims diagonally, nice and smooth
+
+---
+id: 500401
+attribute: 0x6400E00001010001
+---
+can't escape their dilemmas
+
+---
+id: 500402
+attribute: 0x6400E00001010001
+---
+don't spoil them just because they're cute
+
+---
+id: 500403
+attribute: 0x6400E00001010001
+---
+extremely sensitive to trends
+
+---
+id: 500410
+attribute: 0x6400E00001010001
+---
+very opinionated
+
+---
+id: 500411
+attribute: 0x6400E00001010001
+---
+often grumpy
+
+---
+id: 500412
+attribute: 0x6400E00001010001
+---
+Just because he's friendly at work…
+
+---
+id: 500413
+attribute: 0x6400E00001010001
+---
+mood depends on weather
+
+---
+id: 500420
+attribute: 0x6400E00001010001
+---
+knows what others need
+
+---
+id: 500421
+attribute: 0x6400E00001010001
+---
+popular leader
+
+---
+id: 500422
+attribute: 0x6400E00001010001
+---
+treats students like friends
+
+---
+id: 500423
+attribute: 0x6400E00001010001
+---
+puts their heart into it
+
+---
+id: 500430
+attribute: 0x6400E00001010001
+---
+always thinking
+
+---
+id: 500431
+attribute: 0x6400E00001010001
+---
+chatty
+
+---
+id: 500432
+attribute: 0x6400E00001010001
+---
+known for their light-hearted talks
+
+---
+id: 500433
+attribute: 0x6400E00001010001
+---
+easily targeted by female colleagues
+
+---
+id: 500440
+attribute: 0x6400E00001010001
+---
+thinks differently to solve problems
+
+---
+id: 500441
+attribute: 0x6400E00001010001
+---
+envisions their own dreams
+
+---
+id: 500442
+attribute: 0x6400E00001010001
+---
+unsure about themselves
+
+---
+id: 500443
+attribute: 0x6400E00001010001
+---
+somewhat of a hard worker
+
+---
+id: 500450
+attribute: 0x6400E00001010001
+---
+an idol among idols
+
+---
+id: 500451
+attribute: 0x6400E00001010001
+---
+skilled at navigating life
+
+---
+id: 500452
+attribute: 0x6400E00001010001
+---
+"I'll punish you with my magic powers!"
+
+---
+id: 500453
+attribute: 0x6400E00001010001
+---
+you'll never know what triggers their anger
+
+---
+id: 500460
+attribute: 0x6400E00001010001
+---
+has a sharp tongue & focuses on current events
+
+---
+id: 500461
+attribute: 0x6400E00001010001
+---
+has great lighthearted jokes
+
+---
+id: 500462
+attribute: 0x6400E00001010001
+---
+quickly prepares small jokes
+
+---
+id: 500463
+attribute: 0x6400E00001010001
+---
+persists to make others laugh
+
+---
+id: 500470
+attribute: 0x6400E00001010001
+---
+rejects segments they already planned
+
+---
+id: 500471
+attribute: 0x6400E00001010001
+---
+nice, clean cuts
+
+---
+id: 500472
+attribute: 0x6400E00001010001
+---
+their straightfoward speech leads to trust
+
+---
+id: 500473
+attribute: 0x6400E00001010001
+---
+don't talk to them while working
+
+---
+id: 500480
+attribute: 0x6400E00001010001
+---
+honest, yet lacks sublety
+
+---
+id: 500481
+attribute: 0x6400E00001010001
+---
+not good with their hands
+
+---
+id: 500482
+attribute: 0x6400E00001010001
+---
+works diligently without seeking favor
+
+---
+id: 500483
+attribute: 0x6400E00001010001
+---
+straightforward
+
+---
+id: 500490
+attribute: 0x6400E00001010001
+---
+energetic, refreshing, healthy
+
+---
+id: 500491
+attribute: 0x6400E00001010001
+---
+mindless
+
+---
+id: 500492
+attribute: 0x6400E00001010001
+---
+goes with the flow
+
+---
+id: 500493
+attribute: 0x6400E00001010001
+---
+more patient than a lion
+
+---
+id: 500500
+attribute: 0x6400E00001010001
+---
+cautious, dislikes acting randomly
+
+---
+id: 500501
+attribute: 0x6400E00001010001
+---
+cool guy, never breaks a sweat
+
+---
+id: 500502
+attribute: 0x6400E00001010001
+---
+their elegant tone quietly gives them recognition
+
+---
+id: 500503
+attribute: 0x6400E00001010001
+---
+plays it safe
+
+---
+id: 500510
+attribute: 0x6400E00001010001
+---
+seize the moment to meet new people
+
+---
+id: 500511
+attribute: 0x6400E00001010001
+---
+has fored sex appeal
+
+---
+id: 500512
+attribute: 0x6400E00001010001
+---
+ladylike like the lillies at the front
+
+---
+id: 500513
+attribute: 0x6400E00001010001
+---
+doesn't consider flowers to be the main focus
+
+---
+id: 500520
+attribute: 0x6400E00001010001
+---
+wild bursts of energy
+
+---
+id: 500521
+attribute: 0x6400E00001010001
+---
+fortune and mood fluctuate wildly
+
+---
+id: 500522
+attribute: 0x6400E00001010001
+---
+unusually keen intuition
+
+---
+id: 500523
+attribute: 0x6400E00001010001
+---
+his wild audience captivates female fans
+
+---
+id: 500530
+attribute: 0x6400E00001010001
+---
+pervades a sense of sadness
+
+---
+id: 500531
+attribute: 0x6400E00001010001
+---
+lives like a hermit
+
+---
+id: 500532
+attribute: 0x6400E00001010001
+---
+smiles in front of the kids
+
+---
+id: 500533
+attribute: 0x6400E00001010001
+---
+not as pushy as they look
+
+---
+id: 500540
+attribute: 0x6400E00001010001
+---
+has an Edo-like attitude
+
+---
+id: 500541
+attribute: 0x6400E00001010001
+---
+has a peaceful life due to no ambition
+
+---
+id: 500542
+attribute: 0x6400E00001010001
+---
+really cool!
+
+---
+id: 500543
+attribute: 0x6400E00001010001
+---
+fieldwork-oriented
+
+---
+id: 500550
+attribute: 0x6400E00001010001
+---
+wary
+
+---
+id: 500551
+attribute: 0x6400E00001010001
+---
+personality like a violin
+
+---
+id: 500552
+attribute: 0x6400E00001010001
+---
+just woke up from a dream
+
+---
+id: 500553
+attribute: 0x6400E00001010001
+---
+struggles between reality and ideals
+
+---
+id: 500560
+attribute: 0x6400E00001010001
+---
+always makes objective statements
+
+---
+id: 500561
+attribute: 0x6400E00001010001
+---
+predicts the winning move based on conversation
+
+---
+id: 500562
+attribute: 0x6400E00001010001
+---
+mimics the customer's tone
+
+---
+id: 500563
+attribute: 0x6400E00001010001
+---
+uses other people's insights in work
+
+---
+id: 500570
+attribute: 0x6400E00001010001
+---
+doesn't give up easily
+
+---
+id: 500571
+attribute: 0x6400E00001010001
+---
+knows how to get someone to sit & focus
+
+---
+id: 500572
+attribute: 0x6400E00001010001
+---
+abilities recognized by general manager
+
+---
+id: 500573
+attribute: 0x6400E00001010001
+---
+cheerful and peaceful exercise
+
+---
+id: 500580
+attribute: 0x6400E00001010001
+---
+extremly dislikes mediocrity
+
+---
+id: 500581
+attribute: 0x6400E00001010001
+---
+has unlimited creativity
+
+---
+id: 500582
+attribute: 0x6400E00001010001
+---
+values real-life experience
+
+---
+id: 500583
+attribute: 0x6400E00001010001
+---
+focues on style first
+
+---
+id: 500590
+attribute: 0x6400E00001010001
+---
+carries on the show calmly
+
+---
+id: 500591
+attribute: 0x6400E00001010001
+---
+decisive, no hesitation
+
+---
+id: 500592
+attribute: 0x6400E00001010001
+---
+no intentions, just calm
+
+---
+id: 500593
+attribute: 0x6400E00001010001
+---
+their decisions are inhumane
+
+---
+id: 500600
+attribute: 0x6400E00001010001
+---
+hates cowardice
+
+---
+id: 500601
+attribute: 0x6400E00001010001
+---
+always polite and generous
+
+---
+id: 500602
+attribute: 0x6400E00001010001
+---
+takes practice drills seriously
+
+---
+id: 500603
+attribute: 0x6400E00001010001
+---
+scares pedestrians
+
+---
+id: 500610
+attribute: 0x6400E00001010001
+---
+doesn't read the room
+
+---
+id: 500611
+attribute: 0x6400E00001010001
+---
+can't do anything without verbal cues
+
+---
+id: 500612
+attribute: 0x6400E00001010001
+---
+oddly persuasive
+
+---
+id: 500613
+attribute: 0x6400E00001010001
+---
+stays slient throughout the match
+
+---
+id: 500620
+attribute: 0x6400E00001010001
+---
+stubborn yet soft, like noodles
+
+---
+id: 500621
+attribute: 0x6400E00001010001
+---
+kind-hearted and strong
+
+---
+id: 500622
+attribute: 0x6400E00001010001
+---
+talks politely to potted plants
+
+---
+id: 500623
+attribute: 0x6400E00001010001
+---
+"Humans stay the same after a thousand years."
+
+---
+id: 500630
+attribute: 0x6400E00001010001
+---
+gets discouraged easily
+
+---
+id: 500631
+attribute: 0x6400E00001010001
+---
+worries about events in the past
+
+---
+id: 500632
+attribute: 0x6400E00001010001
+---
+makes customers feel uncomfortable
+
+---
+id: 500633
+attribute: 0x6400E00001010001
+---
+gets tearful during evaluation
+
+---
+id: 500640
+attribute: 0x6400E00001010001
+---
+likes to kill two birds with a stone
+
+---
+id: 500641
+attribute: 0x6400E00001010001
+---
+stays aggressive, no matter what
+
+---
+id: 500642
+attribute: 0x6400E00001010001
+---
+dreams of getting rich quick
+
+---
+id: 500643
+attribute: 0x6400E00001010001
+---
+tries to make money without effort
+
+---
+id: 500650
+attribute: 0x6400E00001010001
+---
+a crybaby
+
+---
+id: 500651
+attribute: 0x6400E00001010001
+---
+emotionally sensitive
+
+---
+id: 500652
+attribute: 0x6400E00001010001
+---
+very generous
+
+---
+id: 500653
+attribute: 0x6400E00001010001
+---
+has sharp interpersonal intution
+
+---
+id: 500660
+attribute: 0x6400E00001010001
+---
+never tries to be popular, just is
+
+---
+id: 500661
+attribute: 0x6400E00001010001
+---
+can fly???
+
+---
+id: 500662
+attribute: 0x6400E00001010001
+---
+not good with words
+
+---
+id: 500663
+attribute: 0x6400E00001010001
+---
+cracks jokes during breaks
+
+---
+id: 500670
+attribute: 0x6400E00001010001
+---
+unconciously keeps thinking
+
+---
+id: 500671
+attribute: 0x6400E00001010001
+---
+easily discouraged
+
+---
+id: 500672
+attribute: 0x6400E00001010001
+---
+good at switching gears
+
+---
+id: 500673
+attribute: 0x6400E00001010001
+---
+able to have a straightforward relationship
+
+---
+id: 500680
+attribute: 0x6400E00001010001
+---
+a stubborn perfectionist
+
+---
+id: 500681
+attribute: 0x6400E00001010001
+---
+supports the team even in their darkest hour
+
+---
+id: 500682
+attribute: 0x6400E00001010001
+---
+deviates from the path a lot
+
+---
+id: 500683
+attribute: 0x6400E00001010001
+---
+is a somewhat reserved person
+
+---
+id: 500690
+attribute: 0x6400E00001010001
+---
+often promoted
+
+---
+id: 500691
+attribute: 0x6400E00001010001
+---
+a skilled negotiator
+
+---
+id: 500692
+attribute: 0x6400E00001010001
+---
+knows what club they want without asking
+
+---
+id: 500693
+attribute: 0x6400E00001010001
+---
+has a sharp eye to check on students
+
+---
+id: 500700
+attribute: 0x6400E00001010001
+---
+not influenced by people or trends
+
+---
+id: 500701
+attribute: 0x6400E00001010001
+---
+highly regarded as a skilled craftsman
+
+---
+id: 500702
+attribute: 0x6400E00001010001
+---
+does everything at a slow pace
+
+---
+id: 500703
+attribute: 0x6400E00001010001
+---
+inspects everything like a robot
+
+---
+id: 500710
+attribute: 0x6400E00001010001
+---
+doesn't choose which programs to be on
+
+---
+id: 500711
+attribute: 0x6400E00001010001
+---
+full of humor
+
+---
+id: 500712
+attribute: 0x6400E00001010001
+---
+in high demand during breaks
+
+---
+id: 500713
+attribute: 0x6400E00001010001
+---
+bold and brash
+
+---
+id: 500720
+attribute: 0x6400E00001010001
+---
+wants to settle things clearly
+
+---
+id: 500721
+attribute: 0x6400E00001010001
+---
+thinks other people's life are more important
+
+---
+id: 500722
+attribute: 0x6400E00001010001
+---
+black and white, like a cow
+
+---
+id: 500723
+attribute: 0x6400E00001010001
+---
+well-mannered
+
+---
+id: 500730
+attribute: 0x6400E00001010001
+---
+speaks a bit too clear, it's annoying
+
+---
+id: 500731
+attribute: 0x6400E00001010001
+---
+like a pure goddess in a white coat
+
+---
+id: 500732
+attribute: 0x6400E00001010001
+---
+tends to use up all their energy
+
+---
+id: 500733
+attribute: 0x6400E00001010001
+---
+irresistible to fans
+
+---
+id: 500740
+attribute: 0x6400E00001010001
+---
+has trouble hiding their big ego
+
+---
+id: 500741
+attribute: 0x6400E00001010001
+---
+hardworking and trustworthy
+
+---
+id: 500742
+attribute: 0x6400E00001010001
+---
+secretly complains about customers
+
+---
+id: 500743
+attribute: 0x6400E00001010001
+---
+flawless workmanship
+
+---
+id: 500750
+attribute: 0x6400E00001010001
+---
+has the urge to destroy things
+
+---
+id: 500751
+attribute: 0x6400E00001010001
+---
+seeks to avoid human interaction
+
+---
+id: 500752
+attribute: 0x6400E00001010001
+---
+their devotion depends on compatability
+
+---
+id: 500753
+attribute: 0x6400E00001010001
+---
+you can sense their feelings in their work
+
+---
+id: 500760
+attribute: 0x6400E00001010001
+---
+overprotective
+
+---
+id: 500761
+attribute: 0x6400E00001010001
+---
+tends to act now, think later
+
+---
+id: 500762
+attribute: 0x6400E00001010001
+---
+has a strong sence of responsibility
+
+---
+id: 500763
+attribute: 0x6400E00001010001
+---
+his chill vibe oddly makes him approachable
+
+---
+id: 500770
+attribute: 0x6400E00001010001
+---
+tries to educate the customer,
+but it comes off as rude
+
+---
+id: 500771
+attribute: 0x6400E00001010001
+---
+highly aggressive to anyone's eyes
+
+---
+id: 500772
+attribute: 0x6400E00001010001
+---
+reliable in emergencies
+
+---
+id: 500773
+attribute: 0x6400E00001010001
+---
+holds a class at home
+
+---
+id: 500780
+attribute: 0x6400E00001010001
+---
+smart, cool, sophisticated
+
+---
+id: 500781
+attribute: 0x6400E00001010001
+---
+a scaredy-cat
+
+---
+id: 500782
+attribute: 0x6400E00001010001
+---
+a bit shy when talking to people
+
+---
+id: 500783
+attribute: 0x6400E00001010001
+---
+there's pros and cons to them being cautious
+
+---
+id: 500790
+attribute: 0x6400E00001010001
+---
+hardworking
+
+---
+id: 500791
+attribute: 0x6400E00001010001
+---
+unusually competitive
+
+---
+id: 500792
+attribute: 0x6400E00001010001
+---
+unable to shove work onto others
+
+---
+id: 500793
+attribute: 0x6400E00001010001
+---
+dexterous
+
+---
+id: 500800
+attribute: 0x6400E00001010001
+---
+supports members behind the scenes
+
+---
+id: 500801
+attribute: 0x6400E00001010001
+---
+supports other people, virtuous
+
+---
+id: 500802
+attribute: 0x6400E00001010001
+---
+does good deeds in secret
+
+---
+id: 500803
+attribute: 0x6400E00001010001
+---
+looks unaware, but is very responsible
+
+---
+id: 500810
+attribute: 0x6400E00001010001
+---
+doesn't want to talk
+
+---
+id: 500811
+attribute: 0x6400E00001010001
+---
+never argues with customers
+
+---
+id: 500812
+attribute: 0x6400E00001010001
+---
+even standing is nerve-racking for them
+
+---
+id: 500813
+attribute: 0x6400E00001010001
+---
+too considerate of customers
+
+---
+id: 500820
+attribute: 0x6400E00001010001
+---
+they're the top of the class without any effort
+
+---
+id: 500821
+attribute: 0x6400E00001010001
+---
+undefeated without awareness
+
+---
+id: 500822
+attribute: 0x6400E00001010001
+---
+a natural preacher
+
+---
+id: 500823
+attribute: 0x6400E00001010001
+---
+too sharp for anyone to approach
+
+---
+id: 500830
+attribute: 0x6400E00001010001
+---
+was shocked when it came out of the water
+
+---
+id: 500831
+attribute: 0x6400E00001010001
+---
+all of a sudden…
+
+---
+id: 500832
+attribute: 0x6400E00001010001
+---
+sets their husband's allowance to be
+2000 yen a month
+
+---
+id: 500833
+attribute: 0x6400E00001010001
+---
+short-tempered
+
+---
+id: 500840
+attribute: 0x6400E00001010001
+---
+never shows up
+
+---
+id: 500841
+attribute: 0x6400E00001010001
+---
+extremely artistic, for better or worse
+
+---
+id: 500842
+attribute: 0x6400E00001010001
+---
+popular due to their unconventional ideas
+
+---
+id: 500843
+attribute: 0x6400E00001010001
+---
+leaves halfway through
+
+---
+id: 500850
+attribute: 0x6400E00001010001
+---
+acts coldly towards their lover
+
+---
+id: 500851
+attribute: 0x6400E00001010001
+---
+"Work is work."
+
+---
+id: 500852
+attribute: 0x6400E00001010001
+---
+is determined
+
+---
+id: 500853
+attribute: 0x6400E00001010001
+---
+heartless
+
+---
+id: 500860
+attribute: 0x6400E00001010001
+---
+weak to a loving audience
+
+---
+id: 500861
+attribute: 0x6400E00001010001
+---
+can also deal with public relations
+
+---
+id: 500862
+attribute: 0x6400E00001010001
+---
+wants their feelings to be delivered
+
+---
+id: 500863
+attribute: 0x6400E00001010001
+---
+tends to be miss the mark on the beat
+
+---
+id: 500870
+attribute: 0x6400E00001010001
+---
+probably looks like they're drowning
+
+---
+id: 500871
+attribute: 0x6400E00001010001
+---
+fights with their scars exposed
+
+---
+id: 500872
+attribute: 0x6400E00001010001
+---
+has a noticable atmosphere
+
+---
+id: 500873
+attribute: 0x6400E00001010001
+---
+keeps the audience in suspense
+
+---
+id: 500880
+attribute: 0x6400E00001010001
+---
+hates conflict
+
+---
+id: 500881
+attribute: 0x6400E00001010001
+---
+easy to understand
+
+---
+id: 500882
+attribute: 0x6400E00001010001
+---
+values peace above all else
+
+---
+id: 500883
+attribute: 0x6400E00001010001
+---
+hardly working, not working hard
+
+---
+id: 500890
+attribute: 0x6400E00001010001
+---
+sensitive to nearby gossip about them
+
+---
+id: 500891
+attribute: 0x6400E00001010001
+---
+quick to raise their voice
+
+---
+id: 500892
+attribute: 0x6400E00001010001
+---
+strongly intuitive
+
+---
+id: 500893
+attribute: 0x6400E00001010001
+---
+watches over the arranged flowers
+
+---
+id: 500900
+attribute: 0x6400E00001010001
+---
+overwhelms customers by talking
+
+---
+id: 500901
+attribute: 0x6400E00001010001
+---
+hardly speaks to the co-pilot
+
+---
+id: 500902
+attribute: 0x6400E00001010001
+---
+good with liter conversions
+
+---
+id: 500903
+attribute: 0x6400E00001010001
+---
+shaves time with a timetable
+
+---
+id: 500910
+attribute: 0x6400E00001010001
+---
+responsible for making pom-poms
+
+---
+id: 500911
+attribute: 0x6400E00001010001
+---
+not the sharpest tool in the shed
+
+---
+id: 500912
+attribute: 0x6400E00001010001
+---
+doesn't understand lingering feelings
+
+---
+id: 500913
+attribute: 0x6400E00001010001
+---
+applies skills to real life
+
+---
+id: 500920
+attribute: 0x6400E00001010001
+---
+witholds their effort
+
+---
+id: 500921
+attribute: 0x6400E00001010001
+---
+harmonious, kind to the weak
+
+---
+id: 500922
+attribute: 0x6400E00001010001
+---
+pays attention to slow-growing leaves
+
+---
+id: 500923
+attribute: 0x6400E00001010001
+---
+never tries to look eccentric
+
+---
+id: 500930
+attribute: 0x6400E00001010001
+---
+a typical Japanese magician
+
+---
+id: 500931
+attribute: 0x6400E00001010001
+---
+keeps a low posture
+
+---
+id: 500932
+attribute: 0x6400E00001010001
+---
+waits as long as necessary
+
+---
+id: 500933
+attribute: 0x6400E00001010001
+---
+long-lasting
+
+---
+id: 500940
+attribute: 0x6400E00001010001
+---
+a typical cocky sportsman
+
+---
+id: 500941
+attribute: 0x6400E00001010001
+---
+a blabbermouth
+
+---
+id: 500942
+attribute: 0x6400E00001010001
+---
+quite easy-going and friendly
+
+---
+id: 500943
+attribute: 0x6400E00001010001
+---
+gets defensive after being critisized
+
+---
+id: 500950
+attribute: 0x6400E00001010001
+---
+"Getting known is all that counts!"
+
+---
+id: 500951
+attribute: 0x6400E00001010001
+---
+better suited for singles
+
+---
+id: 500952
+attribute: 0x6400E00001010001
+---
+a show-off
+
+---
+id: 500953
+attribute: 0x6400E00001010001
+---
+wide-eyed
+
+---
+id: 500960
+attribute: 0x6400E00001010001
+---
+the embodiment of justice
+
+---
+id: 500961
+attribute: 0x6400E00001010001
+---
+just stands there… MENACINGLY!!!
+
+---
+id: 500962
+attribute: 0x6400E00001010001
+---
+repeatedly honored for saving lives
+
+---
+id: 500963
+attribute: 0x6400E00001010001
+---
+struggles to understand others' feelings
+
+---
+id: 500970
+attribute: 0x6400E00001010001
+---
+AM specialist
+
+---
+id: 500971
+attribute: 0x6400E00001010001
+---
+filled with motherly love
+
+---
+id: 500972
+attribute: 0x6400E00001010001
+---
+concerned about their body type
+
+---
+id: 500973
+attribute: 0x6400E00001010001
+---
+often mistaken for a parent
+
+---
+id: 500980
+attribute: 0x6400E00001010001
+---
+a leader who's too serious
+
+---
+id: 500981
+attribute: 0x6400E00001010001
+---
+quick to both heat up and cool off
+
+---
+id: 500982
+attribute: 0x6400E00001010001
+---
+requires a little more patience
+
+---
+id: 500983
+attribute: 0x6400E00001010001
+---
+is a wondering remodeling craftsman
+
+---
+id: 500990
+attribute: 0x6400E00001010001
+---
+has a boring natural expression
+
+---
+id: 500991
+attribute: 0x6400E00001010001
+---
+has strong likes and dislikes
+
+---
+id: 500992
+attribute: 0x6400E00001010001
+---
+projects likes and dislikes onto customers
+
+---
+id: 500993
+attribute: 0x6400E00001010001
+---
+evaluate everything based on their taste
+
+---
+id: 501000
+attribute: 0x6400E00001010001
+---
+thinks staying alert is important
+
+---
+id: 501001
+attribute: 0x6400E00001010001
+---
+feels like they're blamed for doing nothing
+
+---
+id: 501002
+attribute: 0x6400E00001010001
+---
+doesn't consider magnitude into situations
+
+---
+id: 501003
+attribute: 0x6400E00001010001
+---
+can pull off an uppercut on their back
+
+---
+id: 501010
+attribute: 0x6400E00001010001
+---
+loves solitude
+
+---
+id: 501011
+attribute: 0x6400E00001010001
+---
+"SSSSH！Walk quietly in the hallway!"
+
+---
+id: 501012
+attribute: 0x6400E00001010001
+---
+dislikes adults
+
+---
+id: 501013
+attribute: 0x6400E00001010001
+---
+never talks to anyone undercover
+
+---
+id: 501020
+attribute: 0x6400E00001010001
+---
+loved by marine creatures
+
+---
+id: 501021
+attribute: 0x6400E00001010001
+---
+has a deep love for nature
+
+---
+id: 501022
+attribute: 0x6400E00001010001
+---
+cherishes living things
+
+---
+id: 501023
+attribute: 0x6400E00001010001
+---
+ignites a romantic spark
+
+---
+id: 501030
+attribute: 0x6400E00001010001
+---
+not good at singing in public
+
+---
+id: 501031
+attribute: 0x6400E00001010001
+---
+acts like an android
+
+---
+id: 501032
+attribute: 0x6400E00001010001
+---
+inflexible
+
+---
+id: 501033
+attribute: 0x6400E00001010001
+---
+likes unconventional buildings
+
+---
+id: 501040
+attribute: 0x6400E00001010001
+---
+prone to errors
+
+---
+id: 501041
+attribute: 0x6400E00001010001
+---
+immature and fickle
+
+---
+id: 501042
+attribute: 0x6400E00001010001
+---
+timid and shy
+
+---
+id: 501043
+attribute: 0x6400E00001010001
+---
+has unexpected, over-the-top brilliance
+
+---
+id: 501050
+attribute: 0x6400E00001010001
+---
+can do anything on their own
+
+---
+id: 501051
+attribute: 0x6400E00001010001
+---
+hates being restrained
+
+---
+id: 501052
+attribute: 0x6400E00001010001
+---
+quick to get ideas
+
+---
+id: 501053
+attribute: 0x6400E00001010001
+---
+tends to daydream
+
+---
+id: 501060
+attribute: 0x6400E00001010001
+---
+aims for easy-to-understand humor
+
+---
+id: 501061
+attribute: 0x6400E00001010001
+---
+doesn't cause much trouble
+
+---
+id: 501062
+attribute: 0x6400E00001010001
+---
+friendly, but not too friendly
+
+---
+id: 501063
+attribute: 0x6400E00001010001
+---
+bored with everyday life
+
+---
+id: 501070
+attribute: 0x6400E00001010001
+---
+indifferent in certain areas
+
+---
+id: 501071
+attribute: 0x6400E00001010001
+---
+unnegotiable
+
+---
+id: 501072
+attribute: 0x6400E00001010001
+---
+likes kids for their honesty
+
+---
+id: 501073
+attribute: 0x6400E00001010001
+---
+subjected to the elusive male gaze
+
+---
+id: 501080
+attribute: 0x6400E00001010001
+---
+overestimates themselves
+
+---
+id: 501081
+attribute: 0x6400E00001010001
+---
+does carefree plans with a hand plane
+
+---
+id: 501082
+attribute: 0x6400E00001010001
+---
+has gold cards in their licence and speech
+
+---
+id: 501083
+attribute: 0x6400E00001010001
+---
+drinks juice from a flask
+
+---
+id: 501090
+attribute: 0x6400E00001010001
+---
+doesn't want to be in the spotlight
+
+---
+id: 501091
+attribute: 0x6400E00001010001
+---
+usually modest or reserved
+
+---
+id: 501092
+attribute: 0x6400E00001010001
+---
+already the head nurse despite her inexperience
+
+---
+id: 501093
+attribute: 0x6400E00001010001
+---
+thinks love and work are a straight path
+
+---
+id: 501100
+attribute: 0x6400E00001010001
+---
+always makes funny puns
+
+---
+id: 501101
+attribute: 0x6400E00001010001
+---
+tries to make others laugh
+
+---
+id: 501102
+attribute: 0x6400E00001010001
+---
+cheerful family pillar
+
+---
+id: 501103
+attribute: 0x6400E00001010001
+---
+values playfulness
+
+---
+id: 501110
+attribute: 0x6400E00001010001
+---
+popular and bizzarely-dressed
+
+---
+id: 501111
+attribute: 0x6400E00001010001
+---
+secretly proud of their overwhelming beauty
+
+---
+id: 501112
+attribute: 0x6400E00001010001
+---
+paints endless dreams
+
+---
+id: 501113
+attribute: 0x6400E00001010001
+---
+focuses on moving points
+
+---
+id: 501120
+attribute: 0x6400E00001010001
+---
+tends to rush ahead
+
+---
+id: 501121
+attribute: 0x6400E00001010001
+---
+difficult to handle
+
+---
+id: 501122
+attribute: 0x6400E00001010001
+---
+thinks love and work are on the same path
+
+---
+id: 501123
+attribute: 0x6400E00001010001
+---
+devoted to being rational
+
+---
+id: 501130
+attribute: 0x6400E00001010001
+---
+too blunt
+
+---
+id: 501131
+attribute: 0x6400E00001010001
+---
+swings immediately as they pick up the club
+
+---
+id: 501132
+attribute: 0x6400E00001010001
+---
+labels their golf clubs
+
+---
+id: 501133
+attribute: 0x6400E00001010001
+---
+tries to get on the podium as they finish
+
+---
+id: 501140
+attribute: 0x6400E00001010001
+---
+realistic and practical
+
+---
+id: 501141
+attribute: 0x6400E00001010001
+---
+a paradise of pure logic
+
+---
+id: 501142
+attribute: 0x6400E00001010001
+---
+is overly cautious
+
+---
+id: 501143
+attribute: 0x6400E00001010001
+---
+desires a stable life
+
+---
+id: 501150
+attribute: 0x6400E00001010001
+---
+proud to be a lone wolf
+
+---
+id: 501151
+attribute: 0x6400E00001010001
+---
+rather calculating, self-interested
+
+---
+id: 501152
+attribute: 0x6400E00001010001
+---
+specializes in 4-panel comics
+
+---
+id: 501153
+attribute: 0x6400E00001010001
+---
+"It's a habit to be prepared."
+
+---
+id: 501160
+attribute: 0x6400E00001010001
+---
+not meticulous, more noodley analysis
+
+---
+id: 501161
+attribute: 0x6400E00001010001
+---
+a geniuine gentleman, down to earth
+
+---
+id: 501162
+attribute: 0x6400E00001010001
+---
+gives rewards to those who work hard
+
+---
+id: 501163
+attribute: 0x6400E00001010001
+---
+the ultimate weapon for all enterprises
+
+---
+id: 501170
+attribute: 0x6400E00001010001
+---
+never spares an inch of space
+
+---
+id: 501171
+attribute: 0x6400E00001010001
+---
+can't decide where to go by themselves
+
+---
+id: 501172
+attribute: 0x6400E00001010001
+---
+perfectly maintains the storefront
+
+---
+id: 501173
+attribute: 0x6400E00001010001
+---
+as stylish as possible, within the given boundaries
+
+---
+id: 501180
+attribute: 0x6400E00001010001
+---
+a joke that became reality
+
+---
+id: 501181
+attribute: 0x6400E00001010001
+---
+proposes idea that even shock employees
+
+---
+id: 501182
+attribute: 0x6400E00001010001
+---
+devotes 80% of effort to planting
+
+---
+id: 501183
+attribute: 0x6400E00001010001
+---
+thinks pyramids are where UFOS park
+
+---
+id: 501190
+attribute: 0x6400E00001010001
+---
+physical condition affects their attitude
+
+---
+id: 501191
+attribute: 0x6400E00001010001
+---
+likely to recklessly venture into the wild
+
+---
+id: 501192
+attribute: 0x6400E00001010001
+---
+won't stop until they think they're cute
+
+---
+id: 501193
+attribute: 0x6400E00001010001
+---
+will get upset if not flattered

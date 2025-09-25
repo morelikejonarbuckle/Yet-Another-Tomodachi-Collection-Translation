@@ -1,0 +1,3077 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 0
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 0
+attribute: 0x6400780001030101
+---
+Ice Cream
+
+---
+id: 1
+attribute: 0x6400780001030101
+---
+Green Juice
+
+---
+id: 2
+attribute: 0x6400780001030101
+---
+Apple Pie
+
+---
+id: 3
+attribute: 0x6400780001030101
+---
+Ayu no Shioyaki
+
+---
+id: 4
+attribute: 0x6400780001030101
+---
+Red Bean Paste Bun
+
+---
+id: 5
+attribute: 0x6400780001030101
+---
+Strawberry
+
+---
+id: 6
+attribute: 0x6400780001030101
+---
+Inari Sushi
+
+---
+id: 7
+attribute: 0x6400780001030101
+---
+Unaju
+
+---
+id: 8
+attribute: 0x6400780001030101
+---
+Pickled Plum
+
+---
+id: 9
+attribute: 0x6400780001030101
+---
+Nutritional Drink
+
+---
+id: 10
+attribute: 0x6400780001030101
+---
+Shrimp Pilaf
+
+---
+id: 11
+attribute: 0x6400780001030101
+---
+Deep-fried Shrimp
+
+---
+id: 12
+attribute: 0x6400780001030101
+---
+Kid's meal
+
+---
+id: 13
+attribute: 0x6400780001030101
+---
+Okonomiyaki
+
+---
+id: 14
+attribute: 0x6400780001030101
+---
+Sashimi
+
+---
+id: 15
+attribute: 0x6400780001030101
+---
+Osechi
+
+---
+id: 16
+attribute: 0x6400780001030101
+---
+Tea
+
+---
+id: 17
+attribute: 0x6400780001030101
+---
+Ochazuke
+
+---
+id: 18
+attribute: 0x6400780001030101
+---
+Oden
+
+---
+id: 19
+attribute: 0x6400780001030101
+---
+Onigiri
+
+---
+id: 20
+attribute: 0x6400780001030101
+---
+Omelette
+
+---
+id: 21
+attribute: 0x6400780001030101
+---
+Mochi
+
+---
+id: 22
+attribute: 0x6400780001030101
+---
+Oyakodon
+
+---
+id: 23
+attribute: 0x6400780001030101
+---
+Orange Juice
+
+---
+id: 24
+attribute: 0x6400780001030101
+---
+Persimmon
+
+---
+id: 25
+attribute: 0x6400780001030101
+---
+Shaved Ice
+
+---
+id: 26
+attribute: 0x6400780001030101
+---
+Castella
+
+---
+id: 27
+attribute: 0x6400780001030101
+---
+Chocolate Cake
+
+---
+id: 28
+attribute: 0x6400780001030101
+---
+Crab
+
+---
+id: 29
+attribute: 0x6400780001030101
+---
+Moldy Bread
+
+---
+id: 30
+attribute: 0x6400780001030101
+---
+Gum
+
+---
+id: 31
+attribute: 0x6400780001030101
+---
+Karaage
+
+---
+id: 32
+attribute: 0x6400780001030101
+---
+Carbonara
+
+---
+id: 33
+attribute: 0x6400780001030101
+---
+Curry Rice
+
+---
+id: 34
+attribute: 0x6400780001030101
+---
+Quiche
+
+---
+id: 35
+attribute: 0x6400780001030101
+---
+Kitsune Udon
+
+---
+id: 36
+attribute: 0x6400780001030101
+---
+Mushroom
+
+---
+id: 37
+attribute: 0x6400780001030101
+---
+Kimchi
+
+---
+id: 38
+attribute: 0x6400780001030101
+---
+Caviar
+
+---
+id: 39
+attribute: 0x6400780001030101
+---
+Gyudon
+
+---
+id: 40
+attribute: 0x6400780001030101
+---
+Milk
+
+---
+id: 41
+attribute: 0x6400780001030101
+---
+Gyoza
+
+---
+id: 42
+attribute: 0x6400780001030101
+---
+Sour milk
+
+---
+id: 43
+attribute: 0x6400780001030101
+---
+Cookie
+
+---
+id: 44
+attribute: 0x6400780001030101
+---
+Gummi Drop
+
+---
+id: 45
+attribute: 0x6400780001030101
+---
+Gratin
+
+---
+id: 46
+attribute: 0x6400780001030101
+---
+Cream Stew
+
+---
+id: 47
+attribute: 0x6400780001030101
+---
+Crepe
+
+---
+id: 48
+attribute: 0x6400780001030101
+---
+Grapefruit
+
+---
+id: 49
+attribute: 0x6400780001030101
+---
+Croissant
+
+---
+id: 50
+attribute: 0x6400780001030101
+---
+Black Tea
+
+---
+id: 51
+attribute: 0x6400780001030101
+---
+Coffee
+
+---
+id: 52
+attribute: 0x6400780001030101
+---
+Corn Soup
+
+---
+id: 53
+attribute: 0x6400780001030101
+---
+Rice
+
+---
+id: 54
+attribute: 0x6400780001030101
+---
+Croquette
+
+---
+id: 55
+attribute: 0x6400780001030101
+---
+Bento Box
+
+---
+id: 56
+attribute: 0x6400780001030101
+---
+Cherry
+
+---
+id: 57
+attribute: 0x6400780001030101
+---
+Baked Turban Shell
+
+---
+id: 58
+attribute: 0x6400780001030101
+---
+Salad
+
+---
+id: 59
+attribute: 0x6400780001030101
+---
+Zaru Soba
+
+---
+id: 60
+attribute: 0x6400780001030101
+---
+Tri-colored Dango
+
+---
+id: 61
+attribute: 0x6400780001030101
+---
+Sandwich
+
+---
+id: 62
+attribute: 0x6400780001030101
+---
+Grilled saury
+
+---
+id: 63
+attribute: 0x6400780001030101
+---
+Baked Buttered Potato
+
+---
+id: 64
+attribute: 0x6400780001030101
+---
+Cream Puff
+
+---
+id: 65
+attribute: 0x6400780001030101
+---
+Shumai
+
+---
+id: 66
+attribute: 0x6400780001030101
+---
+Shortcake
+
+---
+id: 67
+attribute: 0x6400780001030101
+---
+Bread
+
+---
+id: 68
+attribute: 0x6400780001030101
+---
+Baked Sweet Potato
+
+---
+id: 69
+attribute: 0x6400780001030101
+---
+Watermelon
+
+---
+id: 70
+attribute: 0x6400780001030101
+---
+Tap Water
+
+---
+id: 71
+attribute: 0x6400780001030101
+---
+Sukiyaki
+
+---
+id: 72
+attribute: 0x6400780001030101
+---
+Sushi
+
+---
+id: 73
+attribute: 0x6400780001030101
+---
+Steak
+
+---
+id: 74
+attribute: 0x6400780001030101
+---
+Sweet & Sour Pork
+
+---
+id: 75
+attribute: 0x6400780001030101
+---
+Sweet Red Bean Soup
+
+---
+id: 76
+attribute: 0x6400780001030101
+---
+Sausage
+
+---
+id: 77
+attribute: 0x6400780001030101
+---
+Soft-Serve Ice Cream
+
+---
+id: 78
+attribute: 0x6400780001030101
+---
+Live Sea Bream Sashimi
+
+---
+id: 79
+attribute: 0x6400780001030101
+---
+Taiyaki
+
+---
+id: 80
+attribute: 0x6400780001030101
+---
+Tacos
+
+---
+id: 81
+attribute: 0x6400780001030101
+---
+Takoyaki
+
+---
+id: 82
+attribute: 0x6400780001030101
+---
+Tamagoyaki
+
+---
+id: 83
+attribute: 0x6400780001030101
+---
+Chikuwa
+
+---
+id: 84
+attribute: 0x6400780001030101
+---
+Fried Rice
+
+---
+id: 85
+attribute: 0x6400780001030101
+---
+Chankonabe
+
+---
+id: 86
+attribute: 0x6400780001030101
+---
+Chocolate
+
+---
+id: 87
+attribute: 0x6400780001030101
+---
+Chocolate Parfait
+
+---
+id: 88
+attribute: 0x6400780001030101
+---
+Tempura
+
+---
+id: 89
+attribute: 0x6400780001030101
+---
+Chili Pepper
+
+---
+id: 90
+attribute: 0x6400780001030101
+---
+Tofu
+
+---
+id: 91
+attribute: 0x6400780001030101
+---
+Corn
+
+---
+id: 92
+attribute: 0x6400780001030101
+---
+Donut
+
+---
+id: 93
+attribute: 0x6400780001030101
+---
+Dorayaki
+
+---
+id: 94
+attribute: 0x6400780001030101
+---
+Natto
+
+---
+id: 95
+attribute: 0x6400780001030101
+---
+Meat Bun
+
+---
+id: 96
+attribute: 0x6400780001030101
+---
+Banana
+
+---
+id: 97
+attribute: 0x6400780001030101
+---
+Banana Peel
+
+---
+id: 98
+attribute: 0x6400780001030101
+---
+Spring Roll
+
+---
+id: 99
+attribute: 0x6400780001030101
+---
+Hamburger
+
+---
+id: 100
+attribute: 0x6400780001030101
+---
+Salisbury Steak
+
+---
+id: 101
+attribute: 0x6400780001030101
+---
+Pizza
+
+---
+id: 102
+attribute: 0x6400780001030101
+---
+Biscuit
+
+---
+id: 103
+attribute: 0x6400780001030101
+---
+Grapes
+
+---
+id: 104
+attribute: 0x6400780001030101
+---
+French Fries
+
+---
+id: 105
+attribute: 0x6400780001030101
+---
+Purine
+
+---
+id: 106
+attribute: 0x6400780001030101
+---
+Blue Cheese
+
+---
+id: 107
+attribute: 0x6400780001030101
+---
+French Toast
+
+---
+id: 108
+attribute: 0x6400780001030101
+---
+Lollipop
+
+---
+id: 109
+attribute: 0x6400780001030101
+---
+Potato Chips
+
+---
+id: 110
+attribute: 0x6400780001030101
+---
+Bone-in Meat
+
+---
+id: 111
+attribute: 0x6400780001030101
+---
+Mapo Tofu
+
+---
+id: 112
+attribute: 0x6400780001030101
+---
+Macadamia Nuts
+
+---
+id: 113
+attribute: 0x6400780001030101
+---
+Matsutake Mushroom
+
+---
+id: 114
+attribute: 0x6400780001030101
+---
+Meat Sauce Pasta
+
+---
+id: 115
+attribute: 0x6400780001030101
+---
+Orange
+
+---
+id: 116
+attribute: 0x6400780001030101
+---
+Miso Soup
+
+---
+id: 117
+attribute: 0x6400780001030101
+---
+Fried Egg
+
+---
+id: 118
+attribute: 0x6400780001030101
+---
+Mentaiko
+
+---
+id: 119
+attribute: 0x6400780001030101
+---
+Peach
+
+---
+id: 120
+attribute: 0x6400780001030101
+---
+Roasted Sweet Potato
+
+---
+id: 121
+attribute: 0x6400780001030101
+---
+Yakisoba
+
+---
+id: 122
+attribute: 0x6400780001030101
+---
+Grilled Eggplant
+
+---
+id: 123
+attribute: 0x6400780001030101
+---
+Boiled Egg
+
+---
+id: 124
+attribute: 0x6400780001030101
+---
+yokan
+
+---
+id: 125
+attribute: 0x6400780001030101
+---
+Ramen
+
+---
+id: 126
+attribute: 0x6400780001030101
+---
+Apple
+
+---
+id: 127
+attribute: 0x6400780001030101
+---
+Liver
+
+---
+id: 128
+attribute: 0x6400780001030101
+---
+Electric Iron
+
+---
+id: 129
+attribute: 0x6400780001030101
+---
+SLR Camera
+
+---
+id: 130
+attribute: 0x6400780001030101
+---
+Puppy Plushie
+
+---
+id: 131
+attribute: 0x6400780001030101
+---
+Fan
+
+---
+id: 132
+attribute: 0x6400780001030101
+---
+Watch
+
+---
+id: 133
+attribute: 0x6400780001030101
+---
+Ocarina
+
+---
+id: 134
+attribute: 0x6400780001030101
+---
+Pacifier
+
+---
+id: 135
+attribute: 0x6400780001030101
+---
+Amulet
+
+---
+id: 136
+attribute: 0x6400780001030101
+---
+Paper Crane
+
+---
+id: 137
+attribute: 0x6400780001030101
+---
+Music Box
+
+---
+id: 138
+attribute: 0x6400780001030101
+---
+Castanets
+
+---
+id: 139
+attribute: 0x6400780001030101
+---
+Toy Robot
+
+---
+id: 140
+attribute: 0x6400780001030101
+---
+Glass Scuplture
+
+---
+id: 141
+attribute: 0x6400780001030101
+---
+Dirty Rag
+
+---
+id: 142
+attribute: 0x6400780001030101
+---
+Commemorative Stamp
+
+---
+id: 143
+attribute: 0x6400780001030101
+---
+Wooden Bear Carving
+
+---
+id: 144
+attribute: 0x6400780001030101
+---
+Fish Print
+
+---
+id: 145
+attribute: 0x6400780001030101
+---
+Gold Medal
+
+---
+id: 146
+attribute: 0x6400780001030101
+---
+Stinky Sock
+
+---
+id: 147
+attribute: 0x6400780001030101
+---
+Teddy Bear
+
+---
+id: 148
+attribute: 0x6400780001030101
+---
+Wedding Ring
+
+---
+id: 149
+attribute: 0x6400780001030101
+---
+Perfume
+
+---
+id: 150
+attribute: 0x6400780001030101
+---
+Kokeshi Doll
+
+---
+id: 151
+attribute: 0x6400780001030101
+---
+Rubber Tube
+
+---
+id: 152
+attribute: 0x6400780001030101
+---
+Someone's Autograph
+
+---
+id: 153
+attribute: 0x6400780001030101
+---
+"Kick Me" Ball
+
+---
+id: 154
+attribute: 0x6400780001030101
+---
+Cactus
+
+---
+id: 155
+attribute: 0x6400780001030101
+---
+Shuriken
+
+---
+id: 156
+attribute: 0x6400780001030101
+---
+Crystal
+
+---
+id: 157
+attribute: 0x6400780001030101
+---
+Aquarium
+
+---
+id: 158
+attribute: 0x6400780001030101
+---
+Snow Globe
+
+---
+id: 159
+attribute: 0x6400780001030101
+---
+Cicada Shell
+
+---
+id: 160
+attribute: 0x6400780001030101
+---
+Shirt Button
+
+---
+id: 161
+attribute: 0x6400780001030101
+---
+Towel Set
+
+---
+id: 162
+attribute: 0x6400780001030101
+---
+Probably Expensive Vase
+
+---
+id: 163
+attribute: 0x6400780001030101
+---
+Globe
+
+---
+id: 164
+attribute: 0x6400780001030101
+---
+Moon Rock
+
+---
+id: 165
+attribute: 0x6400780001030101
+---
+Tissue
+
+---
+id: 166
+attribute: 0x6400780001030101
+---
+Toilet Paper
+
+---
+id: 167
+attribute: 0x6400780001030101
+---
+Totem Pole
+
+---
+id: 168
+attribute: 0x6400780001030101
+---
+Clay Figure
+
+---
+id: 169
+attribute: 0x6400780001030101
+---
+Bird's Nest
+
+---
+id: 170
+attribute: 0x6400780001030101
+---
+Wedding Album
+
+---
+id: 171
+attribute: 0x6400780001030101
+---
+Jump Rope
+
+---
+id: 172
+attribute: 0x6400780001030101
+---
+Harmonica
+
+---
+id: 173
+attribute: 0x6400780001030101
+---
+Basketball
+
+---
+id: 174
+attribute: 0x6400780001030101
+---
+Puzzle Piece
+
+---
+id: 175
+attribute: 0x6400780001030101
+---
+Bouquet
+
+---
+id: 176
+attribute: 0x6400780001030101
+---
+Fireworks
+
+---
+id: 177
+attribute: 0x6400780001030101
+---
+Floral Card
+
+---
+id: 178
+attribute: 0x6400780001030101
+---
+Wax Seal
+
+---
+id: 179
+attribute: 0x6400780001030101
+---
+Hina Doll
+
+---
+id: 180
+attribute: 0x6400780001030101
+---
+Fashion Magazine
+
+---
+id: 181
+attribute: 0x6400780001030101
+---
+Piggy Bank
+
+---
+id: 182
+attribute: 0x6400780001030101
+---
+French Doll
+
+---
+id: 183
+attribute: 0x6400780001030101
+---
+Umbilical Cord
+
+---
+id: 184
+attribute: 0x6400780001030101
+---
+Bonsai Tree
+
+---
+id: 185
+attribute: 0x6400780001030101
+---
+Backcratcher
+
+---
+id: 186
+attribute: 0x6400780001030101
+---
+Lucky Cat
+
+---
+id: 187
+attribute: 0x6400780001030101
+---
+Fountain Pen
+
+---
+id: 188
+attribute: 0x6400780001030101
+---
+Q-tip
+
+---
+id: 189
+attribute: 0x6400780001030101
+---
+Alarm Clock
+
+---
+id: 190
+attribute: 0x6400780001030101
+---
+Moai Statue
+
+---
+id: 191
+attribute: 0x6400780001030101
+---
+Snowman
+
+---
+id: 192
+attribute: 0x6400780001030101
+---
+Signatures
+
+---
+id: 193
+attribute: 0x6400780001030101
+---
+Recorder
+
+---
+id: 194
+attribute: 0x6400780001030101
+---
+Cameo Brooch
+
+---
+id: 195
+attribute: 0x6400780001030101
+---
+Key Chain
+
+---
+id: 196
+attribute: 0x6400780001030101
+---
+Old Tower Figure
+
+---
+id: 197
+attribute: 0x6400780001030101
+---
+Shisa Figure
+
+---
+id: 198
+attribute: 0x6400780001030101
+---
+Handkerchief
+
+---
+id: 199
+attribute: 0x6400780001030101
+---
+Spanish Fan
+
+---
+id: 200
+attribute: 0x6400780001030101
+---
+Elephant Figure
+
+---
+id: 201
+attribute: 0x6400780001030101
+---
+Pennant
+
+---
+id: 202
+attribute: 0x6400780001030101
+---
+Odd Mask
+
+---
+id: 203
+attribute: 0x6400780001030101
+---
+Marimo
+
+---
+id: 204
+attribute: 0x6400780001030101
+---
+Stomach Medicine
+
+---
+id: 205
+attribute: 0x6400780001030101
+---
+Cold Medicine
+
+---
+id: 206
+attribute: 0x6400780001030101
+---
+Disposable Camera
+
+---
+id: 207
+attribute: 0x6400780001030101
+---
+Travel Ticket
+
+---
+id: 208
+attribute: 0x6400780001030101
+---
+Internship Ticket
+
+---
+id: 209
+attribute: 0x6400780001030101
+---
+Famicom
+
+---
+id: 210
+attribute: 0x6400780001030101
+---
+Game Boy
+
+---
+id: 211
+attribute: 0x6400780001030101
+---
+Virtual Boy
+
+---
+id: 212
+attribute: 0x6400780001030101
+---
+Bath Set
+
+---
+id: 213
+attribute: 0x6400780001030101
+---
+Electric Fan
+
+---
+id: 214
+attribute: 0x6400780001030101
+---
+Hypnosis Ring
+
+---
+id: 215
+attribute: 0x6400780001030101
+---
+Frying Pan
+
+---
+id: 216
+attribute: 0x6400780001030101
+---
+Dictionary
+
+---
+id: 217
+attribute: 0x6400780001030101
+---
+Chopsticks
+
+---
+id: 218
+attribute: 0x6400780001030101
+---
+Megaphone
+
+---
+id: 219
+attribute: 0x6400780001030101
+---
+Yajirobe
+
+---
+id: 220
+attribute: 0x6400780001030101
+---
+Edamame
+
+---
+id: 221
+attribute: 0x6400780001030101
+---
+Myoga
+
+---
+id: 222
+attribute: 0x6400780001030101
+---
+Letter of Appreciation
+
+---
+id: 223
+attribute: 0x6400780001030101
+---
+Bronze Trophy
+
+---
+id: 224
+attribute: 0x6400780001030101
+---
+Silver Trophy
+
+---
+id: 225
+attribute: 0x6400780001030101
+---
+Gold Trophy
+
+---
+id: 226
+attribute: 0x6400780001030101
+---
+Platinum Trophy
+
+---
+id: 227
+attribute: 0x6400780001030101
+---
+Doorknob
+
+---
+id: 228
+attribute: 0x6400780001030101
+---
+Dried Squid
+
+---
+id: 229
+attribute: 0x6400780001030101
+---
+Senbei
+
+---
+id: 230
+attribute: 0x6400780001030101
+---
+Nikujaga
+
+---
+id: 231
+attribute: 0x6400780001030101
+---
+Tonkatsu
+
+---
+id: 232
+attribute: 0x6400780001030101
+---
+Bitter Gourd
+
+---
+id: 233
+attribute: 0x6400780001030101
+---
+Tomato Juice
+
+---
+id: 234
+attribute: 0x6400780001030101
+---
+Gold Coin
+
+---
+id: 235
+attribute: 0x6400780001030101
+---
+Silver Coin
+
+---
+id: 236
+attribute: 0x6400780001030101
+---
+Wii
+
+---
+id: 237
+attribute: 0x6400780001030101
+---
+Cell Phone
+
+---
+id: 238
+attribute: 0x6400780001030101
+---
+CD
+
+---
+id: 239
+attribute: 0x6400780001030101
+---
+Study Kit
+
+---
+id: 240
+attribute: 0x6400780001030101
+---
+A Book
+
+---
+id: 241
+attribute: 0x6400780001030101
+---
+melonDS
+
+---
+id: 242
+attribute: 0x6400780001030101
+---
+Laptop
+
+---
+id: 243
+attribute: 0x6400780001030101
+---
+Duster
+
+---
+id: 244
+attribute: 0x6400780001030101
+---
+Song
+
+---
+id: 245
+attribute: 0x6400780001030101
+---
+Catchphrase
+
+---
+id: 246
+attribute: 0x6400780001030101
+---
+Unused
+
+---
+id: 247
+attribute: 0x6400780001030101
+---
+Clothes
+
+---
+id: 248
+attribute: 0x6400780001030101
+---
+Present
+
+---
+id: 249
+attribute: 0x6400780001030101
+---
+Interior
+
+---
+id: 250
+attribute: 0x6400780001030101
+---
+Photo
+
+---
+id: 251
+attribute: 0x6400780001030101
+---
+Unused
+
+---
+id: 252
+attribute: 0x6400780001030101
+---
+Unused
+
+---
+id: 253
+attribute: 0x6400780001030101
+---
+Unused
+
+---
+id: 254
+attribute: 0x6400780001030101
+---
+Unused
+
+---
+id: 1000
+attribute: 0x6400780001030001
+---
+Ice cream again and again until the end of the universe and then what IDK
+
+---
+id: 1001
+attribute: 0x6400780001030001
+---
+アオジル
+
+---
+id: 1002
+attribute: 0x6400780001030001
+---
+アップルパイ
+
+---
+id: 1003
+attribute: 0x6400780001030001
+---
+アユノシオヤキ
+
+---
+id: 1004
+attribute: 0x6400780001030001
+---
+アンパン
+
+---
+id: 1005
+attribute: 0x6400780001030001
+---
+イチゴ
+
+---
+id: 1006
+attribute: 0x6400780001030001
+---
+イナリズシ
+
+---
+id: 1007
+attribute: 0x6400780001030001
+---
+ウナジュー
+
+---
+id: 1008
+attribute: 0x6400780001030001
+---
+ウメボシ
+
+---
+id: 1009
+attribute: 0x6400780001030001
+---
+エイヨードリンク
+
+---
+id: 1010
+attribute: 0x6400780001030001
+---
+エビピラフ
+
+---
+id: 1011
+attribute: 0x6400780001030001
+---
+エビフライ
+
+---
+id: 1012
+attribute: 0x6400780001030001
+---
+オコサマランチ
+
+---
+id: 1013
+attribute: 0x6400780001030001
+---
+オコノミヤキ
+
+---
+id: 1014
+attribute: 0x6400780001030001
+---
+オサシミ
+
+---
+id: 1015
+attribute: 0x6400780001030001
+---
+オセチ
+
+---
+id: 1016
+attribute: 0x6400780001030001
+---
+オチャ
+
+---
+id: 1017
+attribute: 0x6400780001030001
+---
+オチャヅケ
+
+---
+id: 1018
+attribute: 0x6400780001030001
+---
+オデン
+
+---
+id: 1019
+attribute: 0x6400780001030001
+---
+オニギリ
+
+---
+id: 1020
+attribute: 0x6400780001030001
+---
+オムレツ
+
+---
+id: 1021
+attribute: 0x6400780001030001
+---
+オモチ
+
+---
+id: 1022
+attribute: 0x6400780001030001
+---
+オヤコドン
+
+---
+id: 1023
+attribute: 0x6400780001030001
+---
+オレンジジュース
+
+---
+id: 1024
+attribute: 0x6400780001030001
+---
+カキ
+
+---
+id: 1025
+attribute: 0x6400780001030001
+---
+カギゴオリ
+
+---
+id: 1026
+attribute: 0x6400780001030001
+---
+カステラ
+
+---
+id: 1027
+attribute: 0x6400780001030001
+---
+ガトーショコラ
+
+---
+id: 1028
+attribute: 0x6400780001030001
+---
+カニ
+
+---
+id: 1029
+attribute: 0x6400780001030001
+---
+カビタパン
+
+---
+id: 1030
+attribute: 0x6400780001030001
+---
+ガム
+
+---
+id: 1031
+attribute: 0x6400780001030001
+---
+カラアゲ
+
+---
+id: 1032
+attribute: 0x6400780001030001
+---
+カルボナーラ
+
+---
+id: 1033
+attribute: 0x6400780001030001
+---
+カレーライス
+
+---
+id: 1034
+attribute: 0x6400780001030001
+---
+キッシュ
+
+---
+id: 1035
+attribute: 0x6400780001030001
+---
+キツネウドン
+
+---
+id: 1036
+attribute: 0x6400780001030001
+---
+キノコ
+
+---
+id: 1037
+attribute: 0x6400780001030001
+---
+キムチ
+
+---
+id: 1038
+attribute: 0x6400780001030001
+---
+キャビア
+
+---
+id: 1039
+attribute: 0x6400780001030001
+---
+ギュードン
+
+---
+id: 1040
+attribute: 0x6400780001030001
+---
+ギューニュー
+
+---
+id: 1041
+attribute: 0x6400780001030001
+---
+ギョーザ
+
+---
+id: 1042
+attribute: 0x6400780001030001
+---
+クサッタギューニュー
+
+---
+id: 1043
+attribute: 0x6400780001030001
+---
+クッキー
+
+---
+id: 1044
+attribute: 0x6400780001030001
+---
+グミ
+
+---
+id: 1045
+attribute: 0x6400780001030001
+---
+グラタン
+
+---
+id: 1046
+attribute: 0x6400780001030001
+---
+クリームシチュー
+
+---
+id: 1047
+attribute: 0x6400780001030001
+---
+クレープ
+
+---
+id: 1048
+attribute: 0x6400780001030001
+---
+グレープフルーツ
+
+---
+id: 1049
+attribute: 0x6400780001030001
+---
+クロワッサン
+
+---
+id: 1050
+attribute: 0x6400780001030001
+---
+コーチャ
+
+---
+id: 1051
+attribute: 0x6400780001030001
+---
+コーヒー
+
+---
+id: 1052
+attribute: 0x6400780001030001
+---
+コーンスープ
+
+---
+id: 1053
+attribute: 0x6400780001030001
+---
+ゴハン
+
+---
+id: 1054
+attribute: 0x6400780001030001
+---
+コロッケ
+
+---
+id: 1055
+attribute: 0x6400780001030001
+---
+コンビニベントー
+
+---
+id: 1056
+attribute: 0x6400780001030001
+---
+サクランボ
+
+---
+id: 1057
+attribute: 0x6400780001030001
+---
+サザエノツボヤキ
+
+---
+id: 1058
+attribute: 0x6400780001030001
+---
+サラダ
+
+---
+id: 1059
+attribute: 0x6400780001030001
+---
+ザルソバ
+
+---
+id: 1060
+attribute: 0x6400780001030001
+---
+サンショクダンゴ
+
+---
+id: 1061
+attribute: 0x6400780001030001
+---
+サンドイッチ
+
+---
+id: 1062
+attribute: 0x6400780001030001
+---
+サンマノシオヤキ
+
+---
+id: 1063
+attribute: 0x6400780001030001
+---
+ジャガバタ
+
+---
+id: 1064
+attribute: 0x6400780001030001
+---
+シュークリーム
+
+---
+id: 1065
+attribute: 0x6400780001030001
+---
+シューマイ
+
+---
+id: 1066
+attribute: 0x6400780001030001
+---
+ショートケーキ
+
+---
+id: 1067
+attribute: 0x6400780001030001
+---
+ショクパン
+
+---
+id: 1068
+attribute: 0x6400780001030001
+---
+スイートポテト
+
+---
+id: 1069
+attribute: 0x6400780001030001
+---
+スイカ
+
+---
+id: 1070
+attribute: 0x6400780001030001
+---
+スイドースイ
+
+---
+id: 1071
+attribute: 0x6400780001030001
+---
+スキヤキ
+
+---
+id: 1072
+attribute: 0x6400780001030001
+---
+スシ
+
+---
+id: 1073
+attribute: 0x6400780001030001
+---
+ステーキ
+
+---
+id: 1074
+attribute: 0x6400780001030001
+---
+スブタ
+
+---
+id: 1075
+attribute: 0x6400780001030001
+---
+ゼンザイ
+
+---
+id: 1076
+attribute: 0x6400780001030001
+---
+ソーセージ
+
+---
+id: 1077
+attribute: 0x6400780001030001
+---
+ソフトクリーム
+
+---
+id: 1078
+attribute: 0x6400780001030001
+---
+タイノイケヅクリ
+
+---
+id: 1079
+attribute: 0x6400780001030001
+---
+タイヤキ
+
+---
+id: 1080
+attribute: 0x6400780001030001
+---
+タコス
+
+---
+id: 1081
+attribute: 0x6400780001030001
+---
+タコヤキ
+
+---
+id: 1082
+attribute: 0x6400780001030001
+---
+タマゴヤキ
+
+---
+id: 1083
+attribute: 0x6400780001030001
+---
+チクワ
+
+---
+id: 1084
+attribute: 0x6400780001030001
+---
+チャーハン
+
+---
+id: 1085
+attribute: 0x6400780001030001
+---
+チャンコナベ
+
+---
+id: 1086
+attribute: 0x6400780001030001
+---
+チョコレート
+
+---
+id: 1087
+attribute: 0x6400780001030001
+---
+チョコレートパフェ
+
+---
+id: 1088
+attribute: 0x6400780001030001
+---
+テンプラ
+
+---
+id: 1089
+attribute: 0x6400780001030001
+---
+トーガラシ
+
+---
+id: 1090
+attribute: 0x6400780001030001
+---
+トーフ
+
+---
+id: 1091
+attribute: 0x6400780001030001
+---
+トーモロコシ
+
+---
+id: 1092
+attribute: 0x6400780001030001
+---
+ドーナツ
+
+---
+id: 1093
+attribute: 0x6400780001030001
+---
+ドラヤキ
+
+---
+id: 1094
+attribute: 0x6400780001030001
+---
+ナットー
+
+---
+id: 1095
+attribute: 0x6400780001030001
+---
+ニクマン
+
+---
+id: 1096
+attribute: 0x6400780001030001
+---
+バナナ
+
+---
+id: 1097
+attribute: 0x6400780001030001
+---
+バナナノカワ
+
+---
+id: 1098
+attribute: 0x6400780001030001
+---
+ハルマキ
+
+---
+id: 1099
+attribute: 0x6400780001030001
+---
+ハンバーガー
+
+---
+id: 1100
+attribute: 0x6400780001030001
+---
+ハンバーグ
+
+---
+id: 1101
+attribute: 0x6400780001030001
+---
+ピザ
+
+---
+id: 1102
+attribute: 0x6400780001030001
+---
+ビスケット
+
+---
+id: 1103
+attribute: 0x6400780001030001
+---
+ブドー
+
+---
+id: 1104
+attribute: 0x6400780001030001
+---
+フライドポテト
+
+---
+id: 1105
+attribute: 0x6400780001030001
+---
+プリン
+
+---
+id: 1106
+attribute: 0x6400780001030001
+---
+ブルーチーズ
+
+---
+id: 1107
+attribute: 0x6400780001030001
+---
+フレンチトースト
+
+---
+id: 1108
+attribute: 0x6400780001030001
+---
+ペロペロキャンディー
+
+---
+id: 1109
+attribute: 0x6400780001030001
+---
+ポテトチップス
+
+---
+id: 1110
+attribute: 0x6400780001030001
+---
+ホネツキニク
+
+---
+id: 1111
+attribute: 0x6400780001030001
+---
+マーボードーフ
+
+---
+id: 1112
+attribute: 0x6400780001030001
+---
+マカダミアナッツ
+
+---
+id: 1113
+attribute: 0x6400780001030001
+---
+マツタケ
+
+---
+id: 1114
+attribute: 0x6400780001030001
+---
+ミートソースパスタ
+
+---
+id: 1115
+attribute: 0x6400780001030001
+---
+ミカン
+
+---
+id: 1116
+attribute: 0x6400780001030001
+---
+ミソシル
+
+---
+id: 1117
+attribute: 0x6400780001030001
+---
+メダマヤキ
+
+---
+id: 1118
+attribute: 0x6400780001030001
+---
+メンタイコ
+
+---
+id: 1119
+attribute: 0x6400780001030001
+---
+モモ
+
+---
+id: 1120
+attribute: 0x6400780001030001
+---
+ヤキイモ
+
+---
+id: 1121
+attribute: 0x6400780001030001
+---
+ヤキソバ
+
+---
+id: 1122
+attribute: 0x6400780001030001
+---
+ヤキナス
+
+---
+id: 1123
+attribute: 0x6400780001030001
+---
+ユデタマゴ
+
+---
+id: 1124
+attribute: 0x6400780001030001
+---
+ヨーカン
+
+---
+id: 1125
+attribute: 0x6400780001030001
+---
+ラーメン
+
+---
+id: 1126
+attribute: 0x6400780001030001
+---
+リンゴ
+
+---
+id: 1127
+attribute: 0x6400780001030001
+---
+レバー
+
+---
+id: 1128
+attribute: 0x6400780001030001
+---
+アイロン
+
+---
+id: 1129
+attribute: 0x6400780001030001
+---
+イチガンレフ
+
+---
+id: 1130
+attribute: 0x6400780001030001
+---
+イヌノヌイグルミ
+
+---
+id: 1131
+attribute: 0x6400780001030001
+---
+ウチワ
+
+---
+id: 1132
+attribute: 0x6400780001030001
+---
+ウデドケイ
+
+---
+id: 1133
+attribute: 0x6400780001030001
+---
+オカリナ
+
+---
+id: 1134
+attribute: 0x6400780001030001
+---
+オシャブリ
+
+---
+id: 1135
+attribute: 0x6400780001030001
+---
+オマモリ
+
+---
+id: 1136
+attribute: 0x6400780001030001
+---
+オリヅル
+
+---
+id: 1137
+attribute: 0x6400780001030001
+---
+オルゴール
+
+---
+id: 1138
+attribute: 0x6400780001030001
+---
+カスタネット
+
+---
+id: 1139
+attribute: 0x6400780001030001
+---
+ガッタイロボ
+
+---
+id: 1140
+attribute: 0x6400780001030001
+---
+ガラスザイク
+
+---
+id: 1141
+attribute: 0x6400780001030001
+---
+キタナイゾーキン
+
+---
+id: 1142
+attribute: 0x6400780001030001
+---
+キネンキッテ
+
+---
+id: 1143
+attribute: 0x6400780001030001
+---
+キボリノクマ
+
+---
+id: 1144
+attribute: 0x6400780001030001
+---
+ギョタク
+
+---
+id: 1145
+attribute: 0x6400780001030001
+---
+キンメダル
+
+---
+id: 1146
+attribute: 0x6400780001030001
+---
+クサイクツシタ
+
+---
+id: 1147
+attribute: 0x6400780001030001
+---
+クマノヌイグルミ
+
+---
+id: 1148
+attribute: 0x6400780001030001
+---
+コンヤクユビワ
+
+---
+id: 1149
+attribute: 0x6400780001030001
+---
+コースイ
+
+---
+id: 1150
+attribute: 0x6400780001030001
+---
+コケシ
+
+---
+id: 1151
+attribute: 0x6400780001030001
+---
+ゴムチューブ
+
+---
+id: 1152
+attribute: 0x6400780001030001
+---
+サインシキシ
+
+---
+id: 1153
+attribute: 0x6400780001030001
+---
+サッカーボール
+
+---
+id: 1154
+attribute: 0x6400780001030001
+---
+サボテン
+
+---
+id: 1155
+attribute: 0x6400780001030001
+---
+シュリケン
+
+---
+id: 1156
+attribute: 0x6400780001030001
+---
+スイショー
+
+---
+id: 1157
+attribute: 0x6400780001030001
+---
+スイソー
+
+---
+id: 1158
+attribute: 0x6400780001030001
+---
+スノードーム
+
+---
+id: 1159
+attribute: 0x6400780001030001
+---
+セミノヌケガラ
+
+---
+id: 1160
+attribute: 0x6400780001030001
+---
+ダイニボタン
+
+---
+id: 1161
+attribute: 0x6400780001030001
+---
+タオルセット
+
+---
+id: 1162
+attribute: 0x6400780001030001
+---
+タカソーナツボ
+
+---
+id: 1163
+attribute: 0x6400780001030001
+---
+チキューギ
+
+---
+id: 1164
+attribute: 0x6400780001030001
+---
+ツキノイシ
+
+---
+id: 1165
+attribute: 0x6400780001030001
+---
+ティッシュ
+
+---
+id: 1166
+attribute: 0x6400780001030001
+---
+トイレットペーパー
+
+---
+id: 1167
+attribute: 0x6400780001030001
+---
+トーテムポール
+
+---
+id: 1168
+attribute: 0x6400780001030001
+---
+ドグー
+
+---
+id: 1169
+attribute: 0x6400780001030001
+---
+トリノス
+
+---
+id: 1170
+attribute: 0x6400780001030001
+---
+ケッコンアルバム
+
+---
+id: 1171
+attribute: 0x6400780001030001
+---
+ナワトビ
+
+---
+id: 1172
+attribute: 0x6400780001030001
+---
+ハーモニカ
+
+---
+id: 1173
+attribute: 0x6400780001030001
+---
+バスケットボール
+
+---
+id: 1174
+attribute: 0x6400780001030001
+---
+パズルノピース
+
+---
+id: 1175
+attribute: 0x6400780001030001
+---
+ハナタバ
+
+---
+id: 1176
+attribute: 0x6400780001030001
+---
+ハナビダマ
+
+---
+id: 1177
+attribute: 0x6400780001030001
+---
+ハナフダ
+
+---
+id: 1178
+attribute: 0x6400780001030001
+---
+ハンコ
+
+---
+id: 1179
+attribute: 0x6400780001030001
+---
+ヒナニンギョー
+
+---
+id: 1180
+attribute: 0x6400780001030001
+---
+ファッションザッシ
+
+---
+id: 1181
+attribute: 0x6400780001030001
+---
+ブタノチョキンバコ
+
+---
+id: 1182
+attribute: 0x6400780001030001
+---
+フランスニンギョー
+
+---
+id: 1183
+attribute: 0x6400780001030001
+---
+ヘソノオ
+
+---
+id: 1184
+attribute: 0x6400780001030001
+---
+ボンサイ
+
+---
+id: 1185
+attribute: 0x6400780001030001
+---
+マゴノテ
+
+---
+id: 1186
+attribute: 0x6400780001030001
+---
+マネキネコ
+
+---
+id: 1187
+attribute: 0x6400780001030001
+---
+マンネンヒツ
+
+---
+id: 1188
+attribute: 0x6400780001030001
+---
+ミミカキ
+
+---
+id: 1189
+attribute: 0x6400780001030001
+---
+メザマシドケイ
+
+---
+id: 1190
+attribute: 0x6400780001030001
+---
+モアイゾーノオキモノ
+
+---
+id: 1191
+attribute: 0x6400780001030001
+---
+ユキダルマ
+
+---
+id: 1192
+attribute: 0x6400780001030001
+---
+ヨセガキ
+
+---
+id: 1193
+attribute: 0x6400780001030001
+---
+リコーダー
+
+---
+id: 1194
+attribute: 0x6400780001030001
+---
+カメオノブローチ
+
+---
+id: 1195
+attribute: 0x6400780001030001
+---
+キーホルダー
+
+---
+id: 1196
+attribute: 0x6400780001030001
+---
+フルイトーノオキモノ
+
+---
+id: 1197
+attribute: 0x6400780001030001
+---
+シーサーノオキモノ
+
+---
+id: 1198
+attribute: 0x6400780001030001
+---
+シルクノハンカチ
+
+---
+id: 1199
+attribute: 0x6400780001030001
+---
+スペインセンス
+
+---
+id: 1200
+attribute: 0x6400780001030001
+---
+ゾーノオキモノ
+
+---
+id: 1201
+attribute: 0x6400780001030001
+---
+ペナント
+
+---
+id: 1202
+attribute: 0x6400780001030001
+---
+ヘンナオメン
+
+---
+id: 1203
+attribute: 0x6400780001030001
+---
+マリモ
+
+---
+id: 1204
+attribute: 0x6400780001030001
+---
+イチョーヤク
+
+---
+id: 1205
+attribute: 0x6400780001030001
+---
+カゼグスリ
+
+---
+id: 1206
+attribute: 0x6400780001030001
+---
+ツカイステカメラ
+
+---
+id: 1207
+attribute: 0x6400780001030001
+---
+リョコーケン
+
+---
+id: 1208
+attribute: 0x6400780001030001
+---
+オシゴトタイケンチケット
+
+---
+id: 1209
+attribute: 0x6400780001030001
+---
+ファミコン
+
+---
+id: 1210
+attribute: 0x6400780001030001
+---
+ゲームボーイ
+
+---
+id: 1211
+attribute: 0x6400780001030001
+---
+バーチャルボーイ
+
+---
+id: 1212
+attribute: 0x6400780001030001
+---
+オフロセット
+
+---
+id: 1213
+attribute: 0x6400780001030001
+---
+センプーキ
+
+---
+id: 1214
+attribute: 0x6400780001030001
+---
+サイミンジュツセット
+
+---
+id: 1215
+attribute: 0x6400780001030001
+---
+フライパン
+
+---
+id: 1216
+attribute: 0x6400780001030001
+---
+ジショ
+
+---
+id: 1217
+attribute: 0x6400780001030001
+---
+ハシ
+
+---
+id: 1218
+attribute: 0x6400780001030001
+---
+メガホン
+
+---
+id: 1219
+attribute: 0x6400780001030001
+---
+ヤジロベエ
+
+---
+id: 1220
+attribute: 0x6400780001030001
+---
+エダマメ
+
+---
+id: 1221
+attribute: 0x6400780001030001
+---
+ミョーガ
+
+---
+id: 1222
+attribute: 0x6400780001030001
+---
+カンシャジョー
+
+---
+id: 1223
+attribute: 0x6400780001030001
+---
+ドーノトロフィー
+
+---
+id: 1224
+attribute: 0x6400780001030001
+---
+ギンノトロフィー
+
+---
+id: 1225
+attribute: 0x6400780001030001
+---
+キンノトロフィー
+
+---
+id: 1226
+attribute: 0x6400780001030001
+---
+プラチナノトロフィー
+
+---
+id: 1227
+attribute: 0x6400780001030001
+---
+ドアノブ
+
+---
+id: 1228
+attribute: 0x6400780001030001
+---
+スルメ
+
+---
+id: 1229
+attribute: 0x6400780001030001
+---
+センベイ
+
+---
+id: 1230
+attribute: 0x6400780001030001
+---
+ニクジャガ
+
+---
+id: 1231
+attribute: 0x6400780001030001
+---
+トンカツ
+
+---
+id: 1232
+attribute: 0x6400780001030001
+---
+ゴーヤ
+
+---
+id: 1233
+attribute: 0x6400780001030001
+---
+トマトジュース
+
+---
+id: 1234
+attribute: 0x6400780001030001
+---
+キンカ
+
+---
+id: 1235
+attribute: 0x6400780001030001
+---
+ギンカ
+
+---
+id: 1236
+attribute: 0x6400780001030001
+---
+ウィー
+
+---
+id: 1237
+attribute: 0x6400780001030001
+---
+ケータイデンワ
+
+---
+id: 1238
+attribute: 0x6400780001030001
+---
+シーディー
+
+---
+id: 1239
+attribute: 0x6400780001030001
+---
+ベンキョーセット
+
+---
+id: 1240
+attribute: 0x6400780001030001
+---
+ショーセツ
+
+---
+id: 1241
+attribute: 0x6400780001030001
+---
+ディーエス
+
+---
+id: 1242
+attribute: 0x6400780001030001
+---
+ノートパソコン
+
+---
+id: 1243
+attribute: 0x6400780001030001
+---
+ハタキ
+
+---
+id: 1244
+attribute: 0x6400780001030001
+---
+ウタ
+
+---
+id: 1245
+attribute: 0x6400780001030001
+---
+クチグセ
+
+---
+id: 1246
+attribute: 0x6400780001030001
+---
+ミシヨウヒン
+
+---
+id: 1247
+attribute: 0x6400780001030001
+---
+フク
+
+---
+id: 1248
+attribute: 0x6400780001030001
+---
+プレゼント
+
+---
+id: 1249
+attribute: 0x6400780001030001
+---
+インテリア
+
+---
+id: 1250
+attribute: 0x6400780001030001
+---
+シャシン
+
+---
+id: 1251
+attribute: 0x6400780001030001
+---
+ミシヨウヒン
+
+---
+id: 1252
+attribute: 0x6400780001030001
+---
+ミシヨウヒン
+
+---
+id: 1253
+attribute: 0x6400780001030001
+---
+ミシヨウヒン
+
+---
+id: 1254
+attribute: 0x6400780001030001
+---
+ミシヨウヒン
+
+---
+id: 1000000
+attribute: 0x6400780001030001
+---
+？？？
