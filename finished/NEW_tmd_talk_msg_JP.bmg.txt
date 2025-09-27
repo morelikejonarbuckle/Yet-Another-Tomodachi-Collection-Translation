@@ -1929,8 +1929,8 @@ attribute: 0x6400E10001000001
 id: 200190
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Something wonderful
-happened! Can you guess what it was?"
+{{255:0 arg="0x0100"}}"Something wonderful happened!
+Can you guess what it was?"
 
 
 ---
@@ -2135,8 +2135,7 @@ attribute: 0x6400E10001000001
 id: 200330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Sometimes, things get
-tough..."
+{{255:0 arg="0x0100"}}"Sometimes, things get tough..."
 
 
 ---
@@ -2178,8 +2177,8 @@ attribute: 0x6400E10001000001
 id: 200360
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's the start of a
-new year. Hope nothing bad happens!"
+{{255:0 arg="0x0100"}}"It's the start of a new year.
+Hope nothing bad happens!"
 
 
 ---
@@ -2193,8 +2192,7 @@ attribute: 0x6400E10001000001
 id: 200370
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I can't believe
-it's already Feburary."
+{{255:0 arg="0x0100"}}"I can't believe it's already Feburary."
 
 
 ---
@@ -2208,8 +2206,7 @@ attribute: 0x6400E10001000001
 id: 200380
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Oh boy, March
-begins today!"
+{{255:0 arg="0x0100"}}"Oh boy, March begins today!"
 
 
 ---
@@ -2252,7 +2249,7 @@ attribute: 0x6400E10001000001
 id: 200410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Can't wait for the
+{{255:0 arg="0x0100"}}"Can't wait for
 summer to start with June!"
 
 
@@ -2268,7 +2265,7 @@ id: 200420
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"We're already halfway
-done with the year in July!"
+done with the year! It's already July!"
 
 
 ---
@@ -2312,8 +2309,7 @@ attribute: 0x6400E10001000001
 id: 200450
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's time to get
-spooky in October!"
+{{255:0 arg="0x0100"}}"It's time to get spooky in October!"
 
 
 ---
@@ -2327,8 +2323,8 @@ attribute: 0x6400E10001000001
 id: 200460
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We're almost done
-with the year! It's November already!"
+{{255:0 arg="0x0100"}}"We're almost done with the year!
+It's November already!"
 
 
 ---
@@ -2342,8 +2338,8 @@ attribute: 0x6400E10001000001
 id: 200470
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Merry December! The
-year's going to end real soon."
+{{255:0 arg="0x0100"}}"Merry December! The year's
+going to end real soon."
 
 
 ---
@@ -2358,7 +2354,7 @@ id: 200480
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It was the first time I've lost
-something I loved so much..."
+something that I loved so much..."
 
 
 ---
@@ -7665,6 +7661,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
