@@ -2604,7 +2604,7 @@ id: 300150
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
-cutest person on this island."
+cutest gal on this island."
 
 
 ---
@@ -2888,7 +2888,7 @@ id: 300340
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
-might be dreaming of now..."
+might be dreaming about…"
 
 
 ---
@@ -3860,7 +3860,7 @@ attribute: 0x6400E10001000001
 id: 300990
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Actually, I'm drawn to competitive
+{{255:0 arg="0x0100"}}"Actually, I'm drawn to competitive a
 society."
 
 
@@ -4501,8 +4501,7 @@ attribute: 0x6400E10001000001
 id: 301420
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm not good at speaking
-in public."
+{{255:0 arg="0x0100"}}"I'm not good at speaking in public."
 
 
 ---
@@ -4770,7 +4769,7 @@ attribute: 0x6400E10001000001
 id: 301600
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Should I be more carful to
+{{255:0 arg="0x0100"}}"Should I be more careful about
 what I wear?"
 
 
@@ -4846,7 +4845,7 @@ id: 301650
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I don't like to assert myself. I
-don’t want others to know what I’m thinking..."
+don’t want others to know what I’m thinking…"
 
 
 ---
@@ -4964,7 +4963,7 @@ attribute: 0x6400E10001000001
 id: 301730
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Talking tires me out."
+{{255:0 arg="0x0100"}}"Talking to others tires me out."
 
 
 ---
@@ -5066,7 +5065,7 @@ attribute: 0x6400E10001000001
 id: 301800
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I often tie my left shoe's string first."
+{{255:0 arg="0x0100"}}"I often tie my left shoe's shoelace first."
 
 
 ---
@@ -5390,7 +5389,7 @@ attribute: 0x6400E10001000001
 id: 302020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's cool even during the noon."
+{{255:0 arg="0x0100"}}"It's cool even during noon."
 
 
 ---
@@ -5644,7 +5643,7 @@ id: 302190
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"It feels damp and humid in June.
-It sucks."
+It sucks!"
 
 
 ---
@@ -7661,6 +7660,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
