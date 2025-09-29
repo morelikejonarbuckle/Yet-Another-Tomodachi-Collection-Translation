@@ -5956,7 +5956,7 @@ attribute: 0x6400E10001000001
 id: 302400
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It’s April Fool’s! Sadly, I’m not
+{{255:0 arg="0x0100"}}"It’s April Fool's! Sadly, I’m not
 someone who tells silly lies or pull pranks on others."
 
 
@@ -5987,7 +5987,7 @@ id: 302420
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} reminded
-me it’s April Fool’s tomorrow. Oh boy…"
+me it’s April Fool's tomorrow. Oh boy…"
 
 
 ---
@@ -7660,6 +7660,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
