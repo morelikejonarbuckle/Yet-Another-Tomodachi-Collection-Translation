@@ -6167,7 +6167,7 @@ id: 302540
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I wish Sunday and Wednesday would be
-my days off instead of the weekends."
+my days off instead of the weekend."
 
 
 ---
@@ -7660,6 +7660,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
