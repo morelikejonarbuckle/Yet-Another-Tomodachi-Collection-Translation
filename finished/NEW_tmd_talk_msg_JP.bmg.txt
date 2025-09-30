@@ -6909,7 +6909,7 @@ id: 303040
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Earlier, I saw {{1:31 arg="0x0000"}}
-fell down from the stairs. It was fun."
+trip and fall down from the stairs. It was fun."
 
 
 ---
@@ -7314,7 +7314,7 @@ id: 303310
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Sometimes, you can see our dreams
-while we are sleeping."
+while we sleep."
 
 
 ---
@@ -7578,7 +7578,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-{{1:31 arg="0x0000"}} doesn’t know theirs…"
+{{1:31 arg="0x0000"}} doesn’t know their own…"
 
 
 ---
@@ -7637,7 +7637,7 @@ attribute: 0x6400E10001000001
 id: 500090
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Do you know 「{{1:31 arg="0x0000"}}’s birthday?"
+{{255:0 arg="0x0100"}}"Do you know {{1:31 arg="0x0000"}}’s birthday?"
 
 
 ---
@@ -7660,6 +7660,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
