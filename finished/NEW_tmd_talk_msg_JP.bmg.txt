@@ -6744,7 +6744,7 @@ attribute: 0x6400E10001000001
 id: 302930
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you think youve already had the prime
+{{255:0 arg="0x0100"}}"Do you think you've already had the prime
 time of your life?"
 
 
@@ -7660,6 +7660,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
