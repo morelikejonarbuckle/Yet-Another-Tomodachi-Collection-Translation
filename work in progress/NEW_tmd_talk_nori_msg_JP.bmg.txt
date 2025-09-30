@@ -15,7 +15,7 @@ hasFLW1: false
 id: 0
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Earlier, I found a bug."
+{{255:0 arg="0x0100"}}"Earlier, I found a bug. It looked nice and pretty!"
 
 
 ---
@@ -5065,4 +5065,5 @@ I can't feel at ease."
 id: 500101
 attribute: 0x6400E10001000002
 ---
+
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
