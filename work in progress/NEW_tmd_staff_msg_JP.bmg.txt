@@ -470,7 +470,7 @@ attribute: 0x6400F00001000101
 id: 65
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}SOUND EFFECT
+        {{255:0 arg="0x0700"}}SOUND EFFECTS
 
 
 ---
@@ -1065,7 +1065,7 @@ attribute: 0x6400F00001000101
 id: 150
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}jjjewel (font, base mod)
+           {{255:0 arg="0x0900"}}jjjewel (font, original mod)
 
 
 ---
@@ -1086,7 +1086,7 @@ attribute: 0x6400F00001000101
 id: 153
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}Adpro (Title graphic) (sorry for not telling you btw)
+           {{255:0 arg="0x0900"}}
 
 
 ---
@@ -1416,4 +1416,5 @@ attribute: 0x6400F00001000101
 id: 240
 attribute: 0x6400F00001000101
 ---
+
           {{255:0 arg="0x0900"}}
