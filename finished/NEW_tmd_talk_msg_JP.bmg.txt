@@ -31,7 +31,7 @@ id: 10
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}!
-People say that I'm a bit rough."
+People say that I'm a bit careless."
 
 
 ---
@@ -47,7 +47,7 @@ id: 20
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I seem
-carefree but I worry about lots of things."
+carefree, but I worry about lots of things."
 
 
 ---
@@ -285,7 +285,7 @@ id: 170
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}!
-I'm very impulsive and do things in a whim."
+I'm very impulsive and do things on a whim."
 
 
 ---
@@ -1448,7 +1448,7 @@ id: 100600
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, no?"
+It's been 2 months since we last met, hasn't it?"
 
 
 ---
@@ -1508,7 +1508,7 @@ id: 100640
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike! It's been
-3 months since we last met, no?"
+3 months since we last met... wow, that's a while."
 
 
 ---
@@ -1626,8 +1626,8 @@ attribute: 0x6400E10001000001
 id: 100720
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0122"}}It's been forever!
-So glad to see you again!
+{{255:0 arg="0x0122"}}"It's been forever!
+So glad to see you again!"
 
 ---
 id: 100721
@@ -1696,7 +1696,8 @@ attribute: 0x6400E10001000001
 id: 200030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's really hot today, isn't it?"
+{{255:0 arg="0x0100"}}"It's really hot today. Feels like
+I'm being strangled by a blanket!"
 
 
 ---
@@ -1710,7 +1711,8 @@ attribute: 0x6400E10001000001
 id: 200040
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's cold today."
+{{255:0 arg="0x0100"}}"It's cold today. I bet it'd be
+warmer to stay in a freezer!"
 
 
 ---
@@ -1826,7 +1828,7 @@ attribute: 0x6400E10001000001
 id: 200120
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's nice and warm, isn't it?"
+{{255:0 arg="0x0100"}}"It's getting nice and warm, isn't it?"
 
 
 ---
@@ -1899,7 +1901,7 @@ attribute: 0x6400E10001000001
 id: 200170
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Helloo, 
+{{255:0 arg="0x0100"}}"Hellooo, 
 {{1:31 arg="0x0000"}}'s lookalike!"
 
 
@@ -2309,7 +2311,8 @@ attribute: 0x6400E10001000001
 id: 200450
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's time to get spooky in October!"
+{{255:0 arg="0x0100"}}"It's time to get spooky!
+Because it's October! You knew that, right?"
 
 
 ---
@@ -7660,6 +7663,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
