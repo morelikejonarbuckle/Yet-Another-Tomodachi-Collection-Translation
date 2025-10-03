@@ -1692,7 +1692,8 @@ attribute: 0x6400E10001000001
 id: 200310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's time to get spooky in October!"
+{{255:0 arg="0x0100"}}"It's time to get spooky!
+Because it's October! You knew that, right?"
 
 
 ---
@@ -5160,3 +5161,4 @@ id: 500101
 attribute: 0x6400E10001000002
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
