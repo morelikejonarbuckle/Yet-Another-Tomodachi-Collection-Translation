@@ -2127,7 +2127,7 @@ attribute: 0x6400E10001000001
 id: 300250
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"The most enjoyable thing
+{{255:0 arg="0x0100"}}"The most enjoyable part
 of the day is my chats with {{1:31 arg="0x0000"}}."
 
 
@@ -5161,5 +5161,6 @@ id: 500101
 attribute: 0x6400E10001000002
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
