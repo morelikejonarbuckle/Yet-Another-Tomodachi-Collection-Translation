@@ -2044,7 +2044,8 @@ attribute: 0x6400E10001000001
 id: 200320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's November now."
+{{255:0 arg="0x0100"}}"We're almost done with the year!
+It's November already!"
 
 
 ---
@@ -2058,7 +2059,8 @@ attribute: 0x6400E10001000001
 id: 200330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's December now."
+{{255:0 arg="0x0100"}}"Merry December! The year's
+going to end real soon."
 
 
 ---
@@ -2072,8 +2074,8 @@ attribute: 0x6400E10001000001
 id: 200340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It was the first time I've lost something
-I loved so much..."
+{{255:0 arg="0x0100"}}"It was the first time I've lost
+something that I loved so much..."
 
 
 ---
@@ -2087,7 +2089,7 @@ attribute: 0x6400E10001000001
 id: 200350
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm not happy today..."
+{{255:0 arg="0x0100"}}"I'm not in the mood today..."
 
 
 ---
@@ -2101,8 +2103,8 @@ attribute: 0x6400E10001000001
 id: 300000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0100"}} gave me
-{{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"Earlier, {{1:31 arg="0x0100"}} gave me
+some {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2132,7 +2134,7 @@ id: 300020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
-often hang out together."
+often hang out once every two days."
 
 
 ---
@@ -2161,7 +2163,7 @@ attribute: 0x6400E10001000001
 id: 300040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"By the way, do you know
+{{255:0 arg="0x0100"}}"Hey, when was
 {{1:31 arg="0x0000"}}'s birthday?"
 
 
@@ -2176,7 +2178,7 @@ attribute: 0x6400E10001000001
 id: 300050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I really can't hate {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"You can't help but like {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2204,7 +2206,8 @@ attribute: 0x6400E10001000001
 id: 300070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I like {{1:31 arg="0x0000"}}'s hairstyle."
+{{255:0 arg="0x0100"}}"I like {{1:31 arg="0x0000"}}'s hairstyle.
+Definitely not because it's flashy."
 
 
 ---
@@ -2232,8 +2235,8 @@ attribute: 0x6400E10001000001
 id: 300090
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a really
-nice person!"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a such
+a nice person!"
 
 
 ---
@@ -2262,7 +2265,7 @@ attribute: 0x6400E10001000001
 id: 300110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I love {{1:31 arg="0x0000"}}!"
+{{255:0 arg="0x0100"}}"I absolutely adore {{1:31 arg="0x0000"}}!"
 
 
 ---
@@ -2292,7 +2295,7 @@ id: 300130
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
-cutest girl on this island."
+cutest gal on this island."
 
 
 ---
@@ -2307,7 +2310,7 @@ id: 300140
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
-most handsome guy on this island."
+coolest person on this island."
 
 
 ---
@@ -2336,8 +2339,8 @@ attribute: 0x6400E10001000001
 id: 300160
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When I think of {{1:31 arg="0x0000"}},
-I can't sleep."
+{{255:0 arg="0x0100"}}"I can't sleep when I'm thinking of
+{{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2366,8 +2369,8 @@ attribute: 0x6400E10001000001
 id: 300180
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a girlfriend
-I'm really proud of."
+{{255:0 arg="0x0100"}}"Being {{1:31 arg="0x0000"}}'s
+girlfriend is my pride and joy."
 
 
 ---
@@ -2381,8 +2384,8 @@ attribute: 0x6400E10001000001
 id: 300190
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is a boyfriend
-I'm really proud of."
+{{255:0 arg="0x0100"}}"Being {{1:31 arg="0x0000"}}'s
+boyfriend is my pride and joy."
 
 
 ---
@@ -5083,4 +5086,5 @@ attribute: 0x6400E10001000002
 ---
 
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
