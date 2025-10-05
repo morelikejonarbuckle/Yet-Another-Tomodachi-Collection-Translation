@@ -3465,7 +3465,7 @@ id: 301150
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I saw some horsetails earlier.
-Spring is around the corner."
+I suppose Spring's starting to begin."
 
 
 ---
@@ -5160,6 +5160,7 @@ id: 500101
 attribute: 0x6400E10001000002
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
