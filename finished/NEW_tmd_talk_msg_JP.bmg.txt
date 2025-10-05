@@ -2980,7 +2980,7 @@ attribute: 0x6400E10001000001
 id: 300400
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"The most enjoyable thing
+{{255:0 arg="0x0100"}}"The most enjoyable part
 of the day is my chats with {{1:31 arg="0x0000"}}."
 
 
@@ -3501,7 +3501,7 @@ attribute: 0x6400E10001000001
 id: 300750
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Did you see me take fart in
+{{255:0 arg="0x0100"}}"Did you see me fart in
 my room the other day? That was a big one!"
 
 
@@ -3561,8 +3561,7 @@ attribute: 0x6400E10001000001
 id: 300790
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm believe in
-fortune-telling."
+{{255:0 arg="0x0100"}}"I believe in fortune-telling."
 
 
 ---
@@ -3577,7 +3576,7 @@ id: 300800
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I'm usually late for appointments.
-Even when I come 15 minutes early!"
+Even when I arrive 15 minutes early!"
 
 
 ---
@@ -3695,7 +3694,7 @@ attribute: 0x6400E10001000001
 id: 300880
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}" {{1:31 arg="0x0000"}} said that
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} said that
 I walk too fast."
 
 
@@ -5142,8 +5141,7 @@ attribute: 0x6400E10001000001
 id: 301850
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel like something nice will
-happen today."
+{{255:0 arg="0x0100"}}"I feel like something nice will happen today."
 
 
 ---
@@ -5974,8 +5972,8 @@ attribute: 0x6400E10001000001
 id: 302410
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Did you hear the news?! The world’s
-most famous celebrity died of Ligma!"
+{{255:0 arg="0x0100"}}"Did you hear the news?! You got
+that bad Ligma thing!"
 
 
 ---
@@ -6019,8 +6017,8 @@ attribute: 0x6400E10001000001
 id: 302440
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I believe I must work hard to get
-what I dream of."
+{{255:0 arg="0x0100"}}"I believe wishes can come true
+if you work hard enough."
 
 
 ---
@@ -6479,7 +6477,7 @@ id: 302750
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"What would you do today if the world
-would be end tomorrow?"
+would end tomorrow?"
 
 
 ---
@@ -6598,7 +6596,7 @@ id: 302830
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike, do you
-believe in fortune telling?"
+believe in fortune-telling?"
 
 
 ---
@@ -6733,7 +6731,7 @@ id: 302920
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Is there anything you want to quit,
-but you can't?"
+but can't?"
 
 
 ---
@@ -7093,7 +7091,7 @@ attribute: 0x6400E10001000001
 id: 303160
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It feels good when I clean my room."
+{{255:0 arg="0x0100"}}"Cleaning up your room makes you feel good, doesn't it?"
 
 
 ---
@@ -7663,6 +7661,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
