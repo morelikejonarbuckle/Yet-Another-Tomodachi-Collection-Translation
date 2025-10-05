@@ -3124,8 +3124,7 @@ attribute: 0x6400E10001000001
 id: 300920
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel like something nice will
-happen today."
+{{255:0 arg="0x0100"}}"I feel like something nice will happen today."
 
 
 ---
@@ -4946,8 +4945,8 @@ attribute: 0x6400E10001000002
 id: 400020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is my birthday. Will you
-celebrate it with me?"
+{{255:0 arg="0x0100"}}"Today is my birthday. 
+Will you celebrate it with me?"
 
 
 ---
@@ -5161,6 +5160,7 @@ id: 500101
 attribute: 0x6400E10001000002
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
