@@ -2399,8 +2399,8 @@ attribute: 0x6400E10001000001
 id: 300200
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to be with {{1:31 arg="0x0000"}}
-more often."
+{{255:0 arg="0x0100"}}"I should spend some time
+with {{1:31 arg="0x0000"}} more often."
 
 
 ---
@@ -2414,7 +2414,8 @@ attribute: 0x6400E10001000001
 id: 300210
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I had held hands."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I were
+holding hands. Jealous?"
 
 
 ---
@@ -2428,8 +2429,8 @@ attribute: 0x6400E10001000001
 id: 300220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Yesterday, I was so happy.
-I dreamed of {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"Yesterday, I had a dream
+with {{1:31 arg="0x0000"}}. I was so happy!"
 
 
 ---
@@ -2443,8 +2444,8 @@ attribute: 0x6400E10001000001
 id: 300230
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"If two people don't share mutual feelings,
-it's hard to be lovers, right?"
+{{255:0 arg="0x0100"}}"If two people don't share their feelings,
+they can't be lovers, right?"
 
 
 ---
@@ -2458,8 +2459,8 @@ attribute: 0x6400E10001000001
 id: 300240
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} cooked for me.
-I'm so happy..."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} cooked 
+some food for me. I'm so happy..."
 
 
 ---
@@ -2473,8 +2474,8 @@ attribute: 0x6400E10001000001
 id: 300250
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've been so happy to have been
-married to {{1:31 arg="0x0000"}}!"
+{{255:0 arg="0x0100"}}"After marrying {{1:31 arg="0x0000"}},
+every day has become more enjoyable!"
 
 
 ---
@@ -2488,8 +2489,8 @@ attribute: 0x6400E10001000001
 id: 300260
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel so happy when I talk
-with {{1:31 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"The most enjoyable part
+of the day is my chats with {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2504,7 +2505,7 @@ id: 300270
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I feel so happy when I'm with
-{{1:31 arg="0x0000"}}."
+{{1:31 arg="0x0000"}}!"
 
 
 ---
@@ -2518,8 +2519,8 @@ attribute: 0x6400E10001000001
 id: 300280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My relationship with {{1:31 arg="0x0000"}}
-now is as good as when we were lovers."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I are
+close now as we were when we originally started dating."
 
 
 ---
@@ -2533,7 +2534,7 @@ attribute: 0x6400E10001000001
 id: 300290
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It'd be nice if I could live with
+{{255:0 arg="0x0100"}}"I wish I could stay with
 {{1:31 arg="0x0000"}} forever."
 
 
@@ -2548,7 +2549,8 @@ attribute: 0x6400E10001000001
 id: 300300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I think my married life is great."
+{{255:0 arg="0x0100"}}"Thinking about it, married life
+isn’t so bad, is it? It's a bit whimsical!"
 
 
 ---
@@ -2562,7 +2564,8 @@ attribute: 0x6400E10001000001
 id: 300310
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Married life isn't as exciting as I thought."
+{{255:0 arg="0x0100"}}"Married life is
+more mundane than I thought."
 
 
 ---
@@ -2576,8 +2579,8 @@ attribute: 0x6400E10001000001
 id: 300320
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Earlier, I saw {{1:31 arg="0x0000"}}
-strolling along the beach."
+{{255:0 arg="0x0100"}}"Earlier, I went for a walk at the beach
+with {{1:31 arg="0x0000"}}. It was nice!"
 
 
 ---
@@ -2606,8 +2609,8 @@ attribute: 0x6400E10001000001
 id: 300340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you think I would make
-a good leader for this island?"
+{{255:0 arg="0x0100"}}"Do you think {{1:31 arg='0x0000'}}
+would make a good leader for this island?"
 
 
 ---
@@ -2621,7 +2624,8 @@ attribute: 0x6400E10001000001
 id: 300350
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want to be famous someday."
+{{255:0 arg="0x0100"}}"I want to be famous someday,
+so I can be friends with cool people!"
 
 
 ---
@@ -2636,7 +2640,7 @@ id: 300360
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I usually say what I think.
-It's normal, right?"
+You think I should stop that habit?"
 
 
 ---
@@ -2651,7 +2655,7 @@ id: 300370
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do you think taking over the world sounds
-charming to you?"
+charming to you? You're already a ruler of this island."
 
 
 ---
@@ -2666,8 +2670,8 @@ attribute: 0x6400E10001000001
 id: 300380
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think I've lived a fun life everyday."
-
+{{255:0 arg="0x0100"}}"I think I've lived a fun life everyday.
+You should strive for a goal like that!"
 
 ---
 id: 300381
@@ -2680,7 +2684,8 @@ attribute: 0x6400E10001000001
 id: 300390
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want to be prettier."
+{{255:0 arg="0x0100"}}"I want to be prettier, with my
+face bedazzled in makeup and luxury!"
 
 
 ---
@@ -2708,8 +2713,8 @@ attribute: 0x6400E10001000001
 id: 300410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's refreshing when you can shout in
-a loud voice."
+{{255:0 arg="0x0100"}}"It's refreshing to yell, but it
+might annoy a lot of people."
 
 
 ---
@@ -2723,7 +2728,8 @@ attribute: 0x6400E10001000001
 id: 300420
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"To be honest, I really love myself."
+{{255:0 arg="0x0100"}}"I like myself. Not a lot
+of people can say that nowadays."
 
 
 ---
@@ -2737,8 +2743,8 @@ attribute: 0x6400E10001000001
 id: 300430
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"People say that I'm talkative
-and I agree so."
+{{255:0 arg="0x0100"}}"People say that I'm very talkative.
+That sure sounds like me!"
 
 
 ---
@@ -2752,8 +2758,8 @@ attribute: 0x6400E10001000001
 id: 300440
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When I'm in high spirits, I usually act without
-thinking. That's my bad habit."
+{{255:0 arg="0x0100"}}"When I get carried away, I tend
+to go overboard. That's a bad habit."
 
 
 ---
@@ -2782,7 +2788,7 @@ attribute: 0x6400E10001000001
 id: 300460
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm the type that likes to go by instinct."
+{{255:0 arg="0x0100"}}"I tend to use my instincts alot."
 
 
 ---
@@ -2796,8 +2802,8 @@ attribute: 0x6400E10001000001
 id: 300470
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I like to do many things at a time so that
-I don't get bored of them."
+{{255:0 arg="0x0100"}}"I have many hobbies, so I won't bore
+myself with doing one thing."
 
 
 ---
@@ -2811,7 +2817,8 @@ attribute: 0x6400E10001000001
 id: 300480
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I feel blessed to have been born."
+{{255:0 arg="0x0100"}}"I'm glad I was born. You only
+get to live once, you know! Make it worthwhile."
 
 
 ---
@@ -2825,7 +2832,7 @@ attribute: 0x6400E10001000001
 id: 300490
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"To tell you the truth, I feel lonely easily."
+{{255:0 arg="0x0100"}}"I can be a bit lonely at times."
 
 
 ---
@@ -2839,8 +2846,8 @@ attribute: 0x6400E10001000001
 id: 300500
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I hate it when someone is hesitating.
-That's such a waste of time."
+{{255:0 arg="0x0100"}}"I hate moping around. It's better
+to think about happier things, right?"
 
 
 ---
@@ -2868,8 +2875,8 @@ attribute: 0x6400E10001000001
 id: 300520
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"You'll be blessed if you can enjoy life."
-
+{{255:0 arg="0x0100"}}"Life is all about having fun, right?
+Try to shove some happy things into your life."
 
 ---
 id: 300521
@@ -2897,8 +2904,8 @@ attribute: 0x6400E10001000001
 id: 300540
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When it comes to food, I only eat
-the dishes I like."
+{{255:0 arg="0x0100"}}"I'm very picky and eat only the foods
+I like."
 
 
 ---
@@ -2940,8 +2947,8 @@ attribute: 0x6400E10001000001
 id: 300570
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Sometimes, I think about some nice
-memories and smile to myself."
+{{255:0 arg="0x0100"}}"Sometimes, I think about some fun
+memories and laugh at them."
 
 
 ---
@@ -2955,8 +2962,8 @@ attribute: 0x6400E10001000001
 id: 300580
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I think things will be fine for me
-even though I don't have any savings."
+{{255:0 arg="0x0100"}}"I think I can manage living,
+even though I don't save up money."
 
 
 ---
@@ -2970,8 +2977,8 @@ attribute: 0x6400E10001000001
 id: 300590
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"There are a lot of things I regretted
-I had said them."
+{{255:0 arg="0x0100"}}"There are a lot of things I regret
+saying. That's one of them."
 
 
 ---
@@ -2986,7 +2993,7 @@ id: 300600
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Sometimes, I don't listen when people
-talk to me."
+talk. Hehehe..."
 
 
 ---
@@ -3000,7 +3007,8 @@ attribute: 0x6400E10001000001
 id: 300610
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I have a lot of things I want to do!"
+{{255:0 arg="0x0100"}}"There's so much I want to do, it's
+overwhelming!"
 
 
 ---
@@ -3014,8 +3022,8 @@ attribute: 0x6400E10001000001
 id: 300620
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I might be careless but I take
-things seriously."
+{{255:0 arg="0x0100"}}"I'm a bit scatterbrained, but I
+do well under pressure."
 
 
 ---
@@ -3029,8 +3037,8 @@ attribute: 0x6400E10001000001
 id: 300630
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Did you see it when I farted in
-my room earlier?"
+{{255:0 arg="0x0100"}}"Did you see me fart in
+my room the other day? Oopsie..."
 
 
 ---
@@ -3059,7 +3067,8 @@ attribute: 0x6400E10001000001
 id: 300650
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm happy when I can talk to someone."
+{{255:0 arg="0x0100"}}"I'm happy when people talk to me.
+Thanks for checking in!"
 
 
 ---
@@ -3073,7 +3082,7 @@ attribute: 0x6400E10001000001
 id: 300660
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Being able to wear something nice
+{{255:0 arg="0x0100"}}"Just wearing my favorite clothes
 makes me happy."
 
 
@@ -3088,8 +3097,7 @@ attribute: 0x6400E10001000001
 id: 300670
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm the type that believes in
-fortune telling."
+{{255:0 arg="0x0100"}}"I believe in fortune-telling."
 
 
 ---
@@ -3103,7 +3111,8 @@ attribute: 0x6400E10001000001
 id: 300680
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm usually late for my appointments."
+{{255:0 arg="0x0100"}}"I'm usually late for appointments.
+Even when I arrive 15 minutes early!"
 
 
 ---
@@ -3117,7 +3126,8 @@ attribute: 0x6400E10001000001
 id: 300690
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I don't care about trivial things."
+{{255:0 arg="0x0100"}}"I don't care about trivial things or
+small details. They're really teeny!"
 
 
 ---
@@ -3131,8 +3141,8 @@ attribute: 0x6400E10001000001
 id: 300700
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm the type that has short span of
-attention."
+{{255:0 arg="0x0100"}}"I have a short attention span.
+Wait, what are you doing here?"
 
 
 ---
@@ -5086,5 +5096,6 @@ attribute: 0x6400E10001000002
 ---
 
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
