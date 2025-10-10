@@ -15,7 +15,7 @@ hasFLW1: false
 id: 0
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat some staple food."
+{{255:0 arg="0x0100"}}"I want to eat some carbs or protein."
 
 
 ---
@@ -29,7 +29,7 @@ attribute: 0x6400E10001000001
 id: 10
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat a main dish."
+{{255:0 arg="0x0100"}}"I want to eat something hearty."
 
 
 ---
@@ -57,7 +57,7 @@ attribute: 0x6400E10001000001
 id: 30
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat dessert."
+{{255:0 arg="0x0100"}}"I want to eat some dessert."
 
 
 ---
@@ -5793,6 +5793,7 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+
 
 
 [a]This message appears when you pat on a Mii's head, but the line was originally "They look pretty satisfied."
