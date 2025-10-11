@@ -183,8 +183,8 @@ attribute: 0x6400E10001000001
 id: 120
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat something that
-tastes bad."
+{{255:0 arg="0x0100"}}"I want to eat something terrible.
+Don't ask why."
 
 
 ---
@@ -226,7 +226,7 @@ attribute: 0x6400E10001000001
 id: 150
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat some vegetables."
+{{255:0 arg="0x0100"}}"I want to eat some veggies."
 
 
 ---
@@ -296,7 +296,8 @@ attribute: 0x6400E10001000001
 id: 200
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat some egg."
+{{255:0 arg="0x0100"}}"I want to eat some food with
+eggs."
 
 
 ---
@@ -380,7 +381,7 @@ attribute: 0x6400E10001000001
 id: 260
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to eat something luxury."
+{{255:0 arg="0x0100"}}"I want to eat something luxurious."
 
 
 ---
@@ -464,7 +465,7 @@ attribute: 0x6400E10001000001
 id: 320
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"GIVE ME FOOD NOWWWWWW!!!!!!!!"
 
 
 ---
@@ -534,7 +535,8 @@ attribute: 0x6400E10001000001
 id: 370
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"I can hear my stomach growling and
+saying 'Feed meeeee!'"
 
 
 ---
@@ -576,7 +578,7 @@ attribute: 0x6400E10001000001
 id: 400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"I feel something empty in my belly."
 
 
 ---
@@ -604,7 +606,7 @@ attribute: 0x6400E10001000001
 id: 420
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"My stomach requires sustenance."
 
 
 ---
@@ -646,7 +648,7 @@ attribute: 0x6400E10001000001
 id: 450
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"Some food would be nice..."
 
 
 ---
@@ -674,7 +676,7 @@ attribute: 0x6400E10001000001
 id: 470
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"Food, please!"
 
 
 ---
@@ -758,7 +760,7 @@ attribute: 0x6400E10001000001
 id: 530
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"I'm so hungry, I could eat a cow!"
 
 
 ---
@@ -800,7 +802,7 @@ attribute: 0x6400E10001000001
 id: 700
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Give me something to eat."
+{{255:0 arg="0x0100"}}"Give me something to eat, please."
 
 
 ---
@@ -828,7 +830,8 @@ attribute: 0x6400E10001000001
 id: 720
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel like eating something."
+{{255:0 arg="0x0100"}}"I'll take anything you give me to eat.
+Just make sure it's not clothing or something."
 
 
 ---
@@ -856,7 +859,7 @@ attribute: 0x6400E10001000001
 id: 1000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a warm outfit."
+{{255:0 arg="0x0100"}}"I'd like some warm clothes."
 
 
 ---
@@ -870,7 +873,7 @@ attribute: 0x6400E10001000001
 id: 1010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a cool outfit."
+{{255:0 arg="0x0100"}}"I'd like some cool clothes."
 
 
 ---
@@ -898,7 +901,7 @@ attribute: 0x6400E10001000001
 id: 1030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a plain outfit."
+{{255:0 arg="0x0100"}}"I want some simple clothes."
 
 
 ---
@@ -926,7 +929,7 @@ attribute: 0x6400E10001000001
 id: 1050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a casual outfit."
+{{255:0 arg="0x0100"}}"I want some casual clothes."
 
 
 ---
@@ -954,7 +957,8 @@ attribute: 0x6400E10001000001
 id: 1070
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a sexy outfit."
+{{255:0 arg="0x0100"}}"I want a sexy outfit.
+Please don't ask why."
 
 
 ---
@@ -982,8 +986,8 @@ attribute: 0x6400E10001000001
 id: 1090
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Occasionally, I want to wear
-a lame outfit."
+{{255:0 arg="0x0100"}}"I'd like a tacky outfit.
+It'd be fun to wear it occasionally."
 
 
 ---
@@ -1025,7 +1029,7 @@ attribute: 0x6400E10001000001
 id: 1120
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new outfit."
+{{255:0 arg="0x0100"}}"I'd like some new clothes."
 
 
 ---
@@ -1095,7 +1099,7 @@ attribute: 0x6400E10001000001
 id: 1170
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new outfit."
+{{255:0 arg="0x0100"}}"Clothes! Gimme! NOW!"
 
 
 ---
@@ -1137,7 +1141,7 @@ attribute: 0x6400E10001000001
 id: 1200
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new outfit."
+{{255:0 arg="0x0100"}}"Show me your fashion sense."
 
 
 ---
@@ -1165,7 +1169,7 @@ attribute: 0x6400E10001000001
 id: 1220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new outfit."
+{{255:0 arg="0x0100"}}"Please fashionize me!"
 
 
 ---
@@ -1193,7 +1197,7 @@ attribute: 0x6400E10001000001
 id: 1500
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} outfit."
+{{255:0 arg="0x0100"}}"I want a {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}."
 
 
 ---
@@ -1207,7 +1211,7 @@ attribute: 0x6400E10001000001
 id: 1600
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to wear a skirt."
+{{255:0 arg="0x0100"}}"I want an outfit with a skirt."
 
 
 ---
@@ -1235,7 +1239,7 @@ attribute: 0x6400E10001000001
 id: 1620
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want something to wear to play sports."
+{{255:0 arg="0x0100"}}"I want some sportswear."
 
 
 ---
@@ -1277,7 +1281,7 @@ attribute: 0x6400E10001000001
 id: 1650
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new outfit."
+{{255:0 arg="0x0100"}}"Bedazzle me in new clothes, please."
 
 
 ---
@@ -1291,7 +1295,7 @@ attribute: 0x6400E10001000001
 id: 1800
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new interior."
+{{255:0 arg="0x0100"}}"I want a new interior for my apartment."
 
 
 ---
@@ -1305,8 +1309,8 @@ attribute: 0x6400E10001000001
 id: 2500
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to be
-{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}'s friend."
+{{255:0 arg="0x0100"}}"I want to be friends with
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}."
 
 
 ---
@@ -1321,7 +1325,7 @@ id: 2510
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm in love with {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}.
-I want to confess my feelings..."
+I want to confess my feelings, but I don't have enough courage..."
 
 
 ---
@@ -1335,7 +1339,7 @@ attribute: 0x6400E10001000001
 id: 2520
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"You got a minute?"
+{{255:0 arg="0x0100"}}"Can I ask you something?"
 
 
 ---
@@ -1365,7 +1369,7 @@ id: 2540
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} and I got in
-a fight. I'm so mad now."
+a fight. They're making me mad!"
 
 
 ---
@@ -1409,8 +1413,8 @@ attribute: 0x6400E10001000001
 id: 3000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Please tell me my frequently
-spoken phrase."
+{{255:0 arg="0x0100"}}"Please tell me a phrase
+people say all the time."
 
 
 ---
@@ -1425,7 +1429,7 @@ id: 3010
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Please tell me a phrase to
-say when I am happy."
+say when I'm happy."
 
 
 ---
@@ -1440,7 +1444,7 @@ id: 3020
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Please tell me a phrase to
-say when I am mad."
+say when I'm mad."
 
 
 ---
@@ -1470,7 +1474,7 @@ id: 3040
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Please tell me a phrase to
-say when I'm in trouble."
+say when I'm troubled."
 
 
 ---
@@ -1484,7 +1488,8 @@ attribute: 0x6400E10001000001
 id: 4000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want to take some photos."
+{{255:0 arg="0x0100"}}"I want to take some photos.
+If only I had a camera..."
 
 
 ---
@@ -1526,7 +1531,7 @@ attribute: 0x6400E10001000001
 id: 4030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I have stomach ache..."
+{{255:0 arg="0x0100"}}"My stomach hurts..."
 
 
 ---
@@ -1540,7 +1545,7 @@ attribute: 0x6400E10001000001
 id: 5000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"My back is itchy."
+{{255:0 arg="0x0100"}}"I need you to scratch my back."
 
 
 ---
@@ -1554,7 +1559,7 @@ attribute: 0x6400E10001000001
 id: 5010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Please take a look inside my stomach."
+{{255:0 arg="0x0100"}}"Please look inside my stomach."
 
 
 ---
@@ -1568,7 +1573,7 @@ attribute: 0x6400E10001000001
 id: 5020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Can you play with me?"
+{{255:0 arg="0x0100"}}"Can you play a game with me?"
 
 
 ---
@@ -1597,7 +1602,7 @@ attribute: 0x6400E10001000001
 id: 6000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I was rejected..."
+{{255:0 arg="0x0100"}}"I got dumped..."
 
 
 ---
@@ -1611,7 +1616,7 @@ attribute: 0x6400E10001000001
 id: 6010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Those fun moments would
+{{255:0 arg="0x0100"}}"Those happy days will
 never come back..."
 
 
@@ -1626,8 +1631,8 @@ attribute: 0x6400E10001000001
 id: 6020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm divorced. I feel like
-there's a hole in my heart."
+{{255:0 arg="0x0100"}}"After the divorce happened, a huge
+hole of sadness opened up in my heart..."
 
 
 ---
@@ -1641,7 +1646,7 @@ attribute: 0x6400E10001000001
 id: 6030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm such a loser..."
+{{255:0 arg="0x0100"}}"I guess I'm not good enough..."
 
 
 ---
@@ -1669,7 +1674,7 @@ attribute: 0x6400E10001000001
 id: 6050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I should look for a new love..."
+{{255:0 arg="0x0100"}}"I think I'll look for a new lover..."
 
 
 ---
@@ -1683,7 +1688,7 @@ attribute: 0x6400E10001000001
 id: 6060
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"This should be okay."
+{{255:0 arg="0x0100"}}"It was the right thing to do, right?"
 
 
 ---
@@ -1697,8 +1702,8 @@ attribute: 0x6400E10001000001
 id: 8000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"People had donated money to
-help to make this island better."
+{{255:0 arg="0x0100"}}"I've decided to build a donation box
+to improve the lives of our islanders. Check it out!"
 
 
 ---
@@ -1712,8 +1717,7 @@ attribute: 0x6400E10001000001
 id: 9000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Please don't ask anything and
-lend me 50,000 Yen."
+{{255:0 arg="0x0100"}}"Give me 50,000 yen. Don't ask why."
 
 
 ---
@@ -1727,7 +1731,7 @@ attribute: 0x6400E10001000001
 id: 16000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Hah..."
+{{255:0 arg="0x0100"}}"Sigh..."
 
 
 ---
@@ -5797,3 +5801,4 @@ attribute: 0x6400E10001000002
 
 
 [a]This message appears when you pat on a Mii's head, but the line was originally "They look pretty satisfied."
+
