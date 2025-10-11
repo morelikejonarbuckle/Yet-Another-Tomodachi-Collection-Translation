@@ -1745,8 +1745,8 @@ attribute: 0x6400E10001000001
 id: 16010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I can't help thinking about the
-fun moments I used to have..."
+{{255:0 arg="0x0100"}}"I keep recalling those happy
+times we had..."
 
 
 ---
@@ -1775,7 +1775,7 @@ attribute: 0x6400E10001000001
 id: 16030
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I have no self-confidence."
+{{255:0 arg="0x0100"}}"I have no self-confidence..."
 
 
 ---
@@ -1789,7 +1789,7 @@ attribute: 0x6400E10001030001
 id: 16040
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"We couldn't reconcile."
+{{255:0 arg="0x0100"}}"We couldn't reconcile..."
 
 
 ---
@@ -1803,7 +1803,8 @@ attribute: 0x6400E10001030001
 id: 16050
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"It was really painful to say goodbye."
+{{255:0 arg="0x0100"}}"It's hard for the other person
+bid farewell as well..."
 
 
 ---
@@ -1817,7 +1818,7 @@ attribute: 0x6400E10001030001
 id: 16060
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I was really painful to be divorced..."
+{{255:0 arg="0x0100"}}"Divorce is such a painful experience..."
 
 
 ---
@@ -1873,7 +1874,8 @@ attribute: 0x6400E10001000001
 id: 100400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've just eaten this."
+{{255:0 arg="0x0100"}}"I just ate this.
+Something else, please."
 
 
 ---
@@ -1887,7 +1889,7 @@ attribute: 0x6400E10001000001
 id: 101100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm full. Please take it back."
+{{255:0 arg="0x0100"}}"I have many clothes, so I'll return this."
 
 
 ---
@@ -1916,7 +1918,7 @@ id: 101900
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Thank you for the new interior.
-It's very nice. I like it."
+It's very nice! I love it."
 
 
 ---
@@ -1931,7 +1933,7 @@ id: 101910
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Thank you for the new interior.
-It's quite good."
+It's great."
 
 
 ---
@@ -1946,7 +1948,7 @@ id: 101920
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Thank you for the new interior.
-This feels good."
+It feels nice."
 
 
 ---
@@ -1961,7 +1963,7 @@ id: 101930
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Thank you for the new interior.
-Um, it's pretty unique."
+It's... how do I put it... unique."
 
 
 ---
@@ -1975,8 +1977,8 @@ attribute: 0x6400E10001000001
 id: 101940
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Thank you for the new interior.
-People have different tastes, eh?"
+{{255:0 arg="0x0100"}}"Thank you for the new interior?
+I guess you and I have different tastes."
 
 
 ---
@@ -1990,7 +1992,7 @@ attribute: 0x6400E10001000001
 id: 101950
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I already have this."
+{{255:0 arg="0x0100"}}"I already have this interior."
 
 
 ---
@@ -2061,7 +2063,7 @@ attribute: 0x6400E10001000001
 id: 103000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm going to take a photo."
+{{255:0 arg="0x0100"}}"I'll go take a photo now."
 
 
 ---
@@ -2075,7 +2077,7 @@ attribute: 0x6400E10001000001
 id: 103010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"How is it?"
+{{255:0 arg="0x0100"}}"Check it out!"
 
 
 ---
@@ -2089,7 +2091,7 @@ attribute: 0x6400E10001000001
 id: 103100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Please show me how to use it."
+{{255:0 arg="0x0100"}}"Sure, let's try this."
 
 
 ---
@@ -2103,7 +2105,7 @@ attribute: 0x6400E10001000001
 id: 103110
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Ah!"
+{{255:0 arg="0x0100"}}"Gah!"
 
 
 ---
@@ -2117,7 +2119,7 @@ attribute: 0x6400E10001000001
 id: 103120
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"What did I do?"
+{{255:0 arg="0x0100"}}"Was I doing something?"
 
 
 ---
@@ -2145,7 +2147,7 @@ attribute: 0x6400E10001000001
 id: 103210
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Very refreshing!"
+{{255:0 arg="0x0100"}}"That was very refreshing!"
 
 
 ---
@@ -2159,7 +2161,7 @@ attribute: 0x6400E10001000001
 id: 103220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm going to take a photo."
+{{255:0 arg="0x0100"}}"I'll go take a photo now."
 
 
 ---
@@ -2173,7 +2175,7 @@ attribute: 0x6400E10001000001
 id: 103222
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"This is what I got."
+{{255:0 arg="0x0100"}}"Check it out!"
 
 
 ---
@@ -2187,8 +2189,8 @@ attribute: 0x6400E10001000001
 id: 103230
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"The title is
-『{{1:1 arg="0x0000"}}.』"
+{{255:0 arg="0x0100"}}"I call it
+'{{1:1 arg="0x0000"}}.'"
 
 
 ---
@@ -2231,7 +2233,7 @@ id: 103260
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"There might be someone else
-who appreciates it."
+who appreciates it!"
 
 
 ---
@@ -2245,8 +2247,8 @@ attribute: 0x6400E10001000001
 id: 103270
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}'s spitting image,
-you'll understand it some day."
+{{255:0 arg="0x0100"}}"You'll understand it some day,
+{{1:1 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -2274,7 +2276,7 @@ attribute: 0x6400E10001000001
 id: 103310
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"The cool air feels nice." 
+{{255:0 arg="0x0100"}}"I feel pleasantly cool." 
 
 
 ---
@@ -2288,7 +2290,7 @@ attribute: 0x6400E10001000001
 id: 103320
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I will try it."
+{{255:0 arg="0x0100"}}"Guess I'll try it out."
 
 
 ---
@@ -2302,7 +2304,8 @@ attribute: 0x6400E10001000001
 id: 103330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've learned something."
+{{255:0 arg="0x0100"}}"That was helpful! 
+I learned something new."
 
 
 ---
@@ -2316,7 +2319,7 @@ attribute: 0x6400E10001000001
 id: 103350
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Can I listen to it?"
+{{255:0 arg="0x0100"}}"May I have a listen?"
 
 
 ---
@@ -2330,7 +2333,7 @@ attribute: 0x6400E10001000001
 id: 103360
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Music box is soothing."
+{{255:0 arg="0x0100"}}"Music boxes are so soothing."
 
 
 ---
@@ -2344,7 +2347,7 @@ attribute: 0x6400E10001000001
 id: 103370
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm going to cook something delicious."
+{{255:0 arg="0x0100"}}"I'm going to cook something delicious!"
 
 
 ---
@@ -2372,7 +2375,7 @@ attribute: 0x6400E10001000001
 id: 103400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"My fever has gone."
+{{255:0 arg="0x0100"}}"Wow! My fever went away!"
 
 
 ---
@@ -2386,7 +2389,7 @@ attribute: 0x6400E10001000001
 id: 103410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It's pretty bitter."
+{{255:0 arg="0x0100"}}"That tasted pretty bitter."
 
 
 ---
@@ -2400,7 +2403,7 @@ attribute: 0x6400E10001000001
 id: 103500
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've gotten better."
+{{255:0 arg="0x0100"}}"My stomach no longer hates me!"
 
 
 ---
@@ -2414,7 +2417,7 @@ attribute: 0x6400E10001000001
 id: 103510
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It tasted weird."
+{{255:0 arg="0x0100"}}"That tasted weird."
 
 
 ---
@@ -2428,7 +2431,7 @@ attribute: 0x6400E10001000001
 id: 103600
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Eh? Is it really okay?"
+{{255:0 arg="0x0100"}}"Wait, you're giving me this?"
 
 
 ---
@@ -2442,7 +2445,7 @@ attribute: 0x6400E10001000001
 id: 103610
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Then I'll enjoy it."
+{{255:0 arg="0x0100"}}"Guess I'll go on a trip!"
 
 
 ---
@@ -2456,7 +2459,7 @@ attribute: 0x6400E10001000001
 id: 103620
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Ah, it was fun."
+{{255:0 arg="0x0100"}}"Thanks for the ticket!"
 
 
 ---
@@ -2470,7 +2473,7 @@ attribute: 0x6400E10001000001
 id: 103630
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Here's your souvenir."
+{{255:0 arg="0x0100"}}"I got you a souvenir."
 
 
 ---
@@ -2498,7 +2501,8 @@ attribute: 0x6400E10001000001
 id: 103650
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"From now on, please be nice to us."
+{{255:0 arg="0x0100"}}"Please keep looking after us even though
+we're married."
 
 
 ---
@@ -2512,7 +2516,7 @@ attribute: 0x6400E10001000001
 id: 103800
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Which manner should I talk?"
+{{255:0 arg="0x0100"}}"How should I talk to them?"
 
 
 ---
@@ -2568,8 +2572,8 @@ attribute: 0x6400E10001000001
 id: 103820
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Thank you very much!
-Now we've become friends!"
+{{255:0 arg="0x0100"}}"We've become friends!
+Thank you very much."
 
 
 ---
@@ -2583,7 +2587,7 @@ attribute: 0x6400E10001000001
 id: 103830
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We aren't friends yet."
+{{255:0 arg="0x0100"}}"We didn't become friends yet."
 
 
 ---
@@ -2597,7 +2601,7 @@ attribute: 0x6400E10001000001
 id: 104000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Which manner should I confess?"
+{{255:0 arg="0x0100"}}"What tone do I confess with?"
 
 
 ---
@@ -2625,8 +2629,8 @@ attribute: 0x6400E10001000001
 id: 104012
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Before that, should I change
-my clothes first?"
+{{255:0 arg="0x0100"}}"Should I change my clothes
+before I do anything?"
 
 
 ---
@@ -2668,7 +2672,7 @@ attribute: 0x6400E10001000001
 id: 104030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Why did you oppose?"
+{{255:0 arg="0x0100"}}"Why do you oppose me?"
 
 
 ---
@@ -2682,7 +2686,7 @@ attribute: 0x6400E10001000001
 id: 104100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Is that so? I got it..."
+{{255:0 arg="0x0100"}}"That's awful news..."
 
 
 ---
@@ -2696,7 +2700,7 @@ attribute: 0x6400E10001000001
 id: 104110
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Eh? That's cruel..."
+{{255:0 arg="0x0100"}}"What?! You're a jerk..."
 
 
 ---
@@ -2710,7 +2714,7 @@ attribute: 0x6400E10001000001
 id: 104120
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Is that so...?"
+{{255:0 arg="0x0100"}}"I guess I wasn't prepared for that..."
 
 
 ---
@@ -2724,7 +2728,7 @@ attribute: 0x6400E10001000001
 id: 104130
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Is that so? I'll try harder."
+{{255:0 arg="0x0100"}}"I see... I'll do my best next time..."
 
 
 ---
@@ -2738,7 +2742,7 @@ attribute: 0x6400E10001000001
 id: 105000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I've fully recovered."
+{{255:0 arg="0x0100"}}"I think I've recovered."
 
 
 ---
@@ -2752,7 +2756,7 @@ attribute: 0x6400E10001000001
 id: 106000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"You got a minute?"
+{{255:0 arg="0x0100"}}"Can I have a word?"
 
 
 ---
@@ -2766,8 +2770,7 @@ attribute: 0x6400E10001000001
 id: 106100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Can you help get rid of
-this irritation first?"
+{{255:0 arg="0x0100"}}"Can you calm me down, then?"
 
 
 ---
@@ -2782,7 +2785,7 @@ id: 106200
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I feel much better now.
-I'll try to make up."
+I'll try to make up with them."
 
 
 ---
@@ -2796,7 +2799,7 @@ attribute: 0x6400E10001000001
 id: 106300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Thank you very much.
+{{255:0 arg="0x0100"}}"Thank you very much!
 We've become friends again."
 
 
@@ -2840,7 +2843,7 @@ attribute: 0x6400E10001000001
 id: 106410
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"...I'll try to talk it over."
+{{255:0 arg="0x0100"}}"...I'll talk to them again."
 
 
 ---
@@ -2854,7 +2857,7 @@ attribute: 0x6400E10001000001
 id: 106420
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel like I have my freedom now."
+{{255:0 arg="0x0100"}}"Guess I'm free as a bird..."
 
 
 ---
@@ -2868,7 +2871,7 @@ attribute: 0x6400E10001000001
 id: 106430
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We will try to start over."
+{{255:0 arg="0x0100"}}"We'll try to start over."
 
 
 ---
@@ -2882,7 +2885,7 @@ attribute: 0x6400E10001000001
 id: 106440
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"It really was no good."
+{{255:0 arg="0x0100"}}"It didn't work out after all."
 
 
 ---
@@ -2980,7 +2983,7 @@ attribute: 0x6400E10001010001
 id: 201900
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}They seemed to like that.[a]
+{{255:0 arg="0x0100"}}They seemed to like that.
 
 
 ---
@@ -3008,7 +3011,7 @@ attribute: 0x6400E10001010001
 id: 300100
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}It turned out to be terrible...
+{{255:0 arg="0x0100"}}It ended in dissapointment...
 
 
 ---
@@ -3022,7 +3025,7 @@ attribute: 0x6400E10001010001
 id: 300210
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}Still no good.
+{{255:0 arg="0x0100"}}It didn't work out after all.
 
 
 ---
@@ -3036,7 +3039,7 @@ attribute: 0x6400E10001010001
 id: 300310
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}It was no good...
+{{255:0 arg="0x0100"}}It didn't work out...
 
 
 ---
@@ -3050,7 +3053,7 @@ attribute: 0x6400E10001010001
 id: 300410
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}It didn't go well.
+{{255:0 arg="0x0100"}}It didn't work out.
 
 
 ---
@@ -3072,42 +3075,42 @@ attribute: 0x6400E10001010001
 id: 300510
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}It didn't go well.
+{{255:0 arg="0x0100"}}It didn't work out.
 
 
 ---
 id: 300600
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}All the symptoms were cured.
+{{255:0 arg="0x0100"}}All symptoms cured.
 
 
 ---
 id: 300610
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}Already cured!
+{{255:0 arg="0x0100"}}Cured!
 
 
 ---
 id: 300700
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}The stomach ache has gone.
+{{255:0 arg="0x0100"}}The stomach was healed.
 
 
 ---
 id: 300710
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}Already cured!
+{{255:0 arg="0x0100"}}Cured!
 
 
 ---
 id: 300800
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}Already recovered from depression.
+{{255:0 arg="0x0100"}}They got over it.
 
 
 ---
@@ -3121,7 +3124,7 @@ You received {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}.
 id: 500100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Come on, pick a prize!"
+{{255:0 arg="0x0100"}}"Go on, pick a prize!"
 
 
 ---
@@ -3135,7 +3138,7 @@ attribute: 0x6400E10001000001
 id: 500200
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"A dream...?"
+{{255:0 arg="0x0100"}}"Was that a dream...?"
 
 
 ---
@@ -3149,7 +3152,7 @@ attribute: 0x6400E10001000001
 id: 500210
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"What? A dream...?"
+{{255:0 arg="0x0100"}}"The heck? That dream again..."
 
 
 ---
@@ -3163,7 +3166,7 @@ attribute: 0x6400E10001000001
 id: 500220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I was scared..."
+{{255:0 arg="0x0100"}}"That was scary..."
 
 
 ---
@@ -3177,7 +3180,8 @@ attribute: 0x6400E10001000001
 id: 500230
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"What was that...?"
+{{255:0 arg="0x0100"}}"YAAAAWWWWNNNN...
+Time to sleep again..."
 
 
 ---
@@ -3192,6 +3196,7 @@ id: 500400
 attribute: 0x6400E10001010001
 ---
 {{255:0 arg="0x0100"}}You got {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}?
+Odd.
 
 
 ---
@@ -3199,7 +3204,7 @@ id: 500410
 attribute: 0x6400E10001010001
 ---
 {{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} was put
-in your {{255:0 arg="0x0300"}}trinkets{{255:0 arg="0x0100"}} pouch.
+in your collection of {{255:0 arg="0x0300"}}treasures{{255:0 arg="0x0100"}}.
 
 
 ---
@@ -3505,7 +3510,7 @@ Leave
 id: 900600
 attribute: 0x6400500001010001
 ---
-Use this
+Use
 
 
 ---
@@ -3589,7 +3594,7 @@ Jokes
 id: 900831
 attribute: 0x6400500001010001
 ---
-Gossips
+Gossip
 
 
 ---
@@ -3610,7 +3615,7 @@ Serious topics
 id: 900900
 attribute: 0x6400500001010001
 ---
-Reconcile
+Apologize
 
 
 ---
@@ -3666,7 +3671,7 @@ I'll help
 id: 902010
 attribute: 0x6400500001010001
 ---
-No good
+Nah
 
 
 ---
@@ -3778,28 +3783,28 @@ Too soon
 id: 903000
 attribute: 0x6400500001010001
 ---
-100pt
+10/10
 
 
 ---
 id: 903010
 attribute: 0x6400500001010001
 ---
-80pt
+8/10
 
 
 ---
 id: 903020
 attribute: 0x6400500001010001
 ---
-30pt
+3/10
 
 
 ---
 id: 903030
 attribute: 0x6400500001010001
 ---
-No idea
+Bleh!
 
 
 ---
@@ -3935,7 +3940,7 @@ attribute: 0x6400E10001000001
 id: 1000010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Okay."
+{{255:0 arg="0x0100"}}"Okay!"
 
 
 ---
@@ -3949,7 +3954,7 @@ attribute: 0x6400E10001000001
 id: 1000020
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Sorry."
+{{255:0 arg="0x0100"}}"I'm sorry..."
 
 
 ---
@@ -5797,8 +5802,4 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
-
-
-
-[a]This message appears when you pat on a Mii's head, but the line was originally "They look pretty satisfied."
 
