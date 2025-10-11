@@ -1072,7 +1072,7 @@ attribute: 0x6400F00001000101
 id: 151
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}morelikejonarbuckle0 (text edits, minor sprite edits)
+           {{255:0 arg="0x0900"}}morelikejonarbuckle0 (text edits, some sprite edits)
 
 
 ---
@@ -1418,3 +1418,4 @@ attribute: 0x6400F00001000101
 ---
 
           {{255:0 arg="0x0900"}}
+
