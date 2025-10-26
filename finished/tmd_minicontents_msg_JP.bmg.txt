@@ -4997,7 +4997,7 @@ attribute: 0x6400E10001030001
 id: 861004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Okay! Warm-up is done!"
+{{255:0 arg="0x0100"}}"Okay! Warm-up done!"
 
 
 ---
@@ -5179,7 +5179,7 @@ attribute: 0x6400E10001030001
 id: 861030
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I just remembered my excuse."
+{{255:0 arg="0x0100"}}"I just remembered my non-specific excuse to leave."
 
 
 ---
@@ -5193,7 +5193,7 @@ attribute: 0x6400E10001030001
 id: 861032
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Please go on ahead."
+{{255:0 arg="0x0100"}}"Maybe you should go first?"
 
 
 ---
@@ -5333,7 +5333,7 @@ attribute: 0x6400E10001030001
 id: 862014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"It is not."
+{{255:0 arg="0x0100"}}"It's not."
 
 
 ---
@@ -5459,7 +5459,7 @@ attribute: 0x6400E10001030001
 id: 862032
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, just go by order."
+{{255:0 arg="0x0100"}}" No, I'll wait for you."
 
 
 ---
@@ -5517,8 +5517,8 @@ attribute: 0x6400E10001030001
 id: 871000
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Everyone, listen! There is a space alien
-here, among us humans!"
+{{255:0 arg="0x0100"}}"Everyone, listen! There is a alien impostor
+here, living among us humans!"
 
 
 ---
@@ -5532,7 +5532,7 @@ attribute: 0x6400E10001030001
 id: 871002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*mumble*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *oh my!*..."
 
 
 ---
@@ -5546,7 +5546,7 @@ attribute: 0x6400E10001030001
 id: 871004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*mumble*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *they could be anyone!*..."
 
 
 ---
@@ -5560,7 +5560,7 @@ attribute: 0x6400E10001030001
 id: 871006
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*mumble*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *how suspicious*..."
 
 
 ---
@@ -5574,7 +5574,7 @@ attribute: 0x6400E10001030001
 id: 871008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*mumble*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *it's that person, isn't it*..."
 
 
 ---
@@ -5588,7 +5588,7 @@ attribute: 0x6400E10001030001
 id: 871010
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*mumble*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *they exist?!*..."
 
 
 ---
@@ -5602,7 +5602,7 @@ attribute: 0x6400E10001030001
 id: 871012
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*mumble*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *it's totally not me! I swear!*..."
 
 
 ---
@@ -14658,4 +14658,5 @@ for you. We are eternally indebted to you."
 id: 1481081
 attribute: 0x6400E10001030002
 ---
+
 ナオ_キリガナイノデ_カンシャジョーヲオクルノワコンカイガサイゴトシマス
