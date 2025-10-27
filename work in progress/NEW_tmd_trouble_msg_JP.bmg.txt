@@ -4290,7 +4290,7 @@ attribute: 0x6400E10001000001
 id: 2000400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We are off for a honeymoon."
+{{255:0 arg="0x0100"}}"We're off for a honeymoon."
 
 
 ---
@@ -4318,7 +4318,7 @@ attribute: 0x6400E10001000001
 id: 3000010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm also sorry."
+{{255:0 arg="0x0100"}}"I'm sorry too."
 
 
 ---
@@ -4360,7 +4360,7 @@ attribute: 0x6400E10001000001
 id: 4000010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Yes, please."
+{{255:0 arg="0x0100"}}"I'm willing to try again."
 
 
 ---
@@ -4389,7 +4389,7 @@ id: 6000000
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-an extremely nice spouse."
+the best spouse ever."
 
 
 ---
@@ -4419,7 +4419,7 @@ id: 6000020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a normally good spouse."
+a good spouse."
 
 
 ---
@@ -4463,8 +4463,8 @@ attribute: 0x6400E10001000002
 id: 6000050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How compatible do you think about
-{{1:1 arg="0x0000"}} and me?"
+{{255:0 arg="0x0100"}}"What do you think about
+{{1:1 arg="0x0000"}} and I?"
 
 
 ---
@@ -4478,28 +4478,27 @@ attribute: 0x6400E10001000002
 id: 6000060
 attribute: 0x6400500001030001
 ---
-Perfect!
+A Perfect Match!
 
 
 ---
 id: 6000070
 attribute: 0x6400500001030001
 ---
-Normal
+Very average
 
 
 ---
 id: 6000080
 attribute: 0x6400500001030001
 ---
-Not at all
-
+A bad pair...
 
 ---
 id: 6000100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! That must be so!"
+{{255:0 arg="0x0100"}}"Yeah! I knew it!"
 
 
 ---
@@ -4528,7 +4527,7 @@ id: 6000120
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right!?"
+get closer, right?"
 
 
 ---
@@ -4557,7 +4556,7 @@ attribute: 0x6400E10001000002
 id: 6000140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh? Is that what you think?
+{{255:0 arg="0x0100"}}"Really? That's what you think?
 I'll keep trying harder."
 
 
@@ -4572,7 +4571,7 @@ attribute: 0x6400E10001000002
 id: 6000200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Normal...? That's a bit disappointing."
+{{255:0 arg="0x0100"}}"Average? That's a shame."
 
 
 ---
@@ -4600,7 +4599,7 @@ attribute: 0x6400E10001000002
 id: 6000220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You agreed with me, right?"
+{{255:0 arg="0x0100"}}"I knew it, right?"
 
 
 ---
@@ -4629,8 +4628,8 @@ attribute: 0x6400E10001000002
 id: 6000240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship might
-not be as good as you think."
+{{255:0 arg="0x0100"}}"I see. We might be a better match
+than I thought we were."
 
 
 ---
@@ -4644,7 +4643,7 @@ attribute: 0x6400E10001000002
 id: 6000300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh!? Is that so...? I see..."
+{{255:0 arg="0x0100"}}"What?! Ok..."
 
 
 ---
@@ -4658,8 +4657,8 @@ attribute: 0x6400E10001000002
 id: 6000310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But, I think we're getting
-along well..."
+{{255:0 arg="0x0100"}}"I thought we were getting along
+just fine..."
 
 
 ---
@@ -5799,5 +5798,6 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+
 
 
