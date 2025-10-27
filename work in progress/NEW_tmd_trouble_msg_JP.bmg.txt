@@ -3195,8 +3195,8 @@ attribute: 0x6400E10001000001
 id: 500400
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}You got {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}?
-Odd.
+{{255:0 arg="0x0100"}}You got {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}????
+Ok.
 
 
 ---
@@ -3204,7 +3204,7 @@ id: 500410
 attribute: 0x6400E10001010001
 ---
 {{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} was put
-in your collection of {{255:0 arg="0x0300"}}treasures{{255:0 arg="0x0100"}}.
+in your {{255:0 arg="0x0300"}}treasure collection{{255:0 arg="0x0100"}}.
 
 
 ---
@@ -3225,7 +3225,7 @@ attribute: 0x6400E10001000001
 id: 501100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Congratulations."
+{{255:0 arg="0x0100"}}"Congratulations!"
 
 
 ---
@@ -3239,8 +3239,8 @@ attribute: 0x6400E10001000001
 id: 501200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"What a pity.
-Let's play again next time."
+{{255:0 arg="0x0100"}}"That's a shame.
+Maybe you'll win next time!"
 
 
 ---
@@ -3254,15 +3254,15 @@ attribute: 0x6400E10001000001
 id: 501900
 attribute: 0x6400E10001010002
 ---
-{{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} was put
-in your {{255:0 arg="0x0300"}}trinkets{{255:0 arg="0x0100"}} pouch.
+{{255:0 arg="0x0100"}} You have the urge to keep the {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}
+in your {{255:0 arg="0x0300"}}treasure collection {{255:0 arg="0x0100"}}.
 
 
 ---
 id: 502000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Let me give you this."
+{{255:0 arg="0x0100"}}"Have this as a token of my appreciation."
 
 
 ---
@@ -3276,8 +3276,8 @@ attribute: 0x6400E10001000001
 id: 502004
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Thank you for listening to my
-request. Let me give you this."
+{{255:0 arg="0x0100"}}"I can't believe you did that!
+Here, this is for you."
 
 
 ---
@@ -3291,7 +3291,7 @@ attribute: 0x6400E10001000001
 id: 502010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Thank you very much. Please take this."
+{{255:0 arg="0x0100"}}"Here, I have something to give you!"
 
 
 ---
@@ -3305,15 +3305,15 @@ attribute: 0x6400E10001000001
 id: 502100
 attribute: 0x6400E10001010002
 ---
-{{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} added
-to your 【Item.】
+{{255:0 arg="0x0100"}} You got a {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} and
+put in your item collection.
 
 
 ---
 id: 503000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Thank you very much."
+{{255:0 arg="0x0100"}}"Thank you so much."
 
 
 ---
@@ -3327,7 +3327,7 @@ attribute: 0x6400E10001000002
 id: 503010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hmm, not bad."
+{{255:0 arg="0x0100"}}"Hmm, that wasn't it."
 
 
 ---
@@ -3341,8 +3341,7 @@ attribute: 0x6400E10001000002
 id: 503100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Well, it doesn't seem to have
-any problem, right?"
+{{255:0 arg="0x0100"}}"It doesn't matter, right?"
 
 
 ---
@@ -3356,7 +3355,7 @@ attribute: 0x6400E10001000002
 id: 503110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hmm, not bad."
+{{255:0 arg="0x0100"}}"Hmm, that wasn't it."
 
 
 ---
@@ -3370,7 +3369,7 @@ attribute: 0x6400E10001000002
 id: 503200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Thank you very much."
+{{255:0 arg="0x0100"}}"Thank you so much."
 
 
 ---
@@ -3384,7 +3383,7 @@ attribute: 0x6400E10001000002
 id: 503210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It hurt..."
+{{255:0 arg="0x0100"}}"Owwieeeee..."
 
 
 ---
@@ -3587,7 +3586,7 @@ Polite
 id: 900830
 attribute: 0x6400500001010001
 ---
-Jokes
+A story
 
 
 ---
@@ -3601,14 +3600,14 @@ Gossip
 id: 900832
 attribute: 0x6400500001010001
 ---
-Brainteasers
+Thinky stuff
 
 
 ---
 id: 900833
 attribute: 0x6400500001010001
 ---
-Serious topics
+Serious matters
 
 
 ---
@@ -3685,7 +3684,7 @@ Leave
 id: 902100
 attribute: 0x6400500001010001
 ---
-Traditional
+Orthodox
 
 
 ---
@@ -3713,49 +3712,49 @@ Desperate
 id: 902200
 attribute: 0x6400500001010001
 ---
-Beach
+The beach
 
 
 ---
 id: 902210
 attribute: 0x6400500001010001
 ---
-Rooftop
+The roof
 
 
 ---
 id: 902220
 attribute: 0x6400500001010001
 ---
-Park
+The park
 
 
 ---
 id: 902230
 attribute: 0x6400500001010001
 ---
-Classroom
+The classroom
 
 
 ---
 id: 902240
 attribute: 0x6400500001030001
 ---
-Change
+Get dressed
 
 
 ---
 id: 902250
 attribute: 0x6400500001030001
 ---
-Just go
+Just go already
 
 
 ---
 id: 902300
 attribute: 0x6400500001010001
 ---
-Not compatible
+Bad match
 
 
 ---
@@ -3881,8 +3880,8 @@ I'm busy
 id: 1000000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I fell in love with you.
-Please go out with me."
+{{255:0 arg="0x0100"}}"Are you an ocean? Because
+I'm lost in your waves."
 
 
 ---
@@ -3897,7 +3896,7 @@ id: 1000002
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Your eyes are more beautiful than
-diamonds. Please go out with me."
+diamonds, my love."
 
 
 ---
@@ -3911,7 +3910,7 @@ attribute: 0x6400E10001000001
 id: 1000004
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I don't mind going out with you."
+{{255:0 arg="0x0100"}}"I guess I'll date you."
 
 
 ---
@@ -3968,7 +3967,7 @@ attribute: 0x6400E10001000001
 id: 1000030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}In the end, that person has never come...
+{{255:0 arg="0x0100"}}They never bothered to show up...
 
 
 ---
@@ -3982,9 +3981,7 @@ attribute: 0x6400E10001000001
 id: 1000100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I fell in love with you.
-Please go out with me."
-
+{{255:0 arg="0x0100"}}"Is it hot out here, or is it just you?"
 
 ---
 id: 1000101
@@ -3997,8 +3994,8 @@ attribute: 0x6400E10001000002
 id: 1000110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want to always be by your side.
-Please go out with me."
+{{255:0 arg="0x0100"}}"Are you a tree? Because you've rooted
+yourself in my thoughts."
 
 
 ---
@@ -4012,8 +4009,8 @@ attribute: 0x6400E10001000002
 id: 1000120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I fell in love with you at first sight.
-Please go out with me."
+{{255:0 arg="0x0100"}}"You must've fallen from heaven,
+because you made a huge dent in this roof."
 
 
 ---
@@ -4027,8 +4024,8 @@ attribute: 0x6400E10001000002
 id: 1000130
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I've always been watching you from
-this seat. Please go out with me."
+{{255:0 arg="0x0100"}}"If beauty were time, you'd be an
+eternity of detention."
 
 
 ---
@@ -4042,7 +4039,7 @@ attribute: 0x6400E10001000002
 id: 1000200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You are even more wonderful than this
+{{255:0 arg="0x0100"}}"You're more wonderful than this
 sparkling ocean. Please go out with me."
 
 
@@ -4191,8 +4188,8 @@ attribute: 0x6400E10001000002
 id: 1000420
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'll do anything you want.
-Please go out with me!"
+{{255:0 arg="0x0100"}}"I'll clean the gutters off your roof even though
+we live in a shared apartment. Please go out with me!"
 
 
 ---
@@ -4206,8 +4203,8 @@ attribute: 0x6400E10001000002
 id: 1000430
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"At lunchtime, I'll always give you
-my pudding. Please go out with me!"
+{{255:0 arg="0x0100"}}"I'll let you cheat off my
+homework. Please go out with me!"
 
 
 ---
@@ -4221,7 +4218,7 @@ attribute: 0x6400E10001000002
 id: 2000000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We've decided to get married."
+{{255:0 arg="0x0100"}}"We're getting married!"
 
 
 ---
@@ -4235,7 +4232,7 @@ attribute: 0x6400E10001000001
 id: 2000050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Yeah."
+{{255:0 arg="0x0100"}}"Thanks."
 
 
 ---
@@ -4249,7 +4246,7 @@ attribute: 0x6400E10001000001
 id: 2000100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We will have a happy life together."
+{{255:0 arg="0x0100"}}"We'll have a happy life together."
 
 
 ---
@@ -5802,4 +5799,5 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+
 
