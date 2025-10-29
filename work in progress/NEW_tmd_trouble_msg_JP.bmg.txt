@@ -4672,7 +4672,7 @@ attribute: 0x6400E10001000002
 id: 6000320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so...? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so? That's a shame..."
 
 
 ---
@@ -4714,8 +4714,8 @@ attribute: 0x6400E10001000001
 id: 6001000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-an extremely good lover."
+{{255:0 arg="0x0100"}}"I absolutely adore {{1:1 arg="0x0000"}}
+as a lover."
 
 
 ---
@@ -4730,7 +4730,7 @@ id: 6001010
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a very good lover."
+a great lover."
 
 
 ---
@@ -4745,7 +4745,7 @@ id: 6001020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a normally good lover."
+a good lover."
 
 
 ---
@@ -4759,7 +4759,7 @@ attribute: 0x6400E10001000002
 id: 6001030
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and
+{{255:0 arg="0x0100"}}"I'm starting to think {{1:1 arg="0x0000"}} and
 I don't get along really well."
 
 
@@ -4774,7 +4774,7 @@ attribute: 0x6400E10001000002
 id: 6001040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and
+{{255:0 arg="0x0100"}}"I'll say it: {{1:1 arg="0x0000"}} and
 I don't get along."
 
 
@@ -4789,8 +4789,8 @@ attribute: 0x6400E10001000002
 id: 6001050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How compatible do you think about
-{{1:1 arg="0x0000"}} and me?"
+{{255:0 arg="0x0100"}}"How compatible am I with
+{{1:1 arg="0x0000"}}?"
 
 
 ---
@@ -4804,14 +4804,14 @@ attribute: 0x6400E10001000002
 id: 6001060
 attribute: 0x6400500001030001
 ---
-Perfect!
+Very!
 
 
 ---
 id: 6001070
 attribute: 0x6400500001030001
 ---
-Normal
+Just fine
 
 
 ---
@@ -4854,7 +4854,7 @@ id: 6001120
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right!?"
+get closer, right?"
 
 
 ---
@@ -4883,7 +4883,7 @@ attribute: 0x6400E10001000002
 id: 6001140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh? Is that what you think?
+{{255:0 arg="0x0100"}}"What? That's what you think?
 I'll keep trying harder."
 
 
@@ -4898,7 +4898,7 @@ attribute: 0x6400E10001000002
 id: 6001200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Normal...? That's a bit disappointing."
+{{255:0 arg="0x0100"}}"'Just fine?' That's a bit disappointing."
 
 
 ---
@@ -4926,7 +4926,7 @@ attribute: 0x6400E10001000002
 id: 6001220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You agreed with me, right?"
+{{255:0 arg="0x0100"}}"I knew it!"
 
 
 ---
@@ -4955,8 +4955,8 @@ attribute: 0x6400E10001000002
 id: 6001240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship might
-not be as good as you think."
+{{255:0 arg="0x0100"}}"I see. We might be a better match
+than I thought we were."
 
 
 ---
@@ -4970,7 +4970,7 @@ attribute: 0x6400E10001000002
 id: 6001300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh!? Is that so...? I see..."
+{{255:0 arg="0x0100"}}"What?! Is that so? I see..."
 
 
 ---
@@ -4984,8 +4984,8 @@ attribute: 0x6400E10001000002
 id: 6001310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But, I think we're getting
-along well..."
+{{255:0 arg="0x0100"}}"But I thought we're getting
+along fine..."
 
 
 ---
@@ -4999,7 +4999,7 @@ attribute: 0x6400E10001000002
 id: 6001320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so...? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so? Too bad..."
 
 
 ---
@@ -5042,7 +5042,7 @@ id: 6002000
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-such a wonderful best friend."
+a wonderful best friend."
 
 
 ---
@@ -5057,7 +5057,7 @@ id: 6002010
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a very nice best friend."
+a great best friend."
 
 
 ---
@@ -5072,7 +5072,7 @@ id: 6002020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a normally good friend."
+a normally good best friend."
 
 
 ---
@@ -5101,8 +5101,8 @@ attribute: 0x6400E10001000002
 id: 6002040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and
-I don't get along."
+{{255:0 arg="0x0100"}}"I don't know why {{1:1 arg="0x0000"}} and
+I are best friends."
 
 
 ---
@@ -5116,8 +5116,8 @@ attribute: 0x6400E10001000002
 id: 6002050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How compatible do you think about
-{{1:1 arg="0x0000"}} and me?"
+{{255:0 arg="0x0100"}}"What do you think about me and
+{{1:1 arg="0x0000"}}?"
 
 
 ---
@@ -5131,21 +5131,21 @@ attribute: 0x6400E10001000002
 id: 6002060
 attribute: 0x6400500001030001
 ---
-Perfect!
+Wonderful!
 
 
 ---
 id: 6002070
 attribute: 0x6400500001030001
 ---
-Normal
+Average
 
 
 ---
 id: 6002080
 attribute: 0x6400500001030001
 ---
-Not at all
+Terrible
 
 
 ---
@@ -5181,7 +5181,7 @@ id: 6002120
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right!?"
+get closer, right?"
 
 
 ---
@@ -5196,7 +5196,7 @@ id: 6002130
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Really? I'll try harder to
-make it work out for us."
+stay with them."
 
 
 ---
@@ -5210,8 +5210,8 @@ attribute: 0x6400E10001000002
 id: 6002140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh? Is that what you think?
-I'll keep trying harder."
+{{255:0 arg="0x0100"}}"That's what you think?
+Guess I'll keep trying."
 
 
 ---
@@ -5225,7 +5225,7 @@ attribute: 0x6400E10001000002
 id: 6002200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Normal...? That's a bit disappointing."
+{{255:0 arg="0x0100"}}"Average? That's a bit disappointing."
 
 
 ---
@@ -5253,7 +5253,7 @@ attribute: 0x6400E10001000002
 id: 6002220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You agreed with me, right?"
+{{255:0 arg="0x0100"}}"I knew it!"
 
 
 ---
@@ -5282,8 +5282,8 @@ attribute: 0x6400E10001000002
 id: 6002240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship might
-not be as good as you think."
+{{255:0 arg="0x0100"}}"Is that so? I guess our
+relationship's a bit complicated then."
 
 
 ---
@@ -5297,7 +5297,7 @@ attribute: 0x6400E10001000002
 id: 6002300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh!? Is that so...? I see..."
+{{255:0 arg="0x0100"}}"Oh. I see..."
 
 
 ---
@@ -5311,8 +5311,8 @@ attribute: 0x6400E10001000002
 id: 6002310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But, I think we're getting
-along well..."
+{{255:0 arg="0x0100"}}"I thought we were getting alone
+well..."
 
 
 ---
@@ -5326,7 +5326,7 @@ attribute: 0x6400E10001000002
 id: 6002320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so...? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so? Too bad..."
 
 
 ---
@@ -5399,7 +5399,7 @@ id: 6003020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a normal friend."
+a very average friend."
 
 
 ---
@@ -5443,8 +5443,8 @@ attribute: 0x6400E10001000002
 id: 6003050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How compatible do you think about
-{{1:1 arg="0x0000"}} and me?"
+{{255:0 arg="0x0100"}}"What do you think about me and
+{{1:1 arg="0x0000"}}?"
 
 
 ---
@@ -5458,21 +5458,21 @@ attribute: 0x6400E10001000002
 id: 6003060
 attribute: 0x6400500001030001
 ---
-Perfect!
+Wonderful!
 
 
 ---
 id: 6003070
 attribute: 0x6400500001030001
 ---
-Normal
+Eh
 
 
 ---
 id: 6003080
 attribute: 0x6400500001030001
 ---
-Not at all
+Bad
 
 
 ---
@@ -5580,7 +5580,7 @@ attribute: 0x6400E10001000002
 id: 6003220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You agreed with me, right?"
+{{255:0 arg="0x0100"}}"I knew it!"
 
 
 ---
@@ -5798,6 +5798,7 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+
 
 
 
