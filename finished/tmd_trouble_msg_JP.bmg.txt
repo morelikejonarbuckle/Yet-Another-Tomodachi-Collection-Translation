@@ -4825,7 +4825,7 @@ Not at all
 id: 6001100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! That must be so!"
+{{255:0 arg="0x0100"}}"Yeah! That must be it!"
 
 
 ---
@@ -5152,7 +5152,7 @@ Terrible
 id: 6002100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! That must be so!"
+{{255:0 arg="0x0100"}}"Yeah! That must be it!"
 
 
 ---
@@ -5479,7 +5479,7 @@ Bad
 id: 6003100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! That must be so!"
+{{255:0 arg="0x0100"}}"Yeah! That must be it!"
 
 
 ---
@@ -5508,7 +5508,7 @@ id: 6003120
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right!?"
+get closer, right?"
 
 
 ---
@@ -5537,8 +5537,8 @@ attribute: 0x6400E10001000002
 id: 6003140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh? Is that what you think?
-I'll keep trying harder."
+{{255:0 arg="0x0100"}}"Really? That's what you think?
+I'll keep trying harder then."
 
 
 ---
@@ -5552,7 +5552,7 @@ attribute: 0x6400E10001000002
 id: 6003200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Normal...? That's a bit disappointing."
+{{255:0 arg="0x0100"}}"'Eh?' That's a bit disappointing."
 
 
 ---
@@ -5624,7 +5624,7 @@ attribute: 0x6400E10001000002
 id: 6003300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Eh!? Is that so...? I see..."
+{{255:0 arg="0x0100"}}"Oh. I see..."
 
 
 ---
@@ -5638,7 +5638,7 @@ attribute: 0x6400E10001000002
 id: 6003310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But, I think we're getting
+{{255:0 arg="0x0100"}}"But I thought we're getting
 along well..."
 
 
@@ -5653,7 +5653,7 @@ attribute: 0x6400E10001000002
 id: 6003320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so...? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so? Too bad..."
 
 
 ---
@@ -5695,7 +5695,7 @@ attribute: 0x6400E10001000001
 id: 6004000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I don't know anything much about
+{{255:0 arg="0x0100"}}"I don't know much about
 {{1:1 arg="0x0000"}}."
 
 
@@ -5710,8 +5710,8 @@ attribute: 0x6400E10001000002
 id: 6004010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How compatible do you think about
-{{1:1 arg="0x0000"}} and me?"
+{{255:0 arg="0x0100"}}"How compatible do you think I am
+with {{1:1 arg="0x0000"}}?"
 
 
 ---
@@ -5725,7 +5725,7 @@ attribute: 0x6400E10001000002
 id: 6004060
 attribute: 0x6400500001030001
 ---
-Perfect!
+Very!
 
 
 ---
@@ -5739,14 +5739,14 @@ Normal
 id: 6004080
 attribute: 0x6400500001030001
 ---
-Not at all
+Terrible
 
 
 ---
 id: 6004100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really!? Now I think we might
+{{255:0 arg="0x0100"}}"Really? Now I think we might
 be able to get along."
 
 
@@ -5775,7 +5775,7 @@ attribute: 0x6400E10001000002
 id: 6004120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so...? That's disappointing."
+{{255:0 arg="0x0100"}}"Really? That's a bit disappointing."
 
 
 ---
@@ -5789,7 +5789,7 @@ attribute: 0x6400E10001000002
 id: 6005000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I got something I needed your help with,
+{{255:0 arg="0x0100"}}"I got something I need your help with,
 but I already forgot what it was."
 
 
@@ -5798,6 +5798,7 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+
 
 
 
