@@ -110,8 +110,8 @@ attribute: 0x6400E10001000001
 id: 60
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I look
-quiet, but I have a hidden passionate soul."
+{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I seem quiet,
+but I have a burning spirit."
 
 
 ---
@@ -143,7 +143,7 @@ id: 80
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I'm
-ambitious but I'm quite clumsy."
+ambitious, but I'm quite clumsy."
 
 
 ---
@@ -2063,8 +2063,8 @@ attribute: 0x6400E10001000001
 id: 200280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}?
-That'll make me mad. Ain't that surprising?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}
+made me mad. Ain't that surprising?"
 
 
 ---
@@ -2591,7 +2591,7 @@ attribute: 0x6400E10001000001
 id: 300140
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Even though I have a lover, I still care
+{{255:0 arg="0x0100"}}"Even if I have a lover, I'd still care
 for my friends."
 
 
@@ -2622,7 +2622,7 @@ id: 300160
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} is the
-coolest person on this island."
+coolest guy on this island."
 
 
 ---
@@ -3130,7 +3130,7 @@ attribute: 0x6400E10001000001
 id: 300500
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you think {{1:31 arg='0x0000'}}
+{{255:0 arg="0x0100"}}"Do you think {{1:31 arg="0x0000"}}
 would make a good leader for this island?"
 
 
@@ -7661,6 +7661,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
