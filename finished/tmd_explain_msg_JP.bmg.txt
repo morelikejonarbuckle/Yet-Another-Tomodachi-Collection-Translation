@@ -1281,7 +1281,7 @@ id: 158
 attribute: 0x6400A00001030002
 ---
 There's a snowy scene inside
-the glass. It's romantic!
+the glass. How romantic!
 
 
 ---
@@ -1689,8 +1689,8 @@ a part-time job. Time to work!
 id: 209
 attribute: 0x6400A00001030002
 ---
-Some games use the mic on
-the second controller.
+Not used for much computing.
+But it sure is fun!
 
 
 ---
@@ -2325,7 +2325,7 @@ a coordinated look.
 id: 1034
 attribute: 0x6400A00001030002
 ---
-It's a green cardigan, I don't
+It's a green cardigan. I don't
 know what else to say.
 
 
@@ -3801,7 +3801,7 @@ id: 1219
 attribute: 0x6400A00001030002
 ---
 It sets itself apart from your
-ordinary collared shirt
+ordinary collared shirt. Somehow.
 
 
 ---
@@ -4128,7 +4128,7 @@ id: 1260
 attribute: 0x6400A00001030002
 ---
 A funny suit with a unitail. Needs
-antennas pointing from the head.[a]
+antennas pointing from the head.
 
 
 ---
@@ -5100,4 +5100,4 @@ A resident needs to be
 level 30 or higher to buy.
 
 
-[a]The germ suit looks like a black devil without the horns, instead using ladybug antennae in its place
+---
