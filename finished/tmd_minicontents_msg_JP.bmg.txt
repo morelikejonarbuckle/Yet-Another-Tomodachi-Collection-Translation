@@ -667,7 +667,7 @@ dear {{1:1 arg="0x0000"}}♪"
 id: 200100
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Occupied !"
+{{255:0 arg="0x0100"}}"Occupied!"
 
 
 ---
@@ -779,7 +779,7 @@ attribute: 0x6400E10001030001
 id: 201014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"So this is the loophole!"
+{{255:0 arg="0x0100"}}"Anyone up for {{1:1 arg="0x0000"}}?"
 
 
 ---
@@ -905,7 +905,7 @@ attribute: 0x6400E10001030001
 id: 201032
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I didn't lock the door."
+{{255:0 arg="0x0100"}}"I DIDN'T LOCK THE DOOR!"
 
 
 ---
@@ -989,7 +989,7 @@ attribute: 0x6400E10001030001
 id: 201044
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No mischef allowed."
+{{255:0 arg="0x0100"}}"No mischief allowed."
 
 
 ---
@@ -1031,7 +1031,8 @@ attribute: 0x6400E10001030001
 id: 201050
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Please wait a little bit."
+{{255:0 arg="0x0100"}}"Not that way! You can't go 
+over there. There's been a blackout."
 
 
 ---
@@ -1115,7 +1116,8 @@ attribute: 0x6400E10001030001
 id: 202004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hurry up, hurry up!"
+{{255:0 arg="0x0100"}}Toilet services are exclusive
+to Tomodachi Collection+ subscribers.
 
 
 ---
@@ -1269,7 +1271,7 @@ attribute: 0x6400E10001030001
 id: 401002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"{{1:10 arg="0x0000"}} Fist!"」
+{{255:0 arg="0x0100"}}"{{1:10 arg="0x0000"}} Fist!"
 
 
 ---
@@ -14660,4 +14662,5 @@ attribute: 0x6400E10001030002
 ---
 
 ナオ_キリガナイノデ_カンシャジョーヲオクルノワコンカイガサイゴトシマス
+
 
