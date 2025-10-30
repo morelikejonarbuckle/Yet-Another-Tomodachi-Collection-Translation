@@ -7752,13 +7752,13 @@ id: 1041000
 attribute: 0x6400C00001010008
 ---
 {{255:0 arg="0x0100"}}AM  6:30-11:30  Morning Market
-PM   12:00-1:00   Street Live
+PM  12:00-1:00 Street Live
     3:00-4:00 English Lesson 1
     7:00-8:00 English Lesson 2
-    9:00-11:00  Street Live
+    9:00-11:00 Street Live
 ※Events might be canceled
-if not many people are
-participated.
+only if few people
+participate.
 
 
 ---
@@ -14662,5 +14662,6 @@ attribute: 0x6400E10001030002
 ---
 
 ナオ_キリガナイノデ_カンシャジョーヲオクルノワコンカイガサイゴトシマス
+
 
 
