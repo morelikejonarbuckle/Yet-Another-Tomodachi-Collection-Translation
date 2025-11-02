@@ -3995,8 +3995,8 @@ attribute: 0x6400E10001000001
 id: 300770
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"When I woke up this morning, the
-sky outside was still dark."
+{{255:0 arg="0x0100"}}"I can’t believe it’s still
+dark outside when I wake up!"
 
 
 ---
@@ -4010,7 +4010,8 @@ attribute: 0x6400E10001000001
 id: 300780
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think February is the coldest month."
+{{255:0 arg="0x0100"}}"February has to be the coldest
+month ever. It’s freezing!"
 
 
 ---
@@ -4025,7 +4026,7 @@ id: 300790
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I saw some horsetails earlier.
-Spring is around the corner."
+I suppose Spring's starting to begin."
 
 
 ---
@@ -4039,8 +4040,8 @@ attribute: 0x6400E10001000001
 id: 300800
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It feels good to read a book
-when it's raining outside."
+{{255:0 arg="0x0100"}}"It feels good to get cozy reading
+a book when it's raining outside."
 
 
 ---
@@ -4054,8 +4055,8 @@ attribute: 0x6400E10001000001
 id: 300810
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I can hear cicadas.
-Summer is coming soon."
+{{255:0 arg="0x0100"}}"You know summer’s started
+when there’s cicadas screaming in your ears."
 
 
 ---
@@ -4069,8 +4070,8 @@ attribute: 0x6400E10001000001
 id: 300820
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Another month has passed.
-It's fast."
+{{255:0 arg="0x0100"}}"Another month's gonna end.
+That was fast."
 
 
 ---
@@ -4113,8 +4114,8 @@ attribute: 0x6400E10001000001
 id: 300850
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I should
-divide our salary... Ah, nothing..."
+{{255:0 arg="0x0100"}}"I want my salary to be divided between
+{{1:31 arg="0x0000"}} and I… Oh, nevermind."
 
 
 ---
@@ -4142,8 +4143,8 @@ attribute: 0x6400E10001000001
 id: 300870
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is April Fools Day. I've heard
-Steve Jobs died of Ligma."
+{{255:0 arg="0x0100"}}"Today is April Fools Day. Have you
+heard about that Ligma thing?"
 
 
 ---
@@ -4157,8 +4158,8 @@ attribute: 0x6400E10001000001
 id: 300880
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's good to gaze at the sky every
-once in a while."
+{{255:0 arg="0x0100"}}"It’s nice to take a moment
+to gaze up at the stars, right?"
 
 
 ---
@@ -4172,8 +4173,8 @@ attribute: 0x6400E10001000001
 id: 300890
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I believe I must work hard to get
-what I dream of."
+{{255:0 arg="0x0100"}}"I believe wishes can come true
+if you work hard enough."
 
 
 ---
@@ -4187,8 +4188,8 @@ attribute: 0x6400E10001000001
 id: 300900
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Have you finished your homework or
-are you going to work on it after this?"
+{{255:0 arg="0x0100"}}"Have you finished your work yet?
+Or have you planned to start it yet?"
 
 
 ---
@@ -4217,7 +4218,7 @@ id: 300920
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm going on a date with
-{{1:31 arg="0x0000"}} this Sunday."
+{{1:31 arg="0x0000"}} this Sunday!"
 
 
 ---
@@ -4232,7 +4233,7 @@ id: 300930
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I'm going on a date with
-{{1:31 arg="0x0000"}} this Sunday."
+{{1:31 arg="0x0000"}} this Sunday!"
 
 
 ---
@@ -4246,8 +4247,8 @@ attribute: 0x6400E10001000001
 id: 300940
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"If I sleep until late on my day-off,
-I feel like I've wasted my time."
+{{255:0 arg="0x0100"}}"When I sleep in on a day off,
+I feel like I’ve missed out on something."
 
 
 ---
@@ -4261,8 +4262,8 @@ attribute: 0x6400E10001000001
 id: 300950
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Instead of Saturday, I want Wednesday
-to be my day-off."
+{{255:0 arg="0x0100"}}"I wish Sunday and Wednesday would be
+my days off instead of the weekend."
 
 
 ---
@@ -4290,7 +4291,8 @@ attribute: 0x6400E10001000001
 id: 300970
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I feel so excited when it's Friday."
+{{255:0 arg="0x0100"}}"Yay, it’s Friday! Looking forward
+to this evening, it’s sure to be exciting."
 
 
 ---
@@ -4304,8 +4306,8 @@ attribute: 0x6400E10001000001
 id: 300980
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Tomorrow is your day-off, right?
-Will you stay up until late?"
+{{255:0 arg="0x0100"}}"Are you staying up late 
+since tomorrow’s a day off?"
 
 
 ---
@@ -4320,7 +4322,7 @@ id: 300990
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm thinking about going to watch
-the street live this evening."
+the fountain musicians this evening."
 
 
 ---
@@ -4334,7 +4336,7 @@ attribute: 0x6400E10001000001
 id: 301000
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Today is another productive day for me."
+{{255:0 arg="0x0100"}}"Today's another fulfilling day for me."
 
 
 ---
@@ -4349,7 +4351,7 @@ id: 301010
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Is {{1:31 arg="0x0000"}}'s lookalike
-a nocturnal person?"
+a night owl?"
 
 
 ---
@@ -4363,8 +4365,8 @@ attribute: 0x6400E10001000001
 id: 301020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Between having money but no time and
-having time but no money, which is better?"
+{{255:0 arg="0x0100"}}"Which is better: Having infnite money but
+no time or having infinite time but no money?"
 
 
 ---
@@ -4393,8 +4395,8 @@ attribute: 0x6400E10001000001
 id: 301040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Are there things that you think it's better
-that I don't know them?"
+{{255:0 arg="0x0100"}}"Do you have things about you that people
+shouldn’t know for the better?"
 
 
 ---
@@ -4408,8 +4410,8 @@ attribute: 0x6400E10001000001
 id: 301050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Between being too busy and having too
-much free time, which one do you prefer?"
+{{255:0 arg="0x0100"}}"Which is better: Being too busy or
+having too much free time?"
 
 
 ---
@@ -4424,7 +4426,7 @@ id: 301060
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-do you have a dream for your future?"
+do you have any hopes or dreams for the future?"
 
 
 ---
@@ -4438,8 +4440,8 @@ attribute: 0x6400E10001000001
 id: 301070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Between a dramatic life and mediocre life,
-which one do you prefer?"
+{{255:0 arg="0x0100"}}"What do you prefer: A dull life
+or a dramatic life?"
 
 
 ---
@@ -4453,8 +4455,8 @@ attribute: 0x6400E10001000001
 id: 301080
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Getting married or being single,
-which one would bring happiness?"
+{{255:0 arg="0x0100"}}"What do you think would bring happiness:
+Being married or staying single?"
 
 
 ---
@@ -4469,7 +4471,7 @@ id: 301090
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I feel like there hasn't been
-any new resident lately..."
+any new residents moving in… Is it just my imagination?"
 
 
 ---
@@ -4483,7 +4485,7 @@ attribute: 0x6400E10001000001
 id: 301100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I've seen some mysterious dreams lately..."
+{{255:0 arg="0x0100"}}"I've had some strange dreams lately..."
 
 
 ---
@@ -4497,8 +4499,8 @@ attribute: 0x6400E10001000001
 id: 301110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I saw a pretty weird dream but I forgot
-what it was..."
+{{255:0 arg="0x0100"}}"I saw a mysterious dream, but I already
+forgot what it was."
 
 
 ---
@@ -4512,8 +4514,8 @@ attribute: 0x6400E10001000001
 id: 301120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want to escape from this island
-to live on a different island."
+{{255:0 arg="0x0100"}}"Someday, I want to go to another
+island. Who knows what’d happen over there?"
 
 
 ---
@@ -4542,7 +4544,7 @@ attribute: 0x6400E10001000001
 id: 301140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How is my alter ego in the
+{{255:0 arg="0x0100"}}"How’s my lookalike in the
 real world doing?"
 
 
@@ -4557,8 +4559,8 @@ attribute: 0x6400E10001000001
 id: 301150
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Sometimes I wonder how my alter ego
-in your world is doing."
+{{255:0 arg="0x0100"}}"Sometimes, I wonder about {{1:31 arg="0x0000"}}'s
+lookalike."
 
 
 ---
@@ -4573,7 +4575,7 @@ id: 301160
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do you know how big the rooms
-we live in are?"
+we live in?"
 
 
 ---
@@ -4588,7 +4590,7 @@ id: 301170
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
-But I must watch out for the phone bill..."
+But you have to keep in mind your phone bill…"
 
 
 ---
@@ -4602,8 +4604,8 @@ attribute: 0x6400E10001000002
 id: 301180
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I only talk about important things on the
-phone and then hang up immediately."
+{{255:0 arg="0x0100"}}"When I use the phone, I only talk about
+important stuff. I don’t have many long conversations…"
 
 
 ---
@@ -4617,7 +4619,7 @@ attribute: 0x6400E10001000002
 id: 301190
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When I play game, it's easy to
+{{255:0 arg="0x0100"}}"When I play games, it's easy to
 lose track of time."
 
 
@@ -4633,7 +4635,7 @@ id: 301200
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I regularly use the study set you gave me.
-It is nice."
+I'm slowly warming up to it."
 
 
 ---
@@ -4647,8 +4649,8 @@ attribute: 0x6400E10001000002
 id: 301210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I feel like I should keep studying
-to raise my status."
+{{255:0 arg="0x0100"}}"Every time I study,
+I feel like I’m leveling up."
 
 
 ---
@@ -4662,7 +4664,7 @@ attribute: 0x6400E10001000002
 id: 301220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I have to try not to use the notebook
+{{255:0 arg="0x0100"}}"I have to try not to use my laptop
 too much."
 
 
@@ -4677,8 +4679,8 @@ attribute: 0x6400E10001000002
 id: 301230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When you peek in a room from outside,
-you can use D-pad to change view angles."
+{{255:0 arg="0x0100"}}"You can use the D-pad to view our
+rooms from different angles."
 
 
 ---
@@ -4692,8 +4694,8 @@ attribute: 0x6400E10001000002
 id: 301240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When you view Friend List, press any button
-to let us speak the phrase you assigned."
+{{255:0 arg="0x0100"}}"When viewing the list of residents, press
+the A button to view the catchphrase you have assigned to us."
 
 
 ---
@@ -4707,8 +4709,8 @@ attribute: 0x6400E10001000002
 id: 301250
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"There's a bulletin board near the
-apartment entrance. Check it out."
+{{255:0 arg="0x0100"}}"Touch the sign near the entrance
+to the apartment building to see all kinds of information."
 
 
 ---
@@ -4722,8 +4724,8 @@ attribute: 0x6400E10001000002
 id: 301260
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When you've entered someone's full
-profile, you'll see a star icon."
+{{255:0 arg="0x0100"}}"If you fill out a Mii’s entire profile,
+they’ll get a star in the list of residents."
 
 
 ---
@@ -4737,7 +4739,8 @@ attribute: 0x6400E10001000002
 id: 301270
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You can slide across an item list to scroll."
+{{255:0 arg="0x0100"}}"You can scroll across a list by
+touching and sliding with your stylus."
 
 
 ---
@@ -4779,7 +4782,7 @@ attribute: 0x6400E10001000002
 id: 301300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Please drop by often."
+{{255:0 arg="0x0100"}}"Please come visit me more often."
 
 
 ---
@@ -4793,7 +4796,7 @@ attribute: 0x6400E10001000002
 id: 301310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Please drop by often."
+{{255:0 arg="0x0100"}}"Can you visit me more often?"
 
 
 ---
@@ -4835,7 +4838,7 @@ attribute: 0x6400E10001000002
 id: 301340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Please drop by often."
+{{255:0 arg="0x0100"}}"Can you visit me later?"
 
 
 ---
@@ -4863,7 +4866,7 @@ attribute: 0x6400E10001000002
 id: 400010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is my birthday!"
+{{255:0 arg="0x0100"}}"Today is my birthday, you know!"
 
 
 ---
@@ -4877,8 +4880,8 @@ attribute: 0x6400E10001000002
 id: 400020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is my birthday. Will you
-celebrate it with me?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}’s celerating their
+birthday today. Yippee!"
 
 
 ---
@@ -4907,8 +4910,8 @@ attribute: 0x6400E10001000002
 id: 400040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is a special day. Do you
-know what day it is?"
+{{255:0 arg="0x0100"}}"Do you know whose birthday
+it is today? Guess, Guess!"
 
 
 ---
@@ -4922,7 +4925,7 @@ attribute: 0x6400E10001000002
 id: 400050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I've grown up another year older."
+{{255:0 arg="0x0100"}}"I've grown one year older."
 
 
 ---
@@ -4936,7 +4939,7 @@ attribute: 0x6400E10001000002
 id: 500000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"When is my birthday?"
+{{255:0 arg="0x0100"}}"When is {{1:31 arg="0x0000"}}’s birthday?"
 
 
 ---
@@ -4950,7 +4953,7 @@ attribute: 0x6400E10001000002
 id: 500010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I want to know my own birthday."
+{{255:0 arg="0x0100"}}"I want to know {{1:31 arg="0x0000"}}’s birthday."
 
 
 ---
@@ -4964,7 +4967,7 @@ attribute: 0x6400E10001000002
 id: 500020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you know when my birthday is?"
+{{255:0 arg="0x0100"}}"Do you know when {{1:31 arg="0x0000"}}’s birthday is?"
 
 
 ---
@@ -4979,7 +4982,7 @@ id: 500030
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I don't know my own birthday.
-I feel uneasy."
+It feels unsettling."
 
 
 ---
@@ -4993,8 +4996,8 @@ attribute: 0x6400E10001000002
 id: 500040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you know my alter ego in your
-world's birthday?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}’s lookalike knows
+their own birthdate, don’t they?"
 
 
 ---
@@ -5009,7 +5012,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-I don't know mine..."
+{{1:31 arg="0x0000"}} doesn’t know their own…"
 
 
 ---
@@ -5023,8 +5026,8 @@ attribute: 0x6400E10001000002
 id: 500060
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Does my alter ego in your world
-have a birthday?"
+{{255:0 arg="0x0100"}}"Could you ask {{1:31 arg="0x0000"}}’s lookalike
+for their date of birth?"
 
 
 ---
@@ -5038,8 +5041,8 @@ attribute: 0x6400E10001000002
 id: 500070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you know my alter ego in your
-world's birthday?"
+{{255:0 arg="0x0100"}}"Does {{1:31 arg="0x0000"}}’s lookalike
+know their own birthday?"
 
 
 ---
@@ -5053,7 +5056,8 @@ attribute: 0x6400E10001000002
 id: 500080
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How come you don't know my birthday?"
+{{255:0 arg="0x0100"}}"Why can’t you tell me
+{{1:31 arg="0x0000"}}’s birthday?"
 
 
 ---
@@ -5081,8 +5085,8 @@ attribute: 0x6400E10001000002
 id: 500100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I don't know my own birthday.
-I can't feel at ease."
+{{255:0 arg="0x0100"}}"Not knowing my own birthdate makes me
+feel uneasy."
 
 
 ---
@@ -5091,4 +5095,5 @@ attribute: 0x6400E10001000002
 ---
 
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
