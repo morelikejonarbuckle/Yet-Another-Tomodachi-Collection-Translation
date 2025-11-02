@@ -15,7 +15,7 @@ hasFLW1: false
 id: 0
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Earlier, I found a bug."
+{{255:0 arg="0x0100"}}"Earlier, I found a bug. It looked fine, so I left it alone."
 
 
 ---
@@ -577,7 +577,7 @@ attribute: 0x6400E10001000001
 id: 100040
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Welcome, my alter ego!"
+{{255:0 arg="0x0100"}}"Welcome, my lookalike!"
 
 
 ---
@@ -4413,7 +4413,7 @@ attribute: 0x6400E10001000002
 id: 301880
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How is my alter ego in the
+{{255:0 arg="0x0100"}}"How is my lookalike in the
 real world doing?"
 
 
@@ -4428,7 +4428,7 @@ attribute: 0x6400E10001000002
 id: 301890
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Sometimes I wonder how my alter ego
+{{255:0 arg="0x0100"}}"Sometimes I wonder how my lookalike
 in your world is doing."
 
 
@@ -5026,7 +5026,7 @@ attribute: 0x6400E10001000002
 id: 500040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you know my alter ego in your
+{{255:0 arg="0x0100"}}"Do you know my lookalike in your
 world's birthday?"
 
 
@@ -5056,7 +5056,7 @@ attribute: 0x6400E10001000002
 id: 500060
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Does my alter ego in your world
+{{255:0 arg="0x0100"}}"Does my lookalike in your world
 have a birthday?"
 
 
@@ -5071,7 +5071,7 @@ attribute: 0x6400E10001000002
 id: 500070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Do you know my alter ego in your
+{{255:0 arg="0x0100"}}"Do you know my lookalike in your
 world's birthday?"
 
 
@@ -5122,4 +5122,5 @@ I can't feel at ease."
 id: 500101
 attribute: 0x6400E10001000002
 ---
+
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
