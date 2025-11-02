@@ -5868,7 +5868,7 @@ attribute: 0x6400E10001000001
 id: 302340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Another month has passed.
+{{255:0 arg="0x0100"}}"Another month's gonna end.
 That was fast."
 
 
@@ -7661,6 +7661,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
