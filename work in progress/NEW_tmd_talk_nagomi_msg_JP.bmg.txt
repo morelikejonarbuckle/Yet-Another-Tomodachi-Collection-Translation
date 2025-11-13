@@ -2636,7 +2636,8 @@ attribute: 0x6400E10001000001
 id: 300650
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm secretly trying to improve my life."
+{{255:0 arg="0x0100"}}"I'm secretly practicing for a live
+performance."
 
 
 ---
@@ -2650,7 +2651,8 @@ attribute: 0x6400E10001000001
 id: 300660
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"People say that I'm quiet."
+{{255:0 arg="0x0100"}}"People say that I'm easy
+to get along with."
 
 
 ---
@@ -2664,7 +2666,8 @@ attribute: 0x6400E10001000001
 id: 300670
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm pretty gullible."
+{{255:0 arg="0x0100"}}"Others say I believe anything
+they say."
 
 
 ---
@@ -2678,8 +2681,8 @@ attribute: 0x6400E10001000001
 id: 300680
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I usually cry out loud when I watch
-sad movies..."
+{{255:0 arg="0x0100"}}"I usually cry waterfalls at
+movies..."
 
 
 ---
@@ -2693,7 +2696,8 @@ attribute: 0x6400E10001000001
 id: 300690
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I hate insincere people."
+{{255:0 arg="0x0100"}}"I hate people who always
+talk but never take any actions."
 
 
 ---
@@ -2721,7 +2725,7 @@ attribute: 0x6400E10001000001
 id: 300710
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My personality is quite unique, right?"
+{{255:0 arg="0x0100"}}"My personality is really {{1:31 arg="0x0000"}}, right?"
 
 
 ---
@@ -5151,3 +5155,4 @@ attribute: 0x6400E10001000002
 ---
 
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
