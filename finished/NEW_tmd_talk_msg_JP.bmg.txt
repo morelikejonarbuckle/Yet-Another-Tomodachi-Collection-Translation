@@ -5156,8 +5156,7 @@ attribute: 0x6400E10001000001
 id: 301860
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm excited to see how today will
-be!"
+{{255:0 arg="0x0100"}}"I'm excited to see how today will be!"
 
 
 ---
@@ -7662,6 +7661,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
