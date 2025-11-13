@@ -1083,7 +1083,7 @@ attribute: 0x6400E10001000001
 id: 100300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike!
+{{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
 It's been 2 months since we last met, no?"
 
 
@@ -5160,6 +5160,7 @@ id: 500101
 attribute: 0x6400E10001000002
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
