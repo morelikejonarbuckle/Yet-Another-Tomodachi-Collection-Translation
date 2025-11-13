@@ -4323,7 +4323,8 @@ attribute: 0x6400E10001000001
 id: 301300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm pretty gullible."
+{{255:0 arg="0x0100"}}"Others say I believe anything
+they say."
 
 
 ---
@@ -7661,6 +7662,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
