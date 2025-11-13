@@ -4638,7 +4638,7 @@ id: 301510
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I wish everyone on this island
-were friendly to one another and would live in harmony."
+were friendly to one another, in harmony."
 
 
 ---
@@ -7662,6 +7662,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
