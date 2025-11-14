@@ -5405,7 +5405,7 @@ id: 302030
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"The scent of osmanthus
-is in the air. Smells neat."
+is in the air smells neat!"
 
 
 ---
@@ -5539,7 +5539,7 @@ id: 302120
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I can’t believe it’s still
-dark outside when I wake up!"
+dark outside when I woke up!"
 
 
 ---
@@ -7661,6 +7661,7 @@ id: 500101
 attribute: 0x6400E10001000001
 ---
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
