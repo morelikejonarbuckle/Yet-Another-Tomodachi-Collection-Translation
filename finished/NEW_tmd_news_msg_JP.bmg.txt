@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -5003,7 +5003,7 @@ attribute: 0x6400E10001000002
 id: 1360040
 attribute: 0x6400E10001000002
 ---
-They were reportedly knocked off their feet![a]
+They were reportedly knocked off their feet!
 
 
 ---
@@ -5032,7 +5032,7 @@ attribute: 0x6400E10001000002
 id: 1360060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} said.[b]
+{{1:30 arg="0x0100"}} said.
 
 
 ---
@@ -5391,7 +5391,7 @@ attribute: 0x6400E10001000002
 id: 1381050
 attribute: 0x6400E10001000002
 ---
-"I’m inside your walls!"[c]
+"I’m inside your walls!"
 
 
 ---
@@ -6365,7 +6365,7 @@ attribute: 0x6400E10001000002
 id: 1461030
 attribute: 0x6400E10001000002
 ---
-"Come visit my island!"[d]
+"Come visit my island!"
 
 
 ---
@@ -6596,7 +6596,7 @@ attribute: 0x6400E10001000002
 id: 1481050
 attribute: 0x6400E10001000002
 ---
-hack a random 3ds[e]
+hack a random 3ds
 
 
 ---
@@ -9107,7 +9107,7 @@ id: 1690040
 attribute: 0x6400E10001000002
 ---
 Strange rumors began to spread, such as "It’ll make you smarter"
-or "it improves your financial luck," due to its popularity.[f]
+or "it improves your financial luck," due to its popularity.
 
 
 ---
@@ -9122,7 +9122,7 @@ id: 1690050
 attribute: 0x6400E10001000002
 ---
 People started freely rearranging exercise 
-into a hip-hop style, trying to find a partner in love.[g]
+into a hip-hop style, trying to find a partner in love.
 
 
 ---
@@ -9758,7 +9758,7 @@ attribute: 0x6400E10001000002
 id: 1741030
 attribute: 0x6400E10001000002
 ---
-"OBJECTION!!"[h]
+"OBJECTION!!"
 
 
 ---
@@ -11307,7 +11307,7 @@ id: 1890050
 attribute: 0x6400E10001000002
 ---
 After eating a million cans of beans,
-the challenge was beaten.[i]
+the challenge was beaten.
 
 
 ---
@@ -11654,7 +11654,7 @@ attribute: 0x6400E10001000002
 id: 1911030
 attribute: 0x6400E10001000002
 ---
-"I was cooking with kimchi."[j]
+"I was cooking with kimchi."
 
 
 ---
@@ -12700,7 +12700,7 @@ attribute: 0x6400E10001000002
 id: 2000030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}[k]
+{{1:30 arg="0x0300"}}
 
 
 ---
@@ -13458,7 +13458,7 @@ id: 2060030
 attribute: 0x6400E10001000002
 ---
 had stolen  {{1:30 arg="0x0100"}}'s heart.
-What? You thought it was something worse?[l]
+What? You thought it was something worse?
 
 
 ---
@@ -13649,7 +13649,7 @@ attribute: 0x6400E10001000002
 id: 2080000
 attribute: 0x6400800001010101
 ---
-Earthquake Alert!?[m]
+Earthquake Alert!?
 
 
 ---
@@ -15183,7 +15183,7 @@ id: 2230010
 attribute: 0x6400E10001000002
 ---
 This {{1:30 arg="0x0100"}}, at the {{1:30 arg="0x0200"}} World Athletics Championships,
-a high jump competition took place.[n]
+a high jump competition took place.
 
 
 ---
@@ -15567,7 +15567,7 @@ id: 2260040
 attribute: 0x6400E10001000002
 ---
 Given that this content overturns conventional wisdom in neuroscience,
-detailed clarification is eagerly anticipated as soon as possible.[o]
+detailed clarification is eagerly anticipated as soon as possible.
 
 
 ---
@@ -17313,7 +17313,7 @@ id: 2400030
 attribute: 0x6400E10001000002
 ---
 Amazingly, they arranged {{1:30 arg="0x0300"}} ten thousand pieces by by hand,
-and successfully toppled the dominoes without stopping midway.[p]
+and successfully toppled the dominoes without stopping midway.
 
 
 ---
@@ -19214,8 +19214,8 @@ attribute: 0x6400E10001000002
 id: 2600050
 attribute: 0x6400E10001000002
 ---
-We regret to inform you this
-information every time you reset.
+We're sorry we have to inform you 
+this information every time you reset.
 
 
 ---
@@ -20197,16 +20197,6 @@ residents without kicking some out.
 id: 2710061
 attribute: 0x6400E10001000002
 ---
-HOLY MOLY IT’S FINALLY DONE!!!!!!!
-I’ve been stuck in a translation hole for a month
-trying my best to translate every last bit of news.
-I don’t care if it gets cut off and never works, it’s
-finally DONE!
-But then I have to deal with the song section…
-Maybe something will happen when the lyrics
-get romanized. Or not. It looks frustrating to deal
-with.
-I really hope this text doesn’t appear in-game. It’d probably look weird.
 
 
 ---
@@ -20285,23 +20275,4 @@ attribute: 0x6400E10001030002
 ---
  
 
-
-[a]nobody will find this comment except for me
-[b]does this actually show the miis name in-game
-[c]originally "I'm going to go buy some tissues!" but I thought this was funnier
-[d]refrences a village instead of an island
-someone try to explain to me how that would be used and I'll change it back
-[e]this line was changed idk what it used to be
-maybe it was worse?
-[f]probably will get cut off
-[g]ditto
-[h]line changed from "I FAILED THIS TWICE" which didn't make sense to me, if it does to you feel free to explain why
-[i]I thought it would be funny for a fart joke to be the only challenge that worked. Here's the translated original: "{{1:30 arg="0x0100"}}, they gave up."
-[j]It smells horrible. Original: "I put in smelly ingredients when I was cooking."
-[k]this probably looks weird in-game
-[l]a bit of banter that I like
-[m]this one I want to see for myself and post to the meme box
-[n]likely to get cut off
-[o]likely to get cut off
-
-[p]likely to get cut off
+---
