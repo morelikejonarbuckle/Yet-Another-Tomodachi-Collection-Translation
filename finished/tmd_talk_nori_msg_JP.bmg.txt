@@ -3585,8 +3585,8 @@ attribute: 0x6400E10001000001
 id: 301000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's getting cooler!
-I've been waiting all Summer long to feel a nice breeze!"
+{{255:0 arg="0x0100"}}"It's getting cooler! I've been
+waiting all Summer long to feel a nice breeze!"
 
 
 ---
@@ -5119,6 +5119,7 @@ attribute: 0x6400E10001000002
 ---
 
 ジブンノセイネンガッピヲシッテナイト＿ナンダカオチツカナイデス
+
 
 
 
