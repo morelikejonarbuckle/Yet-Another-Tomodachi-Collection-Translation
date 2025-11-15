@@ -2512,7 +2512,7 @@ Collection
 id: 1100106
 attribute: 0x6400500001010101
 ---
-Send/Recieve
+Transfer
 
 
 ---
@@ -3314,4 +3314,5 @@ attribute: 0x6400B40001010007
 ---
 
 Hope you had a backup!
+
 
