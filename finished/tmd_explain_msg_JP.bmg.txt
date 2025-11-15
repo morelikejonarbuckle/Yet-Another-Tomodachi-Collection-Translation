@@ -496,7 +496,7 @@ for a summer night!
 id: 60
 attribute: 0x6400A00001030002
 ---
-These dumplings are best enjoyed
+These dumplings are best had
 at a cherry blossom party.
 
 
@@ -505,7 +505,7 @@ id: 61
 attribute: 0x6400A00001030002
 ---
 This ham & cucumber sandwich
-is one out of many combinations.
+is one out of many types.
 
 
 ---
@@ -536,8 +536,8 @@ Crispy outside, creamy inside.
 id: 65
 attribute: 0x6400A00001030002
 ---
-Freshly steamed dumplings. Try
-it with mustard and soy sauce.
+Freshly steamed dumplings.
+Try with mustard & soy sauce.
 
 
 ---
@@ -560,7 +560,7 @@ Toast until golden-brown.
 id: 68
 attribute: 0x6400A00001030002
 ---
-A fresh, juicy, and sweet taste.
+A fresh, juicy, & sweet taste.
 You'll forget it's a potato!
 
 
@@ -609,7 +609,7 @@ id: 74
 attribute: 0x6400A00001030002
 ---
 The sauce is key to the meal. 
-Also comes with lots of veggies.
+Also has lotsa veggies.
 
 
 ---
@@ -768,8 +768,8 @@ mildly sweet bean paste. Yum!
 id: 94
 attribute: 0x6400A00001030002
 ---
-A healthy food made from soy-
-beans. Very sticky!
+A healthy food made from
+soybeans. Very sticky!
 
 
 ---
@@ -801,7 +801,7 @@ id: 98
 attribute: 0x6400A00001030002
 ---
 Freshly fried with crispy skin.
-The seasoning and meat is GOOD.
+The seasoning & meat is GOOD.
 
 
 ---
@@ -816,8 +816,8 @@ Veggies balance out the meat!
 id: 100
 attribute: 0x6400A00001030002
 ---
-A bunless burger. It even
-comes with some special sauce!
+A bunless burger. It even comes
+with some special sauce!
 
 
 ---
@@ -825,7 +825,7 @@ id: 101
 attribute: 0x6400A00001030002
 ---
 That's actually salami, not
-pepperoni. Fresh from the oven!
+pepperoni. It's piping hot!
 
 
 ---
@@ -904,15 +904,15 @@ chicken with a savory aroma.
 id: 111
 attribute: 0x6400A00001030002
 ---
-The zesty spice is irresistible! 
-Makes you want to keep eating rice.
+The zesty spice is irresistible,
+along with the rice!
 
 
 ---
 id: 112
 attribute: 0x6400A00001030002
 ---
-Once you start, you can't stop!
+A snack you can't put down!
 Perhaps it's the addictive salt.
 
 
@@ -921,7 +921,7 @@ id: 113
 attribute: 0x6400A00001030002
 ---
 These top-class mushrooms
-have a wonderful unique aroma.
+have a wonderful aroma.
 
 
 ---
@@ -976,8 +976,8 @@ juicy, and sweet.
 id: 120
 attribute: 0x6400A00001030002
 ---
-Naturally sweet and tasty,
-this autumn's bounty is fluffy too.
+Naturally sweet, tasty, and
+fluffy for an autumn's bounty.
 
 
 ---
@@ -1872,7 +1872,7 @@ It's a premium pork cutlet.
 id: 232
 attribute: 0x6400A00001030002
 ---
-A southern (Japanese) vegetable
+A southern (Japanese) veggie
 with an addictive bitter taste.
 
 
@@ -1880,8 +1880,8 @@ with an addictive bitter taste.
 id: 233
 attribute: 0x6400A00001030002
 ---
-Drink a cup a day for your health,
-as the taste spreads in your mouth.
+Drink daily for your health,
+as you absorb the flavor.
 
 
 ---
@@ -5101,3 +5101,4 @@ level 30 or higher to buy.
 
 
 ---
+
