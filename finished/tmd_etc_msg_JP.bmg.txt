@@ -1157,8 +1157,6 @@ find a brand-new talent!
 id: 201350
 attribute: 0x6400A00001030006
 ---
-
-
 Currently closed since
 there's not enough Miis.
 
@@ -1188,8 +1186,6 @@ ask the Miis some questions.
 id: 201550
 attribute: 0x6400A00001030006
 ---
-
-
 Currently closed since
 there's not enough Miis.
 
@@ -1208,8 +1204,6 @@ and evening, don't miss out!"
 id: 201650
 attribute: 0x6400A00001010006
 ---
-
-
 Broadcasting suspended since
 there's not enough Miis.
 
@@ -1239,8 +1233,6 @@ a catalog.
 id: 201900
 attribute: 0x6400A00001010006
 ---
-
-
 An apartment building where
 residents live. You can tap
 on windows to look at them,
@@ -1261,8 +1253,6 @@ once a day.
 id: 202050
 attribute: 0x6400A00001010006
 ---
-
-
 After donations are collected,
 there may be other events
 here as well...
@@ -3322,4 +3312,5 @@ Time to delete your save!
 id: 1600600
 attribute: 0x6400B40001010007
 ---
+
 Hope you had a backup!
