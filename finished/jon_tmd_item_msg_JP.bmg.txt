@@ -758,7 +758,7 @@ Boiled Egg
 id: 124
 attribute: 0x6400780001030101
 ---
-yokan
+Yokan
 
 ---
 id: 125
@@ -3075,3 +3075,4 @@ id: 1000000
 attribute: 0x6400780001030001
 ---
 ？？？
+
