@@ -1223,7 +1223,7 @@ id: 151
 attribute: 0x6400A00001030002
 ---
 It's plastic, it's elastic,
-it's… a thing?
+it's... a thing?
 
 
 ---
@@ -1358,8 +1358,8 @@ to bottom. It's very striking.
 id: 168
 attribute: 0x6400A00001030002
 ---
-It was excavated from somewhere.
-Has a charming face.
+It was excavated from a odd
+place. Has a charming face.
 
 
 ---
@@ -1454,8 +1454,8 @@ point. It has delicate brushwork.
 id: 180
 attribute: 0x6400A00001030002
 ---
-With colorful sparkle cover. A
-must-have for fashionistas!
+With a colorful sparkly cover.
+A must-have for fashionistas!
 
 
 ---
@@ -1464,8 +1464,6 @@ attribute: 0x6400A00001030002
 ---
 Why don't they make ones that 
 have a lid to grab money?
-
-
 
 
 ---
@@ -1703,8 +1701,8 @@ to look at without one.
 id: 211
 attribute: 0x6400A00001030002
 ---
-AAAAA! MY EYES! AAAAAAA!
-IT HURTS!!!!
+The dual D-pad controller has
+been hard to replicate.
 
 
 ---
@@ -1799,7 +1797,7 @@ id: 223
 attribute: 0x6400A00001030002
 ---
 Congrats. You're like a teacher
-when it comes to problem-solving.
+when it comes to problems.
 
 
 ---
@@ -1815,7 +1813,7 @@ id: 225
 attribute: 0x6400A00001030002
 ---
 Congratulations!! You're like
-a wise sage that solves problems!
+a wise sage that fixes stuff!
 
 
 ---
@@ -4543,8 +4541,8 @@ head injury near the door.
 id: 2014
 attribute: 0x6400A00001030002
 ---
-Abracadabra! Did you know that
-carpet's floating on air?
+Abracadabra! Did you know
+that carpet's floating on air?
 
 
 ---
@@ -4647,7 +4645,7 @@ nightmare: digitizing vinyl.
 id: 2027
 attribute: 0x6400A00001030002
 ---
-Uh… I guess it's humble…
+Uh... I guess it's humble...
 
 
 ---
@@ -4655,7 +4653,7 @@ id: 2028
 attribute: 0x6400A00001030002
 ---
 There's some colors to make
-the monochrome room look neat.
+the monochrome room neat.
 
 
 ---
@@ -4694,8 +4692,8 @@ sophisticated woman. Splendid!
 id: 2033
 attribute: 0x6400A00001030002
 ---
-A swanky, concrete-walled room
-for professionals.
+A swanky, concrete-walled
+room for professionals.
 
 
 ---
@@ -4765,7 +4763,7 @@ burn) your food.
 id: 2042
 attribute: 0x6400A00001030002
 ---
-Needs more cables, microphones,
+Needs more cables, mics,
 and loose chords flying around.
 
 
@@ -4861,8 +4859,8 @@ a fire. Everything's wooden.
 id: 2054
 attribute: 0x6400A00001030002
 ---
-I heard this Mii was in
-jail for pirating NDS games...
+It's very cold here. Looks
+like anything BUT fun!
 
 
 ---
@@ -4878,7 +4876,7 @@ id: 2056
 attribute: 0x6400A00001030002
 ---
 A relaxing room you can use
-to empty your mind. Ahhhhh…
+to empty your mind. Ahhh...
 
 
 ---
@@ -5005,8 +5003,8 @@ and bask under the sun.
 id: 2072
 attribute: 0x6400A00001030002
 ---
-This is where we milk the
-"X is being milked" jokes.
+Never run out of milk
+ever again! Tastes good.
 
 
 ---
@@ -5098,5 +5096,6 @@ level 30 or higher to buy.
 
 
 ---
+
 
 
