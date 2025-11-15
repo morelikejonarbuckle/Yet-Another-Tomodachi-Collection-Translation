@@ -83,8 +83,6 @@ Sweetness is buried in the
 sourness. Goes well with rice.
 
 
-
-
 ---
 id: 9
 attribute: 0x6400A00001030002
@@ -154,7 +152,7 @@ id: 17
 attribute: 0x6400A00001030002
 ---
 A warm rice soup topped with
-many comfort foods. Aaaah…
+many comfort foods. Aah...
 
 
 ---
@@ -210,7 +208,7 @@ id: 24
 attribute: 0x6400A00001030002
 ---
 Sweet and creamy, at it's
-prime. Reminds me of fall…
+prime. Reminds me of fall...
 
 
 ---
@@ -241,8 +239,8 @@ sweet, but it's dark chocolate!
 id: 28
 attribute: 0x6400A00001030002
 ---
-Seems rather crabby. Good luck
-de-shelling it!
+Seems rather crabby. 
+Good luck de-shelling it!
 
 
 ---
@@ -841,7 +839,7 @@ id: 103
 attribute: 0x6400A00001030002
 ---
 Please don't be sour please
-don't be sour please don't…
+don't be sour please don't...
 
 
 ---
@@ -2160,21 +2158,21 @@ bright colors to see at night.
 id: 1013
 attribute: 0x6400A00001030002
 ---
-You wear it in a summer festival.
-
+You wear it in a summer 
+festival.
 
 ---
 id: 1014
 attribute: 0x6400A00001030002
 ---
-You wear it in a summer festival.
-
+You wear it in a summer 
+festival.
 
 ---
 id: 1015
 attribute: 0x6400A00001030002
 ---
-It looks like it came from a dream!
+It looks bright & dreamy!
 Some women wish to wear this.
 
 
@@ -2206,8 +2204,8 @@ on there, but it looks cool.
 id: 1019
 attribute: 0x6400A00001030002
 ---
-Become a pretty pretty princess
-and have tea with animal friends.
+Become a pretty pretty
+princess with animal friends.
 
 
 ---
@@ -2262,7 +2260,7 @@ id: 1026
 attribute: 0x6400A00001030002
 ---
 An evil shirt meant for evil
-people who eat babies.
+people who do evil actions.
 
 
 ---
@@ -2325,8 +2323,8 @@ a coordinated look.
 id: 1034
 attribute: 0x6400A00001030002
 ---
-It's a green cardigan. I don't
-know what else to say.
+The green color provides a
+subtle splash of color.
 
 
 ---
@@ -2565,8 +2563,8 @@ others happy all winter long.
 id: 1064
 attribute: 0x6400A00001030002
 ---
-Must… resist… urge… to… 
-stroke… fur…
+Must... resist... urge... 
+to stroke... fur...
 
 
 ---
@@ -2589,7 +2587,7 @@ but thinner and longer.
 id: 1067
 attribute: 0x6400A00001030002
 ---
-An adorable pastel-pink romper.
+An adorable "pstl-pnk" romper.
 The feet have some pom-poms.
 
 
@@ -2597,7 +2595,7 @@ The feet have some pom-poms.
 id: 1068
 attribute: 0x6400A00001030002
 ---
-An adorable pastel-blue romper.
+An adorable "pstl-blu" romper.
 The feet have some pom-poms.
 
 
@@ -2662,7 +2660,7 @@ id: 1076
 attribute: 0x6400A00001030002
 ---
 It's all about those leg
-warmers. Gotta keep them warm!
+warmers. Gotta keep 'em warm!
 
 
 ---
@@ -2685,9 +2683,8 @@ photo of a car printed on it.
 id: 1079
 attribute: 0x6400A00001030002
 ---
-Makes you look ready to fight
-a giant pig.
-
+It's made of sturdy fabric.
+Feels loose. Handy to have.
 
 ---
 id: 1080
@@ -2701,17 +2698,15 @@ dress is super girly.
 id: 1081
 attribute: 0x6400A00001030002
 ---
-It's made of sturdy fabric.
-Easy to move in, handy to have.
-
+Makes you look ready to fight
+a giant pig.
 
 ---
 id: 1082
 attribute: 0x6400A00001030002
 ---
-The green stripes are refreshing.
-The pants are also a key feature.
-
+If you look hard enough,
+the shirt has green stripes.
 
 ---
 id: 1083
@@ -2837,8 +2832,8 @@ its choking the neck.
 id: 1098
 attribute: 0x6400A00001030002
 ---
-A rounded silhouette. The soft,
-fluffy feel's delightful.
+A rounded silhouette. Feels
+delightfully soft & fluffy.
 
 
 ---
@@ -2846,7 +2841,7 @@ id: 1099
 attribute: 0x6400A00001030002
 ---
 Gives off a refeshing impression.
-The thick fabric keeps cold away.
+The thick fabric's warm.
 
 
 ---
@@ -2854,7 +2849,7 @@ id: 1100
 attribute: 0x6400A00001030002
 ---
 Looks slightly unsual.
-The thick fabric keeps cold away.
+The thick fabric's warm.
 
 
 ---
@@ -2957,7 +2952,7 @@ for the arms and abdomen.
 id: 1113
 attribute: 0x6400A00001030002
 ---
-A reindeer-themed knitted dress
+A reindeer-themed sweater
 with cheerful Christmas colors.
 
 
@@ -3142,7 +3137,7 @@ id: 1136
 attribute: 0x6400A00001030002
 ---
 A convenient vest littered in
-pockets. Good for the outdoors.
+pockets. Good for outside.
 
 
 ---
@@ -3150,7 +3145,7 @@ id: 1137
 attribute: 0x6400A00001030002
 ---
 A convenient vest littered in
-pockets. Good for the outdoors.
+pockets. Good for outside.
 
 
 ---
@@ -3165,7 +3160,7 @@ It's loose and comfy.
 id: 1139
 attribute: 0x6400A00001030002
 ---
-A comfortable V-neck made from
+A comfortable V-neck made of
 cotton. Wear it year-round!
 
 
@@ -3173,7 +3168,7 @@ cotton. Wear it year-round!
 id: 1140
 attribute: 0x6400A00001030002
 ---
-A comfortable V-neck made from
+A comfortable V-neck made of
 cotton. Wear it year-round!
 
 
@@ -3221,7 +3216,7 @@ id: 1146
 attribute: 0x6400A00001030002
 ---
 It's a belly warmer and some
-long underwear to keep one warm.
+long underwear to stay warm.
 
 
 ---
@@ -3269,7 +3264,7 @@ id: 1152
 attribute: 0x6400A00001030002
 ---
 "Give me an T! Give me an O!
-Give me a M! Give me an O…"
+Give me a M! Give me an O..."
 
 
 ---
@@ -3402,7 +3397,7 @@ id: 1169
 attribute: 0x6400A00001030002
 ---
 It's pretty worn out, but it's
-surprsingly comfortable to wear.
+surprsingly comfortable.
 
 
 ---
@@ -3410,6 +3405,7 @@ id: 1170
 attribute: 0x6400A00001030002
 ---
 Perfect for long swims.
+Don't stay in there too long!
 
 
 ---
@@ -3440,8 +3436,8 @@ mood.
 id: 1174
 attribute: 0x6400A00001030002
 ---
-A touch of green for those who
-support others behind the shadows.
+For those who support others
+behind the shadows.
 
 
 ---
@@ -3481,7 +3477,7 @@ id: 1179
 attribute: 0x6400A00001030002
 ---
 Made with fabric that feels as
-soft as a carpet. Such prestige!
+soft as a carpet. Prestegious!
 
 
 ---
@@ -3744,7 +3740,7 @@ some vintage jeans. Awesome.
 id: 1212
 attribute: 0x6400A00001030002
 ---
-A vivi dress that looks cute, 
+A vivid dress that looks cute, 
 even when viewed from behind.
 
 
@@ -3793,7 +3789,7 @@ id: 1218
 attribute: 0x6400A00001030002
 ---
 Fly through the sky with this
-cute uniform! Also has a ribbon.
+cute uniform! Has a ribbon.
 
 
 ---
@@ -3801,7 +3797,7 @@ id: 1219
 attribute: 0x6400A00001030002
 ---
 It sets itself apart from your
-ordinary collared shirt. Somehow.
+ordinary collared shirt. (How?)
 
 
 ---
@@ -3824,7 +3820,7 @@ somewhat nostalgic.
 id: 1222
 attribute: 0x6400A00001030002
 ---
-A not-so-bold polka-dot pattern
+A not-so-bold polka-dot dress
 with a turtleneck underneath.
 
 
@@ -3928,8 +3924,8 @@ pastel pink outfit!
 id: 1235
 attribute: 0x6400A00001030002
 ---
-Monochrome checker patterns:
-easy for anyone to wear.
+Monochrome checker patterns
+are easy for anyone to wear.
 
 
 ---
@@ -4127,8 +4123,8 @@ who live a secret life.
 id: 1260
 attribute: 0x6400A00001030002
 ---
-A funny suit with a unitail. Needs
-antennas pointing from the head.
+A funny suit with a unitail. 
+Needs antennae for the head.
 
 
 ---
@@ -4184,7 +4180,7 @@ id: 1267
 attribute: 0x6400A00001030002
 ---
 It has a nice color, a small
-backpack, and rolled-up sleeves.
+backpack, and tiny sleeves.
 
 
 ---
@@ -4215,16 +4211,16 @@ you have a tail. Stomp around!
 id: 1271
 attribute: 0x6400A00001030002
 ---
-Who needs to nap at night only?
-With this, you can nap anywhere!
+You can virturally nap
+anywhere by wearing this.
 
 
 ---
 id: 1272
 attribute: 0x6400A00001030002
 ---
-Who needs to nap at night only?
-With this, you can nap anywhere!
+You can virturally nap
+anywhere by wearing this.
 
 
 ---
@@ -4246,8 +4242,8 @@ with these puffy sleeves!
 id: 1275
 attribute: 0x6400A00001030002
 ---
-It's the thing you're using,
-unless it's being emulated.
+The term "DS" stands for
+Doorbell Salsa. Trust me!
 
 
 ---
@@ -4302,7 +4298,7 @@ id: 1282
 attribute: 0x6400A00001030002
 ---
 Looks very psychedelic and
-groovy. Can you handle the funk?
+groovy. Can you be the funk?
 
 
 ---
@@ -4396,7 +4392,8 @@ being hard working.
 id: 1294
 attribute: 0x6400A00001030002
 ---
-The cotton's soft-to-the-touch!
+The cotton's soft-to-
+the-touch!
 
 
 ---
@@ -5101,4 +5098,5 @@ level 30 or higher to buy.
 
 
 ---
+
 
