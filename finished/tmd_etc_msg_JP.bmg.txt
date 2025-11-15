@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -1157,6 +1157,8 @@ find a brand-new talent!
 id: 201350
 attribute: 0x6400A00001030006
 ---
+
+
 Currently closed since
 there's not enough Miis.
 
@@ -1176,16 +1178,18 @@ id: 201500
 attribute: 0x6400A00001010006
 ---
 A venue where you can ask
-questions. Tap "Vote" if
+questions. Choose "Vote," if
 you have two things you can't
-decide, or tap "Questions" to
-ask your Miis some questions.
+decide, or choose "Questions" to
+ask the Miis some questions.
 
 
 ---
 id: 201550
 attribute: 0x6400A00001030006
 ---
+
+
 Currently closed since
 there's not enough Miis.
 
@@ -1198,12 +1202,14 @@ attribute: 0x6400A00001010006
 on the island here. We
 broadcast in the morning
 and evening, don't miss out!"
-(7:00 AM & PM)
+
 
 ---
 id: 201650
 attribute: 0x6400A00001010006
 ---
+
+
 Broadcasting suspended since
 there's not enough Miis.
 
@@ -1253,6 +1259,8 @@ once a day.
 id: 202050
 attribute: 0x6400A00001010006
 ---
+
+
 After donations are collected,
 there may be other events
 here as well...
@@ -3312,7 +3320,4 @@ Time to delete your save!
 id: 1600600
 attribute: 0x6400B40001010007
 ---
-
 Hope you had a backup!
-
-
