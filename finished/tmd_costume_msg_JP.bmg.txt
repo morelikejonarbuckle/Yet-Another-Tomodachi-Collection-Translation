@@ -64,7 +64,7 @@ Toga (Black)
 id: 7
 attribute: 0x6400780001030101
 ---
-Soccer Uniform
+"Kicking" Uniform
 
 
 ---
@@ -246,7 +246,7 @@ Graphic Tee
 id: 33
 attribute: 0x6400780001030101
 ---
-Denim Jacket & Chino pants
+Denim Jacket & Chino
 
 
 ---
@@ -267,7 +267,7 @@ Cardigan (Black)
 id: 36
 attribute: 0x6400780001030101
 ---
-Twelve-layered Ceremonial Kimono
+Super Special Kimono
 
 
 ---
@@ -421,21 +421,21 @@ Favorite-color Hoodie
 id: 58
 attribute: 0x6400780001030101
 ---
-Favorite-color Striped Shirt
+Favorite-color Shirt
 
 
 ---
 id: 59
 attribute: 0x6400780001030101
 ---
-Loose Puffy Jacket (Khaki)
+Puffy Jacket (Khaki)
 
 
 ---
 id: 60
 attribute: 0x6400780001030101
 ---
-Loose Puffy Jacket (Black)
+Puffy Jacket (Black)
 
 
 ---
@@ -498,7 +498,7 @@ Baby Top (Blue)
 id: 69
 attribute: 0x6400780001030101
 ---
-Jogging shirt w. Rolled-up Sleves
+Jogging Gear
 
 
 ---
@@ -764,21 +764,21 @@ Dolman Sleeve Shirt
 id: 107
 attribute: 0x6400780001030101
 ---
-Short-sleeved Shirt (Green)
+T-Shirt (Green)
 
 
 ---
 id: 108
 attribute: 0x6400780001030101
 ---
-Short-sleeved Shirt (Yellow)
+T-Shirt (Yellow)
 
 
 ---
 id: 109
 attribute: 0x6400780001030101
 ---
-Short-sleeved Shirt (Grey)
+T-Shirt (Grey)
 
 
 ---
@@ -1317,7 +1317,7 @@ Taxi Driver Outfit
 id: 186
 attribute: 0x6400780001030101
 ---
-Train Conductor's Uniform
+Train Conductor's Suit
 
 
 ---
@@ -1366,7 +1366,7 @@ Pawn Shop Uniform
 id: 193
 attribute: 0x6400780001030101
 ---
-Department Store Uniform
+Department Shop Uniform
 
 
 ---
@@ -1422,7 +1422,7 @@ Apron
 id: 201
 attribute: 0x6400780001030101
 ---
-Convenience Store Uniform
+24/7 Store Uniform
 
 
 ---
@@ -1555,7 +1555,7 @@ Mao Jacket
 id: 220
 attribute: 0x6400780001030101
 ---
-The Emperor's New Clothes
+The Emperor's Clothes
 
 
 ---
@@ -1688,7 +1688,7 @@ Padded Kimono Coat
 id: 239
 attribute: 0x6400780001030101
 ---
-Layered Cut-and-sewn Shirt
+Layered Black Shirt
 
 
 ---
@@ -4215,4 +4215,5 @@ Koguma T-shirt
 id: 1000000
 attribute: 0x6400780001030001
 ---
+
 ？？？
