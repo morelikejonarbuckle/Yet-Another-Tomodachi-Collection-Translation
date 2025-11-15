@@ -1129,7 +1129,7 @@ attribute: 0x6400A00001010006
 A store where you can sell
 your trinkets.
 Sometimes you might sell
-something for a fortune…
+something for a fortune...
 
 
 ---
@@ -1176,10 +1176,10 @@ id: 201500
 attribute: 0x6400A00001010006
 ---
 A venue where you can ask
-questions. Choose "Vote," if
+questions. Tap "Vote" if
 you have two things you can't
-decide, or choose "Questions" to
-ask the Miis some questions.
+decide, or tap "Questions" to
+ask your Miis some questions.
 
 
 ---
@@ -1198,7 +1198,7 @@ attribute: 0x6400A00001010006
 on the island here. We
 broadcast in the morning
 and evening, don't miss out!"
-
+(7:00 AM & PM)
 
 ---
 id: 201650
@@ -3314,3 +3314,4 @@ attribute: 0x6400B40001010007
 ---
 
 Hope you had a backup!
+
