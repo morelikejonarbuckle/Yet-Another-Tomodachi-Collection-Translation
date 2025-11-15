@@ -1773,7 +1773,7 @@ Have 30 residents
 id: 301300
 attribute: 0x6400400001010001
 ---
-e
+View
 
 
 ---
@@ -1782,4 +1782,5 @@ attribute: 0x6400000001030001
 ---
 
 ck
+
 
