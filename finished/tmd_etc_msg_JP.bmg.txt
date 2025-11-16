@@ -10,7 +10,6 @@ hasSTR1: false
 hasFLW1: false
 %%%
 
-
 ---
 id: 100
 attribute: 0x6400300001030101
@@ -1475,7 +1474,7 @@ Switch rooms with this Mii?
 id: 301000
 attribute: 0x6400460001010001
 ---
-Yes
+Ok
 
 
 ---
@@ -1695,7 +1694,7 @@ Time Settings
 id: 500101
 attribute: 0x6400E00001030101
 ---
-Setup Complete
+Set clock
 
 
 ---
@@ -2597,7 +2596,9 @@ Unlock
 id: 1300020
 attribute: 0x6400B40001010007
 ---
-Please set up the time.
+Welcome to Tomodachi Collection!
+Please set up the time before
+playing the game.
 
 
 ---
@@ -2615,10 +2616,8 @@ Is this the correct time?
 id: 1300100
 attribute: 0x6400B40001010007
 ---
-This is a small island in the
-middle of the sea.
 Here lies a small island in
-naval Japanifornia…
+the eastern sea...
 
 
 ---
@@ -2635,8 +2634,8 @@ id: 1300300
 attribute: 0x6400B40001010007
 ---
 {{255:0 arg="0x0200"}}{{1:1 arg="0x0000"}} Island{{255:0 arg="0x0800"}}?
-That's probably a nice name!
-(I really hope so…)
+That's a nice name!
+(I really hope so...)
 
 
 ---
