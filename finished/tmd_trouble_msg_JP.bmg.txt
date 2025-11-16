@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -9,7 +9,6 @@ MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
 %%%
-
 
 ---
 id: 0
@@ -1324,8 +1323,8 @@ attribute: 0x6400E10001000001
 id: 2510
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm in love with {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}.
-I want to confess my feelings, but I don't have enough courage..."
+{{255:0 arg="0x0100"}}"I'm in love with {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}. I want to confess
+my feelings, but I'm too nervous..."
 
 
 ---
