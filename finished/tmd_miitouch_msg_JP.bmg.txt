@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -10,21 +10,16 @@ hasSTR1: false
 hasFLW1: false
 %%%
 
-
 ---
 id: 1000100
 attribute: 0x6400500001010101
 ---
-
-
-
+Give
 
 ---
 id: 1000200
 attribute: 0x6400E00001010001
 ---
-
-
 
 
 ---
@@ -33,14 +28,10 @@ attribute: 0x6400E00001010001
 ---
 
 
-
-
 ---
 id: 1000400
 attribute: 0x6400E00001010001
 ---
-
-
 
 
 ---
@@ -49,14 +40,10 @@ attribute: 0x6400640001030001
 ---
 
 
-
-
 ---
 id: 1000510
 attribute: 0x6400640001030001
 ---
-
-
 
 
 ---
@@ -65,14 +52,10 @@ attribute: 0x6400640001030001
 ---
 
 
-
-
 ---
 id: 1000520
 attribute: 0x6400640001030001
 ---
-
-
 
 
 ---
@@ -81,14 +64,10 @@ attribute: 0x6400640001030001
 ---
 
 
-
-
 ---
 id: 1000531
 attribute: 0x6400640001030001
 ---
-
-
 
 
 ---
@@ -97,30 +76,22 @@ attribute: 0x6400640001030001
 ---
 
 
-
-
 ---
 id: 1000540
 attribute: 0x6400640001030001
 ---
 
 
-
-
 ---
 id: 1000545
 attribute: 0x6400640001030001
 ---
-
-
-
+None
 
 ---
 id: 1000550
 attribute: 0x6400640001030001
 ---
-
-
 
 
 ---
@@ -129,22 +100,16 @@ attribute: 0x6400640001030001
 ---
 
 
-
-
 ---
 id: 1000565
 attribute: 0x6400640001030001
 ---
-
-
-
+？？？
 
 ---
 id: 1000570
 attribute: 0x6400640001030001
 ---
-
-
 
 
 ---
@@ -153,13 +118,11 @@ attribute: 0x6400960001030001
 ---
 {{1:1 arg="0x0000"}}'s data
 
-
 ---
 id: 1000610
 attribute: 0x6400960001030001
 ---
 {{1:1 arg="0x0000"}}'s data
-
 
 ---
 id: 1000620
@@ -167,13 +130,11 @@ attribute: 0x6400960001030001
 ---
 Relationships
 
-
 ---
 id: 1000650
 attribute: 0x6400960001030001
 ---
-(No relation.)
-
+(No relationships.)
 
 ---
 id: 1001010
@@ -181,13 +142,11 @@ attribute: 0x6400640001030001
 ---
 Spouse
 
-
 ---
 id: 1001020
 attribute: 0x6400640001030001
 ---
 Special Someone
-
 
 ---
 id: 1001030
@@ -195,34 +154,29 @@ attribute: 0x6400640001030001
 ---
 Best Friend
 
-
 ---
 id: 1001040
 attribute: 0x6400640001030001
 ---
-Friend
-
+Friends
 
 ---
 id: 1001050
 attribute: 0x6400640001030001
 ---
-Spouse (In a fight)
-
+Spouse (Fighting)
 
 ---
 id: 1001060
 attribute: 0x6400640001030001
 ---
-S. Someone (In a fight)
-
+S. Someone (Fighting)
 
 ---
 id: 1001070
 attribute: 0x6400640001030001
 ---
-Friend (In a fight)
-
+Friends (Fighting)
 
 ---
 id: 1001080
@@ -230,13 +184,11 @@ attribute: 0x6400640001030001
 ---
 Divorced
 
-
 ---
 id: 1001090
 attribute: 0x6400640001030001
 ---
-Ex
-
+Ex Lovers
 
 ---
 id: 1001100
@@ -244,13 +196,11 @@ attribute: 0x6400640001030001
 ---
 One in a million
 
-
 ---
 id: 1001110
 attribute: 0x6400640001030001
 ---
 Completely happy
-
 
 ---
 id: 1001120
@@ -258,27 +208,23 @@ attribute: 0x6400640001030001
 ---
 Very happy
 
-
 ---
 id: 1001130
 attribute: 0x6400640001030001
 ---
 Happy
 
-
 ---
 id: 1001140
 attribute: 0x6400640001030001
 ---
-Fairly happy
-
+Fairly Happy
 
 ---
 id: 1001150
 attribute: 0x6400640001030001
 ---
-Slightly unhappy
-
+Slightly unHappy
 
 ---
 id: 1001160
@@ -286,13 +232,11 @@ attribute: 0x6400640001030001
 ---
 Unhappy
 
-
 ---
 id: 1001200
 attribute: 0x6400640001030001
 ---
 Let's get married!
-
 
 ---
 id: 1001210
@@ -300,13 +244,11 @@ attribute: 0x6400640001030001
 ---
 Head over heels
 
-
 ---
 id: 1001220
 attribute: 0x6400640001030001
 ---
 Totally in love
-
 
 ---
 id: 1001230
@@ -314,13 +256,11 @@ attribute: 0x6400640001030001
 ---
 Very much in love
 
-
 ---
 id: 1001240
 attribute: 0x6400640001030001
 ---
 Only just in love
-
 
 ---
 id: 1001250
@@ -328,13 +268,11 @@ attribute: 0x6400640001030001
 ---
 Slightly unhappy
 
-
 ---
 id: 1001260
 attribute: 0x6400640001030001
 ---
 Unhappy
-
 
 ---
 id: 1001300
@@ -342,13 +280,11 @@ attribute: 0x6400640001030001
 ---
 Irreplaceable
 
-
 ---
 id: 1001310
 attribute: 0x6400640001030001
 ---
 Bestie
-
 
 ---
 id: 1001320
@@ -356,13 +292,11 @@ attribute: 0x6400640001030001
 ---
 Trust a lot
 
-
 ---
 id: 1001330
 attribute: 0x6400640001030001
 ---
 Trustworthy
-
 
 ---
 id: 1001340
@@ -370,20 +304,17 @@ attribute: 0x6400640001030001
 ---
 Fairly trustworthy
 
-
 ---
 id: 1001350
 attribute: 0x6400640001030001
 ---
 Trust a little
 
-
 ---
 id: 1001360
 attribute: 0x6400640001030001
 ---
-Realy a best friend?
-
+Really a best friend?
 
 ---
 id: 1001400
@@ -391,13 +322,11 @@ attribute: 0x6400640001030001
 ---
 Best bud
 
-
 ---
 id: 1001410
 attribute: 0x6400640001030001
 ---
 Great fun
-
 
 ---
 id: 1001420
@@ -405,13 +334,11 @@ attribute: 0x6400640001030001
 ---
 A lot of fun
 
-
 ---
 id: 1001430
 attribute: 0x6400640001030001
 ---
 Fun
-
 
 ---
 id: 1001440
@@ -419,20 +346,17 @@ attribute: 0x6400640001030001
 ---
 Mostly fun
 
-
 ---
 id: 1001450
 attribute: 0x6400640001030001
 ---
-Not much fun…
-
+Not much fun...
 
 ---
 id: 1001460
 attribute: 0x6400640001030001
 ---
-Can't get along…
-
+Can't get along...
 
 ---
 id: 1001500
@@ -440,13 +364,11 @@ attribute: 0x6400640001030001
 ---
 One in a million?
 
-
 ---
 id: 1001510
 attribute: 0x6400640001030001
 ---
 Completely happy?
-
 
 ---
 id: 1001520
@@ -454,13 +376,11 @@ attribute: 0x6400640001030001
 ---
 Very happy?
 
-
 ---
 id: 1001530
 attribute: 0x6400640001030001
 ---
 Happy?
-
 
 ---
 id: 1001540
@@ -468,13 +388,11 @@ attribute: 0x6400640001030001
 ---
 Fairly happy?
 
-
 ---
 id: 1001550
 attribute: 0x6400640001030001
 ---
 Slightly unhappy?
-
 
 ---
 id: 1001560
@@ -482,13 +400,11 @@ attribute: 0x6400640001030001
 ---
 Unhappy?
 
-
 ---
 id: 1001600
 attribute: 0x6400640001030001
 ---
 Let's get married?
-
 
 ---
 id: 1001610
@@ -496,13 +412,11 @@ attribute: 0x6400640001030001
 ---
 Head over heels?
 
-
 ---
 id: 1001620
 attribute: 0x6400640001030001
 ---
 Totally in love?
-
 
 ---
 id: 1001630
@@ -510,13 +424,11 @@ attribute: 0x6400640001030001
 ---
 Very much in love?
 
-
 ---
 id: 1001640
 attribute: 0x6400640001030001
 ---
 Only just in love?
-
 
 ---
 id: 1001650
@@ -524,13 +436,11 @@ attribute: 0x6400640001030001
 ---
 Slightly unhappy?
 
-
 ---
 id: 1001660
 attribute: 0x6400640001030001
 ---
 Unhappy?
-
 
 ---
 id: 1001700
@@ -538,13 +448,11 @@ attribute: 0x6400640001030001
 ---
 Best bud?
 
-
 ---
 id: 1001710
 attribute: 0x6400640001030001
 ---
 Great fun?
-
 
 ---
 id: 1001720
@@ -552,13 +460,11 @@ attribute: 0x6400640001030001
 ---
 A lot of fun?
 
-
 ---
 id: 1001730
 attribute: 0x6400640001030001
 ---
 Fun?
-
 
 ---
 id: 1001740
@@ -566,13 +472,11 @@ attribute: 0x6400640001030001
 ---
 Mostly fun?
 
-
 ---
 id: 1001750
 attribute: 0x6400640001030001
 ---
 Not much fun?
-
 
 ---
 id: 1001760
@@ -580,13 +484,11 @@ attribute: 0x6400640001030001
 ---
 Can't get along?
 
-
 ---
 id: 1001800
 attribute: 0x6400640001030001
 ---
 Can still be friends?
-
 
 ---
 id: 1001810
@@ -594,13 +496,11 @@ attribute: 0x6400640001030001
 ---
 Good memories
 
-
 ---
 id: 1001820
 attribute: 0x6400640001030001
 ---
 For the best
-
 
 ---
 id: 1001830
@@ -608,13 +508,11 @@ attribute: 0x6400640001030001
 ---
 Sad
 
-
 ---
 id: 1001840
 attribute: 0x6400640001030001
 ---
 Painful
-
 
 ---
 id: 1001850
@@ -622,13 +520,11 @@ attribute: 0x6400640001030001
 ---
 Try to avoid
 
-
 ---
 id: 1001860
 attribute: 0x6400640001030001
 ---
 Want to forget
-
 
 ---
 id: 1001900
@@ -636,13 +532,11 @@ attribute: 0x6400640001030001
 ---
 Just friends
 
-
 ---
 id: 1001910
 attribute: 0x6400640001030001
 ---
 Good memories
-
 
 ---
 id: 1001920
@@ -650,13 +544,11 @@ attribute: 0x6400640001030001
 ---
 Wounds are healed
 
-
 ---
 id: 1001930
 attribute: 0x6400640001030001
 ---
 Sad
-
 
 ---
 id: 1001940
@@ -664,28 +556,22 @@ attribute: 0x6400640001030001
 ---
 Painful
 
-
 ---
 id: 1001950
 attribute: 0x6400640001030001
 ---
 Want to forget
 
-
 ---
 id: 1001960
 attribute: 0x6400640001030001
 ---
-
-
-
+Don't want to see
 
 ---
 id: 1300100
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -694,14 +580,10 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1300300
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -710,14 +592,10 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1300700
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -726,22 +604,16 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1300770
 attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1300800
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -751,31 +623,27 @@ attribute: 0x6400E10001030007
 {{255:0 arg="0x0100"}}"Hello! I'm {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}.
 Woah! You look just like me!"
 
-
 ---
 id: 1300851
 attribute: 0x6400E10001030007
 ---
 ハジメマシテ＿{{1:1 arg="0x0000"}}デス.アレ？アナタ＿ワタシニニテイマスネ！
 
-
 ---
 id: 1300900
 attribute: 0x6400B40001010007
 ---
-By visiting their room, you and
-your lookalike can communicate.
-First, try to touch the {{255:0 arg="0x0200"}} speech bubble{{255:0 arg="0x0800"}}
+By visiting this room, you and
+your lookalike can interact.
+First, try to touch the {{255:0 arg="0x0200"}}bubble{{255:0 arg="0x0800"}}
 and see what happens.
-
 
 ---
 id: 1301100
 attribute: 0x6400E10001030007
 ---
-{{255:0 arg="0x0100"}}"I feel lonely to live here alone.
+{{255:0 arg="0x0100"}}"I feel lonely living here alone.
 There should be some more people..."
-
 
 ---
 id: 1301101
@@ -783,16 +651,14 @@ attribute: 0x6400E10001030007
 ---
 コノシマニヒトリボッチワサビシイデス.ホカニダレカガイタライイノニ
 
-
 ---
 id: 1301200
 attribute: 0x6400B40001010007
 ---
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} wants
-some friends. Try create more
+some friends. Try creating more
 Miis, either {{255:0 arg="0x0200"}}from real life{{255:0 arg="0x0800"}}
 or {{255:0 arg="0x0200"}}fictional characters{{255:0 arg="0x0800"}}.
-
 
 ---
 id: 1301300
@@ -801,13 +667,11 @@ attribute: 0x6400E10001030007
 {{255:0 arg="0x0100"}}"{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} has
 moved to this apartment!"
 
-
 ---
 id: 1301301
 attribute: 0x6400E10001030007
 ---
 {{1:1 arg="0x0000"}}トユーヒトガ＿コノマンションニヒッコシテキタヨーデス！
-
 
 ---
 id: 1301350
@@ -815,28 +679,25 @@ attribute: 0x6400E10001030007
 ---
 {{255:0 arg="0x0100"}}"Ooh, I want to see them!"
 
-
 ---
 id: 1301351
 attribute: 0x6400E10001030007
 ---
 サッソクアイサツニイッテキマス
 
-
 ---
 id: 1301400
 attribute: 0x6400B40001010007
 ---
-
-
-
+When you solve a Mii's {{255:0 arg="0x0200"}}problem{{255:0 arg="0x0800"}}
+their {{255:0 arg="0x0200"}}satisfaction level{{255:0 arg="0x0800"}} will
+go up. Something nice might
+happen if you level them up!
 
 ---
 id: 1301500
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -845,14 +706,10 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1301610
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -861,14 +718,10 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1301650
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -877,30 +730,24 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1301800
 attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1301900
 attribute: 0x6400B40001010007
 ---
-
-
-
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} wants
+to eat something.
+What can you do?
 
 ---
 id: 1302300
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -909,14 +756,11 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1302450
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Um… do you happen to have any food?"
-
+{{255:0 arg="0x0100"}}"Do you happen to have any food?"
 
 ---
 id: 1302451
@@ -924,15 +768,13 @@ attribute: 0x6400E10001030001
 ---
 モー＿オナカガペコペコデス
 
-
 ---
 id: 1302470
 attribute: 0x6400B40001010007
 ---
-The {{255:0 arg="0x0200"}}Present icon{{255:0 arg="0x0800"}} has been added.
-You can give gifts to the
+The {{255:0 arg="0x0200"}}Present icon{{255:0 arg="0x0800"}} has been added!
+You can give presents to a
 Mii by tapping this icon.
-
 
 ---
 id: 1302500
@@ -940,7 +782,6 @@ attribute: 0x6400B40001010007
 ---
 Grab the food and put it in
 front of {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
-
 
 ---
 id: 1302600
@@ -951,7 +792,6 @@ Increase it by recalling
 the Mii's likes
 and dislikes.
 
-
 ---
 id: 1302620
 attribute: 0x6400B40001010007
@@ -960,21 +800,19 @@ By the way, after you gave them
 food, did you notice that
 you get a bit of  {{255:0 arg="0x0200"}}money?{{255:0 arg="0x0800"}} 
 
-
 ---
 id: 1302640
 attribute: 0x6400B40001010007
 ---
-
-
-
+Each time you satisfy a Mii,
+they'll give you some {{255:0 arg="0x0200"}}money{{255:0 arg="0x0800"}}
+to thank you. You can use
+that cash to buy items for them!
 
 ---
 id: 1302700
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -983,22 +821,16 @@ attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1302900
 attribute: 0x6400B40001010007
 ---
 
 
-
-
 ---
 id: 1303000
 attribute: 0x6400B40001010007
 ---
-
-
 
 
 ---
@@ -1010,25 +842,22 @@ Tap here to freely change
 clothes with the outfits
 you have given them so far.
 
-
 ---
 id: 1304100
 attribute: 0x6400B40001010007
 ---
 Congratulations!
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} felt very
-satisfied and has just leveled up!
-
+satisfied and leveled up!
 
 ---
 id: 1304200
 attribute: 0x6400B40001010007
 ---
 When a Mii's level increases,
-you can choose a {{255:0 arg="0x0200"}}song{{255:0 arg="0x0800"}}, a {{255:0 arg="0x0200"}} special item{{255:0 arg="0x0800"}},
-an {{255:0 arg="0x0200"}}interior{{255:0 arg="0x0800"}}, or a {{255:0 arg="0x0200"}}phrase{{255:0 arg="0x0800"}} and
-give it as a present to your Mii.
-
+you can choose a {{255:0 arg="0x0200"}}song{{255:0 arg="0x0800"}}, an {{255:0 arg="0x0200"}}item{{255:0 arg="0x0800"}},
+an {{255:0 arg="0x0200"}}interior{{255:0 arg="0x0800"}}, or a {{255:0 arg="0x0200"}}phrase{{255:0 arg="0x0800"}}
+as a present to your Mii.
 
 ---
 id: 1304250
@@ -1036,8 +865,10 @@ attribute: 0x6400B40001010007
 ---
 By giving a song as a present,
 your Mii can sing it. You can also
-edit and create "custom" lyrics.
+edit and create custom* lyrics.
 
+*lyrics created from a pool
+of words.
 
 ---
 id: 1304300
@@ -1045,13 +876,11 @@ attribute: 0x6400B40001010001
 ---
 What would you like to give?
 
-
 ---
 id: 1304400
 attribute: 0x6400400001010101
 ---
 Song
-
 
 ---
 id: 1304410
@@ -1059,13 +888,11 @@ attribute: 0x6400400001010101
 ---
 Item
 
-
 ---
 id: 1304420
 attribute: 0x6400400001010101
 ---
 Interior
-
 
 ---
 id: 1304430
@@ -1073,13 +900,11 @@ attribute: 0x6400400001010101
 ---
 Catchphrase
 
-
 ---
 id: 1304500
 attribute: 0x6400B40001010001
 ---
-What type of song?
-
+Which type of song?
 
 ---
 id: 1304600
@@ -1087,13 +912,11 @@ attribute: 0x6400400001010101
 ---
 Enka
 
-
 ---
 id: 1304610
 attribute: 0x6400400001010101
 ---
 Rap
-
 
 ---
 id: 1304620
@@ -1101,13 +924,11 @@ attribute: 0x6400400001010101
 ---
 Ballad
 
-
 ---
 id: 1304630
 attribute: 0x6400400001010101
 ---
 Rock
-
 
 ---
 id: 1304640
@@ -1115,70 +936,61 @@ attribute: 0x6400400001010101
 ---
 J-Pop
 
-
 ---
 id: 1304650
 attribute: 0x6400400001010101
 ---
 Idol
 
-
 ---
 id: 1304700
 attribute: 0x6400B40001010007
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}Enka{{255:0 arg="0x0100"}} song
+{{255:0 arg="0x0100"}}You gave {{255:0 arg="0x0400"}}Enka{{255:0 arg="0x0100"}} song
 as a present!
-
 
 ---
 id: 1304710
 attribute: 0x6400B40001010007
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}Rap{{255:0 arg="0x0100"}} song
+{{255:0 arg="0x0100"}}You gave {{255:0 arg="0x0400"}}Rap{{255:0 arg="0x0100"}} song
 as a present!
-
 
 ---
 id: 1304720
 attribute: 0x6400B40001010007
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}Ballad{{255:0 arg="0x0100"}} song
+{{255:0 arg="0x0100"}}You gave {{255:0 arg="0x0400"}}Ballad{{255:0 arg="0x0100"}} song
 as a present!
-
 
 ---
 id: 1304730
 attribute: 0x6400B40001010007
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}Rock{{255:0 arg="0x0100"}} song
+{{255:0 arg="0x0100"}}You gave {{255:0 arg="0x0400"}}Rock{{255:0 arg="0x0100"}} song
 as a present!
-
 
 ---
 id: 1304740
 attribute: 0x6400B40001010007
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}J-Pop{{255:0 arg="0x0100"}} song
+{{255:0 arg="0x0100"}}You gave {{255:0 arg="0x0400"}}J-Pop{{255:0 arg="0x0100"}} song
 as a present!
-
 
 ---
 id: 1304750
 attribute: 0x6400B40001010007
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}Idol{{255:0 arg="0x0100"}} song
+{{255:0 arg="0x0100"}}You gave {{255:0 arg="0x0400"}}Idol{{255:0 arg="0x0100"}} song
 as a present!
-
 
 ---
 id: 1304800
 attribute: 0x6400B40001010007
 ---
 The {{255:0 arg="0x0200"}}Song icon{{255:0 arg="0x0800"}} has been added!
-You can now make
+You can use it to hear
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} sing!
-
 
 ---
 id: 1304900
@@ -1186,13 +998,11 @@ attribute: 0x6400B40001010001
 ---
 Which item?
 
-
 ---
 id: 1305000
 attribute: 0x6400400001010101
 ---
 Wii
-
 
 ---
 id: 1305010
@@ -1200,27 +1010,23 @@ attribute: 0x6400400001010101
 ---
 melonDS
 
-
 ---
 id: 1305020
 attribute: 0x6400400001010101
 ---
 Duster
 
-
 ---
 id: 1305030
 attribute: 0x6400580001010101
 ---
-Notebook
-
+Laptop
 
 ---
 id: 1305040
 attribute: 0x6400400001010101
 ---
-Study Set
-
+Study set
 
 ---
 id: 1305050
@@ -1228,13 +1034,11 @@ attribute: 0x6400400001010101
 ---
 Novel
 
-
 ---
 id: 1305060
 attribute: 0x6400400001010101
 ---
-Phone
-
+Cell phone
 
 ---
 id: 1305070
@@ -1242,62 +1046,53 @@ attribute: 0x6400400001010101
 ---
 CD
 
-
 ---
 id: 1305100
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a {{255:0 arg="0x0400"}}Wii{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}Wii{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305110
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}melonDS{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}melonDS{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305120
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}Duster{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}duster{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305130
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}Notebook{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the{{255:0 arg="0x0400"}}laptop{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305140
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}Study Set{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}study set{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305150
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}Novel{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}novel{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305160
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}Cell Phone{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}cell phone{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305170
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave them a{{255:0 arg="0x0400"}}CD{{255:0 arg="0x0100"}} as a present!
-
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}CD{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305200
@@ -1308,7 +1103,6 @@ items, they'll start using
 them. Give them all the 
 gifts to enrich their lives!
 
-
 ---
 id: 1305250
 attribute: 0x6400B40001010007
@@ -1318,13 +1112,11 @@ atmosphere by giving the Mii
 a new interior. Try to find an
 interior that matches your Mii!
 
-
 ---
 id: 1305300
 attribute: 0x6400B40001010001
 ---
 What would you like to give?
-
 
 ---
 id: 1305350
@@ -1332,7 +1124,6 @@ attribute: 0x6400E00001010001
 ---
 {{255:0 arg="0x0100"}}You gave a {{255:0 arg="0x0400"}}new interior{{255:0 arg="0x0100"}}
 as a present!
-
 
 ---
 id: 1305400
@@ -1343,13 +1134,11 @@ You can use it to change the
 room's interior to the ones you
 have given to your Mii so far.
 
-
 ---
 id: 1305500
 attribute: 0x6400E00001010001
 ---
 {{255:0 arg="0x0100"}}You gave a {{255:0 arg="0x0400"}}catchphrase{{255:0 arg="0x0100"}} as a present!
-
 
 ---
 id: 1305600
@@ -1360,37 +1149,33 @@ they will keep frequently repeat it.
 Teach them something they're
 likely to say!
 
-
 ---
 id: 1305700
 attribute: 0x6400B40001010007
 ---
-The {{255:0 arg="0x0200"}}Phrase icon{{255:0 arg="0x0800"}} has been added!
-You can use it to edit an
-assigned phrase.
-
+The {{255:0 arg="0x0200"}}Catchphrase icon{{255:0 arg="0x0800"}} has been added!
+You can use it to edit the
+catchphrase.
 
 ---
 id: 1306000
 attribute: 0x6400B40001010007
 ---
 You can also give a
-{{255:0 arg="0x0200"}}Practical Item{{255:0 arg="0x0800"}} as a present.
-These practical items
-will be needed to solve problems!
-
+practical {{255:0 arg="0x0200"}}Practical item{{255:0 arg="0x0800"}} as a present.
+Sometimes these practical
+items will be necessary!
 
 ---
 id: 1306100
 attribute: 0x6400B40001010007
 ---
-Collect as many {{255:0 arg="0x0200"}}treasures{{255:0 arg="0x0800"}} as you
+Collect as many {{255:0 arg="0x0200"}}treasures{{255:0 arg="0x0800"}}s as you
 can! They will be displayed in
 the album at the City Hall.
 You can sell them at the
-Pawn Shop when it opens.
+Pawn Shop when it's open.
 (Sold items remain in the album.)
-
 
 ---
 id: 1310000
@@ -1398,13 +1183,11 @@ attribute: 0x6400E00001010001
 ---
 Enter a catchphrase.
 
-
 ---
 id: 1310100
 attribute: 0x6400E00001010001
 ---
 Please enter a happy phrase.
-
 
 ---
 id: 1310200
@@ -1412,20 +1195,17 @@ attribute: 0x6400E00001010001
 ---
 Please enter an angry phrase.
 
-
 ---
 id: 1310300
 attribute: 0x6400E00001010001
 ---
 Please enter a sad phrase.
 
-
 ---
 id: 1310400
 attribute: 0x6400E00001010001
 ---
 Please enter a troubled phrase.
-
 
 ---
 id: 1311000
