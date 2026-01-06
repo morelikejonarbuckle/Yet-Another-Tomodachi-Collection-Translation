@@ -2954,7 +2954,7 @@ attribute: 0x6400E10001010001
 id: 201100
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}They really like it!.
+{{255:0 arg="0x0100"}}They really like it!
 
 
 ---
@@ -2996,7 +2996,7 @@ attribute: 0x6400E10001010001
 id: 202100
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}They didn’t like that… 
+{{255:0 arg="0x0100"}}They didn’t like that...
 
 
 ---
@@ -3010,7 +3010,7 @@ attribute: 0x6400E10001010001
 id: 300100
 attribute: 0x6400E10001010001
 ---
-{{255:0 arg="0x0100"}}It ended in dissapointment...
+{{255:0 arg="0x0100"}}It ended badly...
 
 
 ---
@@ -3746,7 +3746,7 @@ Get dressed
 id: 902250
 attribute: 0x6400500001030001
 ---
-Just go already
+Just go
 
 
 ---
@@ -3844,7 +3844,7 @@ Look
 id: 950110
 attribute: 0x6400500001010001
 ---
-Sorry
+Uhhh nope
 
 
 ---
@@ -4187,8 +4187,8 @@ attribute: 0x6400E10001000002
 id: 1000420
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'll clean the gutters off your roof even though
-we live in a shared apartment. Please go out with me!"
+{{255:0 arg="0x0100"}}"I'll clean your apartment every
+week. Please go out with me!"
 
 
 ---
@@ -5797,6 +5797,7 @@ id: 6005001
 attribute: 0x6400E10001000002
 ---
 ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+
 
 
 
