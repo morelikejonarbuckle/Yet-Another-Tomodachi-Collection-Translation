@@ -1238,13 +1238,13 @@ Marimo
 id: 204
 attribute: 0x6400780001030101
 ---
-Stomach Medicine
+Stomach Meds
 
 ---
 id: 205
 attribute: 0x6400780001030101
 ---
-Cold Medicine
+Cold Meds
 
 ---
 id: 206
@@ -3075,5 +3075,6 @@ id: 1000000
 attribute: 0x6400780001030001
 ---
 ？？？
+
 
 
