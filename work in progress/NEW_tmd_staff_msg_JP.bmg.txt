@@ -1086,71 +1086,71 @@ attribute: 0x6400F00001000101
 id: 153
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}
+           {{255:0 arg="0x0900"}}AeonSake (not affiliated, 
 
 
 ---
 id: 154
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} 
+           {{255:0 arg="0x0900"}} they just made the text editor work)
 
 
 ---
 id: 155
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}} SPECIAL UNTHANKS
+        {{255:0 arg="0x0700"}}}
 
 
 ---
 id: 156
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}Anyone at Nintendo who keeps
-           trying to remove cool stuff
+           {{255:0 arg="0x0900"}} SPECIAL UNTHANKS
 
 
 ---
 id: 157
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}(Specifically Ryujinx)
+           {{255:0 arg="0x0900"}}Anyone at Nintendo who keeps
+          
 
 
 ---
 id: 158
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} 
+           {{255:0 arg="0x0900"}} trying to remove cool stuff
 
 
 ---
 id: 159
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} 
+           {{255:0 arg="0x0900"}} (Specifically Ryujinx)
 
 
 ---
 id: 160
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}EXECUTIVE PRODUCER
+        {{255:0 arg="0x0700"}}
 
 
 ---
 id: 161
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}Satoru Iwata
+           {{255:0 arg="0x0900"}}EXECUTIVE PRODUCER
 
 
 ---
 id: 162
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} 
+           {{255:0 arg="0x0900"}} Satoru Iwata
 
 
 ---
@@ -1418,5 +1418,6 @@ attribute: 0x6400F00001000101
 ---
 
           {{255:0 arg="0x0900"}}
+
 
 
