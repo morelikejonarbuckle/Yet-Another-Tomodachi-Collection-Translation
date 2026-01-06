@@ -1058,8 +1058,8 @@ id: 201700
 attribute: 0x6400A00001010006
 ---
 This is where you register new
-residents and save. You can also
-do some other things. If you
+residents and save, 
+among other things. If you
 have any problems, go here!
 
 ---
@@ -1076,6 +1076,7 @@ the catalog.
 id: 201900
 attribute: 0x6400A00001010006
 ---
+
 An apartment building where
 residents live. You can tap
 on windows to look at them,
@@ -2558,6 +2559,7 @@ to {{255:0 arg="0x0200"}}save{{255:0 arg="0x0800"}},
 or {{255:0 arg="0x0200"}}press START{{255:0 arg="0x0800"}} on this map screen.
 Never forget to save the game,
 {{255:0 arg="0x0200"}}or else.{{255:0 arg="0x0800"}}
+
 ---
 id: 1303000
 attribute: 0x6400B40001010007
@@ -2655,7 +2657,7 @@ Avg. Age
 id: 1500104
 attribute: 0x6400400001030001
 ---
-♂:♀ Ratio
+♂:♀
 
 ---
 id: 1500105
@@ -2805,7 +2807,7 @@ Perfectly Balanced
 id: 1500129
 attribute: 0x6400400001030001
 ---
-Problems Solved
+Solved P.
 
 ---
 id: 1500130
