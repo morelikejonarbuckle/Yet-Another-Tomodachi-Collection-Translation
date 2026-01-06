@@ -482,7 +482,7 @@ Soft-Serve Ice Cream
 id: 78
 attribute: 0x6400780001030101
 ---
-Live Sea Bream Sashimi
+Sea Bream Sashimi
 
 ---
 id: 79
@@ -3075,4 +3075,5 @@ id: 1000000
 attribute: 0x6400780001030001
 ---
 ？？？
+
 
