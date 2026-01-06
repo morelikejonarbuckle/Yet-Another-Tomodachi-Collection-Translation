@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -10,97 +10,83 @@ hasSTR1: false
 hasFLW1: false
 %%%
 
-
 ---
 id: 0
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 1
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 2
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 3
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 4
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 5
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 6
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 7
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 8
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 9
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 10
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 11
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 12
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 13
@@ -108,76 +94,65 @@ attribute: 0x6400F00001000101
 ---
 {{255:0 arg="0x0900"}}        TOMODACHI COLLECTION
 
-
 ---
 id: 14
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 15
 attribute: 0x6400F00001000101
 ---
-{{255:0 arg="0x0900"}}             STAFF CREDITS 
-
+{{255:0 arg="0x0900"}}             STAFF CREDITS　
 
 ---
 id: 16
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 17
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 18
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 19
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 20
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 21
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 22
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 23
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 24
@@ -185,27 +160,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}PRODUCER
 
-
 ---
 id: 25
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Yoshio Sakamoto
 
-
 ---
 id: 26
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 27
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 28
@@ -213,27 +184,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}CHIEF DIRECTOR
 
-
 ---
 id: 29
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ryutaro Takahashi
 
-
 ---
 id: 30
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 31
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 32
@@ -241,27 +208,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}PROGRAM DIRECTOR
 
-
 ---
 id: 33
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Eisaku Nakae
 
-
 ---
 id: 34
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 35
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 36
@@ -269,13 +232,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}PROGRAMMING
 
-
 ---
 id: 37
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Masahiro Kawano
-
 
 ---
 id: 38
@@ -283,27 +244,23 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Masanori Nakagawa
 
-
 ---
 id: 39
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Masanori Unno
 
-
 ---
 id: 40
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 41
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 42
@@ -311,27 +268,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}DESIGN DIRECTOR
 
-
 ---
 id: 43
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Mai Okamoto
 
-
 ---
 id: 44
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 45
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 46
@@ -339,27 +292,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}3D DESIGN DIRECTOR
 
-
 ---
 id: 47
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Masayuki Okada
 
-
 ---
 id: 48
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 49
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 50
@@ -367,13 +316,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}DESIGN
 
-
 ---
 id: 51
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Naoko Okamoto
-
 
 ---
 id: 52
@@ -381,27 +328,23 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Eri Yamagami
 
-
 ---
 id: 53
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ryoko Yamazaki
 
-
 ---
 id: 54
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 55
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 56
@@ -409,27 +352,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}BEST JOB COMMENT
 
-
 ---
 id: 57
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kyoko Watanabe
 
-
 ---
 id: 58
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 59
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 60
@@ -437,13 +376,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}MUSIC
 
-
 ---
 id: 61
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Daisuke Shiiba
-
 
 ---
 id: 62
@@ -451,27 +388,23 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Asuka Ito
 
-
 ---
 id: 63
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 64
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 65
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}SOUND EFFECTS
-
+        {{255:0 arg="0x0700"}}SOUND EFFECT
 
 ---
 id: 66
@@ -479,20 +412,17 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Riyu Tamura
 
-
 ---
 id: 67
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 68
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 69
@@ -500,13 +430,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}ARTWORK
 
-
 ---
 id: 70
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Sachiko Nakamichi
-
 
 ---
 id: 71
@@ -514,27 +442,23 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Toki Kando
 
-
 ---
 id: 72
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ryosuke Hirayama
 
-
 ---
 id: 73
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 74
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 75
@@ -542,13 +466,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}TECHNICAL SUPPORT
 
-
 ---
 id: 76
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Yoshito Yasuda
-
 
 ---
 id: 77
@@ -556,20 +478,17 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ryusuke Niitani
 
-
 ---
 id: 78
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 79
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 80
@@ -577,27 +496,23 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}GENERAL SUPPORT
 
-
 ---
 id: 81
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Naomi Kato
 
-
 ---
 id: 82
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 83
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 84
@@ -605,13 +520,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}DEBUG SUPPORT
 
-
 ---
 id: 85
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kimiharu Hyodo
-
 
 ---
 id: 86
@@ -619,20 +532,17 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kiyoshi Ishibiki
 
-
 ---
 id: 87
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 88
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 89
@@ -640,13 +550,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}DEBUG
 
-
 ---
 id: 90
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kuniaki Yamashita
-
 
 ---
 id: 91
@@ -654,13 +562,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Masaharu Shima
 
-
 ---
 id: 92
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Tohru Takahashi
-
 
 ---
 id: 93
@@ -668,13 +574,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Naotaka Matsumoto
 
-
 ---
 id: 94
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Shoichiro Takeyoshi
-
 
 ---
 id: 95
@@ -682,13 +586,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Koki Higashino
 
-
 ---
 id: 96
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Yoshimi Uchiyama
-
 
 ---
 id: 97
@@ -696,13 +598,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Maki Ohnishi
 
-
 ---
 id: 98
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Mayuka Yamauchi
-
 
 ---
 id: 99
@@ -710,13 +610,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Keisuke Kaneko
 
-
 ---
 id: 100
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Shunsuke Muneyasu
-
 
 ---
 id: 101
@@ -724,13 +622,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Tomohiro Hirao
 
-
 ---
 id: 102
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Maki Watanabe
-
 
 ---
 id: 103
@@ -738,13 +634,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Yoshikazu Tanaka
 
-
 ---
 id: 104
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Aimi Ayashiro
-
 
 ---
 id: 105
@@ -752,13 +646,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Eri Iwasaki
 
-
 ---
 id: 106
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Jun Sugiyama
-
 
 ---
 id: 107
@@ -766,13 +658,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Emi Kashiuda
 
-
 ---
 id: 108
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Mahoto Sawada
-
 
 ---
 id: 109
@@ -780,20 +670,17 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Shogo Miyamae
 
-
 ---
 id: 110
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 111
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 112
@@ -801,13 +688,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}Mii SUPPORT
 
-
 ---
 id: 113
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Hisashi Nogami
-
 
 ---
 id: 114
@@ -815,13 +700,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Satoru Osako
 
-
 ---
 id: 115
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ryuji Kobayashi
-
 
 ---
 id: 116
@@ -829,13 +712,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Mitsuhiro Hikino
 
-
 ---
 id: 117
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Keiko Kinoshita
-
 
 ---
 id: 118
@@ -843,13 +724,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Masayuki Kuwajima
 
-
 ---
 id: 119
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Takafumi Yoshimi
-
 
 ---
 id: 120
@@ -857,20 +736,17 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}SRD
 
-
 ---
 id: 121
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 122
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 123
@@ -878,13 +754,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}SPECIAL THANKS
 
-
 ---
 id: 124
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Yoko Matsui
-
 
 ---
 id: 125
@@ -892,13 +766,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kiyomi Itani
 
-
 ---
 id: 126
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Rika Nakamura
-
 
 ---
 id: 127
@@ -906,13 +778,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Soichi Yamamoto
 
-
 ---
 id: 128
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Shiho Yasuda
-
 
 ---
 id: 129
@@ -920,13 +790,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Akira Kinashi
 
-
 ---
 id: 130
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kazuya Yoshioka
-
 
 ---
 id: 131
@@ -934,13 +802,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Noriko Nakao
 
-
 ---
 id: 132
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Norihito Ito
-
 
 ---
 id: 133
@@ -948,13 +814,11 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ken Kato
 
-
 ---
 id: 134
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Tomoko Nakayama
-
 
 ---
 id: 135
@@ -962,20 +826,17 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Ami Makino
 
-
 ---
 id: 136
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 137
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 138
@@ -983,13 +844,11 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}PROTOTYPE DEVELOPMENT
 
-
 ---
 id: 139
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Norikatsu Furuta
-
 
 ---
 id: 140
@@ -997,27 +856,23 @@ attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Takafumi Masaoka
 
-
 ---
 id: 141
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Kyohei Seki
 
-
 ---
 id: 142
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 143
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 144
@@ -1025,147 +880,125 @@ attribute: 0x6400F00001000101
 ---
         {{255:0 arg="0x0700"}}SUPERVISOR
 
-
 ---
 id: 145
 attribute: 0x6400F00001000101
 ---
            {{255:0 arg="0x0900"}}Katsuya Yamano
 
-
 ---
 id: 146
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 147
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 148
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}} ENGLISH FAN TRANSLATION
-
+        {{255:0 arg="0x0700"}}EXECUTIVE PRODUCER
 
 ---
 id: 149
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}
-
+           {{255:0 arg="0x0900"}}Satoru Iwata
 
 ---
 id: 150
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}jjjewel (font, original mod)
-
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 151
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}morelikejonarbuckle0 (text edits, some sprite edits)
-
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 152
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}LandonAndEmma (text edits, proofreading)
-
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 153
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}AeonSake (not affiliated, 
-
+        {{255:0 arg="0x0700"}}ENGLISH FAN TRANSLATION
 
 ---
 id: 154
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} they just made the text editor work)
-
+           {{255:0 arg="0x0900"}}jjjewel (font, original mod)
 
 ---
 id: 155
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}}
-
+           {{255:0 arg="0x0900"}}morelikejonarbuckle0 (text and graphics)
 
 ---
 id: 156
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} SPECIAL UNTHANKS
-
+           {{255:0 arg="0x0900"}}LandonAndEmma (text, proofreading, troubleshooting)
 
 ---
 id: 157
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}Anyone at Nintendo who keeps
-          
-
+           {{255:0 arg="0x0900"}}AeonSake (not affiliated, just made text editor)
 
 ---
 id: 158
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} trying to remove cool stuff
-
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 159
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} (Specifically Ryujinx)
-
+        {{255:0 arg="0x0700"}}SPECIAL UNTHANKS
 
 ---
 id: 160
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}
-
+           {{255:0 arg="0x0900"}}}Anyone at Nintendo who keeps
 
 ---
 id: 161
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}EXECUTIVE PRODUCER
-
+           {{255:0 arg="0x0900"}}trying to remove cool stuff
 
 ---
 id: 162
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} Satoru Iwata
-
+           {{255:0 arg="0x0900"}}(Specifically Ryujinx)
 
 ---
 id: 163
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} 
-
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 164
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}} 
-
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 165
@@ -1173,13 +1006,11 @@ attribute: 0x6400F00001000101
 ---
 {{255:0 arg="0x0900"}}         All Rights, including the
 
-
 ---
 id: 166
 attribute: 0x6400F00001000101
 ---
 {{255:0 arg="0x0900"}}     copyrights of Game, Scenario,
-
 
 ---
 id: 167
@@ -1187,160 +1018,137 @@ attribute: 0x6400F00001000101
 ---
 {{255:0 arg="0x0900"}}     Music and Program, reserved
 
-
 ---
 id: 168
 attribute: 0x6400F00001000101
 ---
 {{255:0 arg="0x0900"}}              by NINTENDO.
 
-
 ---
 id: 169
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 170
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 171
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 172
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 173
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 174
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 175
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 176
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 177
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 178
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 179
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 181
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 182
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 183
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 184
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 185
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 186
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}} 
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 187
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}}} that’s it you beat the game
-
+          {{255:0 arg="0x0900"}}　
 
 ---
 id: 188
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 189
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 190
 attribute: 0x6400F00001000101
 ---
- 
-
+　
 
 ---
 id: 191
@@ -1348,13 +1156,11 @@ attribute: 0x6400F00001000101
 ---
  
 
-
 ---
 id: 192
 attribute: 0x6400F00001000101
 ---
  
-
 
 ---
 id: 193
@@ -1362,13 +1168,11 @@ attribute: 0x6400F00001000101
 ---
  
 
-
 ---
 id: 194
 attribute: 0x6400F00001000101
 ---
  
-
 
 ---
 id: 195
@@ -1376,13 +1180,11 @@ attribute: 0x6400F00001000101
 ---
  
 
-
 ---
 id: 196
 attribute: 0x6400F00001000101
 ---
  
-
 
 ---
 id: 197
@@ -1390,13 +1192,11 @@ attribute: 0x6400F00001000101
 ---
  
 
-
 ---
 id: 198
 attribute: 0x6400F00001000101
 ---
  
-
 
 ---
 id: 199
@@ -1404,20 +1204,14 @@ attribute: 0x6400F00001000101
 ---
  
 
-
 ---
 id: 200
 attribute: 0x6400F00001000101
 ---
  
 
-
 ---
 id: 240
 attribute: 0x6400F00001000101
 ---
-
-          {{255:0 arg="0x0900"}}
-
-
-
+          {{255:0 arg="0x0900"}}　 
