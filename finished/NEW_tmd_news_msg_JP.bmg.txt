@@ -34,7 +34,7 @@ id: 100110
 attribute: 0x6400E10001030002
 ---
 {{255:0 arg="0x0100"}}It's {{1:30 arg="0x0000"}}:{{1:30 arg="0x0100"}}.
-We've got Mii News.
+Time Mii News.
 
 
 ---
@@ -78,8 +78,8 @@ attribute: 0x6400E10001000002
 id: 100124
 attribute: 0x6400E10001000002
 ---
-Good afternoon. It's time for
-the evening Mii News.
+Good afternoon. Here's the
+latest Mii News.
 
 
 ---
@@ -20276,3 +20276,4 @@ attribute: 0x6400E10001030002
  
 
 ---
+
