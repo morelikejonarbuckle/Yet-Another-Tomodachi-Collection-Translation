@@ -10,14 +10,11 @@ hasSTR1: false
 hasFLW1: false
 %%%
 
-
 ---
 id: 100100
 attribute: 0x6400E10001030002
 ---
 {{1:30 arg="0x0000"}}
-
-
 
 
 ---
@@ -27,22 +24,18 @@ attribute: 0x6400E10001030002
 {{255:0 arg="0x0800"}} {{1:30 arg="0x0000"}} （Age {{1:30 arg="0x0100"}}）
 
 
-
-
 ---
 id: 100110
 attribute: 0x6400E10001030002
 ---
 {{255:0 arg="0x0100"}}It's {{1:30 arg="0x0000"}}:{{1:30 arg="0x0100"}}.
-Time Mii News.
-
+Here's the latest Mii News.
 
 ---
 id: 100111
 attribute: 0x6400E10001030002
 ---
 {{1:30 arg="0x0000"}}ジ{{1:30 arg="0x0100"}}フンニナリマシタ.ミーニュースヲオツタエシマス
-
 
 ---
 id: 100120
@@ -51,28 +44,24 @@ attribute: 0x6400E10001030002
 It's midnight. It’s *yawn*
 time for Mii News.
 
-
 ---
 id: 100121
 attribute: 0x6400E10001030002
 ---
 ヒヅケガカワッテ_{{1:30 arg="0x0000"}}_ゴゼンレージニナリマシタ.ミーニュースヲオツタエシマス
 
-
 ---
 id: 100122
 attribute: 0x6400E10001000002
 ---
-Good morning. It is {{1:30 arg="0x0000"}} o'clock.
-Here's the Mii News.
-
+Good morning. It's {{1:30 arg="0x0000"}} o'clock.
+Here's the latest Mii News.
 
 ---
 id: 100123
 attribute: 0x6400E10001000002
 ---
 オハヨーゴザイマス.{{1:30 arg="0x0000"}}ジノミーニュースヲオツタエシマス
-
 
 ---
 id: 100124
@@ -81,28 +70,24 @@ attribute: 0x6400E10001000002
 Good afternoon. Here's the
 latest Mii News.
 
-
 ---
 id: 100125
 attribute: 0x6400E10001000002
 ---
 コンニチワ.ショーゴノミーニュースヲオツタエシマス
 
-
 ---
 id: 100126
 attribute: 0x6400E10001000002
 ---
-Good evening. This is {{1:30 arg="0x0000"}} o'clock
+Good evening. Here's the {{1:30 arg="0x0000"}} o'clock
 Mii News.
-
 
 ---
 id: 100127
 attribute: 0x6400E10001000002
 ---
 コンバンワ.{{1:30 arg="0x0000"}}ジノミーニュースヲオツタエシマス
-
 
 ---
 id: 100128
@@ -111,13 +96,11 @@ attribute: 0x6400E10001000002
 Happy New Year! Welcome to {{1:30 arg="0x0000"}}.
 Time for {{1:30 arg="0x0100"}} o'clock Mii News.
 
-
 ---
 id: 100129
 attribute: 0x6400E10001000002
 ---
 アケマシテオメデトーゴザイマス.{{1:30 arg="0x0000"}}ネンイチガツツイタチ_{{1:30 arg="0x0100"}}ジノミーニュースヲオツタエシマス
-
 
 ---
 id: 100130
@@ -125,13 +108,11 @@ attribute: 0x6400E10001030002
 ---
 {{255:0 arg="0x0100"}}We've got some breaking news!
 
-
 ---
 id: 100131
 attribute: 0x6400E10001030002
 ---
 ニュースソクホーデス
-
 
 ---
 id: 100140
@@ -139,13 +120,11 @@ attribute: 0x6400E10001030002
 ---
 We asked some islanders for their opinions.
 
-
 ---
 id: 100141
 attribute: 0x6400E10001030002
 ---
 マチノミーニキキマシタ
-
 
 ---
 id: 100150
@@ -153,13 +132,11 @@ attribute: 0x6400E10001030002
 ---
 {{255:0 arg="0x0100"}}Yes.
 
-
 ---
 id: 100151
 attribute: 0x6400E10001030002
 ---
 .ハイ.
-
 
 ---
 id: 100160
@@ -168,13 +145,11 @@ attribute: 0x6400E10001030002
 This has been {{1:30 arg="0x0000"}} o'clock Mii News.
 I'm your host, {{1:30 arg="0x0100"}}.
 
-
 ---
 id: 100161
 attribute: 0x6400E10001030002
 ---
 {{1:30 arg="0x0000"}}ジノミーニュース.{{1:30 arg="0x0100"}}ガオツタエシマシタ
-
 
 ---
 id: 100170
@@ -183,13 +158,11 @@ attribute: 0x6400E10001030002
 {{255:0 arg="0x0100"}}This is the end of our breaking news.
 I'm your host, {{1:30 arg="0x0100"}}.
 
-
 ---
 id: 100171
 attribute: 0x6400E10001030002
 ---
 イジョー_ニュースソクホー.{{1:30 arg="0x0100"}}ガオツタエシマシタ
-
 
 ---
 id: 100172
@@ -197,13 +170,11 @@ attribute: 0x6400600001030001
 ---
 {{255:0 arg="0x0800"}}Recent news
 
-
 ---
 id: 100173
 attribute: 0x6400600001030001
 ---
 {{255:0 arg="0x0800"}}Next
-
 
 ---
 id: 100200
@@ -211,21 +182,17 @@ attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"You can only save 10 recent headlines."
 
-
 ---
 id: 100201
 attribute: 0x6400E10001030001
 ---
 ホゴデキルニュースワ_ジュッコマデデス
 
-
 ---
 id: 200000
 attribute: 0x6400000101010001
 ---
 タイトルダミー
-this translates to dummy text. apparently one of the documents i tried to save didn't work and now it broke the engire .bmg script so now i'm stuck manually copypasting everything again. it's not too bad though because now you don't get a big space in front of every line
-
 
 ---
 id: 200010
@@ -233,237 +200,203 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}LALALALALALA I CANT HEAR YOU
 
-
 ---
 id: 202010
 attribute: 0x6400E10001010001
 ---
-A hidden secret lies here.
-
+写真キャプションダミー
 
 ---
 id: 203000
 attribute: 0x6400E10001030001
 ---
-Day Zero
-
+0th
 
 ---
 id: 203001
 attribute: 0x6400E10001030001
 ---
-1st day of the month
-
+1st
 
 ---
 id: 203002
 attribute: 0x6400E10001030001
 ---
-2nd day of the month
-
+2nd
 
 ---
 id: 203003
 attribute: 0x6400E10001030001
 ---
-3rd day of the month
-
+3rd
 
 ---
 id: 203004
 attribute: 0x6400E10001030001
 ---
-4th day of the month
-
+4th
 
 ---
 id: 203005
 attribute: 0x6400E10001030001
 ---
-5th day of the month
-
+5th
 
 ---
 id: 203006
 attribute: 0x6400E10001030001
 ---
-6th day of the month
-
+6th
 
 ---
 id: 203007
 attribute: 0x6400E10001030001
 ---
-7th day of the month
-
+7th
 
 ---
 id: 203008
 attribute: 0x6400E10001030001
 ---
-8th day of the month
-
+8th
 
 ---
 id: 203009
 attribute: 0x6400E10001030001
 ---
-9th day of the month
-
+9th
 
 ---
 id: 203010
 attribute: 0x6400E10001030001
 ---
-10th day of the month
-
+10th
 
 ---
 id: 203011
 attribute: 0x6400E10001030001
 ---
-11th day of the month
-
+11th
 
 ---
 id: 203012
 attribute: 0x6400E10001030001
 ---
-12th day of the month
-
+12th
 
 ---
 id: 203013
 attribute: 0x6400E10001030001
 ---
-13th day of the month
-
+13th
 
 ---
 id: 203014
 attribute: 0x6400E10001030001
 ---
-14th day of the month
-
+14th
 
 ---
 id: 203015
 attribute: 0x6400E10001030001
 ---
-15th day of the month
-
+15th
 
 ---
 id: 203016
 attribute: 0x6400E10001030001
 ---
-16th day of the month
-
+16th
 
 ---
 id: 203017
 attribute: 0x6400E10001030001
 ---
-17th day of the month
-
+17th
 
 ---
 id: 203018
 attribute: 0x6400E10001030001
 ---
-18th day of the month
-
+18th
 
 ---
 id: 203019
 attribute: 0x6400E10001030001
 ---
-19th day of the month
-
+19th
 
 ---
 id: 203020
 attribute: 0x6400E10001030001
 ---
-20th day of the month
-
+20th
 
 ---
 id: 203021
 attribute: 0x6400E10001030001
 ---
-21st day of the month
-
+21st
 
 ---
 id: 203022
 attribute: 0x6400E10001030001
 ---
-22nd day of the month
-
+22nd
 
 ---
 id: 203023
 attribute: 0x6400E10001030001
 ---
-23rd day of the month
-
+23rd
 
 ---
 id: 203024
 attribute: 0x6400E10001030001
 ---
-24th day of the month
-
+24th
 
 ---
 id: 203025
 attribute: 0x6400E10001030001
 ---
-25th day of the month
-
+25th
 
 ---
 id: 203026
 attribute: 0x6400E10001030001
 ---
-26th day of the month
-
+26th
 
 ---
 id: 203027
 attribute: 0x6400E10001030001
 ---
-27th day of the month
-
+27th
 
 ---
 id: 203028
 attribute: 0x6400E10001030001
 ---
-28th day of the month
-
+28th
 
 ---
 id: 203029
 attribute: 0x6400E10001030001
 ---
-29th day of the month
-
+29th
 
 ---
 id: 203030
 attribute: 0x6400E10001030001
 ---
-30th day of the month
-
+30th
 
 ---
 id: 203031
 attribute: 0x6400E10001030001
 ---
-31st day of the month
-
+31st
 
 ---
 id: 204000
@@ -471,13 +404,11 @@ attribute: 0x6400E10001030001
 ---
 0
 
-
 ---
 id: 204001
 attribute: 0x6400E10001030001
 ---
 1
-
 
 ---
 id: 204002
@@ -485,13 +416,11 @@ attribute: 0x6400E10001030001
 ---
 2
 
-
 ---
 id: 204003
 attribute: 0x6400E10001030001
 ---
 3
-
 
 ---
 id: 204004
@@ -499,13 +428,11 @@ attribute: 0x6400E10001030001
 ---
 4
 
-
 ---
 id: 204005
 attribute: 0x6400E10001030001
 ---
 5
-
 
 ---
 id: 204006
@@ -513,13 +440,11 @@ attribute: 0x6400E10001030001
 ---
 6
 
-
 ---
 id: 204007
 attribute: 0x6400E10001030001
 ---
 7
-
 
 ---
 id: 204008
@@ -527,13 +452,11 @@ attribute: 0x6400E10001030001
 ---
 8
 
-
 ---
 id: 204009
 attribute: 0x6400E10001030001
 ---
 9
-
 
 ---
 id: 204010
@@ -541,13 +464,11 @@ attribute: 0x6400E10001030001
 ---
 10
 
-
 ---
 id: 204011
 attribute: 0x6400E10001030001
 ---
 11
-
 
 ---
 id: 204012
@@ -555,13 +476,11 @@ attribute: 0x6400E10001030001
 ---
 12
 
-
 ---
 id: 204013
 attribute: 0x6400E10001030001
 ---
 13
-
 
 ---
 id: 204014
@@ -569,13 +488,11 @@ attribute: 0x6400E10001030001
 ---
 14
 
-
 ---
 id: 204015
 attribute: 0x6400E10001030001
 ---
 15
-
 
 ---
 id: 204016
@@ -583,13 +500,11 @@ attribute: 0x6400E10001030001
 ---
 16
 
-
 ---
 id: 204017
 attribute: 0x6400E10001030001
 ---
 17
-
 
 ---
 id: 204018
@@ -597,13 +512,11 @@ attribute: 0x6400E10001030001
 ---
 18
 
-
 ---
 id: 204019
 attribute: 0x6400E10001030001
 ---
 19
-
 
 ---
 id: 204020
@@ -611,13 +524,11 @@ attribute: 0x6400E10001030001
 ---
 20
 
-
 ---
 id: 204021
 attribute: 0x6400E10001030001
 ---
 21
-
 
 ---
 id: 204022
@@ -625,13 +536,11 @@ attribute: 0x6400E10001030001
 ---
 22
 
-
 ---
 id: 204023
 attribute: 0x6400E10001030001
 ---
 23
-
 
 ---
 id: 204024
@@ -639,13 +548,11 @@ attribute: 0x6400E10001030001
 ---
 24
 
-
 ---
 id: 300000
 attribute: 0x6400E10001030001
 ---
 I'm a bit excited.
-
 
 ---
 id: 300001
@@ -653,13 +560,11 @@ attribute: 0x6400E10001030001
 ---
 チョットドキドキシマシタ
 
-
 ---
 id: 300010
 attribute: 0x6400E10001030001
 ---
 Am I on TV now!?
-
 
 ---
 id: 300011
@@ -667,13 +572,11 @@ attribute: 0x6400E10001030001
 ---
 イマテレビニウツッテルンデスカ！？
 
-
 ---
 id: 300020
 attribute: 0x6400E10001030001
 ---
-I can understand this feeling.
-
+I understand how you feel.
 
 ---
 id: 300021
@@ -681,20 +584,17 @@ attribute: 0x6400E10001030001
 ---
 ソノキモチワワカリマス
 
-
 ---
 id: 300030
 attribute: 0x6400E10001030001
 ---
 I was just thinking of doing that.
 
-
 ---
 id: 300031
 attribute: 0x6400E10001030001
 ---
 ワタシモシヨートオモッテタノニ＿サキニヤラレマシタ
-
 
 ---
 id: 300040
@@ -703,21 +603,18 @@ attribute: 0x6400E10001030001
 Uh... Non-specific excuse!
 *runs away*
 
-
 ---
 id: 300041
 attribute: 0x6400E10001030001
 ---
 アッ＿ヨージヲオモイダシタノデゴメンナサイ
 
-
 ---
 id: 300050
 attribute: 0x6400E10001030001
 ---
-Is there anything more
-interesting than this?
-
+Would you like to hear
+something more interesting?
 
 ---
 id: 300051
@@ -725,13 +622,11 @@ attribute: 0x6400E10001030001
 ---
 ソレヨリオモシロイハナシガアルノデ＿キイテクレマスカ？
 
-
 ---
 id: 300060
 attribute: 0x6400E10001030001
 ---
-Such a ridiculous thing happened...?
-
+That... that's ridiculous...
 
 ---
 id: 300061
@@ -739,13 +634,11 @@ attribute: 0x6400E10001030001
 ---
 ソ＿ソンナバカナコトガオキルナンテ
 
-
 ---
 id: 300070
 attribute: 0x6400E10001030001
 ---
-When will this news be aired?
-
+When is this gonna air?
 
 ---
 id: 300071
@@ -753,13 +646,11 @@ attribute: 0x6400E10001030001
 ---
 コレッテ＿イツホーソーサレルンデスカー？
 
-
 ---
 id: 300080
 attribute: 0x6400E10001030001
 ---
-Well, that's not easy, huh?
-
+Ok, that HAS to be fake.
 
 ---
 id: 300081
@@ -767,13 +658,11 @@ attribute: 0x6400E10001030001
 ---
 マタマター＿ソンナワケナイデショー？
 
-
 ---
 id: 300090
 attribute: 0x6400E10001030001
 ---
-Wow, this is thrilling!
-
+Wow, this is exciting!
 
 ---
 id: 300091
@@ -781,13 +670,11 @@ attribute: 0x6400E10001030001
 ---
 ナンダカワクワクシマスネ！
 
-
 ---
 id: 300100
 attribute: 0x6400E10001030001
 ---
-We've got to tell others about this!
-
+I've got to tell others about this!
 
 ---
 id: 300101
@@ -795,13 +682,11 @@ attribute: 0x6400E10001030001
 ---
 ハヤクダレカニシラセナイト！
 
-
 ---
 id: 300110
 attribute: 0x6400E10001030001
 ---
 When did that happen?
-
 
 ---
 id: 300111
@@ -809,13 +694,11 @@ attribute: 0x6400E10001030001
 ---
 ソンナコト＿イツノマニナッテイタノ？
 
-
 ---
 id: 300120
 attribute: 0x6400E10001030001
 ---
-That's tough!
-
+That's terrible!
 
 ---
 id: 300121
@@ -823,20 +706,18 @@ attribute: 0x6400E10001030001
 ---
 ソレワタイヘンダ！
 
-
 ---
 id: 300130
 attribute: 0x6400E10001030001
 ---
-I could do much better.
-
+I can do something more amazing
+than that.
 
 ---
 id: 300131
 attribute: 0x6400E10001030001
 ---
 ワタシワ＿モットスゴイコトガデキマスヨ
-
 
 ---
 id: 300140
@@ -845,13 +726,11 @@ attribute: 0x6400E10001030001
 We could make some merchandise
 out of this.
 
-
 ---
 id: 300141
 attribute: 0x6400E10001030001
 ---
 ソレデナニカ＿ショーバイガデキナイカナー
-
 
 ---
 id: 300150
@@ -859,13 +738,11 @@ attribute: 0x6400E10001030001
 ---
 World peace!
 
-
 ---
 id: 300151
 attribute: 0x6400E10001030001
 ---
 ピースピーース
-
 
 ---
 id: 300160
@@ -873,20 +750,17 @@ attribute: 0x6400E10001030001
 ---
 Is there any more exciting news?
 
-
 ---
 id: 300161
 attribute: 0x6400E10001030001
 ---
 モットワクワクスルニュースワナインデスカ？
 
-
 ---
 id: 300170
 attribute: 0x6400E10001030001
 ---
-Wow, this is a truly historic moment.
-
+Wow, this is a truly historic moment!
 
 ---
 id: 300171
@@ -894,13 +768,12 @@ attribute: 0x6400E10001030001
 ---
 スゴイ＿レキシテキシュンカンデスネ
 
-
 ---
 id: 300180
 attribute: 0x6400E10001030001
 ---
-Can you give me more details about it?
-
+How about we talk about that a
+little more... passionately?  
 
 ---
 id: 300181
@@ -908,13 +781,11 @@ attribute: 0x6400E10001030001
 ---
 ソレニカンシテ＿モースコシアツク＿カタリアイマセンカ
 
-
 ---
 id: 300190
 attribute: 0x6400E10001030001
 ---
 Hearing that made me hungry.
-
 
 ---
 id: 300191
@@ -922,13 +793,11 @@ attribute: 0x6400E10001030001
 ---
 ソレヲキイタラ＿オナカガヘッテキマシタ
 
-
 ---
 id: 300200
 attribute: 0x6400E10001030001
 ---
-That's great.
-
+That's good to hear.
 
 ---
 id: 300201
@@ -936,13 +805,11 @@ attribute: 0x6400E10001030001
 ---
 ソレワヨカッタデスネ
 
-
 ---
 id: 300210
 attribute: 0x6400E10001030001
 ---
-Ah, really?
-
+Ah, I see.
 
 ---
 id: 300211
@@ -950,13 +817,11 @@ attribute: 0x6400E10001030001
 ---
 ア＿ソー
 
-
 ---
 id: 300220
 attribute: 0x6400E10001030001
 ---
-It doesn't matter to me.
-
+It's just random news.
 
 ---
 id: 300221
@@ -964,13 +829,11 @@ attribute: 0x6400E10001030001
 ---
 ドーデモイイニュースデス
 
-
 ---
 id: 300230
 attribute: 0x6400E10001030001
 ---
 I'm in a hurry.
-
 
 ---
 id: 300231
@@ -978,13 +841,11 @@ attribute: 0x6400E10001030001
 ---
 チョットイソイデルンデ
 
-
 ---
 id: 300240
 attribute: 0x6400E10001030001
 ---
-This shouldn't be on the news.
-
+How is this newsworthy?!
 
 ---
 id: 300241
@@ -992,13 +853,11 @@ attribute: 0x6400E10001030001
 ---
 ニュースニスルホドデモナイトオモイマス
 
-
 ---
 id: 300250
 attribute: 0x6400E10001030001
 ---
 No comment.
-
 
 ---
 id: 300251
@@ -1006,13 +865,12 @@ attribute: 0x6400E10001030001
 ---
 ノーコメントデオネガイシマス
 
-
 ---
 id: 300260
 attribute: 0x6400E10001030001
 ---
-People really have so much free time.
-
+Some people should really get
+a job, huh?
 
 ---
 id: 300261
@@ -1020,20 +878,17 @@ attribute: 0x6400E10001030001
 ---
 ヒマナヒトモイルンデスネ
 
-
 ---
 id: 300270
 attribute: 0x6400E10001030001
 ---
-People really do stupid things.
-
+People do lots of stupid things.
 
 ---
 id: 300271
 attribute: 0x6400E10001030001
 ---
 クダラナイコトヲスルヒトモ＿ヨノナカニワイルンデスネ
-
 
 ---
 id: 300280
@@ -1042,20 +897,18 @@ attribute: 0x6400E10001030001
 Why did you tell me that? You
 sucessfully ruined my day.
 
-
 ---
 id: 300281
 attribute: 0x6400E10001030001
 ---
 イキナリソンナコトキカレテモネェ
 
-
 ---
 id: 300290
 attribute: 0x6400E10001030001
 ---
-Why did you ask me?
-
+What are you going to do with
+that information?
 
 ---
 id: 300291
@@ -1063,13 +916,12 @@ attribute: 0x6400E10001030001
 ---
 ソンナコトキイテドースルノ？
 
-
 ---
 id: 300300
 attribute: 0x6400E10001030001
 ---
-Is the world about to end?
-
+This is why people like that
+are going to end the world.
 
 ---
 id: 300301
@@ -1077,13 +929,12 @@ attribute: 0x6400E10001030001
 ---
 コンナコトシテルヨージャ＿ヨノナカモオワリダ
 
-
 ---
 id: 300310
 attribute: 0x6400E10001030001
 ---
-If it were me, I wouldn't do that.
-
+I really shouldn't be doing this
+right now.
 
 ---
 id: 300311
@@ -1091,13 +942,11 @@ attribute: 0x6400E10001030001
 ---
 ワタシモコンナコトヲシテイルバアイジャナイデスネ
 
-
 ---
 id: 300320
 attribute: 0x6400E10001030001
 ---
 I'm jogging. Please don't block my way.
-
 
 ---
 id: 300321
@@ -1105,13 +954,11 @@ attribute: 0x6400E10001030001
 ---
 イマ＿ランニングチューナンデ＿ジャマシナイデクダサイ
 
-
 ---
 id: 300330
 attribute: 0x6400E10001030001
 ---
 Sorry, I'm in the middle of shopping.
-
 
 ---
 id: 300331
@@ -1119,13 +966,11 @@ attribute: 0x6400E10001030001
 ---
 スミマセン＿カイモノノトチューナンデ
 
-
 ---
 id: 300340
 attribute: 0x6400E10001030001
 ---
-I don't believe in such news.
-
+I'm not falling for that bit!
 
 ---
 id: 300341
@@ -1133,13 +978,12 @@ attribute: 0x6400E10001030001
 ---
 ワタシワ＿ソンナニュースシンジナイデスヨ
 
-
 ---
 id: 300350
 attribute: 0x6400E10001030001
 ---
-I'm not happy about it.
-
+I feel like there's more to
+this. That isn't enough context.
 
 ---
 id: 300351
@@ -1147,13 +991,11 @@ attribute: 0x6400E10001030001
 ---
 ソレダケジャ＿モノタリナイデス
 
-
 ---
 id: 300360
 attribute: 0x6400E10001030001
 ---
 Is that so?
-
 
 ---
 id: 300361
@@ -1161,13 +1003,11 @@ attribute: 0x6400E10001030001
 ---
 ソーナンデスカ
 
-
 ---
 id: 300370
 attribute: 0x6400E10001030001
 ---
-I'm touched!
-
+That was deeply moving!
 
 ---
 id: 300371
@@ -1175,13 +1015,11 @@ attribute: 0x6400E10001030001
 ---
 カンドーシマシタ！
 
-
 ---
 id: 300380
 attribute: 0x6400E10001030001
 ---
 Sorry, I have to go meet someone.
-
 
 ---
 id: 300381
@@ -1189,14 +1027,12 @@ attribute: 0x6400E10001030001
 ---
 スミマセン＿ヒトトマチアワセシテイルンデ
 
-
 ---
 id: 300390
 attribute: 0x6400E10001030001
 ---
-Rather than that, tell me where
-the toilet is.
-
+Never mind that! Tell me where
+the toilet is!
 
 ---
 id: 300391
@@ -1204,13 +1040,11 @@ attribute: 0x6400E10001030001
 ---
 ソンナコトヨリ＿トイレッテドコデスカ？
 
-
 ---
 id: 300400
 attribute: 0x6400E10001030001
 ---
-I like that.
-
+I like that sort of thing.
 
 ---
 id: 300401
@@ -1218,13 +1052,12 @@ attribute: 0x6400E10001030001
 ---
 ソーユーノスキデス
 
-
 ---
 id: 300410
 attribute: 0x6400E10001030001
 ---
-The world is at peace.
-
+The world sure is peaceful,
+isn't it?
 
 ---
 id: 300411
@@ -1232,13 +1065,12 @@ attribute: 0x6400E10001030001
 ---
 ヨノナカ＿ヘイワデスネー
 
-
 ---
 id: 300420
 attribute: 0x6400E10001030001
 ---
-This must be tough for you guys.
-
+Wow, you guys are having a
+rough time too?
 
 ---
 id: 300421
@@ -1246,13 +1078,12 @@ attribute: 0x6400E10001030001
 ---
 アナタタチモタイヘンデスネ
 
-
 ---
 id: 300430
 attribute: 0x6400E10001030001
 ---
-I always enjoy watching Mii News.
-
+I always look foward to
+the Mii News.
 
 ---
 id: 300431
@@ -1260,13 +1091,12 @@ attribute: 0x6400E10001030001
 ---
 イツモ＿ミーニュースヲ＿タノシミニミテマスヨ
 
-
 ---
 id: 300440
 attribute: 0x6400E10001030001
 ---
-I got lost... Where am I now?
-
+I got lost... What is this place?
+Is it even on the island?
 
 ---
 id: 300441
@@ -1274,20 +1104,17 @@ attribute: 0x6400E10001030001
 ---
 ミチニマヨッテシマッテ＿ココッテドコデスカネ？
 
-
 ---
 id: 300450
 attribute: 0x6400E10001030001
 ---
 Why didn't you tell me earlier?
 
-
 ---
 id: 300451
 attribute: 0x6400E10001030001
 ---
 ナンデモットハヤク＿オシエテクレナカッタンデスカ？
-
 
 ---
 id: 300460
@@ -1296,21 +1123,17 @@ attribute: 0x6400E10001030001
 This will be a good story for me
 to talk about tomorrow.
 
-
 ---
 id: 300461
 attribute: 0x6400E10001030001
 ---
 アシタノハナシノイイネタニ＿ナリソーデス
 
-
 ---
 id: 300470
 attribute: 0x6400E10001030001
 ---
-This is a shining symbol of this
-era.
-
+So. It has come to this...
 
 ---
 id: 300471
@@ -1318,13 +1141,11 @@ attribute: 0x6400E10001030001
 ---
 モー＿ソンナジダイニナッタンデスネ
 
-
 ---
 id: 300480
 attribute: 0x6400E10001030001
 ---
 I'm a bit worried about that.
-
 
 ---
 id: 300481
@@ -1332,13 +1153,11 @@ attribute: 0x6400E10001030001
 ---
 チョット＿ソレワシンパイデス
 
-
 ---
 id: 300490
 attribute: 0x6400E10001030001
 ---
-It's kind of pleasant.
-
+It's kind of heartwarming.
 
 ---
 id: 300491
@@ -1346,20 +1165,17 @@ attribute: 0x6400E10001030001
 ---
 ナンカ＿ホホエマシイデス
 
-
 ---
 id: 300500
 attribute: 0x6400E10001030001
 ---
 Oh, I'm relieved to hear that.
 
-
 ---
 id: 300501
 attribute: 0x6400E10001030001
 ---
 イヤー＿ソレヲキイテホットシマシタ
-
 
 ---
 id: 300510
@@ -1368,20 +1184,17 @@ attribute: 0x6400E10001030001
 If it were me, I wouldn't be able
 to stand that.
 
-
 ---
 id: 300511
 attribute: 0x6400E10001030001
 ---
 ワタシダッタラ＿タエラレナイデス
 
-
 ---
 id: 300520
 attribute: 0x6400E10001030001
 ---
-What a shock...
-
+I'm shocked...
 
 ---
 id: 300521
@@ -1389,13 +1202,11 @@ attribute: 0x6400E10001030001
 ---
 ショックデス
 
-
 ---
 id: 300530
 attribute: 0x6400E10001030001
 ---
 I have no idea about that.
-
 
 ---
 id: 300531
@@ -1403,13 +1214,11 @@ attribute: 0x6400E10001030001
 ---
 ゼンゼンシラナカッタデス
 
-
 ---
 id: 300540
 attribute: 0x6400E10001030001
 ---
-World peace is the best!
-
+World peace is the greatest!
 
 ---
 id: 300541
@@ -1417,13 +1226,11 @@ attribute: 0x6400E10001030001
 ---
 ヘイワガイチバンデス
 
-
 ---
 id: 300550
 attribute: 0x6400E10001030001
 ---
 I was surprised.
-
 
 ---
 id: 300551
@@ -1431,13 +1238,11 @@ attribute: 0x6400E10001030001
 ---
 ビックリシマシタ
 
-
 ---
 id: 300560
 attribute: 0x6400E10001030001
 ---
-It's to my benefit to hear that.
-
+I'm glad I listened to that.
 
 ---
 id: 300561
@@ -1445,13 +1250,12 @@ attribute: 0x6400E10001030001
 ---
 タメニナルハナシガキケテ＿ヨカッタデス
 
-
 ---
 id: 300570
 attribute: 0x6400E10001030001
 ---
-This must be tough for everyone.
-
+Everyone's having a tough time,
+huh?
 
 ---
 id: 300571
@@ -1459,13 +1263,11 @@ attribute: 0x6400E10001030001
 ---
 ミンナタイヘンデスネー
 
-
 ---
 id: 300580
 attribute: 0x6400E10001030001
 ---
-Many things happened, huh?
-
+That's a lot to take in at once.
 
 ---
 id: 300581
@@ -1473,13 +1275,11 @@ attribute: 0x6400E10001030001
 ---
 イロイロアリマスネ
 
-
 ---
 id: 300590
 attribute: 0x6400E10001030001
 ---
 This island is so peaceful.
-
 
 ---
 id: 300591
@@ -1487,13 +1287,11 @@ attribute: 0x6400E10001030001
 ---
 コノシマワヘイワデスネ
 
-
 ---
 id: 300600
 attribute: 0x6400E10001030001
 ---
-I feel painful.
-
+Somehow, that's bittersweet.
 
 ---
 id: 300601
@@ -1501,13 +1299,11 @@ attribute: 0x6400E10001030001
 ---
 ナンカ＿セツナイデス
 
-
 ---
 id: 300610
 attribute: 0x6400E10001030001
 ---
 Is that so?
-
 
 ---
 id: 300611
@@ -1515,13 +1311,11 @@ attribute: 0x6400E10001030001
 ---
 ソーデスカ
 
-
 ---
 id: 300620
 attribute: 0x6400E10001030001
 ---
-Huh?
-
+Wow.
 
 ---
 id: 300621
@@ -1529,13 +1323,11 @@ attribute: 0x6400E10001030001
 ---
 ヘェ．．
 
-
 ---
 id: 300630
 attribute: 0x6400E10001030001
 ---
 Hmm?
-
 
 ---
 id: 300631
@@ -1543,13 +1335,11 @@ attribute: 0x6400E10001030001
 ---
 フーン．．
 
-
 ---
 id: 300640
 attribute: 0x6400E10001030001
 ---
 I don't really care.
-
 
 ---
 id: 300641
@@ -1557,13 +1347,12 @@ attribute: 0x6400E10001030001
 ---
 アンマリキョーミナイデス
 
-
 ---
 id: 300650
 attribute: 0x6400E10001030001
 ---
-Life is tough.
-
+What a tough world
+we live in.
 
 ---
 id: 300651
@@ -1571,13 +1360,11 @@ attribute: 0x6400E10001030001
 ---
 セチガライヨノナカデスネ
 
-
 ---
 id: 300660
 attribute: 0x6400E10001030001
 ---
 I blame the recession for this.
-
 
 ---
 id: 300661
@@ -1585,13 +1372,11 @@ attribute: 0x6400E10001030001
 ---
 フキョーノアオリデスカネ
 
-
 ---
 id: 300670
 attribute: 0x6400E10001030001
 ---
-Well, I think it couldn't be helped.
-
+Well, I suppose that couldn't be helped.
 
 ---
 id: 300671
@@ -1599,13 +1384,11 @@ attribute: 0x6400E10001030001
 ---
 マー＿ショーガナイトオモイマスヨ
 
-
 ---
 id: 300680
 attribute: 0x6400E10001030001
 ---
 I don't want to be on TV. Sorry.
-
 
 ---
 id: 300681
@@ -1613,13 +1396,11 @@ attribute: 0x6400E10001030001
 ---
 テレビニウツルトマズイノデ＿カンベンシテクダサイ
 
-
 ---
 id: 300690
 attribute: 0x6400E10001030001
 ---
 Can you please leave me alone?
-
 
 ---
 id: 300691
@@ -1627,13 +1408,11 @@ attribute: 0x6400E10001030001
 ---
 ソットシテオイテアゲタラ＿イインジャナイデスカ
 
-
 ---
 id: 300700
 attribute: 0x6400E10001030001
 ---
-Oh, I think it's great.
-
+Wow, that's impressive.
 
 ---
 id: 300701
@@ -1641,13 +1420,11 @@ attribute: 0x6400E10001030001
 ---
 イヤー＿スゴイトオモイマスヨ
 
-
 ---
 id: 300710
 attribute: 0x6400E10001030001
 ---
 Huh? That was unexpected.
-
 
 ---
 id: 300711
@@ -1655,13 +1432,12 @@ attribute: 0x6400E10001030001
 ---
 ヘー＿イガイデスネ
 
-
 ---
 id: 300720
 attribute: 0x6400E10001030001
 ---
-Don't you have any better news?
-
+Don't you have any more
+interesting news?
 
 ---
 id: 300721
@@ -1669,13 +1445,11 @@ attribute: 0x6400E10001030001
 ---
 モットオモシロイニュースワナインデスカ？
 
-
 ---
 id: 300730
 attribute: 0x6400E10001030001
 ---
-It doesn't make sense to me.
-
+I don't get it.
 
 ---
 id: 300731
@@ -1683,13 +1457,11 @@ attribute: 0x6400E10001030001
 ---
 アマリ＿ピントコナイデス
 
-
 ---
 id: 300740
 attribute: 0x6400E10001030001
 ---
-It gives me something to think about.
-
+That really makes you think.
 
 ---
 id: 300741
@@ -1697,13 +1469,12 @@ attribute: 0x6400E10001030001
 ---
 イロイロ＿カンガエサセラレマス
 
-
 ---
 id: 300750
 attribute: 0x6400E10001030001
 ---
-How many times do I have to do this?
-
+How many times do I have to do this
+before you bug off?
 
 ---
 id: 300751
@@ -1711,13 +1482,11 @@ attribute: 0x6400E10001030001
 ---
 ナンカイスレバ＿キガスムンデショーネ
 
-
 ---
 id: 300760
 attribute: 0x6400E10001030001
 ---
 Well, I think it's fine.
-
 
 ---
 id: 300761
@@ -1725,13 +1494,11 @@ attribute: 0x6400E10001030001
 ---
 マア＿イインジャナイデスカネ
 
-
 ---
 id: 300770
 attribute: 0x6400E10001030001
 ---
-I think it's good.
-
+You're the worst.
 
 ---
 id: 300771
@@ -1739,13 +1506,11 @@ attribute: 0x6400E10001030001
 ---
 イイトオモイマスヨ
 
-
 ---
 id: 300780
 attribute: 0x6400E10001030001
 ---
 I don't really know.
-
 
 ---
 id: 300781
@@ -1753,13 +1518,11 @@ attribute: 0x6400E10001030001
 ---
 ヨクワカリマセンデシタ
 
-
 ---
 id: 300790
 attribute: 0x6400E10001030001
 ---
 I want to go home and sleep.
-
 
 ---
 id: 300791
@@ -1767,13 +1530,11 @@ attribute: 0x6400E10001030001
 ---
 カエッテネマス
 
-
 ---
 id: 300800
 attribute: 0x6400E10001030001
 ---
-Ah, it's boring.
-
+Man, I'm bored.
 
 ---
 id: 300801
@@ -1781,28 +1542,24 @@ attribute: 0x6400E10001030001
 ---
 アータイクツダ
 
-
 ---
 id: 1000000
 attribute: 0x6400800001010101
 ---
 Dine-and-dash Incident
 
-
 ---
 id: 1000010
 attribute: 0x6400E10001000002
 ---
 On {{1:30 arg="0x0100"}} Island, someone
-ate {{1:30 arg="0x0000"}} and not paid for it.
-
+ate {{1:30 arg="0x0000"}} and didn't pay.
 
 ---
 id: 1000011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}トーデオキタ＿{{1:30 arg="0x0000"}}クイニゲジケンノ
-
 
 ---
 id: 1000020
@@ -1811,13 +1568,11 @@ attribute: 0x6400E10001000002
 This lead to an immediate arrest
 by local authorities.
 
-
 ---
 id: 1000021
 attribute: 0x6400E10001000002
 ---
 ヨーギシャガタイホサレマシタ
-
 
 ---
 id: 1000030
@@ -1826,21 +1581,18 @@ attribute: 0x6400E10001000002
 The suspect, {{1:30 arg="0x0200"}} was
 loitering around the crime scene.
 
-
 ---
 id: 1000031
 attribute: 0x6400E10001000002
 ---
 ジショーカイシャイン{{1:30 arg="0x0200"}}ヨーギシャワ．ハンコーゲンバデウロツイテイルトコロヲタイホサレマシタ
 
-
 ---
 id: 1000040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}} said,
-"{{1:30 arg="0x0300"}} I'm sorry."
-
+"{{1:30 arg="0x0300"}} I'm sorry,"
 
 ---
 id: 1000041
@@ -1848,13 +1600,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}ヨーギシャワ＿{{1:30 arg="0x0300"}}＿スミマセン
 
-
 ---
 id: 1000050
 attribute: 0x6400E10001000002
 ---
 and simply accepted the charge.
-
 
 ---
 id: 1000051
@@ -1862,13 +1612,11 @@ attribute: 0x6400E10001000002
 ---
 ト＿ヨーギヲミトメテイマス
 
-
 ---
 id: 1001010
 attribute: 0x6400E10001000002
 ---
 I was very hungry.
-
 
 ---
 id: 1001011
@@ -1876,13 +1624,11 @@ attribute: 0x6400E10001000002
 ---
 オナカガスイタノデヤッタ
 
-
 ---
 id: 1002010
 attribute: 0x6400800001010001
 ---
 {{1:30 arg="0x0400"}}(Age {{1:30 arg="0x0500"}})
-
 
 ---
 id: 1010000
@@ -1890,14 +1636,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} On Sale
 
-
 ---
 id: 1010010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}{{1:30 arg="0x0200"}} has finally
-released the new {{1:30 arg="0x0000"}} on {{1:30 arg="0x0100"}}.
-
+released the new {{1:30 arg="0x0000"}} this {{1:30 arg="0x0100"}}.
 
 ---
 id: 1010011
@@ -1905,14 +1649,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}{{1:30 arg="0x0200"}}ワ{{1:30 arg="0x0100"}}＿シンガタノ{{1:30 arg="0x0000"}}ヲハツバイシマシタ
 
-
 ---
 id: 1010020
 attribute: 0x6400E10001000002
 ---
-The modern {{1:30 arg="0x0000"}}'s
-sale so far is...
-
+The new {{1:30 arg="0x0000"}}
+is superior to similar products.
 
 ---
 id: 1010021
@@ -1920,14 +1662,12 @@ attribute: 0x6400E10001000002
 ---
 シンガタノ{{1:30 arg="0x0000"}}ワ＿ジューライノセイヒンヨリモ
 
-
 ---
 id: 1010030
 attribute: 0x6400E10001000002
 ---
-Approximately {{1:30 arg="0x0400"}} percent
-higher than the old models.
-
+The company claims it is {{1:30 arg="0x0400"}}
+percent more efficient.
 
 ---
 id: 1010031
@@ -1936,14 +1676,11 @@ attribute: 0x6400E10001000002
 ヤク{{1:30 arg="0x0400"}}パーセントコーセイノーナモノニナッテイマス
 
 
-
-
 ---
 id: 1011010
 attribute: 0x6400E10001000002
 ---
 Shōji Co., Ltd.
-
 
 ---
 id: 1011011
@@ -1951,13 +1688,11 @@ attribute: 0x6400E10001000002
 ---
 ショージ
 
-
 ---
 id: 1011020
 attribute: 0x6400E10001000002
 ---
-Denki Co., Ltd.
-
+Redfurt Co., Ltd.
 
 ---
 id: 1011021
@@ -1965,13 +1700,11 @@ attribute: 0x6400E10001000002
 ---
 デンキ
 
-
 ---
 id: 1011030
 attribute: 0x6400E10001000002
 ---
-Automobile Co., Ltd.
-
+Tobakaido Co., Ltd.
 
 ---
 id: 1011031
@@ -1979,21 +1712,18 @@ attribute: 0x6400E10001000002
 ---
 ジドーシャ
 
-
 ---
 id: 1020000
 attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Married!
 
-
 ---
 id: 1020010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}, the famous
-{{1:30 arg="0x0000"}}...
-
+{{1:30 arg="0x0100"}}, the famous {{1:30 arg="0x0000"}},
+will host a private wedding.
 
 ---
 id: 1020011
@@ -2002,22 +1732,17 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}}＿ニンキアイドルノ{{1:30 arg="0x0000"}}コト
 
 
-
-
 ---
 id: 1020020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} got married
-with a ceremony.
-
+It will be held for {{1:30 arg="0x0200"}}.
 
 ---
 id: 1020021
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}サンノケッコンシキガオコナワレマシタ
-
 
 ---
 id: 1020030
@@ -2026,13 +1751,11 @@ attribute: 0x6400E10001000002
 Their partner is {{1:30 arg="0x0300"}},
 the {{1:30 arg="0x0400"}}.
 
-
 ---
 id: 1020031
 attribute: 0x6400E10001000002
 ---
 オアイテワ＿{{1:30 arg="0x0400"}}ノ{{1:30 arg="0x0300"}}サンデス
-
 
 ---
 id: 1021010
@@ -2040,20 +1763,17 @@ attribute: 0x6400E10001000002
 ---
 model
 
-
 ---
 id: 1021011
 attribute: 0x6400E10001000002
 ---
 モデル
 
-
 ---
 id: 1021020
 attribute: 0x6400E10001000002
 ---
-girl
-
+nobody
 
 ---
 id: 1021021
@@ -2061,13 +1781,11 @@ attribute: 0x6400E10001000002
 ---
 イッパンノジョセイ
 
-
 ---
 id: 1021030
 attribute: 0x6400E10001000002
 ---
 idol
-
 
 ---
 id: 1021031
@@ -2075,21 +1793,18 @@ attribute: 0x6400E10001000002
 ---
 タレント
 
-
 ---
 id: 1030000
 attribute: 0x6400800001010101
 ---
-Famous {{1:30 arg="0x0000"}}
-
+Popular Penguin {{1:30 arg="0x0000"}}
 
 ---
 id: 1030010
 attribute: 0x6400E10001000002
 ---
-Currently, {{1:30 arg="0x0000"}}
-is very famous at the zoo.
-
+The newest trend has hit the zoo:
+People flock to meet {{1:30 arg="0x0000"}}.
 
 ---
 id: 1030011
@@ -2098,15 +1813,12 @@ attribute: 0x6400E10001000002
 イマ＿ドーブツエンデ{{1:30 arg="0x0000"}}ガダイニンキデス
 
 
-
-
 ---
 id: 1030020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} is actually
-an emperor penguin.
-
+The recently arrived {{1:30 arg="0x0000"}}
+is an emperor penguin.
 
 ---
 id: 1030021
@@ -2115,15 +1827,12 @@ attribute: 0x6400E10001000002
 サイキンドーブツエンニヤッテキタ＿コーテイペンギンノ{{1:30 arg="0x0000"}}デス
 
 
-
-
 ---
 id: 1030030
 attribute: 0x6400E10001000002
 ---
-A visitor, {{1:30 arg="0x0100"}},
-gave us a comment about it...
-
+One of the visitors, {{1:30 arg="0x0100"}},
+voiced their opinion...
 
 ---
 id: 1030031
@@ -2132,14 +1841,11 @@ attribute: 0x6400E10001000002
 シナイカラキタ{{1:30 arg="0x0100"}}チャンワ
 
 
-
-
 ---
 id: 1030040
 attribute: 0x6400E10001000002
 ---
 "{{1:30 arg="0x0200"}}"
-
 
 ---
 id: 1030041
@@ -2147,13 +1853,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}ト＿コエヲハズマセテイマシタ
 
-
 ---
 id: 1031010
 attribute: 0x6400E10001000002
 ---
 It's so cute!
-
 
 ---
 id: 1031011
@@ -2161,13 +1865,11 @@ attribute: 0x6400E10001000002
 ---
 カオガカワイイ
 
-
 ---
 id: 1031020
 attribute: 0x6400E10001000002
 ---
 It looks funny.
-
 
 ---
 id: 1031021
@@ -2175,20 +1877,18 @@ attribute: 0x6400E10001000002
 ---
 ヘンナカオデオモシロイ
 
-
 ---
 id: 1040000
 attribute: 0x6400800001010101
 ---
-Cold Season
-
+Don't Catch a Cold!
 
 ---
 id: 1040010
 attribute: 0x6400E10001000002
 ---
-It's cold season again.
-
+There have been numerous cases
+of colds becoming prevalent.
 
 ---
 id: 1040011
@@ -2197,15 +1897,12 @@ attribute: 0x6400E10001000002
 カゼガリューコーノキザシヲミセテイマス
 
 
-
-
 ---
 id: 1040020
 attribute: 0x6400E10001000002
 ---
-Please wear a mask when you go
-outside, and wash your hands frequently.
-
+Please try to wear a mask when you go
+outside and wash your hands frequently.
 
 ---
 id: 1040021
@@ -2213,13 +1910,11 @@ attribute: 0x6400E10001000002
 ---
 ガイシュツノサイワマスクヲツケ＿テアライ＿ウガイヲココロガケマショー
 
-
 ---
 id: 1050000
 attribute: 0x6400800001010101
 ---
 Fireworks Display
-
 
 ---
 id: 1050010
@@ -2228,7 +1923,6 @@ attribute: 0x6400E10001000002
 It’s {{1:30 arg="0x0000"}} City's
 Summer Festival today!
 
-
 ---
 id: 1050011
 attribute: 0x6400E10001000002
@@ -2236,15 +1930,12 @@ attribute: 0x6400E10001000002
  {{1:30 arg="0x0000"}}シノナツノフーブツシ
 
 
-
-
 ---
 id: 1050020
 attribute: 0x6400E10001000002
 ---
-The eleventeenth fireworks show
+The 47th (we think) fireworks show
 has started in {{1:30 arg="0x0100"}}.
-
 
 ---
 id: 1050021
@@ -2252,14 +1943,12 @@ attribute: 0x6400E10001000002
 ---
 ダイヨンジューナナカイ＿{{1:30 arg="0x0100"}}ハナビタイカイガカイサイサレマス
 
-
 ---
 id: 1050030
 attribute: 0x6400E10001000002
 ---
-With {{1:30 arg="0x0100"}} as its theme,
-there were about 7,000 fireworks launched.
-
+This year's theme was about {{1:30 arg="0x0100"}}.
+Some say around 7,000 fireworks were launched.
 
 ---
 id: 1050031
@@ -2267,14 +1956,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}ヲテーマニ＿ヤクナナセンパツガウチアゲラレマス
 
-
 ---
 id: 1050040
 attribute: 0x6400E10001000002
 ---
-The last set with {{1:30 arg="0x0100"}}
-was especially spectacular.
-
+The {{1:30 arg="0x0100"}} fireworks
+were especially spectacular.
 
 ---
 id: 1050041
@@ -2282,28 +1969,24 @@ attribute: 0x6400E10001000002
 ---
 ラストヲカザル{{1:30 arg="0x0100"}}ハナビガメダマデス
 
-
 ---
 id: 1060000
 attribute: 0x6400800001010101
 ---
-Human-faced Dog
-
+Human-faced Dog Discovered
 
 ---
 id: 1060010
 attribute: 0x6400E10001000002
 ---
-Early this morning, a human-faced dog
+Earlier this morning, a human-faced dog
 was found wandering on the streets.
-
 
 ---
 id: 1060011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ミメイ＿シナイノロジョーデ＿ジンメンケンガハッケンサレマシタ
-
 
 ---
 id: 1060020
@@ -2312,21 +1995,18 @@ attribute: 0x6400E10001000002
 We have one of the witnesses,
 {{1:30 arg="0x0100"}}, Age {{1:30 arg="0x0200"}}.
 
-
 ---
 id: 1060021
 attribute: 0x6400E10001000002
 ---
 ハッケンシタノワ＿カイシャイン{{1:30 arg="0x0100"}}サンデス
 
-
 ---
 id: 1060030
 attribute: 0x6400E10001000002
 ---
-The witness said excitedly,
+The witness said with excitement,
 "{{1:30 arg="0x0300"}}!"
-
 
 ---
 id: 1060031
@@ -2334,13 +2014,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}タイヘンビックリサレタトノコトデス
 
-
 ---
 id: 1061010
 attribute: 0x6400E10001000002
 ---
-I had never seen something like that
-
+It's my first time seeing that
 
 ---
 id: 1061011
@@ -2348,13 +2026,11 @@ attribute: 0x6400E10001000002
 ---
 ジンメンケンヲミタノワハジメテデ＿
 
-
 ---
 id: 1061020
 attribute: 0x6400E10001000002
 ---
 Its face looked like my friend's
-
 
 ---
 id: 1061021
@@ -2362,28 +2038,24 @@ attribute: 0x6400E10001000002
 ---
 カオガシリアイニニテイテ＿
 
-
 ---
 id: 1070000
 attribute: 0x6400800001010101
 ---
-Mythical Lizard Captured!
-
+Phantom Lizard
 
 ---
 id: 1070010
 attribute: 0x6400E10001000002
 ---
-A creature believed to be extinct
-for 30 years has finally returned.
-
+A creature that was believed to be
+extinct was discovered.
 
 ---
 id: 1070011
 attribute: 0x6400E10001000002
 ---
 サンジューネンイジョー＿セイソクガカクニンサレテイナカッタ＿ゼツメツキグシュノ
-
 
 ---
 id: 1070020
@@ -2392,7 +2064,6 @@ attribute: 0x6400E10001000002
 The {{1:30 arg="0x0100"}} Lizard was
 captured yesterday.
 
-
 ---
 id: 1070021
 attribute: 0x6400E10001000002
@@ -2400,21 +2071,18 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}}オオトカゲガ
 {{1:30 arg="0x0000"}}＿ホカクサレマシタ
 
-
 ---
 id: 1070030
 attribute: 0x6400E10001000002
 ---
-The investigation team member,
-{{1:30 arg="0x0200"}} Age {{1:30 arg="0x0300"}},
-
+The investigation team member, {{1:30 arg="0x0200"}},
+Age {{1:30 arg="0x0300"}},
 
 ---
 id: 1070031
 attribute: 0x6400E10001000002
 ---
 チョーサチームノ{{1:30 arg="0x0200"}}サンガ＿ワナニカカッタ
-
 
 ---
 id: 1070040
@@ -2423,21 +2091,18 @@ attribute: 0x6400E10001000002
 set up a trap and finally caught
 the {{1:30 arg="0x0100"}} Lizard.
 
-
 ---
 id: 1070041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}オオトカゲヲホカクシマシタ
 
-
 ---
 id: 1070050
 attribute: 0x6400E10001000002
 ---
-The team made some quick measurements
-of the lizard and then set it free.
-
+{{1:30 arg="0x0100"}} was measured
+by the team and was set free.
 
 ---
 id: 1070051
@@ -2445,21 +2110,18 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}オオトカゲワ＿タイジューナドヲケイソクサレタアト＿モリニカエサレマシタ
 
-
 ---
 id: 1080000
 attribute: 0x6400800001010101
 ---
-The Rich List
-
+Richest People Updates
 
 ---
 id: 1080010
 attribute: 0x6400E10001000002
 ---
 The list of the richest people
-has been updated.
-
+had been updated.
 
 ---
 id: 1080011
@@ -2467,14 +2129,12 @@ attribute: 0x6400E10001000002
 ---
 チョージャバンヅケガハッピョーサレマシタ．ソレニヨリマスト＿ゼンカイイチイダッタ
 
-
 ---
 id: 1080020
 attribute: 0x6400E10001000002
 ---
-The former no.1, {{1:30 arg="0x0100"}} is now
-no.3. {{1:30 arg="0x0000"}},
-
+{{1:30 arg="0x0100"}}, who was in first place,
+is now in third. {{1:30 arg="0x0000"}},
 
 ---
 id: 1080021
@@ -2482,21 +2142,18 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}シワ＿ジュンイヲサンイニオトシ＿{{1:30 arg="0x0000"}}シガハジメテノ
 
-
 ---
 id: 1080030
 attribute: 0x6400E10001000002
 ---
-a newcomer, climed up the list
-and became no.1.
-
+a newcomer, climbed up the
+list and became the richest.
 
 ---
 id: 1080031
 attribute: 0x6400E10001000002
 ---
 イチイニナリマシタ
-
 
 ---
 id: 1080040
@@ -2505,13 +2162,11 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}} said,
 "{{1:30 arg="0x0200"}}"
 
-
 ---
 id: 1080041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンワ＿「{{1:30 arg="0x0200"}}」＿ナドトカタッテイマシタ
-
 
 ---
 id: 1081010
@@ -2519,20 +2174,17 @@ attribute: 0x6400E10001000002
 ---
 I'm so happy to be number one.
 
-
 ---
 id: 1081011
 attribute: 0x6400E10001000002
 ---
 イチイニナレテウレシイ
 
-
 ---
 id: 1081020
 attribute: 0x6400E10001000002
 ---
-Ah, of course!
-
+Of course I'm in first.
 
 ---
 id: 1081021
@@ -2540,21 +2192,18 @@ attribute: 0x6400E10001000002
 ---
 トーゼンデスヨ
 
-
 ---
 id: 1090000
 attribute: 0x6400800001010101
 ---
-The Rich List
-
+Richest People Updates
 
 ---
 id: 1090010
 attribute: 0x6400E10001000002
 ---
 The list of the richest people
-has been announced.
-
+had been updated.
 
 ---
 id: 1090011
@@ -2562,14 +2211,12 @@ attribute: 0x6400E10001000002
 ---
 チョージャバンヅケガハッピョーサレマシタ．ソレニヨリマスト＿ゼンカイニヒキツヅキ
 
-
 ---
 id: 1090020
 attribute: 0x6400E10001000002
 ---
-The no.1 from last time, {{1:30 arg="0x0000"}}
-remains in the top spot. No.2 is {{1:30 arg="0x0100"}},
-
+{{1:30 arg="0x0000"}} still remains as
+the first. The second richest is {{1:30 arg="0x0100"}},
 
 ---
 id: 1090021
@@ -2577,13 +2224,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}シガイチイ．ツヅイテニイニ{{1:30 arg="0x0100"}}シ
 
-
 ---
 id: 1090030
 attribute: 0x6400E10001000002
 ---
-And no.3 is {{1:30 arg="0x0200"}}.
-
+and the third richest is {{1:30 arg="0x0200"}}.
 
 ---
 id: 1090031
@@ -2591,21 +2236,18 @@ attribute: 0x6400E10001000002
 ---
 サンイワ{{1:30 arg="0x0200"}}シトナッテイマス
 
-
 ---
 id: 1100000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Pitched
-
+{{1:30 arg="0x0000"}} the Starting Pitcher
 
 ---
 id: 1100010
 attribute: 0x6400E10001000002
 ---
-Yesterday, the {{1:30 arg="0x0200"}}'s
-player, {{1:30 arg="0x0000"}}...
-
+This {{1:30 arg="0x0100"}}, the {{1:30 arg="0x0200"}}'s
+pitcher, {{1:30 arg="0x0000"}},
 
 ---
 id: 1100011
@@ -2613,14 +2255,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}ズノ{{1:30 arg="0x0000"}}トーシュガ{{1:30 arg="0x0100"}}
 
-
 ---
 id: 1100020
 attribute: 0x6400E10001000002
 ---
-pitched in the {{1:30 arg="0x0300"}} game,
-throwing three innnings with three hits,
-
+fought against the {{1:30 arg="0x0300"}} team
+with a record of three hits and two walks.
 
 ---
 id: 1100021
@@ -2628,14 +2268,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}ズセンニトーバン．サンカイヲナゲテサンアンダ＿ニシシキュー
 
-
 ---
 id: 1100030
 attribute: 0x6400E10001000002
 ---
-two walks, and 3 strike-outs,
-with zero runs scored.
-
+Additionally, they had three strikeouts
+and allowed no runs.
 
 ---
 id: 1100031
@@ -2644,15 +2282,12 @@ attribute: 0x6400E10001000002
 サンダツサンシン＿ムシッテンデシタ
 
 
-
-
 ---
 id: 1100040
 attribute: 0x6400E10001000002
 ---
 Additionally, player {{1:30 arg="0x0200"}} from
-{{1:30 arg="0x0400"}} had no hits.
-
+the {{1:30 arg="0x0400"}} team had no hits.
 
 ---
 id: 1100041
@@ -2661,22 +2296,18 @@ attribute: 0x6400E10001000002
 ナオ＿{{1:30 arg="0x0200"}}ズノ{{1:30 arg="0x0400"}}センシュワ＿ノーヒットデシタ
 
 
-
-
 ---
 id: 1110000
 attribute: 0x6400800001010101
 ---
 Infinite Rain...
 
-
 ---
 id: 1110010
 attribute: 0x6400E10001000002
 ---
-The persistent rain has started to
-cause troubles to our residents.
-
+It's been raining for days now,
+leading to trouble among islanders.
 
 ---
 id: 1110011
@@ -2684,14 +2315,12 @@ attribute: 0x6400E10001000002
 ---
 コノトコロ＿アメノヒガツヅイテイマスガ．コノレンジツノアメデコマッタコトガオコッテイマス
 
-
 ---
 id: 1110020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} couldn't do laundry
-and has to wear the same clothes everyday.
-
+{{1:30 arg="0x0000"}} can only air-dry clothing,
+leading to them wearing dirty clothes.
 
 ---
 id: 1110021
@@ -2699,14 +2328,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンノイエワ＿センタクモノガホセズ．マイニチオナジフクヲキテセイカツシテイルヨーデス
 
-
 ---
 id: 1110030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}'s room started
-to have some mildew.
-
+One resident's apartment, {{1:30 arg="0x0100"}} ,
+has to control a massive mold infestation.
 
 ---
 id: 1110031
@@ -2714,20 +2341,18 @@ attribute: 0x6400E10001000002
 ---
 マタ＿{{1:30 arg="0x0100"}}サンノイエデワ＿カビガタイリョーハッセイシテイルヨーデス
 
-
 ---
 id: 1120000
 attribute: 0x6400800001010101
 ---
 Monthly Most Valuable Player!
 
-
 ---
 id: 1120010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}This month's MVP has been announced.
-
+The monthly MVP for {{1:30 arg="0x0000"}}
+has been announced.
 
 ---
 id: 1120011
@@ -2735,13 +2360,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ノゲッカンエムブイピーガハッピョーサレマシタ
 
-
 ---
 id: 1120020
 attribute: 0x6400E10001000002
 ---
-The honorable MVP is awarded to...
-
+Drum roll please for the prestigious
+MVP reward is...
 
 ---
 id: 1120021
@@ -2750,15 +2374,12 @@ attribute: 0x6400E10001000002
 メイヨアルゲッカンエムブイピーニエラバレタノワ
 
 
-
-
 ---
 id: 1120030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}'s
-{{1:30 arg="0x0100"}}, Age {{1:30 arg="0x0200"}}.
-
+{{1:30 arg="0x0100"}} age {{1:30 arg="0x0200"}},
+from {{1:30 arg="0x0300"}}.
 
 ---
 id: 1120031
@@ -2766,14 +2387,12 @@ attribute: 0x6400E10001000002
 ---
 ジショー{{1:30 arg="0x0300"}}ノ＿{{1:30 arg="0x0100"}}サンデス
 
-
 ---
 id: 1120040
 attribute: 0x6400E10001000002
 ---
-The award is for
+They recieved an award for
 {{1:30 arg="0x0400"}}
-
 
 ---
 id: 1120041
@@ -2781,13 +2400,11 @@ attribute: 0x6400E10001000002
 ---
 ジュショーリユーワ＿{{1:30 arg="0x0400"}}デス
 
-
 ---
 id: 1121010
 attribute: 0x6400E10001000002
 ---
 "The Best Dancer."
-
 
 ---
 id: 1121011
@@ -2795,13 +2412,11 @@ attribute: 0x6400E10001000002
 ---
 スバラシイダンスヲオドッタコト
 
-
 ---
 id: 1121020
 attribute: 0x6400E10001000002
 ---
 "The Most Stylish Room."
-
 
 ---
 id: 1121021
@@ -2809,13 +2424,11 @@ attribute: 0x6400E10001000002
 ---
 ヘヤガトテモカッコイイコト
 
-
 ---
 id: 1121030
 attribute: 0x6400E10001000002
 ---
-"Most Fashionable."
-
+"The Most Fashionable."
 
 ---
 id: 1121031
@@ -2823,13 +2436,11 @@ attribute: 0x6400E10001000002
 ---
 ファッションガスバラシカッタカラ
 
-
 ---
 id: 1130000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Campaign
-
+{{1:30 arg="0x0000"}} Revival Campaign
 
 ---
 id: 1130010
@@ -2838,13 +2449,11 @@ attribute: 0x6400E10001000002
 The Island Tourism Bureau is working to
 revitalize the island with {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 1130011
 attribute: 0x6400E10001000002
 ---
 シノカンコーキョクワ＿メイサンヒンノ{{1:30 arg="0x0000"}}ヲツカッタ＿マチオコシニトリクンデイマス
-
 
 ---
 id: 1130020
@@ -2853,21 +2462,18 @@ attribute: 0x6400E10001000002
 Their plan is to use {{1:30 arg="0x0000"}}
 as a logo on cookies,
 
-
 ---
 id: 1130021
 attribute: 0x6400E10001000002
 ---
 カンコーキョクデワ＿{{1:30 arg="0x0000"}}ヲモチーフニシタクッキー
 
-
 ---
 id: 1130030
 attribute: 0x6400E10001000002
 ---
-and will even become plush toys. Currently,
+as well as making it into plush toys. Currently,
 they are still discussing the plan.
-
 
 ---
 id: 1130031
@@ -2875,21 +2481,18 @@ attribute: 0x6400E10001000002
 ---
 ヌイグルミナドノセイサクヲケントーシテイルトノコトデス
 
-
 ---
 id: 1140000
 attribute: 0x6400800001010101
 ---
-Three People Are at Odds
-
+The Triangle Talk
 
 ---
 id: 1140010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}},
-{{1:30 arg="0x0100"}},
-
+A three-way conflict occured with
+{{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}},
 
 ---
 id: 1140011
@@ -2897,13 +2500,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サン＿{{1:30 arg="0x0100"}}サン＿ソシテ
 
-
 ---
 id: 1140020
 attribute: 0x6400E10001000002
 ---
-along with {{1:30 arg="0x0200"}}.
-
+and {{1:30 arg="0x0200"}}.
 
 ---
 id: 1140021
@@ -2911,14 +2512,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}サンノサンメイガ
 
-
 ---
 id: 1140030
 attribute: 0x6400E10001000002
 ---
-These three people had conflicts over
+They were fighting over things like
 {{1:30 arg="0x0300"}}.
-
 
 ---
 id: 1140031
@@ -2926,14 +2525,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}ヲメグッテ＿タイリツシテイルモヨーデス
 
-
 ---
 id: 1140040
 attribute: 0x6400E10001000002
 ---
-All three refuse to back down,
-which makes the situation worse.
-
+All three still refuse to back down,
+and the situation isn't resolved.
 
 ---
 id: 1140041
@@ -2941,13 +2538,11 @@ attribute: 0x6400E10001000002
 ---
 サンニントモイッポモユズラズ＿ジタイワシンコクカシテイマス
 
-
 ---
 id: 1141010
 attribute: 0x6400E10001000002
 ---
-what to raise as a pet
-
+animals to keep as pets
 
 ---
 id: 1141011
@@ -2955,13 +2550,11 @@ attribute: 0x6400E10001000002
 ---
 ペットニシタイドーブツ
 
-
 ---
 id: 1141020
 attribute: 0x6400E10001000002
 ---
-who among them was the worst cook
-
+what dish sucks the most
 
 ---
 id: 1141021
@@ -2969,13 +2562,11 @@ attribute: 0x6400E10001000002
 ---
 モットモマズイリョーリ
 
-
 ---
 id: 1141030
 attribute: 0x6400E10001000002
 ---
 who would take a bath first
-
 
 ---
 id: 1141031
@@ -2983,13 +2574,11 @@ attribute: 0x6400E10001000002
 ---
 カラダヲアラウジュンバン
 
-
 ---
 id: 1150000
 attribute: 0x6400800001010101
 ---
-Fun Spring Hiking
-
+Having Fun Hiking Up the Hills
 
 ---
 id: 1150010
@@ -2998,21 +2587,18 @@ attribute: 0x6400E10001000002
 Yesterday, {{1:30 arg="0x0100"}} Kindergarten's
 students went hiking on Mt. {{1:30 arg="0x0100"}}.
 
-
 ---
 id: 1150011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}ヨーチエンノエンジガ＿{{1:30 arg="0x0000"}}．{{1:30 arg="0x0100"}}ヤマニノボリマシタ
 
-
 ---
 id: 1150020
 attribute: 0x6400E10001000002
 ---
-The supervisor, {{1:30 arg="0x0200"}}
+Their supervisor, {{1:30 arg="0x0200"}},
 guided them through the hiking course.
-
 
 ---
 id: 1150021
@@ -3020,14 +2606,12 @@ attribute: 0x6400E10001000002
 ---
 ヤマヲカンリスル{{1:30 arg="0x0200"}}サンノインソツデ．ハルノサトヤマヲゲンキヨクアルキマシタ
 
-
 ---
 id: 1150030
 attribute: 0x6400E10001000002
 ---
-Student {{1:30 arg="0x0300"}}, Age {{1:30 arg="0x0400"}},
-told us...
-
+One student, {{1:30 arg="0x0300"}}
+(Age {{1:30 arg="0x0400"}}), gave the following comment...
 
 ---
 id: 1150031
@@ -3035,13 +2619,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}チャンワ＿{{1:30 arg="0x0500"}}ト
 
-
 ---
 id: 1150040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0500"}}
-
 
 ---
 id: 1150041
@@ -3049,13 +2631,12 @@ attribute: 0x6400E10001000002
 ---
 カンソーヲカタッテイマシタ
 
-
 ---
 id: 1151010
 attribute: 0x6400E10001000002
 ---
-"It felt great to step on fallen leaves."
-
+"It felt pleasant to walk on the 
+crunchy leaves."
 
 ---
 id: 1151011
@@ -3063,13 +2644,12 @@ attribute: 0x6400E10001000002
 ---
 オチバヲフミシメルカンショクガキモチイイ
 
-
 ---
 id: 1151020
 attribute: 0x6400E10001000002
 ---
-"I'm dead tired."
-
+"Holy cow, that was exhausting.
+I'm dead tired. My feet are dying!"
 
 ---
 id: 1151021
@@ -3077,21 +2657,18 @@ attribute: 0x6400E10001000002
 ---
 トテモツカレタ
 
-
 ---
 id: 1160000
 attribute: 0x6400800001010101
 ---
-Power Generation
-
+Power Generator Challenge!
 
 ---
 id: 1160010
 attribute: 0x6400E10001000002
 ---
 Students at {{1:30 arg="0x0000"}} Elementary
-School tried some experiments with fruit. 
-
+School tried some experiments with fruit.
 
 ---
 id: 1160011
@@ -3099,29 +2676,24 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ショーガッコーデ{{1:30 arg="0x0100"}}
 
-
 ---
 id: 1160020
 attribute: 0x6400E10001000002
 ---
-After learning about power generation,
-they tried to generate electricity.
-
-
+Students attempted to experiment
+with fruit power after learning it.
 ---
 id: 1160021
 attribute: 0x6400E10001000002
 ---
 クダモノヲツカッテハツデンノシクミヲマナボート．クダモノハツデンノジッケンガオコナワレマシタ
 
-
 ---
 id: 1160030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, Age {{1:30 arg="0x0300"}},
-used copper and magnesium electrodes,
-
+{{1:30 arg="0x0200"}}, age {{1:30 arg="0x0300"}},
+used copper and magnesium electrodes.
 
 ---
 id: 1160031
@@ -3129,14 +2701,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}チャンワ＿ドーバントマグネシウムバンヲ
 
-
 ---
 id: 1160040
 attribute: 0x6400E10001000002
 ---
-and confirmed that using {{1:30 arg="0x0400"}}
-could make the propeller turn.
-
+They discovered how {{1:30 arg="0x0400"}}
+could make an attached propeller turn.
 
 ---
 id: 1160041
@@ -3144,21 +2714,18 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}ニサシコンデ＿プロペラガマワルノヲカクニンシテイマシタ
 
-
 ---
 id: 1170000
 attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Fell
 
-
 ---
 id: 1170010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} accidentally fell into
-the curry pot for dinner.
-
+a pot of curry during dinner.
 
 ---
 id: 1170011
@@ -3166,14 +2733,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンガアヤマッテ＿ユーハンノカレーニテンラクシマシタ
 
-
 ---
 id: 1170020
 attribute: 0x6400E10001000002
 ---
 It happened when {{1:30 arg="0x0000"}} was
-taking a walk and suddenly tripped.
-
+taking a stroll and suddenly tripped.
 
 ---
 id: 1170021
@@ -3181,14 +2746,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンワサンポノトチューニ＿アシヲフミハズシマシタ
 
-
 ---
 id: 1170030
 attribute: 0x6400E10001000002
 ---
-The witness, {{1:30 arg="0x0100"}}, said,
 {{1:30 arg="0x0200"}}
-
+witness {{1:30 arg="0x0100"}} said.
 
 ---
 id: 1170031
@@ -3196,13 +2759,11 @@ attribute: 0x6400E10001000002
 ---
 ハッケンシャノ{{1:30 arg="0x0100"}}サンワ＿{{1:30 arg="0x0200"}}ト
 
-
 ---
 id: 1170040
 attribute: 0x6400E10001000002
 ---
-while explaining to us what happened.
-
+While explaining to us what happened.
 
 ---
 id: 1170041
@@ -3210,13 +2771,11 @@ attribute: 0x6400E10001000002
 ---
 ソノトキノヨースヲカタッテイマシタ
 
-
 ---
 id: 1171010
 attribute: 0x6400E10001000002
 ---
 "It was really troublesome,"
-
 
 ---
 id: 1171011
@@ -3224,13 +2783,11 @@ attribute: 0x6400E10001000002
 ---
 コマッテイルヨーダッタ
 
-
 ---
 id: 1171020
 attribute: 0x6400E10001000002
 ---
 "I was so surprised to see that,"
-
 
 ---
 id: 1171021
@@ -3238,14 +2795,11 @@ attribute: 0x6400E10001000002
 ---
 トニカクオドロイタ
 
-
 ---
 id: 1171030
 attribute: 0x6400E10001000002
 ---
-"The victim looked surprisingly
-healthy in there,"
-
+"They looked very energetic,
 
 ---
 id: 1171031
@@ -3253,21 +2807,18 @@ attribute: 0x6400E10001000002
 ---
 イガイトゲンキソーダッタ
 
-
 ---
 id: 1180000
 attribute: 0x6400800001010101
 ---
-Mystical Monster!
-
+Mysterious Monster Appears!
 
 ---
 id: 1180010
 attribute: 0x6400E10001000002
 ---
-Early this morning, a mysterious monster
+Just before dawn, a mysterious monster
 appeared in {{1:30 arg="0x0100"}} City.
-
 
 ---
 id: 1180011
@@ -3275,14 +2826,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ミメイ＿{{1:30 arg="0x0100"}}シニナゾノカイジューガアラワレマシタ
 
-
 ---
 id: 1180020
 attribute: 0x6400E10001000002
 ---
-The monster had come down from
-Mt. {{1:30 arg="0x0200"}}.
-
+Reports show the kaiju decending
+from Mt. {{1:30 arg="0x0200"}}.
 
 ---
 id: 1180021
@@ -3290,14 +2839,12 @@ attribute: 0x6400E10001000002
 ---
 カイジューワ＿{{1:30 arg="0x0200"}}ヤマノムコーカラヤッテキタモヨーデス
 
-
 ---
 id: 1180030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}, age {{1:30 arg="0x0400"}},
-was very surprised to see it.
-
+{{1:30 arg="0x0300"}}, age {{1:30 arg="0x0400"}}, was shocked.
+Her hiccups even stopped!
 
 ---
 id: 1180031
@@ -3305,13 +2852,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}サンガ＿ビックリシテシャックリガトマッタホカワ
 
-
 ---
 id: 1180040
 attribute: 0x6400E10001000002
 ---
-Nobody got injured in this incident.
-
+Surprisingly, there were no injuries
+to life or any buildings.
 
 ---
 id: 1180041
@@ -3319,28 +2865,25 @@ attribute: 0x6400E10001000002
 ---
 ケガニンワナカッタモヨーデス
 
-
 ---
 id: 1182010
 attribute: 0x6400800001010001
 ---
-Here is its photo.
-
+This photo is for illustrative
+purposes only.
 
 ---
 id: 1190000
 attribute: 0x6400800001010101
 ---
-Full Bloom
-
+Cherry Blossoms in Full Bloom
 
 ---
 id: 1190010
 attribute: 0x6400E10001000002
 ---
-It has been warm and sunny, and the
-cherry blossoms are now in full bloom.
-
+After so many days, the cherry
+blossoms bloom on a clear and warm {{1:30 arg="0x0000"}}.
 
 ---
 id: 1190011
@@ -3348,14 +2891,12 @@ attribute: 0x6400E10001000002
 ---
 ハレテアタタカクナッタ{{1:30 arg="0x0000"}}＿サクラガマンカイトナリマシタ
 
-
 ---
 id: 1190020
 attribute: 0x6400E10001000002
 ---
-The best spot to enjoy the view is at
-{{1:30 arg="0x0100"}} Park,
-
+The best spot to enjoy the blossoms in
+full bloom is at {{1:30 arg="0x0100"}} Park.
 
 ---
 id: 1190021
@@ -3363,13 +2904,11 @@ attribute: 0x6400E10001000002
 ---
 マンカイニナッタサクラヲミヨート＿{{1:30 arg="0x0100"}}コーエンニワ
 
-
 ---
 id: 1190030
 attribute: 0x6400E10001000002
 ---
-which is now full with visitors.
-
+Sadly, it is overrun with visitors.
 
 ---
 id: 1190031
@@ -3377,14 +2916,12 @@ attribute: 0x6400E10001000002
 ---
 オオクノカンコーキャクガオトズレマシタ
 
-
 ---
 id: 1190040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} came all
-the way from {{1:30 arg="0x0300"}} City.
-
+One visitor, {{1:30 arg="0x0200"}},
+traveled from {{1:30 arg="0x0300"}} City.
 
 ---
 id: 1190041
@@ -3392,14 +2929,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}シカラキタ{{1:30 arg="0x0200"}}サンワ
 
-
 ---
 id: 1190050
 attribute: 0x6400E10001000002
 ---
-And told us with joy,
 {{1:30 arg="0x0400"}}
-
+they said with joy.
 
 ---
 id: 1190051
@@ -3407,13 +2942,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}ト＿マンメンノエミヲウカベテイマシタ
 
-
 ---
 id: 1191010
 attribute: 0x6400E10001000002
 ---
-"It is like I'm in a flower garden."
-
+"It looks just like a flower field!"
 
 ---
 id: 1191011
@@ -3421,13 +2954,11 @@ attribute: 0x6400E10001000002
 ---
 マルデオハナバタケミタイ
 
-
 ---
 id: 1191020
 attribute: 0x6400E10001000002
 ---
-"I prefer foods over flowers."
-
+"It looks beautiful, but it's not useful."
 
 ---
 id: 1191021
@@ -3435,13 +2966,11 @@ attribute: 0x6400E10001000002
 ---
 ヤッパリハナヨリダンゴヨネ
 
-
 ---
 id: 1191030
 attribute: 0x6400E10001000002
 ---
-"I can keep watching it all day long."
-
+"I'd never get bored watching this."
 
 ---
 id: 1191031
@@ -3449,21 +2978,18 @@ attribute: 0x6400E10001000002
 ---
 イチニチジューミテモアキナイ
 
-
 ---
 id: 1200000
 attribute: 0x6400800001010101
 ---
-From the head?
-
+Thing Grows Out of Head???
 
 ---
 id: 1200010
 attribute: 0x6400E10001000002
 ---
 This is a strange story about the
-well-know {{1:30 arg="0x0000"}}.
-
+well-known {{1:30 arg="0x0000"}}.
 
 ---
 id: 1200011
@@ -3471,14 +2997,12 @@ attribute: 0x6400E10001000002
 ---
 ミナサンモゴゾンジノ{{1:30 arg="0x0000"}}ノ＿チョットカワッタワダイデス
 
-
 ---
 id: 1200020
 attribute: 0x6400E10001000002
 ---
-There was {{1:30 arg="0x0000"}} growing out
-of {{1:30 arg="0x0100"}}'s head.
-
+{{1:30 arg="0x0100"}}, who's self-employed,
+has {{1:30 arg="0x0000"}}  growing from their head.
 
 ---
 id: 1200021
@@ -3486,14 +3010,12 @@ attribute: 0x6400E10001000002
 ---
 ジエイギョー＿{{1:30 arg="0x0100"}}サンノアタマニ{{1:30 arg="0x0000"}}ガハエマシタ
 
-
 ---
 id: 1200030
 attribute: 0x6400E10001000002
 ---
-The doctor, {{1:30 arg="0x0200"}} said
-that it was a rare case.
-
+Expert doctor {{1:30 arg="0x0200"}} said
+this case only occurs a handful of times.
 
 ---
 id: 1200031
@@ -3501,14 +3023,12 @@ attribute: 0x6400E10001000002
 ---
 キンジョノイシ{{1:30 arg="0x0200"}}サンワ＿ヒトノアタマニ{{1:30 arg="0x0000"}}ガハエタレイワ
 
-
 ---
 id: 1200040
 attribute: 0x6400E10001000002
 ---
-Usually {{1:30 arg="0x0000"}} wouldn't grow
-on human's head. It will be studied further.
-
+"I'm eager to present this at an 
+academic conference," they said.
 
 ---
 id: 1200041
@@ -3516,14 +3036,12 @@ attribute: 0x6400E10001000002
 ---
 コレマデカゾエルホドシカナク＿ヒジョーニメズラシイ．ゼヒガッカイニハッピョーシタイト＿コーフンギミデシタ
 
-
 ---
 id: 1200050
 attribute: 0x6400E10001000002
 ---
-About this case, {{1:30 arg="0x0100"}}
-mentioned...
-
+Additionally, {{1:30 arg="0x0100"}}
+gave us an additional comment:
 
 ---
 id: 1200051
@@ -3531,14 +3049,12 @@ attribute: 0x6400E10001000002
 ---
 コンカイノケンニツイテ＿トーノ{{1:30 arg="0x0100"}}サンワ
 
-
 ---
 id: 1200060
 attribute: 0x6400E10001000002
 ---
-"My grandpa had it too. It's probably
-in our genes," and laughed.
-
+"My grandpa used to grow it sometimes. 
+It's probably in our genes," they said.
 
 ---
 id: 1200061
@@ -3546,21 +3062,18 @@ attribute: 0x6400E10001000002
 ---
 ソフモトキドキハヤシテイタ．チワアラソエナイモノダト＿エガオデカタリマシタ．
 
-
 ---
 id: 1210000
 attribute: 0x6400800001010101
 ---
-Courting Cases
-
+Confession Maniac Stopped
 
 ---
 id: 1210010
 attribute: 0x6400E10001000002
 ---
-Mysterious cases in {{1:30 arg="0x0000"}}
-City has been solved.
-
+A bizzare case involving a lovestruck man
+in {{1:30 arg="0x0000"}} City was closed.
 
 ---
 id: 1210011
@@ -3568,14 +3081,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}シデヒンパツシテイタコクリマジケンガ＿ツイニカイケツシマシタ
 
-
 ---
 id: 1210020
 attribute: 0x6400E10001000002
 ---
-On the way home, some office ladies were
-approached by a mysterious dancing creature.
-
+Various office ladies have reported
+a man declaring love to them while dancing.
 
 ---
 id: 1210021
@@ -3583,14 +3094,12 @@ attribute: 0x6400E10001000002
 ---
 キタクトチューノオオエルナドニ＿ハゲシイキューアイダンスヲオドリナガラ＿ネツレツナアイノコクハクヲクリカエシテイタ
 
-
 ---
 id: 1210030
 attribute: 0x6400E10001000002
 ---
-The mysterious {{1:30 arg="0x0100"}}
-was captured at last.
-
+{{1:30 arg="0x0100"}}, the dancing Oodori,
+was captured earlier this week.
 
 ---
 id: 1210031
@@ -3598,14 +3107,12 @@ attribute: 0x6400E10001000002
 ---
 オオ{{1:30 arg="0x0100"}}ドリガツイニホカクサレマシタ
 
-
 ---
 id: 1210040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, a specialist
-in {{1:30 arg="0x0100"}}, said...
-
+Oodori specialist {{1:30 arg="0x0200"}}
+gave a comment about {{1:30 arg="0x0100"}}:
 
 ---
 id: 1210041
@@ -3613,13 +3120,11 @@ attribute: 0x6400E10001000002
 ---
 オオ{{1:30 arg="0x0100"}}ドリニクワシイ{{1:30 arg="0x0200"}}シワ
 
-
 ---
 id: 1210050
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
-
 
 ---
 id: 1210051
@@ -3627,13 +3132,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
 
-
 ---
 id: 1210060
 attribute: 0x6400E10001000002
 ---
-... as a comment for this case.
-
+Our next topic: Evil chicken wiz-
+We can't air that? Never mind.
 
 ---
 id: 1210061
@@ -3641,13 +3145,11 @@ attribute: 0x6400E10001000002
 ---
 ト＿カタッテイマシタ
 
-
 ---
 id: 1210070
 attribute: 0x6400E10001000002
 ---
 Mysterious {{1:30 arg="0x0100"}}
-
 
 ---
 id: 1210071
@@ -3655,14 +3157,12 @@ attribute: 0x6400E10001000002
 ---
 22
 
-
 ---
 id: 1211010
 attribute: 0x6400E10001000002
 ---
-"Maybe it's looking for a marriage
-partner."
-
+"I bet he was trying to get
+a date."
 
 ---
 id: 1211011
@@ -3670,14 +3170,12 @@ attribute: 0x6400E10001000002
 ---
 ケッコンアイテヲサガシテイタノダロー
 
-
 ---
 id: 1211020
 attribute: 0x6400E10001000002
 ---
-"It might want to see how it feels
-like to talk to girls."
-
+"Maybe he was practicing confessing
+his feelings to someone else."
 
 ---
 id: 1211021
@@ -3685,28 +3183,24 @@ attribute: 0x6400E10001000002
 ---
 ニンゲンニコクハクシテミタカッタノカモシレナイ
 
-
 ---
 id: 1212010
 attribute: 0x6400800001010001
 ---
 Mysterious {{1:30 arg="0x0100"}}
 
-
 ---
 id: 1220000
 attribute: 0x6400800001010101
 ---
-Success At Last!
-
+Local Farmer Finally Grows Crop!
 
 ---
 id: 1220010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} has
-finally been able to grow carrots.
-
+{{1:30 arg="0x0000"}}, a struggling farmer,
+finally grew a steady amount of carrots.
 
 ---
 id: 1220011
@@ -3714,14 +3208,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンガソダテテイルニンジンガ＿ジュンチョーニセイチョーシテイマス
 
-
 ---
 id: 1220020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} who had
-been very bad at growing plants, said...
-
+{{1:30 arg="0x0000"}} had always struggled
+with growing plants. After a good harvest,
 
 ---
 id: 1220021
@@ -3729,14 +3221,12 @@ attribute: 0x6400E10001000002
 ---
 ショクブツヲソダテルコトガニガテダッタ{{1:30 arg="0x0000"}}サンデスガ
 
-
 ---
 id: 1220030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}
-And smiled with joy.
-
+they said {{1:30 arg="0x0100"}}
+and smiled with joy. Good job!
 
 ---
 id: 1220031
@@ -3744,13 +3234,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}ト＿ヨロコビノイロヲカクセナイヨーデシタ
 
-
 ---
 id: 1221010
 attribute: 0x6400E10001000002
 ---
-"I did it!"
-
+"I finally did it!"
 
 ---
 id: 1221011
@@ -3758,13 +3246,11 @@ attribute: 0x6400E10001000002
 ---
 ツイニヤッタ
 
-
 ---
 id: 1221020
 attribute: 0x6400E10001000002
 ---
-"I'm so proud,"
-
+"I'm gonna brag about this!"
 
 ---
 id: 1221021
@@ -3772,28 +3258,24 @@ attribute: 0x6400E10001000002
 ---
 ユージンニジマンデキル
 
-
 ---
 id: 1222010
 attribute: 0x6400800001010001
 ---
 Cultivated carrot
 
-
 ---
 id: 1230000
 attribute: 0x6400800001010101
 ---
-Friendly Ducks
-
+Friendly Birds at the Park
 
 ---
 id: 1230010
 attribute: 0x6400E10001000002
 ---
-The ducks at {{1:30 arg="0x0000"}} Park
-are usually very friendly.
-
+The Birds at {{1:30 arg="0x0000"}} Park
+have become very friendly.
 
 ---
 id: 1230011
@@ -3801,14 +3283,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}コーエンノトリタチガ＿ナカノヨイスガタヲミセテイマス
 
-
 ---
 id: 1230020
 attribute: 0x6400E10001000002
 ---
 When people feed them {{1:30 arg="0x0100"}},
-the whole flock of ducks will eat together.
-
+various flocks fly down and eat together.
 
 ---
 id: 1230021
@@ -3816,14 +3296,12 @@ attribute: 0x6400E10001000002
 ---
 エサノ{{1:30 arg="0x0100"}}ヲアゲルト＿トリタチワイッセイニタベハジメマシタ
 
-
 ---
 id: 1230030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, who went to feed them
-said, {{1:30 arg="0x0300"}}
-
+{{1:30 arg="0x0300"}} said
+{{1:30 arg="0x0200"}}, who was feeding them.
 
 ---
 id: 1230031
@@ -3831,13 +3309,11 @@ attribute: 0x6400E10001000002
 ---
 エサヲヤッテイタ{{1:30 arg="0x0200"}}サンワ＿{{1:30 arg="0x0300"}}トハナシテイマシタ
 
-
 ---
 id: 1231010
 attribute: 0x6400E10001000002
 ---
-"The mother looks like my friend."
-
+"One in the back looks like my friend."
 
 ---
 id: 1231011
@@ -3845,13 +3321,11 @@ attribute: 0x6400E10001000002
 ---
 オクノトリガトモダチニニテイル
 
-
 ---
 id: 1231020
 attribute: 0x6400E10001000002
 ---
 "I wanted to feed the carps."
-
 
 ---
 id: 1231021
@@ -3859,13 +3333,11 @@ attribute: 0x6400E10001000002
 ---
 コイニアゲルツモリダッタ
 
-
 ---
 id: 1231030
 attribute: 0x6400E10001000002
 ---
 "They are so cute!"
-
 
 ---
 id: 1231031
@@ -3873,21 +3345,18 @@ attribute: 0x6400E10001000002
 ---
 トテモカワイラシイ
 
-
 ---
 id: 1240000
 attribute: 0x6400800001010101
 ---
 Nantendo Game!
 
-
 ---
 id: 1240010
 attribute: 0x6400E10001000002
 ---
-A game company, Nantendo, has announced
-its new game hardware system.
-
+Game company Nantendo announced
+a new game console today.
 
 ---
 id: 1240011
@@ -3895,14 +3364,12 @@ attribute: 0x6400E10001000002
 ---
 ゲームメーカーノナンテンドーガ＿シンガタノゲームキヲハッピョーシマシタ
 
-
 ---
 id: 1240020
 attribute: 0x6400E10001000002
 ---
-President {{1:30 arg="0x0000"}}
-discussed the {{1:30 arg="0x0100"}} model.
-
+The new console, the {{1:30 arg="0x0000"}},
+resembles Nantendo president {{1:30 arg="0x0100"}}.
 
 ---
 id: 1240021
@@ -3910,14 +3377,12 @@ attribute: 0x6400E10001000002
 ---
 ナンテンドーノ{{1:30 arg="0x0000"}}シャチョーソックリナシンガタハード＿{{1:30 arg="0x0100"}}ワ
 
-
 ---
 id: 1240030
 attribute: 0x6400E10001000002
 ---
-This new model has much better specs than
-the old {{1:30 arg="0x0200"}} model.
-
+It will be similar to the {{1:30 arg="0x0100"}} model,
+but it has a 3D fishing rod tablet mouse.
 
 ---
 id: 1240031
@@ -3925,14 +3390,12 @@ attribute: 0x6400E10001000002
 ---
 ゲンコーハード＿{{1:30 arg="0x0200"}}カラノスペックコージョーワアエテオコナワズ
 
-
 ---
 id: 1240040
 attribute: 0x6400E10001000002
 ---
-It was designed with a concept of
-"A game system that everyone will love."
-
+President {{1:30 arg="0x0000"}} went on
+to announce even more promising games,
 
 ---
 id: 1240041
@@ -3940,14 +3403,12 @@ attribute: 0x6400E10001000002
 ---
 ダレカラモアイサレルタメノデザイン＿ヲコンセプトニカイハツサレタトノコトデス．
 
-
 ---
 id: 1240050
 attribute: 0x6400E10001000002
 ---
-Then {{1:30 arg="0x0000"}}, Nantendo
-President announced at the event...
-
+ending the conference by proclaming
+this will expand the gaming population.
 
 ---
 id: 1240051
@@ -3955,14 +3416,12 @@ attribute: 0x6400E10001000002
 ---
 ナンテンドーノ{{1:30 arg="0x0000"}}シャチョーワ＿コノハッピョーノバデ
 
-
 ---
 id: 1240060
 attribute: 0x6400E10001000002
 ---
-"This will probably expand the population of
-gamers."
-
+That's it? I thought we'd cover
+that tweezer controversy. Oh well.
 
 ---
 id: 1240061
@@ -3970,21 +3429,18 @@ attribute: 0x6400E10001000002
 ---
 ゲームジンコーワサラニカクダイスルダロート＿ジシンノホドヲノベマシタ
 
-
 ---
 id: 1250000
 attribute: 0x6400800001010101
 ---
-Lost Property
-
+Lost Property Found
 
 ---
 id: 1250010
 attribute: 0x6400E10001000002
 ---
-Early this morning, {{1:30 arg="0x0000"}} was
-found near the apartment.
-
+Around {{1:30 arg="0x0100"}}, {{1:30 arg="0x0000"}} was
+found lying around the island apartments.
 
 ---
 id: 1250011
@@ -3992,14 +3448,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}ミメイ＿マンションフキンニ{{1:30 arg="0x0000"}}ガオチテイルノヲ
 
-
 ---
 id: 1250020
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}} was the one who found
-it and submitted it to the police office.
-
+it and delivered it to the police.
 
 ---
 id: 1250021
@@ -4007,14 +3461,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}サンガハッケンシマシタ．{{1:30 arg="0x0200"}}サンガコーバンニトドケタトコロ
 
-
 ---
 id: 1250030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}, the owner of the lost
-property, showed up later.
-
+After 3 years, {{1:30 arg="0x0300"}}, the owner of the lost
+property identified their item.
 
 ---
 id: 1250031
@@ -4022,14 +3474,12 @@ attribute: 0x6400E10001000002
 ---
 オトシヌシノ{{1:30 arg="0x0300"}}サンガアラワレマシタ
 
-
 ---
 id: 1250040
 attribute: 0x6400E10001000002
 ---
+{{1:30 arg="0x0400"}}
 {{1:30 arg="0x0300"}} said,
-{{1:30 arg="0x0400"}},
-
 
 ---
 id: 1250041
@@ -4037,13 +3487,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}サンワ＿{{1:30 arg="0x0400"}}
 
-
 ---
 id: 1250050
 attribute: 0x6400E10001000002
 ---
-and smiled joyfully.
-
+And smiled joyfully.
 
 ---
 id: 1250051
@@ -4051,13 +3499,11 @@ attribute: 0x6400E10001000002
 ---
 ト＿タイヘンウレシソーデシタ
 
-
 ---
 id: 1251010
 attribute: 0x6400E10001000002
 ---
-"That’s mine. Gimmie!"
-
+"That's where my family heirloom went!"
 
 ---
 id: 1251011
@@ -4065,13 +3511,11 @@ attribute: 0x6400E10001000002
 ---
 ウチノカホーナノデタスカッタ
 
-
 ---
 id: 1251020
 attribute: 0x6400E10001000002
 ---
-"That’s where it was?"
-
+"I forgot that thing existed,"
 
 ---
 id: 1251021
@@ -4079,28 +3523,24 @@ attribute: 0x6400E10001000002
 ---
 ナンジカンモサガシタ．ミツカッテヨカッタ
 
-
 ---
 id: 1252010
 attribute: 0x6400800001010001
 ---
-{{1:30 arg="0x0000"}} Image from the site.
-
+{{1:30 arg="0x0000"}} Reconstructed Image
 
 ---
 id: 1260000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}'s Birthday!
-
+Coming Soon: {{1:30 arg="0x0000"}}'s Birthday!
 
 ---
 id: 1260010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}'s birthday is
-coming soon.
-
+just around the corner.
 
 ---
 id: 1260011
@@ -4108,14 +3548,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンノタンジョービヲモクゼンニヒカエ
 
-
 ---
 id: 1260020
 attribute: 0x6400E10001000002
 ---
-The department store has been crowded
-with people going to buy presents.
-
+Hundreds of people have tried
+to get gifts for them.
 
 ---
 id: 1260021
@@ -4123,13 +3561,12 @@ attribute: 0x6400E10001000002
 ---
 デパートワプレゼントヲエラブオキャクサンデ＿コミアッテイマス
 
-
 ---
 id: 1260030
 attribute: 0x6400E10001000002
 ---
-Research shows it’ll get more crowded.
-
+Sadly, this led to stores being
+overcrowed and out of stock.
 
 ---
 id: 1260031
@@ -4137,14 +3574,12 @@ attribute: 0x6400E10001000002
 ---
 コノコンザツワ＿コレカラサラニヒドクナルモヨーデス
 
-
 ---
 id: 1260040
 attribute: 0x6400E10001000002
 ---
 For those who haven't prepared a present
-yet, you'd better hurry!
-
+yet, you'd better hurry.
 
 ---
 id: 1260041
@@ -4152,21 +3587,18 @@ attribute: 0x6400E10001000002
 ---
 プレゼントノゴヨーイガマダノカタワ＿オイソギニナラレタホーガヨイデショー
 
-
 ---
 id: 1270000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Drifted Ashore
-
+Plenty of {{1:30 arg="0x0000"}} Drifted Ashore
 
 ---
 id: 1270010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0100"}} Island's beach, a large amount
-of {{1:30 arg="0x0000"}} washed ashore.
-
+A large number of {{1:30 arg="0x0000"}} was washed
+ashore on {{1:30 arg="0x0100"}} Island's beach.
 
 ---
 id: 1270011
@@ -4174,14 +3606,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}トーノスナハマニ＿タイリョーノ{{1:30 arg="0x0000"}}ガーチアゲラレテイルノヲ
 
-
 ---
 id: 1270020
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}, a bystander,
-witnessed the event.
-
+witnessed the event near their house.
 
 ---
 id: 1270021
@@ -4189,14 +3619,11 @@ attribute: 0x6400E10001000002
 ---
 チカクニスム{{1:30 arg="0x0200"}}サンガハッケンシマシタ
 
-
 ---
 id: 1270030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} was nearby
-their house when the event occurred.
-
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1270031
@@ -4204,13 +3631,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}サンワ
 
-
 ---
 id: 1270040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}
-
+{{1:30 arg="0x0200"}} said.
 
 ---
 id: 1270041
@@ -4218,13 +3643,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
 
-
 ---
 id: 1270050
 attribute: 0x6400E10001000002
 ---
-That’s how they described the situation.
-
+The beach is now off-limit as it must be
+inspected for safety.
 
 ---
 id: 1270051
@@ -4232,14 +3656,12 @@ attribute: 0x6400E10001000002
 ---
 ト＿ソノトキノヨースヲカタッテイマシタ
 
-
 ---
 id: 1270060
 attribute: 0x6400E10001000002
 ---
-The beach is now off-limits, as it must be
-inspected for safety.
-
+Up next: Man claims electrocuted coworker
+posesses Wii- Oh, time's up.
 
 ---
 id: 1270061
@@ -4247,20 +3669,17 @@ attribute: 0x6400E10001000002
 ---
 ナオ＿アンゼンカクニンノタメ＿スナハマワゲンザイタチイリキンシニナッテイマス
 
-
 ---
 id: 1270070
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}
 
-
 ---
 id: 1270071
 attribute: 0x6400E10001000002
 ---
 22
-
 
 ---
 id: 1271010
@@ -4269,21 +3688,18 @@ attribute: 0x6400E10001000002
 "This happens every year, but it's
 never been this many before."
 
-
 ---
 id: 1271011
 attribute: 0x6400E10001000002
 ---
 マイトシヒョーチャクシテクルガ＿ココマデオオイノワミタコトガナイ
 
-
 ---
 id: 1271020
 attribute: 0x6400E10001000002
 ---
-"It would have been great if it
+"It would have been awesome if it
 were money instead."
-
 
 ---
 id: 1271021
@@ -4291,13 +3707,11 @@ attribute: 0x6400E10001000002
 ---
 ドーセナラ＿オカネガナガレテクレバヨカッタノニ
 
-
 ---
 id: 1271030
 attribute: 0x6400E10001000002
 ---
 "I plan to pick them up and sell them."
-
 
 ---
 id: 1271031
@@ -4305,20 +3719,17 @@ attribute: 0x6400E10001000002
 ---
 タクサンヒロッテウロートオモウ
 
-
 ---
 id: 1272010
 attribute: 0x6400800001010001
 ---
 {{1:30 arg="0x0000"}}
 
-
 ---
 id: 1280000
 attribute: 0x6400800001010101
 ---
 Aliens Exist!?
-
 
 ---
 id: 1280010
@@ -4327,13 +3738,11 @@ attribute: 0x6400E10001000002
 Prof. {{1:30 arg="0x0000"}}, an alien
 researcher, made an announcement.
 
-
 ---
 id: 1280011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}＿ウチュージンケンキューノケンイデアル{{1:30 arg="0x0000"}}ハカセニヨル
-
 
 ---
 id: 1280020
@@ -4342,20 +3751,17 @@ attribute: 0x6400E10001000002
 This is the footage of our reporter
 attending the event.
 
-
 ---
 id: 1280021
 attribute: 0x6400E10001000002
 ---
 ジューダイハッピョーガオコナワレマシタ．カイケンノモヨーヲオオクリシマス
 
-
 ---
 id: 1290000
 attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}}'s {{1:30 arg="0x0100"}}strdth birthday!
-
 
 ---
 id: 1290010
@@ -4364,13 +3770,11 @@ attribute: 0x6400E10001000002
 Today is {{1:30 arg="0x0000"}}'s
 {{1:30 arg="0x0100"}} year-old birthday.
 
-
 ---
 id: 1290011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}＿{{1:30 arg="0x0000"}}サンガ＿{{1:30 arg="0x0100"}}サイノタンジョービヲムカエマシタ
-
 
 ---
 id: 1290020
@@ -4379,28 +3783,24 @@ attribute: 0x6400E10001000002
 There was a birthday celebration at
 {{1:30 arg="0x0300"}} hotel.
 
-
 ---
 id: 1290021
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}シノホテルデヒラカレタ＿オタンジョービカイノモヨーヲオオクリシマス
 
-
 ---
 id: 1300000
 attribute: 0x6400800001010101
 ---
-Ancient {{1:30 arg="0x0000"}}
-
+10,000 Year-old {{1:30 arg="0x0000"}}
 
 ---
 id: 1300010
 attribute: 0x6400E10001000002
 ---
-Today at Mt. {{1:30 arg="0x0200"}}, a 10,000 year
+Today, at Mt. {{1:30 arg="0x0200"}}, a 10,000 year
 old {{1:30 arg="0x0000"}} was excavated.
-
 
 ---
 id: 1300011
@@ -4408,14 +3808,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}＿{{1:30 arg="0x0200"}}ヤマノフモトデ＿イチマンネンマエノ{{1:30 arg="0x0000"}}ガハッケンサレマシタ
 
-
 ---
 id: 1300020
 attribute: 0x6400E10001000002
 ---
-The expert, {{1:30 arg="0x0300"}}, stated that
+Archeologist expert {{1:30 arg="0x0300"}} said that
 the {{1:30 arg="0x0000"}} was well preserved.
-
 
 ---
 id: 1300021
@@ -4423,14 +3821,12 @@ attribute: 0x6400E10001000002
 ---
 センモンカノ{{1:30 arg="0x0300"}}シニヨルト＿{{1:30 arg="0x0000"}}ワホゾンジョータイガトテモヨク
 
-
 ---
 id: 1300030
 attribute: 0x6400E10001000002
 ---
-Things like this have very high
-academic value.
-
+They also claimed it will have a high
+academic value and is worth studying.
 
 ---
 id: 1300031
@@ -4438,21 +3834,18 @@ attribute: 0x6400E10001000002
 ---
 ガクジュツテキカチモタカイトノコトデス
 
-
 ---
 id: 1310000
 attribute: 0x6400800001010101
 ---
-Infringement Case
-
+Electronic Patent Infringement
 
 ---
 id: 1310010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} Electric announced on {{1:30 arg="0x0100"}}, that
-the {{1:30 arg="0x0200"}} announced by the unscrupulous electronics company,
-
+{{1:30 arg="0x0000"}} LLC was accused by
+the {{1:30 arg="0x0100"}} company over the {{1:30 arg="0x0200"}}.
 
 ---
 id: 1310011
@@ -4460,14 +3853,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}デンキワ{{1:30 arg="0x0100"}}＿アクトクデンキガハッピョーシタ{{1:30 arg="0x0200"}}ガ
 
-
 ---
 id: 1310020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} is in violation of 
-another company’s patent.
-
+{{1:30 arg="0x0000"}}'s product was "circumventing"
+various encrypted keys and chips.
 
 ---
 id: 1310021
@@ -4475,13 +3866,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}デンキガショユーシテイルトッキョヲ＿シンガイシテイルトシテ
 
-
 ---
 id: 1310030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}} has filed a lawsuit in the district court.
-
+{{1:30 arg="0x0300"}} has filed a lawsuit 
+in the district court.
 
 ---
 id: 1310031
@@ -4489,14 +3879,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}チホーサイバンショニテイソシマシタ
 
-
 ---
 id: 1310040
 attribute: 0x6400E10001000002
 ---
-According to the complaint, the
-company allegedly copied their patent.
-
+In the case, it was revealed the {{1:30 arg="0x0200"}}
+unauthorized activity between blah blah blah blah...
 
 ---
 id: 1310041
@@ -4504,20 +3892,18 @@ attribute: 0x6400E10001000002
 ---
 ウッタエニヨリマスト＿{{1:30 arg="0x0200"}}ノクドーブブンガ＿トッキョヲシンガイシテイルトノコトデス
 
-
 ---
 id: 1310050
 attribute: 0x6400E10001000002
 ---
-In response, the company stated:
-
+The company stated the following
+in response:
 
 ---
 id: 1310051
 attribute: 0x6400E10001000002
 ---
 コレニタイシ＿アクトクデンキワ
-
 
 ---
 id: 1310060
@@ -4526,13 +3912,11 @@ attribute: 0x6400E10001000002
 "Uuuuuhhhhh... nope. We haven't
 seen anything like that."
 
-
 ---
 id: 1310061
 attribute: 0x6400E10001000002
 ---
 ソジョーヲミテイナイノデコメントデキナイ＿トシテイマス
-
 
 ---
 id: 1310070
@@ -4540,13 +3924,11 @@ attribute: 0x6400E10001000002
 ---
 The problematic {{1:30 arg="0x0200"}}
 
-
 ---
 id: 1310071
 attribute: 0x6400E10001000002
 ---
 225
-
 
 ---
 id: 1312010
@@ -4554,21 +3936,18 @@ attribute: 0x6400800001010001
 ---
 The problematic {{1:30 arg="0x0200"}}
 
-
 ---
 id: 1320000
 attribute: 0x6400800001010101
 ---
 Meteorite Falls To Earth
 
-
 ---
 id: 1320010
 attribute: 0x6400E10001000002
 ---
-Early this morning, a meteorite fell onto
+Earlier at {{1:30 arg="0x0000"}}, a meteorite fell onto
 {{1:30 arg="0x0100"}} Island.
-
 
 ---
 id: 1320011
@@ -4576,21 +3955,18 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ミメイ＿{{1:30 arg="0x0100"}}トーニインセキガラッカシマシタ
 
-
 ---
 id: 1320020
 attribute: 0x6400E10001000002
 ---
-A trace of {{1:30 arg="0x0200"}} was found
-on the meteorite.
-
+Upon examination, multiple traces of 
+{{1:30 arg="0x0200"}} was found on the meteorite.
 
 ---
 id: 1320021
 attribute: 0x6400E10001000002
 ---
 ラッカシタインセキヲシラベテミルト＿セイブンニビリョーノ{{1:30 arg="0x0200"}}ヲフクンデイルコトガハンメイ
-
 
 ---
 id: 1320030
@@ -4599,20 +3975,17 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0300"}}, a geologist, said
 that more in-depth inspection was needed.
 
-
 ---
 id: 1320031
 attribute: 0x6400E10001000002
 ---
 チカク＿センモンカノ{{1:30 arg="0x0300"}}シニヨッテ＿クワシイケンショーガナサレルヨテイデス
 
-
 ---
 id: 1330000
 attribute: 0x6400800001010101
 ---
 A pencil to {{1:30 arg="0x0000"}}
-
 
 ---
 id: 1330010
@@ -4621,13 +3994,11 @@ attribute: 0x6400E10001000002
 One {{1:30 arg="0x0200"}} Island resident,
 {{1:30 arg="0x0100"}}, suddenly became rich.
 
-
 ---
 id: 1330011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}トーノ{{1:30 arg="0x0100"}}サンガ＿ワラシベチョージャニチョーセンシマシタ
-
 
 ---
 id: 1330020
@@ -4636,20 +4007,18 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}} started trading a
 pencil for other items,
 
-
 ---
 id: 1330021
 attribute: 0x6400E10001000002
 ---
 サイショニモッテイタノワエンピツデシタガ＿ブツブツコーカンヲクリカエシ
 
-
 ---
 id: 1330030
 attribute: 0x6400E10001000002
 ---
-and ended up with {{1:30 arg="0x0000"}}.
-
+and somehow ended up with 
+this {{1:30 arg="0x0000"}}.
 
 ---
 id: 1330031
@@ -4657,14 +4026,12 @@ attribute: 0x6400E10001000002
 ---
 ツイニ{{1:30 arg="0x0000"}}ニナッタソーデス
 
-
 ---
 id: 1330040
 attribute: 0x6400E10001000002
 ---
-According to {{1:30 arg="0x0300"}}, who now
-owned the {{1:30 arg="0x0000"}}...
-
+We interviewed {{1:30 arg="0x0300"}}, who now
+owned the {{1:30 arg="0x0000"}}:
 
 ---
 id: 1330041
@@ -4672,13 +4039,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ヲコーカンシタ{{1:30 arg="0x0300"}}サンワ
 
-
 ---
 id: 1330050
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
-
 
 ---
 id: 1330051
@@ -4686,13 +4051,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
 
-
 ---
 id: 1330060
 attribute: 0x6400E10001000002
 ---
-That was the comment we got.
-
+Up next: Child turns heirloom
+into leaf- We can't cover that?
 
 ---
 id: 1330061
@@ -4700,13 +4064,12 @@ attribute: 0x6400E10001000002
 ---
 ト＿カタッテイマシタ
 
-
 ---
 id: 1331010
 attribute: 0x6400E10001000002
 ---
-"People just pitied me."
-
+"They looked desperate to swap
+items so I swapped," they said.
 
 ---
 id: 1331011
@@ -4714,13 +4077,12 @@ attribute: 0x6400E10001000002
 ---
 ヒッシナカオヲシテイタノデ＿シカタナクコーカンシテアゲタ
 
-
 ---
 id: 1331020
 attribute: 0x6400E10001000002
 ---
-"People like weird stuff."
-
+"Some people do the strangest things," 
+they said.
 
 ---
 id: 1331021
@@ -4728,28 +4090,24 @@ attribute: 0x6400E10001000002
 ---
 オカシナコトヲスルヒトモイルモンダ
 
-
 ---
 id: 1340000
 attribute: 0x6400800001010101
 ---
-Essay Contest
-
+Winners for an Essay Contest
 
 ---
 id: 1340010
 attribute: 0x6400E10001000002
 ---
-A few days ago, the winner of the
+A few days ago, the winners of the
 essay contest was announced.
-
 
 ---
 id: 1340011
 attribute: 0x6400E10001000002
 ---
 センジツオコナワレタ＿サクブンコンクールノジュショーシャガハッピョーサレマシタ
-
 
 ---
 id: 1340020
@@ -4758,13 +4116,11 @@ attribute: 0x6400E10001000002
 The highest award was presented to our
 island's resident, {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 1340021
 attribute: 0x6400E10001000002
 ---
 サイユーシューショーワ＿{{1:30 arg="0x0100"}}トーシュッシンノ{{1:30 arg="0x0000"}}サンガカイタ
-
 
 ---
 id: 1340030
@@ -4773,13 +4129,11 @@ attribute: 0x6400E10001000002
 The essay topic is about
 {{1:30 arg="0x0200"}}
 
-
 ---
 id: 1340031
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}ニケッテイシマシタ
-
 
 ---
 id: 1340040
@@ -4788,13 +4142,11 @@ attribute: 0x6400E10001000002
 "I'm very happy that my hard work
 has been recognized," {{1:30 arg="0x0000"}} said,
 
-
 ---
 id: 1340041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}サンワ＿イッショーケンメイカイタノデ＿オモイガツタワッテウレシイ
-
 
 ---
 id: 1340050
@@ -4802,20 +4154,17 @@ attribute: 0x6400E10001000002
 ---
 and delightfully accepted the award.
 
-
 ---
 id: 1340051
 attribute: 0x6400E10001000002
 ---
 ト＿ヨロコビヲカタッテイマシタ
 
-
 ---
 id: 1341010
 attribute: 0x6400E10001000002
 ---
-"Memories of Miso Soup"
-
+"Memories of miso soup."
 
 ---
 id: 1341011
@@ -4823,13 +4172,11 @@ attribute: 0x6400E10001000002
 ---
 ミソシルノオモイデ
 
-
 ---
 id: 1341020
 attribute: 0x6400E10001000002
 ---
 "People from the Showa Era."
-
 
 ---
 id: 1341021
@@ -4837,13 +4184,11 @@ attribute: 0x6400E10001000002
 ---
 ショーワナヒト
 
-
 ---
 id: 1341030
 attribute: 0x6400E10001000002
 ---
 "Is it healthy to be fat?"
-
 
 ---
 id: 1341031
@@ -4851,13 +4196,11 @@ attribute: 0x6400E10001000002
 ---
 ソータイセイケンコーロン
 
-
 ---
 id: 1341040
 attribute: 0x6400E10001000002
 ---
-"Weird family interactions."
-
+"Odd family interactions."
 
 ---
 id: 1341041
@@ -4865,13 +4208,11 @@ attribute: 0x6400E10001000002
 ---
 アメチャントオバチャン
 
-
 ---
 id: 1341050
 attribute: 0x6400E10001000002
 ---
 "How to manage multi-tasking."
-
 
 ---
 id: 1341051
@@ -4879,13 +4220,11 @@ attribute: 0x6400E10001000002
 ---
 マルチタスクニイキテ
 
-
 ---
 id: 1350000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Soaring Price
-
+Skyrocketing Price for {{1:30 arg="0x0000"}}
 
 ---
 id: 1350010
@@ -4894,21 +4233,18 @@ attribute: 0x6400E10001000002
 Currently, the price of {{1:30 arg="0x0000"}}
 is continuing to soar.
 
-
 ---
 id: 1350011
 attribute: 0x6400E10001000002
 ---
 コノトコロ＿{{1:30 arg="0x0000"}}ノゲンザイリョーノカカクガ＿ジョーショーヲツヅケテイマス
 
-
 ---
 id: 1350020
 attribute: 0x6400E10001000002
 ---
-The reason according to specialist
-{{1:30 arg="0x0100"}} is...
-
+Various theories try to explain why,
+but {{1:30 arg="0x0100"}} has a popular one:
 
 ---
 id: 1350021
@@ -4916,14 +4252,12 @@ attribute: 0x6400E10001000002
 ---
 ゲンザイリョーカカクコートーノリユーワショセツアリマスガ＿ジショーセンモンカノ{{1:30 arg="0x0100"}}シニヨルト＿
 
-
 ---
 id: 1350030
 attribute: 0x6400E10001000002
 ---
-because {{1:30 arg="0x0200"}} always
-consumes a large amount of it.
-
+The overeating of {{1:30 arg="0x0200"}}
+contributes significantly to the cost.
 
 ---
 id: 1350031
@@ -4931,14 +4265,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}サンガタベスギタコトニヨルエイキョーガ＿モットモオオキイソーデス
 
-
 ---
 id: 1350040
 attribute: 0x6400E10001000002
 ---
-At the moment, no one can do anything
-with {{1:30 arg="0x0000"}}'s price.
-
+At the moment, the price of
+{{1:30 arg="0x0000"}} remains stagnant.
 
 ---
 id: 1350041
@@ -4946,13 +4278,11 @@ attribute: 0x6400E10001000002
 ---
 ナオ＿イマノトコロ＿{{1:30 arg="0x0000"}}ノカカクワスエオカレルトノコトデス
 
-
 ---
 id: 1360000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Prediction
-
+Unforseeable Prediction Predicted
 
 ---
 id: 1360010
@@ -4961,13 +4291,11 @@ attribute: 0x6400E10001000002
 Today, we’d like to introduce
 you to someone extraordinary.
 
-
 ---
 id: 1360011
 attribute: 0x6400E10001000002
 ---
 キョーワ＿タイヘンナノーリョクヲモッテイルジンブツヲゴショーカイシマス
-
 
 ---
 id: 1360020
@@ -4976,13 +4304,11 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0200"}} Island's {{1:30 arg="0x0100"}} can
 foresee {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 1360021
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}トーノ{{1:30 arg="0x0100"}}サンワ＿{{1:30 arg="0x0000"}}ヲヨチシマシタ
-
 
 ---
 id: 1360030
@@ -4991,27 +4317,24 @@ attribute: 0x6400E10001000002
 When it actually happened,
 {{1:30 arg="0x0100"}} was so shocked,
 
-
 ---
 id: 1360031
 attribute: 0x6400E10001000002
 ---
 ジッサイニソレガオコッタトキ＿{{1:30 arg="0x0100"}}サンワオドロキノアマリ
 
-
 ---
 id: 1360040
 attribute: 0x6400E10001000002
 ---
-They were reportedly knocked off their feet!
-
+That they were reportedly 
+knocked off their feet!
 
 ---
 id: 1360041
 attribute: 0x6400E10001000002
 ---
 コシヲヌカシタソーデス
-
 
 ---
 id: 1360050
@@ -5020,13 +4343,11 @@ attribute: 0x6400E10001000002
 "I want to use them to contribute 
 to world peace from now on,”  
 
-
 ---
 id: 1360051
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}サンワ＿ジシンノノーリョクニツイテ＿コレカラワセカイヘイワニヤクダテテイキタイ
-
 
 ---
 id: 1360060
@@ -5034,34 +4355,29 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}} said.
 
-
 ---
 id: 1360061
 attribute: 0x6400E10001000002
 ---
 ト＿カタッテイマシタ
 
-
 ---
 id: 1361010
 attribute: 0x6400E10001000002
 ---
-the person in front of me tripping
-
+someone tripping
 
 ---
 id: 1361011
 attribute: 0x6400E10001000002
 ---
-the person in front of me tripping
-
+メノマエノヒトガコケルコト
 
 ---
 id: 1361020
 attribute: 0x6400E10001000002
 ---
-picking up a 10-yen coin
-
+finding a 10-yen coin
 
 ---
 id: 1361021
@@ -5069,13 +4385,11 @@ attribute: 0x6400E10001000002
 ---
 ジューエンヲヒロウコト
 
-
 ---
 id: 1361030
 attribute: 0x6400E10001000002
 ---
-my umbrella breaking
-
+an umbrella breaking
 
 ---
 id: 1361031
@@ -5083,13 +4397,11 @@ attribute: 0x6400E10001000002
 ---
 カサガコワレルコト
 
-
 ---
 id: 1361040
 attribute: 0x6400E10001000002
 ---
-getting an oral ulcer
-
+having oral ulcers
 
 ---
 id: 1361041
@@ -5097,13 +4409,11 @@ attribute: 0x6400E10001000002
 ---
 コーナイエンニナルコト
 
-
 ---
 id: 1361050
 attribute: 0x6400E10001000002
 ---
-a bird’s gonna poop on me
-
+bird droppings
 
 ---
 id: 1361051
@@ -5111,13 +4421,11 @@ attribute: 0x6400E10001000002
 ---
 トリノフンガオチテクルコト
 
-
 ---
 id: 1370000
 attribute: 0x6400800001010101
 ---
 Long lines for {{1:30 arg="0x0000"}}
-
 
 ---
 id: 1370010
@@ -5126,21 +4434,18 @@ attribute: 0x6400E10001000002
 The new popularity of the {{1:30 arg="0x0000"}}
 craze has not faded away.
 
-
 ---
 id: 1370011
 attribute: 0x6400E10001000002
 ---
 コノトコロワダイトナッテイル＿{{1:30 arg="0x0000"}}ノニンキワオトロエズ
 
-
 ---
 id: 1370020
 attribute: 0x6400E10001000002
 ---
-People are still waiting in a long line
-to purchase it in front of the store.
-
+Hundreds of people already lined
+up at the store to buy it since dawn.
 
 ---
 id: 1370021
@@ -5148,14 +4453,12 @@ attribute: 0x6400E10001000002
 ---
 ケサモミセノマエニワ＿チョーダノレツガデキテイマシタ
 
-
 ---
 id: 1370030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}, who came to
-buy the {{1:30 arg="0x0000"}}, said,
-
+We interviewed {{1:30 arg="0x0100"}}, who came to
+buy the {{1:30 arg="0x0000"}}:
 
 ---
 id: 1370031
@@ -5163,13 +4466,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ヲカイニキタ{{1:30 arg="0x0100"}}サンワ
 
-
 ---
 id: 1370040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
-
 
 ---
 id: 1370041
@@ -5177,14 +4478,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}ト＿カタッテイマシタ
 
-
 ---
 id: 1370050
 attribute: 0x6400E10001000002
 ---
-Also, {{1:30 arg="0x0300"}}
-who was standing in the front, said,
-
+Another person in the front, {{1:30 arg="0x0300"}},
+wanted to be interviewed:
 
 ---
 id: 1370051
@@ -5192,14 +4491,12 @@ attribute: 0x6400E10001000002
 ---
 ナオ＿レツノセントーニイタ{{1:30 arg="0x0300"}}サンワ
 
-
 ---
 id: 1370060
 attribute: 0x6400E10001000002
 ---
 "I came here to get in the line since
-8 P.M. last night. Who needs sleep?"
-
+20:00 last night."
 
 ---
 id: 1370061
@@ -5207,13 +4504,11 @@ attribute: 0x6400E10001000002
 ---
 キノーノヨルハチジカラナランデイル＿トノコトデシタ
 
-
 ---
 id: 1371010
 attribute: 0x6400E10001000002
 ---
-"I just joined the line with everyone else."
-
+"I just joined other people in the line."
 
 ---
 id: 1371011
@@ -5221,13 +4516,11 @@ attribute: 0x6400E10001000002
 ---
 ミンナガナランデルノデナランダ
 
-
 ---
 id: 1371020
 attribute: 0x6400E10001000002
 ---
 "I'm gonna buy 20 of them!"
-
 
 ---
 id: 1371021
@@ -5235,13 +4528,11 @@ attribute: 0x6400E10001000002
 ---
 ニジュッコワカウツモリ
 
-
 ---
 id: 1371030
 attribute: 0x6400E10001000002
 ---
 "I hope it's not out of stock."
-
 
 ---
 id: 1371031
@@ -5249,28 +4540,24 @@ attribute: 0x6400E10001000002
 ---
 シナギレニナラナイカシンパイ
 
-
 ---
 id: 1380000
 attribute: 0x6400800001010101
 ---
-Mysterious Voice
-
+The Voice From the Empty Room:
 
 ---
 id: 1380010
 attribute: 0x6400E10001000002
 ---
-Lately, something strange happens in an
-apartment on {{1:30 arg="0x0000"}} Island.
-
+We've recieved strange reports involving
+{{1:30 arg="0x0000"}} Island's apartment.
 
 ---
 id: 1380011
 attribute: 0x6400E10001000002
 ---
 サイキン＿{{1:30 arg="0x0000"}}トーノマンションデ＿キミョーナコトガオコッテイルソーデス
-
 
 ---
 id: 1380020
@@ -5279,21 +4566,18 @@ attribute: 0x6400E10001000002
 People have been hearing voices from
 a vacant room.
 
-
 ---
 id: 1380021
 attribute: 0x6400E10001000002
 ---
 イマワダレモスンデイナイアキベヤカラ＿ヒトノコエガキコエテクルラシイノデス
 
-
 ---
 id: 1380030
 attribute: 0x6400E10001000002
 ---
 One resident, {{1:30 arg="0x0100"}}
-(alias), said that the voice sounded like...
-
+(alias) said that the voice sounded like...
 
 ---
 id: 1380031
@@ -5301,20 +4585,17 @@ attribute: 0x6400E10001000002
 ---
 コノマンションニスム{{1:30 arg="0x0100"}}サンワ
 
-
 ---
 id: 1380040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
 
-
 ---
 id: 1380041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
-
 
 ---
 id: 1380050
@@ -5323,13 +4604,11 @@ attribute: 0x6400E10001000002
 The police are now investigating
 this case.
 
-
 ---
 id: 1380051
 attribute: 0x6400E10001000002
 ---
 トユーコエヲタシカニキイタ＿トノコトデス．ケイサツワゲンインノキューメイヲイソイデイマス
-
 
 ---
 id: 1381010
@@ -5337,13 +4616,11 @@ attribute: 0x6400E10001000002
 ---
 "The electric bill is so high!"
 
-
 ---
 id: 1381011
 attribute: 0x6400E10001000002
 ---
 サイキンデンキダイタカイワー
-
 
 ---
 id: 1381020
@@ -5351,20 +4628,17 @@ attribute: 0x6400E10001000002
 ---
 "There's no water in the toilet!"
 
-
 ---
 id: 1381021
 attribute: 0x6400E10001000002
 ---
 トイレノミズガナガレナイ！！
 
-
 ---
 id: 1381030
 attribute: 0x6400E10001000002
 ---
-"Someone hand me a towel."
-
+"Someone hand me a towel..."
 
 ---
 id: 1381031
@@ -5372,13 +4646,11 @@ attribute: 0x6400E10001000002
 ---
 チョットタオルトッテー
 
-
 ---
 id: 1381040
 attribute: 0x6400E10001000002
 ---
-"I had too many beans."
-
+"I had too many beans!!!"
 
 ---
 id: 1381041
@@ -5386,13 +4658,11 @@ attribute: 0x6400E10001000002
 ---
 モヤシガアマッチャッタワ．ドーシマショー
 
-
 ---
 id: 1381050
 attribute: 0x6400E10001000002
 ---
 "I’m inside your walls!"
-
 
 ---
 id: 1381051
@@ -5400,13 +4670,11 @@ attribute: 0x6400E10001000002
 ---
 チョットティッシュカッテキテー
 
-
 ---
 id: 1390000
 attribute: 0x6400800001010101
 ---
-Special Stamp
-
+New Commemorative Stamp!
 
 ---
 id: 1390010
@@ -5415,13 +4683,11 @@ attribute: 0x6400E10001000002
 A picture of {{1:30 arg="0x0100"}},
 based on {{1:30 arg="0x0000"}},
 
-
 ---
 id: 1390011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}＿{{1:30 arg="0x0000"}}サンヲダイザイトシタ
-
 
 ---
 id: 1390020
@@ -5430,13 +4696,11 @@ attribute: 0x6400E10001000002
 will be printed on a special
 commemorative stamp.
 
-
 ---
 id: 1390021
 attribute: 0x6400E10001000002
 ---
 キネンキッテガハッコーサレマス
-
 
 ---
 id: 1390030
@@ -5445,20 +4709,18 @@ attribute: 0x6400E10001000002
 A stamp expert, {{1:30 arg="0x0200"}},
 said that it would become a rare item.
 
-
 ---
 id: 1390031
 attribute: 0x6400E10001000002
 ---
 キッテニクワシイ{{1:30 arg="0x0200"}}サンニヨルト＿コンカイノヨーナキネンキッテワタイヘンメズラシク
 
-
 ---
 id: 1390040
 attribute: 0x6400E10001000002
 ---
-This is very worth collecting.
-
+In other news, a little videogame
+square sells for a small fortune.
 
 ---
 id: 1390041
@@ -5466,13 +4728,11 @@ attribute: 0x6400E10001000002
 ---
 ショーライプレミアガツクカモシレナイ＿トユーコトデス
 
-
 ---
 id: 1391010
 attribute: 0x6400E10001000002
 ---
 the most popular Mii
-
 
 ---
 id: 1391011
@@ -5480,13 +4740,11 @@ attribute: 0x6400E10001000002
 ---
 ニンキランキングイチイモカクジツナ
 
-
 ---
 id: 1391020
 attribute: 0x6400E10001000002
 ---
-the representative of Miis
-
+a defining Mii of the 21st century
 
 ---
 id: 1391021
@@ -5494,13 +4752,11 @@ attribute: 0x6400E10001000002
 ---
 ニジューイッセイキヲダイヒョースルミー＿トノヨビゴエモタカイ
 
-
 ---
 id: 1391030
 attribute: 0x6400E10001000002
 ---
 the greatest Mii among Miis
-
 
 ---
 id: 1391031
@@ -5508,13 +4764,11 @@ attribute: 0x6400E10001000002
 ---
 ミーノナカノミーデアル
 
-
 ---
 id: 1391040
 attribute: 0x6400E10001000002
 ---
 The island’s most famous Mii
-
 
 ---
 id: 1391041
@@ -5522,28 +4776,24 @@ attribute: 0x6400E10001000002
 ---
 コクミンテキミートシテユーメイナ
 
-
 ---
 id: 1400000
 attribute: 0x6400800001010101
 ---
 50 Years Ago
 
-
 ---
 id: 1400010
 attribute: 0x6400E10001000002
 ---
-This {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}}
-Island held events to bury time capsules.
-
+On {{1:30 arg="0x0000"}},{{1:30 arg="0x0100"}}
+Island held an event to bury a time capsule.
 
 ---
 id: 1400011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}＿{{1:30 arg="0x0100"}}トーデ＿タイムカプセルヲウメルイベントガオコナワレマシタ
-
 
 ---
 id: 1400020
@@ -5552,21 +4802,18 @@ attribute: 0x6400E10001000002
 Each participant brought a cherished memento
 one by one into a special case.
 
-
 ---
 id: 1400021
 attribute: 0x6400E10001000002
 ---
 ソレゾレガモチヨッタオモイデノシナヲ＿ヒトツズツトクシュケースニイレテイキマシタ
 
-
 ---
 id: 1400030
 attribute: 0x6400E10001000002
 ---
 One resident, {{1:30 arg="0x0200"}},
-put some {{1:30 arg="0x0300"}} inside.
-
+put {{1:30 arg="0x0300"}} inside.
 
 ---
 id: 1400031
@@ -5574,13 +4821,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}ヲイレタ{{1:30 arg="0x0200"}}サンワ
 
-
 ---
 id: 1400040
 attribute: 0x6400E10001000002
 ---
 "I can't wait to open it!"
-
 
 ---
 id: 1400041
@@ -5588,21 +4833,18 @@ attribute: 0x6400E10001000002
 ---
 アケルノガイマカラタノシミ
 
-
 ---
 id: 1400050
 attribute: 0x6400E10001000002
 ---
-This time capsule
-is scheduled to be unearthed in 50 years.
-
+This time capsule is scheduled
+to be unearthed in 50 years.
 
 ---
 id: 1400051
 attribute: 0x6400E10001000002
 ---
 ト＿カタッテイマシタ
-
 
 ---
 id: 1400060
@@ -5611,13 +4853,11 @@ attribute: 0x6400E10001000002
 Hopefully, we won’t get hit
 by a devistating tsunami in that time.
 
-
 ---
 id: 1400061
 attribute: 0x6400E10001000002
 ---
 ナオ＿コノタイムカプセルワ＿ゴジューネンゴニホリオコサレルトノコトデス
-
 
 ---
 id: 1410000
@@ -5625,14 +4865,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Cafe
 
-
 ---
 id: 1410010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} is
-is currently trending among women.
-
+{{1:30 arg="0x0000"}} is a trend that's
+currently trending among women.
 
 ---
 id: 1410011
@@ -5640,21 +4878,18 @@ attribute: 0x6400E10001000002
 ---
 イマ＿ジョセイノアイダデ{{1:30 arg="0x0000"}}ガブームトナッテイマスガ
 
-
 ---
 id: 1410020
 attribute: 0x6400E10001000002
 ---
-This led to the creation of
+This led to the creation of the
 {{1:30 arg="0x0000"}} cafe.
-
 
 ---
 id: 1410021
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}カフェナルモノガワダイヲアツメテイマス
-
 
 ---
 id: 1410030
@@ -5663,21 +4898,18 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}} cafe is surrounded by many
 {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 1410031
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}カフェワ＿タクサンノ{{1:30 arg="0x0000"}}ニカコマレテスゴセルタメ
 
-
 ---
 id: 1410040
 attribute: 0x6400E10001000002
 ---
 It's a popular place to relax.
-{{1:30 arg="0x0100"}}-san, who was at the cafe,
-
+{{1:30 arg="0x0100"}}, who was at the cafe,
 
 ---
 id: 1410041
@@ -5685,13 +4917,11 @@ attribute: 0x6400E10001000002
 ---
 イヤシノスポットトシテニンキデス．カフェニキテイタ{{1:30 arg="0x0100"}}サンワ
 
-
 ---
 id: 1410050
 attribute: 0x6400E10001000002
 ---
 said {{1:30 arg="0x0200"}}
-
 
 ---
 id: 1410051
@@ -5699,14 +4929,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}＿トカタッテイマシタ
 
-
 ---
 id: 1410060
 attribute: 0x6400E10001000002
 ---
-For those who love it,
-this {{1:30 arg="0x0000"}} cafe seems like an oasis.
-
+For those who love it, {{1:30 arg="0x0000"}} cafe 
+seems like an oasis.
 
 ---
 id: 1410061
@@ -5714,13 +4942,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ズキニトッテ＿コノカフェワオアシスノヨーナソンザイノヨーデス
 
-
 ---
 id: 1411010
 attribute: 0x6400E10001000002
 ---
-"It feels really nice to the touch."
-
+"It's nice to the touch."
 
 ---
 id: 1411011
@@ -5728,13 +4954,11 @@ attribute: 0x6400E10001000002
 ---
 サワリゴコチガトテモイイ
 
-
 ---
 id: 1411020
 attribute: 0x6400E10001000002
 ---
-"You could stay here for hours and never get bored."
-
+"You'd stay here for hours and never get bored."
 
 ---
 id: 1411021
@@ -5742,28 +4966,24 @@ attribute: 0x6400E10001000002
 ---
 ナンジカンイテモアキナイ
 
-
 ---
 id: 1420000
 attribute: 0x6400800001010101
 ---
-UFO?
-
+UFO?!
 
 ---
 id: 1420010
 attribute: 0x6400E10001000002
 ---
 We’ve received multiple reports of
-an UFO around 5:00PM yesterday.
-
+an UFO a bit before sunset yesterday.
 
 ---
 id: 1420011
 attribute: 0x6400E10001000002
 ---
 キノーノユーガタゴジゴロ＿ニシノソラニユーフォーラシキブッタイガトンデイルノヲ
-
 
 ---
 id: 1420020
@@ -5772,20 +4992,17 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}} of {{1:30 arg="0x0100"}} island
 successfully captured it in a photograph.
 
-
 ---
 id: 1420021
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}トーノ{{1:30 arg="0x0000"}}サンガハッケンシ＿シャシンニオサメルコトニセイコーシマシタ
 
-
 ---
 id: 1420030
 attribute: 0x6400E10001000002
 ---
-This is the photo.
-
+これがその写真です。
 
 ---
 id: 1420031
@@ -5793,14 +5010,12 @@ attribute: 0x6400E10001000002
 ---
 コレガソノシャシンデス
 
-
 ---
 id: 1420040
 attribute: 0x6400E10001000002
 ---
-Upon closer inspection, it appears to be {{1:30 arg="0x0200"}},
-but it's not certain.
-
+Upon closer inspection, it appears
+to be {{1:30 arg="0x0200"}}, but it's not certain.
 
 ---
 id: 1420041
@@ -5808,21 +5023,18 @@ attribute: 0x6400E10001000002
 ---
 ヨクミルト{{1:30 arg="0x0200"}}ノヨーニモミエマスガ＿サダカデワアリマセン
 
-
 ---
 id: 1420050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}-san, a self-proclaimed UFO expert,
+{{1:30 arg="0x0300"}}, a self-proclaimed UFO expert,
 said "{{1:30 arg="0x0400"}}"
-
 
 ---
 id: 1420051
 attribute: 0x6400E10001000002
 ---
 ジショーユーフォーセンモンカノ{{1:30 arg="0x0300"}}シワ＿{{1:30 arg="0x0400"}}
-
 
 ---
 id: 1420060
@@ -5831,13 +5043,11 @@ attribute: 0x6400E10001000002
 The mysterious UFO is up to
 the interpretation of others.
 
-
 ---
 id: 1420061
 attribute: 0x6400E10001000002
 ---
 ト＿ブンセキシテイマス
-
 
 ---
 id: 1421010
@@ -5845,13 +5055,11 @@ attribute: 0x6400E10001000002
 ---
 I've never seen such a clear photo before!
 
-
 ---
 id: 1421011
 attribute: 0x6400E10001000002
 ---
 ココマデハッキリシタシャシンワミタコトガナイ
-
 
 ---
 id: 1421020
@@ -5859,20 +5067,17 @@ attribute: 0x6400E10001000002
 ---
 It could be fake.
 
-
 ---
 id: 1421021
 attribute: 0x6400E10001000002
 ---
 ネツゾーノカノーセイモヒテイデキナイ
 
-
 ---
 id: 1421030
 attribute: 0x6400E10001000002
 ---
-I was extremely surprised. I was shocked!
-
+I was extremely surprised!
 
 ---
 id: 1421031
@@ -5880,21 +5085,18 @@ attribute: 0x6400E10001000002
 ---
 タイヘンオドロイタ．ビックリシタ
 
-
 ---
 id: 1430000
 attribute: 0x6400800001010101
 ---
 Shut-in Incident
 
-
 ---
 id: 1430010
 attribute: 0x6400E10001000002
 ---
-This is the follow-up report for the
-shut-in incident.
-
+This is a follow-up report for the
+recent shut-in incident.
 
 ---
 id: 1430011
@@ -5902,14 +5104,12 @@ attribute: 0x6400E10001000002
 ---
 タテコモリジケンノゾクホーデス
 
-
 ---
 id: 1430020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}},Age {{1:30 arg="0x0100"}}, had never
-left the room since yesterday.
-
+{{1:30 arg="0x0000"}}, Age {{1:30 arg="0x0100"}}, refuses
+to leave their room since yesterday.
 
 ---
 id: 1430021
@@ -5917,14 +5117,12 @@ attribute: 0x6400E10001000002
 ---
 キノーカラヘヤニタテコモッテイタ{{1:30 arg="0x0000"}}サンガ
 
-
 ---
 id: 1430030
 attribute: 0x6400E10001000002
 ---
-Finally, {{1:30 arg="0x0000"}}'s mother managed to
-persuade {{1:30 arg="0x0000"}} to come out.
-
+They finally surrendered recently after 
+enough persuasion from their mom.
 
 ---
 id: 1430031
@@ -5932,28 +5130,25 @@ attribute: 0x6400E10001000002
 ---
 ハハオヤノセットクニヨッテ＿ヨーヤクトーコーシタモヨーデス．シラベニタイシ{{1:30 arg="0x0000"}}サンワ
 
-
 ---
 id: 1430040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
 
-
 ---
 id: 1430041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
-
+{{1:30 arg="0x0000"}} said.
 
 ---
 id: 1430050
 attribute: 0x6400E10001000002
 ---
-That was what {{1:30 arg="0x0000"}}'s
-mother said.
-
+Tune in next time for a special
+report about smelly fruits.
 
 ---
 id: 1430051
@@ -5961,13 +5156,11 @@ attribute: 0x6400E10001000002
 ---
 ト＿キョージュツシテイルトノコトデス
 
-
 ---
 id: 1431010
 attribute: 0x6400E10001000002
 ---
-"My kid didn't want to see the dentist."
-
+"I didn't want to go to the dentist. Sorry!"
 
 ---
 id: 1431011
@@ -5975,13 +5168,11 @@ attribute: 0x6400E10001000002
 ---
 ハイシャニイキタクナカッタ．セケンニメイワクヲカケテモーシワケナイ
 
-
 ---
 id: 1431020
 attribute: 0x6400E10001000002
 ---
-"My kid just had a terrible haircut."
-
+"I cut my hair too short and it looks bad,"
 
 ---
 id: 1431021
@@ -5989,13 +5180,11 @@ attribute: 0x6400E10001000002
 ---
 カミヲキリスギタノデ＿ソトニデタクナカッタ
 
-
 ---
 id: 1431030
 attribute: 0x6400E10001000002
 ---
-"My kid was got to the good part of a movie."
-
+"I wanted to binge all my recorded TV dramas,"
 
 ---
 id: 1431031
@@ -6003,28 +5192,24 @@ attribute: 0x6400E10001000002
 ---
 ロクガシテイタドラマヲイッキニミタカッタノデ＿ヘヤカラデタクナカッタ
 
-
 ---
 id: 1440000
 attribute: 0x6400800001010101
 ---
-Missing bike incident
-
+Missing Bike Incident
 
 ---
 id: 1440010
 attribute: 0x6400E10001000002
 ---
-An incident involved a missing bike has occurred,
-causing paranoia and suspicion.
-
+A devistating incident has occurred that has led
+to suspicion and paranoia for the community.
 
 ---
 id: 1440011
 attribute: 0x6400E10001000002
 ---
 ナントモギシンアンキニオチイルヨーナジケンガオコリマシタ
-
 
 ---
 id: 1440020
@@ -6033,21 +5218,18 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}}, age {{1:30 arg="0x0100"}},
 was practicing to ride a bike.
 
-
 ---
 id: 1440021
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}チャンガ＿ジテンシャニノルレンシューヲシテイタトコロ
 
-
 ---
 id: 1440030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} was helping {{1:30 arg="0x0300"}}
-to hold the bike, when the incident happened.
-
+{{1:30 arg="0x0200"}}, age {{1:30 arg="0x0300"}}, was helping
+them ride the bike from behind.
 
 ---
 id: 1440031
@@ -6055,21 +5237,18 @@ attribute: 0x6400E10001000002
 ---
 ジテンシャヲウシロデモッテ＿テツダッテイタ{{1:30 arg="0x0200"}}チャンガ
 
-
 ---
 id: 1440040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} left the bike unattended
-after they fell down.
-
+Suddenly, they let go of the bike, causing {{1:30 arg="0x0000"}}
+to tumble to the rough pavement.
 
 ---
 id: 1440041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}チャンノコトワリモナシニ＿ジテンシャカラテヲハナストユージケンガオコリマシタ
-
 
 ---
 id: 1440050
@@ -6078,20 +5257,18 @@ attribute: 0x6400E10001000002
 Fortunately, {{1:30 arg="0x0000"}} wasn't injured,
 and they can ride their bicycle again.
 
-
 ---
 id: 1440051
 attribute: 0x6400E10001000002
 ---
 サイワイ{{1:30 arg="0x0000"}}チャンニケガワナク＿ジテンシャニノレルヨーニナリマシタガ
 
-
 ---
 id: 1440060
 attribute: 0x6400E10001000002
 ---
-Their friendship is now in jeopardy.。
-
+Additional crimes commited by {{1:30 arg="0x0200"}}
+are now being investigated.
 
 ---
 id: 1440061
@@ -6099,13 +5276,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}チャンノヨザイヲツイキューシテイル＿トノコトデス
 
-
 ---
 id: 1450000
 attribute: 0x6400800001010101
 ---
-New Invention!
-
+New Sensational {{1:30 arg="0x0000"}}!
 
 ---
 id: 1450010
@@ -6114,28 +5289,24 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}} had invented
 a new flavor of {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 1450011
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}サンガ＿シンカンカクノ{{1:30 arg="0x0000"}}ヲハツメイシマシタ
 
-
 ---
 id: 1450020
 attribute: 0x6400E10001000002
 ---
 After researching {{1:30 arg="0x0000"}} for a
-long time, {{1:30 arg="0x0100"}} had a revelation:
-
+long time, {{1:30 arg="0x0100"}} made a discovery:
 
 ---
 id: 1450021
 attribute: 0x6400E10001000002
 ---
 ナガネン＿{{1:30 arg="0x0000"}}ヲケンキューシテイタ{{1:30 arg="0x0100"}}サンワ
-
 
 ---
 id: 1450030
@@ -6144,21 +5315,18 @@ attribute: 0x6400E10001000002
 Adding {{1:30 arg="0x0200"}} to {{1:30 arg="0x0000"}}
 resulted in a brand new flavor.
 
-
 ---
 id: 1450031
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ニ{{1:30 arg="0x0200"}}ヲカケルト＿トテモザンシンナアジニナルコトヲハッケンシ
 
-
 ---
 id: 1450040
 attribute: 0x6400E10001000002
 ---
 It was such a groundbreaking research
-about {{1:30 arg="0x0000"}}!
-
+about {{1:30 arg="0x0000"}}.
 
 ---
 id: 1450041
@@ -6166,13 +5334,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ノミライガヒラケタト＿トテモヨロコンデイマス
 
-
 ---
 id: 1451010
 attribute: 0x6400E10001000002
 ---
 soy sauce
-
 
 ---
 id: 1451011
@@ -6180,13 +5346,11 @@ attribute: 0x6400E10001000002
 ---
 ショーユ
 
-
 ---
 id: 1451020
 attribute: 0x6400E10001000002
 ---
 egg
-
 
 ---
 id: 1451021
@@ -6194,13 +5358,11 @@ attribute: 0x6400E10001000002
 ---
 タマゴ
 
-
 ---
 id: 1451030
 attribute: 0x6400E10001000002
 ---
 mayonnaise
-
 
 ---
 id: 1451031
@@ -6208,13 +5370,11 @@ attribute: 0x6400E10001000002
 ---
 マヨネーズ
 
-
 ---
 id: 1451040
 attribute: 0x6400E10001000002
 ---
 salt
-
 
 ---
 id: 1451041
@@ -6222,20 +5382,17 @@ attribute: 0x6400E10001000002
 ---
 シオ
 
-
 ---
 id: 1451050
 attribute: 0x6400E10001000002
 ---
 pepper
 
-
 ---
 id: 1451051
 attribute: 0x6400E10001000002
 ---
 コショー
-
 
 ---
 id: 1460000
@@ -6249,8 +5406,7 @@ id: 1460010
 attribute: 0x6400E10001000002
 ---
 Last night, while fishing by the sea,
-{{1:30 arg="0x0100"}} was fishing by the sea last night,
-
+{{1:30 arg="0x0100"}} saw something shiny near the shore.
 
 ---
 id: 1460011
@@ -6258,14 +5414,12 @@ attribute: 0x6400E10001000002
 ---
 キノーノヨル＿ウミベデツリヲシテイタ{{1:30 arg="0x0100"}}サンワ
 
-
 ---
 id: 1460020
 attribute: 0x6400E10001000002
 ---
-when they found a bottle 
-washed ashore on the beach.
-
+They investigated the shine to find
+a glass bottle with a message:
 
 ---
 id: 1460021
@@ -6273,14 +5427,11 @@ attribute: 0x6400E10001000002
 ---
 ウミベニボトルメールガヒョーチャクシテイルノヲハッケンシマシタ
 
-
 ---
 id: 1460030
 attribute: 0x6400E10001000002
 ---
-Something glinted at the water's edge,
-which they investigated.
-
+{{1:30 arg="0x0200"}}
 
 ---
 id: 1460031
@@ -6288,14 +5439,12 @@ attribute: 0x6400E10001000002
 ---
 ナミウチギワデナニカガヒカッタノデ＿チカヅイテミタトコロ
 
-
 ---
 id: 1460040
 attribute: 0x6400E10001000002
 ---
-A bottle containing a letter washed ashore.
-The letter inside read:
-
+{{1:30 arg="0x0100"}}
+has already written a reply.
 
 ---
 id: 1460041
@@ -6303,13 +5452,12 @@ attribute: 0x6400E10001000002
 ---
 テガミノハイッタビンガヒョーチャクシテイマシタ．ナカノテガミニワ
 
-
 ---
 id: 1460050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
+Breaking news: We interupt this
+news to deliver some breaking news!
 
 ---
 id: 1460051
@@ -6317,14 +5465,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}＿トカイテイタノデ
 
-
 ---
 id: 1460060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}
-has already written a reply.
-
+We've just been informed...
+This is a prank, isn't it?
 
 ---
 id: 1460061
@@ -6332,13 +5478,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}サンワ＿サッソクヘンジヲカイタトノコトデス
 
-
 ---
 id: 1461010
 attribute: 0x6400E10001000002
 ---
 "If you'd like, let's exchange letters!"
-
 
 ---
 id: 1461011
@@ -6346,13 +5490,11 @@ attribute: 0x6400E10001000002
 ---
 ヨカッタラブンツーシテクダサイ
 
-
 ---
 id: 1461020
 attribute: 0x6400E10001000002
 ---
 "Please be my friend!"
-
 
 ---
 id: 1461021
@@ -6360,20 +5502,17 @@ attribute: 0x6400E10001000002
 ---
 ワタシトオトモダチニナッテクダサイ
 
-
 ---
 id: 1461030
 attribute: 0x6400E10001000002
 ---
 "Come visit my island!"
 
-
 ---
 id: 1461031
 attribute: 0x6400E10001000002
 ---
 ワタシノムラニアソビニオイデヨ
-
 
 ---
 id: 1470000
@@ -20276,4 +19415,5 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
