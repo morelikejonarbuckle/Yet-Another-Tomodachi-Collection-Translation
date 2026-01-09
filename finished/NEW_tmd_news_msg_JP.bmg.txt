@@ -1565,7 +1565,7 @@ attribute: 0x6400E10001000002
 id: 1000020
 attribute: 0x6400E10001000002
 ---
-This lead to an immediate arrest
+This lead to their immediate arrest
 by local authorities.
 
 ---
@@ -5469,8 +5469,8 @@ attribute: 0x6400E10001000002
 id: 1460060
 attribute: 0x6400E10001000002
 ---
-We've just been informed...
-This is a prank, isn't it?
+We've just been informed that
+"This is a prank..." Uh oh.
 
 ---
 id: 1460061
@@ -18309,9 +18309,8 @@ attribute: 0x6400E10001000002
 id: 2600020
 attribute: 0x6400E10001000002
 ---
-Here's a tip: The game will always 
-be mad at you for not saving properly.
-
+We're unsure if it the reset
+was forced or an accident.
 
 ---
 id: 2600021
@@ -18327,7 +18326,6 @@ attribute: 0x6400E10001000002
 One of the residents, {{1:30 arg="0x0000"}},
 said...
 
-
 ---
 id: 2600031
 attribute: 0x6400E10001000002
@@ -18340,8 +18338,7 @@ id: 2600040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}
-
-
+ 
 ---
 id: 2600041
 attribute: 0x6400E10001000002
@@ -18397,8 +18394,8 @@ attribute: 0x6400E10001000002
 id: 2601020
 attribute: 0x6400E10001000002
 ---
-"Let me guess, someone's playtesting the
-rom hack of Tomodachi Collection?"
+"Let me guess, someone found
+a glitch?"
 
 
 ---
@@ -18426,7 +18423,7 @@ attribute: 0x6400E10001000002
 id: 2601040
 attribute: 0x6400E10001000002
 ---
-"Let me guess, the battery died."
+"I bet the battery died."
 
 
 ---
@@ -19415,5 +19412,6 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
