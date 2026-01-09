@@ -1546,7 +1546,7 @@ attribute: 0x6400E10001030001
 id: 1000000
 attribute: 0x6400800001010101
 ---
-Dine-and-dash Incident
+{{1:30 arg="0x0000"}}Dine-and-dash Incident
 
 ---
 id: 1000010
@@ -1736,7 +1736,7 @@ attribute: 0x6400E10001000002
 id: 1020020
 attribute: 0x6400E10001000002
 ---
-It will be held for {{1:30 arg="0x0200"}}.
+It'll be held for {{1:30 arg="0x0200"}}.
 
 ---
 id: 1020021
@@ -1803,8 +1803,8 @@ Popular Penguin {{1:30 arg="0x0000"}}
 id: 1030010
 attribute: 0x6400E10001000002
 ---
-The newest trend has hit the zoo:
-People flock to meet {{1:30 arg="0x0000"}}.
+The zoo had a boost in popularity, as
+people flock to meet {{1:30 arg="0x0000"}}.
 
 ---
 id: 1030011
@@ -1832,7 +1832,7 @@ id: 1030030
 attribute: 0x6400E10001000002
 ---
 One of the visitors, {{1:30 arg="0x0100"}},
-voiced their opinion...
+voiced their opinion:
 
 ---
 id: 1030031
@@ -1846,6 +1846,7 @@ id: 1030040
 attribute: 0x6400E10001000002
 ---
 "{{1:30 arg="0x0200"}}"
+they said.
 
 ---
 id: 1030041
@@ -1887,8 +1888,8 @@ Don't Catch a Cold!
 id: 1040010
 attribute: 0x6400E10001000002
 ---
-There have been numerous cases
-of colds becoming prevalent.
+There have been many cases of
+colds being reported.
 
 ---
 id: 1040011
@@ -1901,8 +1902,8 @@ attribute: 0x6400E10001000002
 id: 1040020
 attribute: 0x6400E10001000002
 ---
-Please try to wear a mask when you go
-outside and wash your hands frequently.
+When outdoors, wear a mask and
+wash your hands frequently.
 
 ---
 id: 1040021
@@ -1948,7 +1949,7 @@ id: 1050030
 attribute: 0x6400E10001000002
 ---
 This year's theme was about {{1:30 arg="0x0100"}}.
-Some say around 7,000 fireworks were launched.
+Plenty of fireworks were launched.
 
 ---
 id: 1050031
@@ -1979,8 +1980,8 @@ Human-faced Dog Discovered
 id: 1060010
 attribute: 0x6400E10001000002
 ---
-Earlier this morning, a human-faced dog
-was found wandering on the streets.
+Around {{1:30 arg="0x0000"}}, a human-
+faced dog was found in the streets.
 
 ---
 id: 1060011
@@ -2042,14 +2043,14 @@ attribute: 0x6400E10001000002
 id: 1070000
 attribute: 0x6400800001010101
 ---
-Phantom Lizard
+Rare Lizard Caught After 30 Years
 
 ---
 id: 1070010
 attribute: 0x6400E10001000002
 ---
-A creature that was believed to be
-extinct was discovered.
+A lizard that experts claimed to
+be extinct 30 years ago was found.
 
 ---
 id: 1070011
@@ -2061,8 +2062,8 @@ attribute: 0x6400E10001000002
 id: 1070020
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0100"}} Lizard was
-captured yesterday.
+The {{1:30 arg="0x0100"}} lizard was 
+caught at {{1:30 arg="0x0000"}}.
 
 ---
 id: 1070021
@@ -2075,8 +2076,8 @@ attribute: 0x6400E10001000002
 id: 1070030
 attribute: 0x6400E10001000002
 ---
-The investigation team member, {{1:30 arg="0x0200"}},
-Age {{1:30 arg="0x0300"}},
+Researcher {{1:30 arg="0x0200"}}, age {{1:30 arg="0x0300"}},
+set up a trap and caught the lizard.
 
 ---
 id: 1070031
@@ -2088,8 +2089,8 @@ attribute: 0x6400E10001000002
 id: 1070040
 attribute: 0x6400E10001000002
 ---
-set up a trap and finally caught
-the {{1:30 arg="0x0100"}} Lizard.
+The {{1:30 arg="0x0100"}} lizard was measured
+by {{1:30 arg="0x0200"}}'s team and was set free.
 
 ---
 id: 1070041
@@ -2101,8 +2102,8 @@ attribute: 0x6400E10001000002
 id: 1070050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} was measured
-by the team and was set free.
+Tune in at 12:00 for a special report
+about the mysteries of imported food.
 
 ---
 id: 1070051
@@ -2159,8 +2160,8 @@ attribute: 0x6400E10001000002
 id: 1080040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} said,
 "{{1:30 arg="0x0200"}}"
+{{1:30 arg="0x0000"}} said.
 
 ---
 id: 1080041
@@ -2172,7 +2173,7 @@ attribute: 0x6400E10001000002
 id: 1081010
 attribute: 0x6400E10001000002
 ---
-I'm so happy to be number one.
+I'm happy to be number one.
 
 ---
 id: 1081011
@@ -2216,7 +2217,7 @@ id: 1090020
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} still remains as
-the first. The second richest is {{1:30 arg="0x0100"}},
+the king. Second place is {{1:30 arg="0x0100"}},
 
 ---
 id: 1090021
@@ -2228,7 +2229,7 @@ attribute: 0x6400E10001000002
 id: 1090030
 attribute: 0x6400E10001000002
 ---
-and the third richest is {{1:30 arg="0x0200"}}.
+and third goes to {{1:30 arg="0x0200"}}.
 
 ---
 id: 1090031
@@ -2286,8 +2287,8 @@ attribute: 0x6400E10001000002
 id: 1100040
 attribute: 0x6400E10001000002
 ---
-Additionally, player {{1:30 arg="0x0200"}} from
-the {{1:30 arg="0x0400"}} team had no hits.
+Finally, player {{1:30 arg="0x0400"}} from
+the {{1:30 arg="0x0200"}} team had no hits.
 
 ---
 id: 1100041
@@ -2332,7 +2333,7 @@ attribute: 0x6400E10001000002
 id: 1110030
 attribute: 0x6400E10001000002
 ---
-One resident's apartment, {{1:30 arg="0x0100"}} ,
+One resident's apartment, {{1:30 arg="0x0100"}},
 has to control a massive mold infestation.
 
 ---
@@ -2364,8 +2365,8 @@ attribute: 0x6400E10001000002
 id: 1120020
 attribute: 0x6400E10001000002
 ---
-Drum roll please for the prestigious
-MVP reward is...
+And the prestigious MVP reward
+goes to... drum roll please...
 
 ---
 id: 1120021
@@ -2378,8 +2379,8 @@ attribute: 0x6400E10001000002
 id: 1120030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} age {{1:30 arg="0x0200"}},
-from {{1:30 arg="0x0300"}}.
+{{1:30 arg="0x0100"}}, age {{1:30 arg="0x0200"}},
+from {{1:30 arg="0x0300"}}!
 
 ---
 id: 1120031
@@ -2460,7 +2461,7 @@ id: 1130020
 attribute: 0x6400E10001000002
 ---
 Their plan is to use {{1:30 arg="0x0000"}}
-as a logo on cookies,
+as a logo on cookies,、
 
 ---
 id: 1130021
@@ -2472,8 +2473,8 @@ attribute: 0x6400E10001000002
 id: 1130030
 attribute: 0x6400E10001000002
 ---
-as well as making it into plush toys. Currently,
-they are still discussing the plan.
+as well as plush toys. Currently,
+they're still discussing the plan.
 
 ---
 id: 1130031
@@ -2529,8 +2530,8 @@ attribute: 0x6400E10001000002
 id: 1140040
 attribute: 0x6400E10001000002
 ---
-All three still refuse to back down,
-and the situation isn't resolved.
+All three still refuse to back down.
+The situation still isn't resolved.
 
 ---
 id: 1140041
@@ -2584,7 +2585,7 @@ Having Fun Hiking Up the Hills
 id: 1150010
 attribute: 0x6400E10001000002
 ---
-Yesterday, {{1:30 arg="0x0100"}} Kindergarten's
+At {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Kindergarten's
 students went hiking on Mt. {{1:30 arg="0x0100"}}.
 
 ---
@@ -2610,8 +2611,8 @@ attribute: 0x6400E10001000002
 id: 1150030
 attribute: 0x6400E10001000002
 ---
-One student, {{1:30 arg="0x0300"}}
-(Age {{1:30 arg="0x0400"}}), gave the following comment...
+One student, {{1:30 arg="0x0300"}} (Age {{1:30 arg="0x0400"}}),
+gave us the following comment:
 
 ---
 id: 1150031
@@ -2674,19 +2675,20 @@ School tried some experiments with fruit.
 id: 1160011
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}ショーガッコーデ{{1:30 arg="0x0100"}}
+クダモノヲツカッテハツデンノシクミヲマナボート．{{1:30 arg="0x0000"}}ショーガッコーデ{{1:30 arg="0x0100"}}
 
 ---
 id: 1160020
 attribute: 0x6400E10001000002
 ---
 Students attempted to experiment
-with fruit power after learning it.
+with energy after learning about it.
+
 ---
 id: 1160021
 attribute: 0x6400E10001000002
 ---
-クダモノヲツカッテハツデンノシクミヲマナボート．クダモノハツデンノジッケンガオコナワレマシタ
+クダモノハツデンノジッケンガオコナワレマシタ
 
 ---
 id: 1160030
@@ -2763,7 +2765,8 @@ attribute: 0x6400E10001000002
 id: 1170040
 attribute: 0x6400E10001000002
 ---
-While explaining to us what happened.
+Stay tuned: Cat owner attempts to
+adapt foreign play, begging for help.
 
 ---
 id: 1170041
@@ -2799,7 +2802,7 @@ attribute: 0x6400E10001000002
 id: 1171030
 attribute: 0x6400E10001000002
 ---
-"They looked very energetic,
+"They looked very energetic,"
 
 ---
 id: 1171031
@@ -2869,8 +2872,8 @@ attribute: 0x6400E10001000002
 id: 1182010
 attribute: 0x6400800001010001
 ---
-This photo is for illustrative
-purposes only.
+This provided photo is for 
+illustrative purposes only.
 
 ---
 id: 1190000
@@ -2882,8 +2885,8 @@ Cherry Blossoms in Full Bloom
 id: 1190010
 attribute: 0x6400E10001000002
 ---
-After so many days, the cherry
-blossoms bloom on a clear and warm {{1:30 arg="0x0000"}}.
+After many days, the cherry blossoms
+finally bloomed on a clear and warm {{1:30 arg="0x0000"}}.
 
 ---
 id: 1190011
@@ -2895,8 +2898,8 @@ attribute: 0x6400E10001000002
 id: 1190020
 attribute: 0x6400E10001000002
 ---
-The best spot to enjoy the blossoms in
-full bloom is at {{1:30 arg="0x0100"}} Park.
+The best spot to enjoy the blossoms
+is at {{1:30 arg="0x0100"}} Park.
 
 ---
 id: 1190021
@@ -2908,7 +2911,8 @@ attribute: 0x6400E10001000002
 id: 1190030
 attribute: 0x6400E10001000002
 ---
-Sadly, it is overrun with visitors.
+Sadly, it is currently
+overrun with visitors.
 
 ---
 id: 1190031
@@ -2958,7 +2962,7 @@ attribute: 0x6400E10001000002
 id: 1191020
 attribute: 0x6400E10001000002
 ---
-"It looks beautiful, but it's not useful."
+"It looks beautiful, but it's not useful,"
 
 ---
 id: 1191021
@@ -2970,7 +2974,7 @@ attribute: 0x6400E10001000002
 id: 1191030
 attribute: 0x6400E10001000002
 ---
-"I'd never get bored watching this."
+"I'd never get bored watching this,"
 
 ---
 id: 1191031
@@ -3072,8 +3076,8 @@ Confession Maniac Stopped
 id: 1210010
 attribute: 0x6400E10001000002
 ---
-A bizzare case involving a lovestruck man
-in {{1:30 arg="0x0000"}} City was closed.
+An odd case involving a lovestruck
+Oodori in {{1:30 arg="0x0000"}} City was closed.
 
 ---
 id: 1210011
@@ -19412,6 +19416,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
