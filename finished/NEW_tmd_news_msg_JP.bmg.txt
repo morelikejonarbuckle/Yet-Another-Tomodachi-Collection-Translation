@@ -5590,14 +5590,12 @@ attribute: 0x6400800001010101
 ---
 Completed a Challenging Task!
 
-
 ---
 id: 1480010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}} just couldn't
 couldn't {{1:30 arg="0x0000"}}
-
 
 ---
 id: 1480011
@@ -5610,8 +5608,8 @@ attribute: 0x6400E10001000002
 id: 1480020
 attribute: 0x6400E10001000002
 ---
-but they finally decided to try, and succeeded.
-
+but they finally 
+decided to try, and succeeded.
 
 ---
 id: 1480021
@@ -5624,9 +5622,8 @@ attribute: 0x6400E10001000002
 id: 1480030
 attribute: 0x6400E10001000002
 ---
-There were witnesses that moment
+Some witnessed that moment
 along with {{1:30 arg="0x0000"}},
-
 
 ---
 id: 1480031
@@ -5639,7 +5636,7 @@ attribute: 0x6400E10001000002
 id: 1480040
 attribute: 0x6400E10001000002
 ---
-which embraced each other
+and they embraced each other
 and shared their joy.
 
 ---
@@ -5656,7 +5653,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}},
 we're glad it worked out.
 
-
 ---
 id: 1480051
 attribute: 0x6400E10001000002
@@ -5669,7 +5665,6 @@ id: 1481010
 attribute: 0x6400E10001000002
 ---
 backflip
-
 
 ---
 id: 1481011
@@ -5684,7 +5679,6 @@ attribute: 0x6400E10001000002
 ---
 whistle
 
-
 ---
 id: 1481021
 attribute: 0x6400E10001000002
@@ -5697,7 +5691,6 @@ id: 1481030
 attribute: 0x6400E10001000002
 ---
 wink
-
 
 ---
 id: 1481031
@@ -5712,7 +5705,6 @@ attribute: 0x6400E10001000002
 ---
 slurp noodles
 
-
 ---
 id: 1481041
 attribute: 0x6400E10001000002
@@ -5725,7 +5717,6 @@ id: 1481050
 attribute: 0x6400E10001000002
 ---
 hack a 3ds
-
 
 ---
 id: 1481051
@@ -5740,14 +5731,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Ran Away!
 
-
 ---
 id: 1490010
 attribute: 0x6400E10001000002
 ---
-Early this morning, {{1:30 arg="0x0000"}}
-ran away from {{1:30 arg="0x0000"}} Shop.
-
+Earlier at {{1:30 arg="0x0100"}}, a
+fight broke out with {{1:30 arg="0x0000"}}.
 
 ---
 id: 1490011
@@ -5760,9 +5749,8 @@ attribute: 0x6400E10001000002
 id: 1490020
 attribute: 0x6400E10001000002
 ---
-This was due to them having
-a fight with the shopkeeper.
-
+Witnesses reported various arguments
+with a local storefront and its owner.
 
 ---
 id: 1490021
@@ -5775,9 +5763,8 @@ attribute: 0x6400E10001000002
 id: 1490030
 attribute: 0x6400E10001000002
 ---
-As a result, {{1:30 arg="0x0000"}}
-left and went into the sea...
-
+Somehow, {{1:30 arg="0x0000"}} chose
+to jump into the sea.
 
 ---
 id: 1490031
@@ -5790,9 +5777,8 @@ attribute: 0x6400E10001000002
 id: 1490040
 attribute: 0x6400E10001000002
 ---
-And was caught by {{1:30 arg="0x0200"}},
-who was doing some fishing.
-
+They were caught by {{1:30 arg="0x0200"}},
+who was fishing on the beach.
 
 ---
 id: 1490041
@@ -5807,14 +5793,12 @@ attribute: 0x6400800001010101
 ---
 Broken {{1:30 arg="0x0000"}}
 
-
 ---
 id: 1500010
 attribute: 0x6400E10001000002
 ---
-The other day, {{1:30 arg="0x0100"}}
-had done a bad deed:
-
+The other day, {{1:30 arg="0x0100"}} accidentally
+broke {{1:30 arg="0x0000"}}.
 
 ---
 id: 1500011
@@ -5827,8 +5811,8 @@ attribute: 0x6400E10001000002
 id: 1500020
 attribute: 0x6400E10001000002
 ---
-They broke {{1:30 arg="0x0000"}}.
-
+It appears to be an accident since
+the object was stored up high.
 
 ---
 id: 1500021
@@ -5841,9 +5825,8 @@ attribute: 0x6400E10001000002
 id: 1500030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} took the
-precious {{1:30 arg="0x0000"}} out...
-
+Ironically, the object was carefully
+stored away in that spot.
 
 ---
 id: 1500031
@@ -5856,9 +5839,8 @@ attribute: 0x6400E10001000002
 id: 1500040
 attribute: 0x6400E10001000002
 ---
-And accidentally dropped the
-{{1:30 arg="0x0000"}}.
-
+Multiple pieces of {{1:30 arg="0x0000"}} were
+scattered across the floor.
 
 ---
 id: 1500041
@@ -5871,9 +5853,8 @@ attribute: 0x6400E10001000002
 id: 1500050
 attribute: 0x6400E10001000002
 ---
-One part of {{1:30 arg="0x0000"}}
-was broken.
-
+{{1:30 arg="0x0100"}} is said to be
+deeply shocked.
 
 ---
 id: 1500051
@@ -5886,9 +5867,8 @@ attribute: 0x6400E10001000002
 id: 1500060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} is
-currently undergoing a major shock.
-
+Up next: New Planking sensation causes
+accidents- oh, we're out of time.
 
 ---
 id: 1500061
@@ -5901,16 +5881,15 @@ attribute: 0x6400E10001000002
 id: 1510000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} to Space!
+{{1:30 arg="0x0000"}} Goes to Space!
 
 
 ---
 id: 1510010
 attribute: 0x6400E10001000002
 ---
-Earlier, {{1:30 arg="0x0300"}} Island's
-{{1:30 arg="0x0100"}} Space Research...
-
+At {{1:30 arg="0x0200"}}, a space rocket
+was sucessfully launched at {{1:30 arg="0x0300"}} Island.
 
 ---
 id: 1510011
@@ -5923,8 +5902,8 @@ attribute: 0x6400E10001000002
 id: 1510020
 attribute: 0x6400E10001000002
 ---
-...had launched a manned space rocket!
-
+The people responsible for the launch
+was the {{1:30 arg="0x0100"}} Space Program.
 
 ---
 id: 1510021
@@ -5937,9 +5916,8 @@ attribute: 0x6400E10001000002
 id: 1510030
 attribute: 0x6400E10001000002
 ---
-The pilot, {{1:30 arg="0x0000"}},
-said… 
-
+{{1:30 arg="0x0400"}}
+the pilot, {{1:30 arg="0x0000"}}, said.
 
 ---
 id: 1510031
@@ -5952,8 +5930,8 @@ attribute: 0x6400E10001000002
 id: 1510040
 attribute: 0x6400E10001000002
 ---
-"{{1:30 arg="0x0400"}}"
-
+Additionally, the rocket was also
+carrying some 
 
 ---
 id: 1510041
@@ -5966,8 +5944,8 @@ attribute: 0x6400E10001000002
 id: 1510050
 attribute: 0x6400E10001000002
 ---
-...with ambition.
-
+This space rocket also carried
+{{1:30 arg="0x0500"}} to outer space.
 
 ---
 id: 1510051
@@ -5980,9 +5958,8 @@ attribute: 0x6400E10001000002
 id: 1510060
 attribute: 0x6400E10001000002
 ---
-This space rocket also carried
-{{1:30 arg="0x0500"}} to the outer space.
-
+On a related note: Professor-
+Oh, time's up. Tune in next time.
 
 ---
 id: 1510061
@@ -5995,8 +5972,7 @@ attribute: 0x6400E10001000002
 id: 1511010
 attribute: 0x6400E10001000002
 ---
-I won't betray your expectation!
-
+"I won't betray your expectations!"
 
 ---
 id: 1511011
@@ -6009,8 +5985,7 @@ attribute: 0x6400E10001000002
 id: 1511020
 attribute: 0x6400E10001000002
 ---
-I'll solve mysteries of the universe!
-
+"I'll unravel the mysteries of space!"
 
 ---
 id: 1511021
@@ -6018,13 +5993,11 @@ attribute: 0x6400E10001000002
 ---
 ウチュウノナゾヲトキアカシタイ
 
-
 ---
 id: 1511030
 attribute: 0x6400E10001000002
 ---
-I can't wait to experience zero gravity!
-
+"I can't wait to experience zero gravity!"
 
 ---
 id: 1511031
@@ -6037,8 +6010,7 @@ attribute: 0x6400E10001000002
 id: 1511040
 attribute: 0x6400E10001000002
 ---
-My dream has finally come true!
-
+"My dream's finally come true!"
 
 ---
 id: 1511041
@@ -6051,15 +6023,14 @@ attribute: 0x6400E10001000002
 id: 1520000
 attribute: 0x6400800001010101
 ---
-Will it make you skinny?
-
+Weight Loss Fad Might Work?
 
 ---
 id: 1520010
 attribute: 0x6400E10001000002
 ---
-Lately, teenagers believe that carrying
-{{1:30 arg="0x0000"}} helps to lose weight.
+Young adults start to believe carrying
+{{1:30 arg="0x0000"}} can loose weight.
 
 
 ---
@@ -6073,9 +6044,8 @@ attribute: 0x6400E10001000002
 id: 1520020
 attribute: 0x6400E10001000002
 ---
-The rumor originated from a short
-blog online.
-
+We interviewed people in the city,
+including {{1:30 arg="0x0100"}}:
 
 ---
 id: 1520021
@@ -6088,9 +6058,7 @@ attribute: 0x6400E10001000002
 id: 1520030
 attribute: 0x6400E10001000002
 ---
-We found {{1:30 arg="0x0100"}}, who
-carried {{1:30 arg="0x0000"}} around town.
-
+{{1:30 arg="0x0200"}}
 
 ---
 id: 1520031
@@ -6103,22 +6071,23 @@ attribute: 0x6400E10001000002
 id: 1520040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
+There is no scientific proof that
+the item actually helps to lose weight.
 
 ---
 id: 1520041
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
+Wait, we've got an update. Carrying
+{{1:30 arg="0x0100"}} will make you... look stupid?
 
 
 ---
 id: 1520050
 attribute: 0x6400E10001000002
 ---
-said {{1:30 arg="0x0100"}}.
-
+Wait, we've got an update. Carrying
+{{1:30 arg="0x0100"}} will make you... look stupid?
 
 ---
 id: 1520051
@@ -6131,9 +6100,8 @@ attribute: 0x6400E10001000002
 id: 1520060
 attribute: 0x6400E10001000002
 ---
-There is no scientific proof that
-the item actually helps to lose weight.
-
+Oh my, I suppose we've been pranked
+again.
 
 ---
 id: 1520061
@@ -6146,8 +6114,7 @@ attribute: 0x6400E10001000002
 id: 1521010
 attribute: 0x6400E10001000002
 ---
-"I lost 100 grams right away!"
-
+"I felt lighter right away!"
 
 ---
 id: 1521011
@@ -6160,8 +6127,7 @@ attribute: 0x6400E10001000002
 id: 1521020
 attribute: 0x6400E10001000002
 ---
-"If I buy 50 of them, I might be thin,"
-
+"I might be thinner if I lift 50 of them."
 
 ---
 id: 1521021
@@ -6174,8 +6140,8 @@ attribute: 0x6400E10001000002
 id: 1521030
 attribute: 0x6400E10001000002
 ---
-"I didn't want to lose weight!"
-
+"I-I don't carry it around just to
+loose weight, you know."
 
 ---
 id: 1521031
@@ -6188,8 +6154,7 @@ attribute: 0x6400E10001000002
 id: 1530000
 attribute: 0x6400800001010101
 ---
-The arrival of the autumn foliage season
-
+Autumn Season Arrives
 
 ---
 id: 1530010
@@ -6197,7 +6162,6 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} Island is receiving a tourism
 boost due to Mt. {{1:30 arg="0x0100"}}.
-
 
 ---
 id: 1530011
@@ -6211,8 +6175,7 @@ id: 1530020
 attribute: 0x6400E10001000002
 ---
 On {{1:30 arg="0x0100"}} mountain, around
-this time of year,
-
+this time of year, tourists arrive.
 
 ---
 id: 1530021
@@ -6225,9 +6188,8 @@ attribute: 0x6400E10001000002
 id: 1530030
 attribute: 0x6400E10001000002
 ---
-people come from all over to enjoy the autumn leaves,
+They come to enjoy the autumn leaves,
 with many coming for sightseeing.
-
 
 ---
 id: 1530031
@@ -6243,7 +6205,6 @@ attribute: 0x6400E10001000002
 Every year, {{1:30 arg="0x0200"}} looks
 forward to this season.
 
-
 ---
 id: 1530041
 attribute: 0x6400E10001000002
@@ -6256,7 +6217,6 @@ id: 1530050
 attribute: 0x6400E10001000002
 ---
 "{{1:30 arg="0x0300"}},"
-
 
 ---
 id: 1530051
@@ -6271,7 +6231,6 @@ attribute: 0x6400E10001000002
 ---
 they said, looking quite satisfied.
 
-
 ---
 id: 1530061
 attribute: 0x6400E10001000002
@@ -6284,7 +6243,6 @@ id: 1531010
 attribute: 0x6400E10001000002
 ---
 It was very beautiful again this year
-
 
 ---
 id: 1531011
@@ -6299,7 +6257,6 @@ attribute: 0x6400E10001000002
 ---
 Looking forward to next year too
 
-
 ---
 id: 1531021
 attribute: 0x6400E10001000002
@@ -6311,8 +6268,7 @@ attribute: 0x6400E10001000002
 id: 1531030
 attribute: 0x6400E10001000002
 ---
-Taking a stroll feels so good
-
+Taking a stroll felt so good
 
 ---
 id: 1531031
@@ -6325,15 +6281,14 @@ attribute: 0x6400E10001000002
 id: 1540000
 attribute: 0x6400800001010101
 ---
-Guerrilla live on a street TV!
-
+Crass Street Performance
 
 ---
 id: 1540010
 attribute: 0x6400E10001000002
 ---
-At {{1:30 arg="0x0100"}} PM, in front of the street TV,
-
+At {{1:30 arg="0x0100"}}, a local street TV
+was hijacked by {{1:30 arg="0x0000"}}.
 
 ---
 id: 1540011
@@ -6346,8 +6301,8 @@ attribute: 0x6400E10001000002
 id: 1540020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} held a guerrilla live performance.
-
+They proceded to do questionable
+things we cannot discuss.
 
 ---
 id: 1540021
@@ -6363,7 +6318,6 @@ attribute: 0x6400E10001000002
 The area quickly became chaotic,
 and the police arrived immediately.
 
-
 ---
 id: 1540031
 attribute: 0x6400E10001000002
@@ -6375,9 +6329,8 @@ attribute: 0x6400E10001000002
 id: 1540040
 attribute: 0x6400E10001000002
 ---
-The guerrilla live performance
+Suffice to say, the live performance
 was quickly canceled.
-
 
 ---
 id: 1540041
@@ -6393,7 +6346,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}}, in response, said
 "{{1:30 arg="0x0200"}}"
 
-
 ---
 id: 1540051
 attribute: 0x6400E10001000002
@@ -6406,7 +6358,6 @@ id: 1540060
 attribute: 0x6400E10001000002
 ---
 That’s that.
-
 
 ---
 id: 1540061
@@ -6421,7 +6372,6 @@ attribute: 0x6400E10001000002
 ---
 Sorry for the disturbance.
 
-
 ---
 id: 1541011
 attribute: 0x6400E10001000002
@@ -6434,7 +6384,6 @@ id: 1541020
 attribute: 0x6400E10001000002
 ---
 The staff said it was okay!
-
 
 ---
 id: 1541021
@@ -6449,7 +6398,6 @@ attribute: 0x6400E10001000002
 ---
 It was a good promotion!
 
-
 ---
 id: 1541031
 attribute: 0x6400E10001000002
@@ -6462,7 +6410,6 @@ id: 1541040
 attribute: 0x6400E10001000002
 ---
 I wanted to sing more.
-
 
 ---
 id: 1541041
@@ -6477,14 +6424,12 @@ attribute: 0x6400800001010101
 ---
 Typhoon Approaching!
 
-
 ---
 id: 1550010
 attribute: 0x6400E10001000002
 ---
-This {{1:30 arg="0x0000"}}, A typhoon is 
+Around {{1:30 arg="0x0000"}}, a typhoon is 
 expected to come close to {{1:30 arg="0x0100"}} Island.
-
 
 ---
 id: 1550011
@@ -6497,9 +6442,8 @@ attribute: 0x6400E10001000002
 id: 1550020
 attribute: 0x6400E10001000002
 ---
-It gains strength as it moves
-northward from the south.
-
+Our meteorologist claims it moves
+in from the south, gaining power.
 
 ---
 id: 1550021
@@ -6515,7 +6459,6 @@ attribute: 0x6400E10001000002
 It’ll approach {{1:30 arg="0x0100"}}
 Island along with some heavy rain.
 
-
 ---
 id: 1550031
 attribute: 0x6400E10001000002
@@ -6530,7 +6473,6 @@ attribute: 0x6400E10001000002
 Make sure you are nearby a shelter
 to avoid being blown away.
 
-
 ---
 id: 1550041
 attribute: 0x6400E10001000002
@@ -6544,7 +6486,6 @@ attribute: 0x6400E10001000002
 ---
 Please be careful out there!
 
-
 ---
 id: 1550051
 attribute: 0x6400E10001000002
@@ -6556,8 +6497,7 @@ attribute: 0x6400E10001000002
 id: 1551010
 attribute: 0x6400E10001000002
 ---
-From tonight until dawn
-
+tonight until dawn
 
 ---
 id: 1551011
@@ -6570,8 +6510,7 @@ attribute: 0x6400E10001000002
 id: 1551020
 attribute: 0x6400E10001000002
 ---
-From early morning
-
+early morning
 
 ---
 id: 1551021
@@ -6584,8 +6523,7 @@ attribute: 0x6400E10001000002
 id: 1551030
 attribute: 0x6400E10001000002
 ---
-From afternoon to night
-
+afternoon to dusk
 
 ---
 id: 1551031
@@ -6599,7 +6537,6 @@ id: 1560000
 attribute: 0x6400800001010101
 ---
 By the skin of my teeth!
-
 
 ---
 id: 1560010
@@ -19401,6 +19338,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
