@@ -6536,15 +6536,14 @@ attribute: 0x6400E10001000002
 id: 1560000
 attribute: 0x6400800001010101
 ---
-By the skin of my teeth!
+Surprise Car Savior
 
 ---
 id: 1560010
 attribute: 0x6400E10001000002
 ---
-At {{1:30 arg="0x0100"}} PM,
+Near {{1:30 arg="0x0100"}} PM,
 {{1:30 arg="0x0000"}} was on a stroll.
-
 
 ---
 id: 1560011
@@ -6557,9 +6556,8 @@ attribute: 0x6400E10001000002
 id: 1560020
 attribute: 0x6400E10001000002
 ---
-They were nearly hit by a car, when
-{{1:30 arg="0x0200"}}, who was nearby,
-
+They about to get hit by a car, until
+they were just nearly saved.
 
 ---
 id: 1560021
@@ -6572,9 +6570,8 @@ attribute: 0x6400E10001000002
 id: 1560030
 attribute: 0x6400E10001000002
 ---
-rescued them at the last second. The driver
-was distracted while driving.
-
+{{1:30 arg="0x0200"}} rescued them
+and they both didn't get hit.
 
 ---
 id: 1560031
@@ -6587,23 +6584,19 @@ attribute: 0x6400E10001000002
 id: 1560040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}
-
+{{1:30 arg="0x0000"}} would like
+to give the following comment:
 
 ---
 id: 1560041
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}
-
 
 ---
 id: 1560050
 attribute: 0x6400E10001000002
 ---
-they described their 
-state of mind at the time.
-
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1560051
@@ -6616,9 +6609,8 @@ attribute: 0x6400E10001000002
 id: 1560060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} is bound to receive
-a letter of appreciation from the police.
-
+{{1:30 arg="0x0200"}} will receive a letter
+of appreciation from the police.
 
 ---
 id: 1560061
@@ -6646,7 +6638,7 @@ attribute: 0x6400E10001000002
 id: 1561020
 attribute: 0x6400E10001000002
 ---
-"I'm glad that I saved them."
+"I'm glad that person was there."
 
 
 ---
@@ -6660,8 +6652,7 @@ attribute: 0x6400E10001000002
 id: 1561030
 attribute: 0x6400E10001000002
 ---
-"Please be careful
-when you drive!"
+"Please be careful when you drive!"
 
 
 ---
@@ -6691,14 +6682,12 @@ attribute: 0x6400800001010101
 ---
 Graffiti Contest
 
-
 ---
 id: 1570010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}} Island is holding the
 {{1:30 arg="0x0000"}} Graffiti Contest.
-
 
 ---
 id: 1570011
@@ -6711,9 +6700,8 @@ attribute: 0x6400E10001000002
 id: 1570020
 attribute: 0x6400E10001000002
 ---
-Many people are participating in this
-annual event.
-
+The number of participants, as well as their
+skills, has gotten higher every year.
 
 ---
 id: 1570021
@@ -6726,9 +6714,8 @@ attribute: 0x6400E10001000002
 id: 1570030
 attribute: 0x6400E10001000002
 ---
-The number of participants, as well as their
-skills, has gotten higher every year.
-
+This year's champion, {{1:30 arg="0x0200"}},
+gave a comment:
 
 ---
 id: 1570031
@@ -6741,9 +6728,7 @@ attribute: 0x6400E10001000002
 id: 1570040
 attribute: 0x6400E10001000002
 ---
-This year's champion, {{1:30 arg="0x0200"}},
-said...
-
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1570041
@@ -6756,8 +6741,8 @@ attribute: 0x6400E10001000002
 id: 1570050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}
-
+We would like to remind people
+to not vandalize public property.
 
 ---
 id: 1570051
@@ -6770,9 +6755,8 @@ attribute: 0x6400E10001000002
 id: 1570060
 attribute: 0x6400E10001000002
 ---
-and proudly accepted the award.
-Congratulations!
-
+Later on, a freak accident involving soap
+and a dam wiped all the graffiti away.
 
 ---
 id: 1570061
@@ -6787,7 +6771,6 @@ attribute: 0x6400E10001000002
 ---
 "My daily practice finally paid off!"
 
-
 ---
 id: 1571011
 attribute: 0x6400E10001000002
@@ -6799,9 +6782,8 @@ attribute: 0x6400E10001000002
 id: 1571020
 attribute: 0x6400E10001000002
 ---
-"I'm going to draw something weirder
+"I'm going to draw something crazier
 next time."
-
 
 ---
 id: 1571021
@@ -6816,7 +6798,6 @@ attribute: 0x6400E10001000002
 ---
 "I'm glad everyone enjoyed it."
 
-
 ---
 id: 1571031
 attribute: 0x6400E10001000002
@@ -6828,7 +6809,8 @@ attribute: 0x6400E10001000002
 id: 1571040
 attribute: 0x6400E10001000002
 ---
-"I'm not satisfied with my work yet."
+"It's got to be better. I'm not
+happy with how it turned out."
 
 
 ---
@@ -6844,7 +6826,6 @@ attribute: 0x6400E10001000002
 ---
 "It was a tough contest."
 
-
 ---
 id: 1571051
 attribute: 0x6400E10001000002
@@ -6857,7 +6838,6 @@ id: 1580000
 attribute: 0x6400800001010101
 ---
 World's Smallest {{1:30 arg="0x0000"}}
-
 
 ---
 id: 1580010
@@ -19338,6 +19318,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
