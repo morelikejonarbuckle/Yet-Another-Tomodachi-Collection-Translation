@@ -10,12 +10,11 @@ hasSTR1: false
 hasFLW1: false
 %%%
 
-
 ---
 id: 0
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I found a bug the other day. It was around the size of my thumb and had two antennae, six legs, and a hard shell. The bug was brown. I screamed at the top of my lungs and ran away. I don’t like bugs…"
+{{255:0 arg="0x0100"}}"I found a bug the other day. It was around the size of my thumb and had two antennae, six legs, and a hard shell. The bug was brown. I screamed at the top of my lungs and ran away. I don’t like bugs..."
 
 
 ---
@@ -1084,7 +1083,7 @@ id: 100300
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, no?"
+It's been 2 months since we last met, right?"
 
 
 ---
@@ -1217,7 +1216,7 @@ attribute: 0x6400E10001000001
 id: 100390
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Um… you're
+{{255:0 arg="0x0100"}}"Um... you're
 {{1:31 arg="0x0000"}}'s lookalike, right?"
 
 
@@ -2038,7 +2037,7 @@ id: 300190
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
-might be dreaming about…"
+might be dreaming about..."
 
 
 ---
@@ -2308,7 +2307,7 @@ id: 300370
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Sometimes, I want to go back to be
-single again. Don’t tell a soul…"
+single again. Don’t tell a soul..."
 
 
 ---
@@ -2711,7 +2710,7 @@ id: 300640
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I know I'm quite quiet, but I really
-don't have much to say…"
+don't have much to say..."
 
 
 ---
@@ -2726,7 +2725,7 @@ id: 300650
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Sometimes, people think
-that I’m an otaku. I don’t mind…"
+that I’m an otaku. I don’t mind..."
 
 
 ---
@@ -2830,7 +2829,7 @@ id: 300720
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I don't like to assert myself. I
-don’t want others to know what I’m thinking…"
+don’t want others to know what I’m thinking..."
 
 
 ---
@@ -2934,7 +2933,7 @@ id: 300790
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I can’t keep up with today’s
-youth. Maybe I’m too slow…"
+youth. Maybe I’m too slow..."
 
 
 ---
@@ -3643,7 +3642,7 @@ attribute: 0x6400E10001000002
 id: 301270
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hmm… How many people should I
+{{255:0 arg="0x0100"}}"Hmm... How many people should I
 give New Year’s cards to?"
 
 
@@ -3704,7 +3703,7 @@ id: 301310
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"This month is already over.
-I’m starting to feel a bit rushed…"
+I’m starting to feel a bit rushed..."
 
 
 ---
@@ -3778,7 +3777,7 @@ id: 301360
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Half a month’s gone by, and
-I feel like I haven’t done anything yet…"
+I feel like I haven’t done anything yet..."
 
 
 ---
@@ -3793,7 +3792,7 @@ id: 301370
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I want my salary to be divided between
-{{1:31 arg="0x0000"}} and I… Ah, nevermind."
+{{1:31 arg="0x0000"}} and I... Ah, nevermind."
 
 
 ---
@@ -3969,7 +3968,7 @@ id: 301490
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's only Tuesday, but I already want
-a break…"
+a break..."
 
 
 ---
@@ -4116,7 +4115,7 @@ id: 301590
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I just woke up, My brain doesn't
-working yet…"
+working yet..."
 
 
 ---
@@ -4190,8 +4189,8 @@ attribute: 0x6400E10001000002
 id: 301640
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I’m so sleepy… My head’s all foggy
-and I can’t keep my eyes open…"
+{{255:0 arg="0x0100"}}"I’m so sleepy... My head’s all foggy
+and I can’t keep my eyes open..."
 
 
 ---
@@ -4399,7 +4398,7 @@ id: 301780
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I was thinking about how nice it’d
-be if a kind-looking person came to this island…"
+be if a kind-looking person came to this island..."
 
 
 ---
@@ -4458,7 +4457,7 @@ id: 301820
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Earlier, I saw {{1:31 arg="0x0000"}}
-trip and fall down from the stairs. Whoops…"
+trip and fall down from the stairs. Whoops..."
 
 
 ---
@@ -4532,7 +4531,7 @@ id: 301870
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When I use the phone, I only talk about
-important stuff. I don’t have many long conversations…"
+important stuff. I don’t have many long conversations..."
 
 
 ---
@@ -4622,7 +4621,7 @@ id: 301930
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"On my Wii, I’ve made a Mii
-that looks just like me… It’s rather odd."
+that looks just like me... It’s rather odd."
 
 
 ---
@@ -4757,7 +4756,7 @@ id: 302020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"If you touch our faces when we are
-asleep… No, I can't tell you that… forget what I said…"
+asleep... No, I can't tell you that... forget what I said..."
 
 
 ---
@@ -5078,7 +5077,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-{{1:31 arg="0x0000"}} doesn’t know their own…"
+{{1:31 arg="0x0000"}} doesn’t know their own..."
 
 
 ---
