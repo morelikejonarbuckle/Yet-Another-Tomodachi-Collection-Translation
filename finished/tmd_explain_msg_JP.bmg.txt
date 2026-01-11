@@ -12,3606 +12,4451 @@ hasFLW1: false
 
 ---
 id: 0
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Normal Clothes
+It's ice cream. It's not
+healthy, but it's gooood.
 
 ---
 id: 1
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Suit (Grey)
+Green means healthy, right?
+Looks a bit nauseating.
 
 ---
 id: 2
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Suit (Black)
+It's a hot piece of sweet
+apple pie.
 
 ---
 id: 3
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sailor Uniform
+A freshly grilled sweetfish
+with some salt.
 
 ---
 id: 4
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cowboy Outfit
+A sweet bun packed with
+red bean filling.
 
 ---
 id: 5
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Toga (White)
+Big life-changing question:
+Do you eat the stem or not?
 
 ---
 id: 6
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Toga (Black)
+Fluffy rice stuffed inside
+some juicy fried tofu.
 
 ---
 id: 7
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Soccer Uniform
+A tender & broiled eel that 
+can boost your stamina.
 
 ---
 id: 8
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Waitress Uniform
+Sweetness is buried in the
+sourness. Goes well with rice.
+
 
 ---
 id: 9
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Penguin Suit
+Ever feel like a zombie?
+Not anymore! (I hope.)
 
 ---
 id: 10
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Fluffy Animal (Brown)
+Lots of tender shrimps.
+Perfect for lunchtime!
 
 ---
 id: 11
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Camouflage Uniform
+Contains plenty of plump,
+juicy shrimp for lunchtime.
 
 ---
 id: 12
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Slim-fit Kung Fu Garb
+Packed with kids' favorite
+foods! Adults can enjoy it too.
 
 ---
 id: 13
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Yukata ♀
+A savory pancake with pork,
+squid, and shrimp!
 
 ---
 id: 14
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Yukata ♂
+Various fresh fish. I
+reccomend the sea-bream.
 
 ---
 id: 15
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Wedding Dress
+A new-year's staple. Each
+food has a special meaning.
 
 ---
 id: 16
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Used Jersey
+It's just "tea," not just one
+flavor. Still tastes relaxing.
 
 ---
 id: 17
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Shirt & Skirt
+A warm rice soup topped with
+many comfort foods. Aaaah...
 
 ---
 id: 18
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Poncho
+A winter dish filled with
+ingredients to warm you up.
 
 ---
 id: 19
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-A dress for a Princess
+Eat this rice ball to find
+a jelly-filled surprise.
 
 ---
 id: 20
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Gothic Dress
+Fried eggs with minced meat
+and some stuffed onions.
 
 ---
 id: 21
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Magician's Robes
+A nicely baked rice cake
+filled with a sweet paste.
 
 ---
 id: 22
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Fluffy Costume (White)
+A soft boiled egg and tender
+chicken served on warm rice.
 
 ---
 id: 23
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Flamenco Dress
+100% fruit juice. A good
+source of Vitamin C.
 
 ---
 id: 24
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cut & Sewn Shirt (White)
+Sweet and creamy, at it's
+prime. Reminds me of fall...
 
 ---
 id: 25
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cut & Sewn Shirt (Grey)
+Summer won't start until you
+eat this. The flavor's strawberry.
 
 ---
 id: 26
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cut & Sewn Shirt (Black)
+A fluffy & moist sponge cake 
+with sugar at the bottom.
 
 ---
 id: 27
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Star Costume
+You fool! You thought this was
+sweet, but it's dark chocolate!
 
 ---
 id: 28
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Qipao (Pink)
+Seems rather crabby. Have
+fun trying to de-shell it!
 
 ---
 id: 29
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Qipao (Blue)
+This should be in the trash.
+What's it doing here?!
 
 ---
 id: 30
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Nintendo Uniform (Blue)
+Sometimes you need some gum
+to chew on something. Ta-da!
 
 ---
 id: 31
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Nintendo Uniform (Beige)
+Has crispy batter and tender
+chicken. The flavor's fun!
 
 ---
 id: 32
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Graphic Tee
+Al dente pasta with eggs and
+cream. (They're rich.)
 
 ---
 id: 33
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Denim & Chino
+Some standard curry & rice.
+Anyone can enjoy it!
 
 ---
 id: 34
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cardigan (Green)
+Filled with spinach and bacon.
+Good for a light meal or snack.
 
 ---
 id: 35
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cardigan (Black)
+Lightly sweet dashi broth with
+fried tofu. Enjoy it while hot!
 
 ---
 id: 36
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Ceremonial Kimono
+Low in calories & healthy.
+Has a unique texture.
 
 ---
 id: 37
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Baggy Hoodie (Grey)
+A must-try for spice lovers.
+Has an authentic taste & smell.
 
 ---
 id: 38
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Baggy Hoodie (Red)
+A top grade delicacy. Try it
+at least once in your life!
 
 ---
 id: 39
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cat Costume
+A beef bowl with rice topped
+with beef and onion. Dig in!
 
 ---
 id: 40
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Overalls
+Highly nutritious item you
+can't miss during school lunch.
 
 ---
 id: 41
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Suka Jumper (Black)
+Crispy fried Chinese dumplings
+with some juicy meat stuffing!
 
 ---
 id: 42
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Suka Jumper (Pink)
+Smells and tastes terrible.
+It's also extremely "organic."
 
 ---
 id: 43
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Hand-knitted Stole
+Some like their cookies soft,
+some like it crunchy.
 
 ---
 id: 44
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tropical Dress
+There's a variety of gummies
+to try! Has a odd consistency.
 
 ---
 id: 45
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Jeweled Garment
+There's also white sauce and
+some grated cheese on top.
 
 ---
 id: 46
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tattered T-shirt
+A simmered creamy stew to
+warm your body and mind.
 
 ---
 id: 47
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Leather Jacket (Black)
+Satisfaction 100% guaranteed
+with fresh cream and berries!
 
 ---
 id: 48
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Low-rise Pants
+Enjoy its refreshing aroma
+and juicy flesh!
 
 ---
 id: 49
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Coat (White)
+A crispy pastry with so
+many layers of fluffy dough.
 
 ---
 id: 50
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Coat (Beige)
+When you're tired, take a
+break and enjoy some tea.
 
 ---
 id: 51
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Vintage Sweatshirt (Red)
+Let the aroma of the drink
+float around in the air!
 
 ---
 id: 52
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Vintage Sweatshirt (Blue)
+A warm, creamy corn soup 
+with some mild flavors.
 
 ---
 id: 53
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Patchwork Skirt
+Freshly cooked rice. It's warm
+and yummy.
 
 ---
 id: 54
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Shirt & Pants (Blue)
+Classic croquette with spuds
+veggies, and minced meat.
 
 ---
 id: 55
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Bow-tie Blouse
+A box set filled with filling
+food. A true hunger-buster.
 
 ---
 id: 56
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Shirt & Pants (Yellow)
+They're nice and sweet. Make
+sure to not swallow the pit!
 
 ---
 id: 57
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Favorite-color Hoodie
+Some bitter snail meat that
+comes with a toothpick.
 
 ---
 id: 58
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Fav.-color Striped Shirt
+HEATLH GOOD
 
 ---
 id: 59
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Puffy Jacket (Khaki)
+Chilled soba noodles. Perfect
+for a summer night!
 
 ---
 id: 60
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Puffy Jacket (Black)
+These dumplings are best had
+at a cherry blossom party.
 
 ---
 id: 61
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tweed Jacket
+This ham & cucumber sandwich
+is one out of many variations.
 
 ---
 id: 62
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Kitchen Apron
+A grilled pike that's a neat
+main meal to eat during fall.
 
 ---
 id: 63
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Fur Coat (Beige)
+A baked potato with butter on
+top. Eat it while it's still warm!
 
 ---
 id: 64
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Fur Coat (Black)
+It's like eating happiness.
+Crispy outside, creamy inside.
 
 ---
 id: 65
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Stole & Knitted Dress
+Freshly steamed dumplings. Try
+it with mustard and soy sauce.
 
 ---
 id: 66
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Colorful Stole
+Fresh strawberries, smooth
+cream... It's the king of cakes!
 
 ---
 id: 67
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Baby Top (Pink)
+A real breakfast essential.
+Toast until golden-brown.
 
 ---
 id: 68
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Baby Top (Blue)
+A fresh, juicy, & sweet taste.
+You'll forget it's a potato!
 
 ---
 id: 69
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Jogging shirt
+Sweet and crisp. How many 
+can you eat in one summer?
 
 ---
 id: 70
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Hawaiian Shirt (Blue)
+It's always reliable if 
+there's nothing else to drink.
 
 ---
 id: 71
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Hawaiian Shirt (Red)
+A delicious meat simmered
+in a sweet and savory sauce!
 
 ---
 id: 72
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Fluffy Ribbon Dress
+Wow, this is some top-notch
+tuna. Take a bite!
 
 ---
 id: 73
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Leopard-print Scarf
+Tender and juicy meat,
+cooked to your liking.
 
 ---
 id: 74
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tank Top & Camo Pants
+The sauce is key to the meal. 
+Also comes with lots of veggies.
 
 ---
 id: 75
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Leopard Sweatshirt
+A sweet and comforting soup.
+Can warm you up in the cold!
 
 ---
 id: 76
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Aerobics Clothing
+Bite into it for a crispy
+texture and juicy meat fluid.
 
 ---
 id: 77
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Car Pattern Shirt
+A choco-vanilla swirl of sweets.
+Eat it before it melts!
 
 ---
 id: 78
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Car T-shirt
+A luxurious live sea fish
+that's also savory.
 
 ---
 id: 79
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Rugby Shirt (Green)
+A freshly baked pastry, with
+plenty of red bean paste. 
 
 ---
 id: 80
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-One-piece Dress & Vest
+The secret ingredient is in
+the salsa. It's invigorating!
 
 ---
 id: 81
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Rugby Shirt (Red)
+Contains big chunks of octopus
+inside. Be careful, it's hot.
 
 ---
 id: 82
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Shirt & Wide Pants
+A fluffy rolled omelet which
+makes a delightful side dish.
 
 ---
 id: 83
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cardigan & Jeans
+A fish cake that has an odd
+hole to look into. Delicious!
 
 ---
 id: 84
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Flashy Suit (Black)
+There's plenty of fluffy eggs
+and green onions in this dish.
 
 ---
 id: 85
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Flashy Suit (White)
+A hearty hot-pot that's a
+winter staple. Feels warm.
 
 ---
 id: 86
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Retro Shirt (Green)
+A bit too sweet, but will
+melt-in-your-mouth.
 
 ---
 id: 87
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Retro Shirt (Black)
+A must-try for those who love
+sweets! Packed with flavor.
 
 ---
 id: 88
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Dress Shirt (White)
+The batter's nice and crispy.
+There's also some eggplant.
 
 ---
 id: 89
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Dress Shirt (Black)
+Some still find it spicy,
+even though it's mild.
 
 ---
 id: 90
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Striped One-piece Dress
+Simple cold tofu. You can eat
+it with some soy sauce.
 
 ---
 id: 91
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cut-and-sewn Top & Skirt
+Freshly boiled corn. Once you
+have a bite, you can't stop.
 
 ---
 id: 92
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Short Overalls
+Savor the moment, burn off
+the calories later!
 
 ---
 id: 93
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Embroidered Tunic
+A soft pancake-like dough with
+mildly sweet bean paste. Yum!
 
 ---
 id: 94
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Smock Blouse
+A healthy food made from soy-
+beans. Very sticky!
 
 ---
 id: 95
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Turtleneck (White)
+A hot meat bun with bamboo
+shoots that'll keep you warm.
 
 ---
 id: 96
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Turtleneck (Black)
+For a 3:00 snack, or any other
+time. Peel'N'eat it in a bite!
 
 ---
 id: 97
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Turtleneck (Red)
+This is more suitable for
+plants, but eat it if you dare.
 
 ---
 id: 98
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Boa Jacket
+Freshly fried with crispy skin.
+The seasoning's the key.
 
 ---
 id: 99
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Pea Coat (Blue)
+A true Japanifornian delacy.
+Veggies balance out the meat!
 
 ---
 id: 100
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Pea Coat (Brown)
+A bunless burger. It even
+comes with some special sauce!
 
 ---
 id: 101
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Ensemble (Pink)
+That's actually salami, not
+pepperoni. Has gooey cheese!
 
 ---
 id: 102
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Ensemble (Blue)
+Time for an afternoon snack?
+Give this crunchy biscuit a try!
 
 ---
 id: 103
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Floral Leggings
+Please don't be sour please
+don't be sour please don't...
 
 ---
 id: 104
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Trench Coat (Beige)
+These are the best fries ever.
+Too bad you can't taste them!
 
 ---
 id: 105
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Trench Coat (Grey)
+A smooth pudding made with
+eggs, milk, and caramel.
 
 ---
 id: 106
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Dolman Sleeve Shirt
+It has a unique aroma and 
+mature flavor. (It's mold)
 
 ---
 id: 107
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Green T-shirt
+Filled with egg yolk and honey.
+Good for breakfast or a snack.
 
 ---
 id: 108
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Yellow T-shirt
+A BIG lollipop. Make sure to
+lick it all the way to the end!
 
 ---
 id: 109
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Grey T-shirt
+Once you start, you can't
+stop! You'll eat it all.
 
 ---
 id: 110
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Bench Coat (Blue)
+Herb-packed, slow-grilled
+chicken with a savory aroma.
 
 ---
 id: 111
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Favorite-color Tights
+The zesty spice is irresistible! 
+And so is the rice.
 
 ---
 id: 112
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Mini Shirt (White)
+Delicious nuts with salt that
+probably makes it addictive.
 
 ---
 id: 113
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Reindeer Dress
+These top-class mushrooms
+have a wonderful aroma.
 
 ---
 id: 114
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Mini Shirt (Purple)
+A classic pasta loved by all,
+from kids to adults.
 
 ---
 id: 115
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Clothing Store Uniform
+This type of orange is a
+mandarin, it's sweet or sour.
 
 ---
 id: 116
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Girls' Hoodie (Pink)
+A Japanese staple made from
+dashi broth and miso paste.
 
 ---
 id: 117
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Girls' Hoodie (Blue)
+A classic part of breakfasts.
+Tastes good with toast!
 
 ---
 id: 118
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Madras One-piece Dress
+This not-too-spicy marinated
+roe goes great with rice.
 
 ---
 id: 119
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Checkered Dress (Black)
+Its lovely pink flesh is soft,
+juicy, and sweet.
 
 ---
 id: 120
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Checkered Dress (Blue)
+Naturally sweet and tasty,
+this autumn's bounty is yummy.
 
 ---
 id: 121
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-T-shirt & Vest
+Part of it tastes homemade,
+like your mother cooked it...
 
 ---
 id: 122
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Gauze Dress
+A simple grilled eggplant,
+served with ponzu and daikon.
 
 ---
 id: 123
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Corsage Dress
+It tastes good both with(out)
+salt, but it does need pepper.
 
 ---
 id: 124
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Checkered Scarf (Blue)
+Try this soft and sweet jelly
+with some hot tea.
 
 ---
 id: 125
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Checkered Scarf (Yellow)
+Tastes like soy sauce. Good
+for a quick late night meal.
 
 ---
 id: 126
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Long Leather Coat
+A honey-drenched apple you
+can either bite or slice.
 
 ---
 id: 127
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Large Checkered Dress
+Don't miss out on this food,
+It's good for your health!
 
 ---
 id: 128
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-V-Neck Sweater (Gray)
+A cordless iron with a steam
+function.
 
 ---
 id: 129
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-V-Neck Sweater (Purple)
+It has a variety of settings
+to tinker with!
 
 ---
 id: 130
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Military Coat
+A cute and fluffy plush toy
+that makes you feel at peace.
 
 ---
 id: 131
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Polo Shirt (Pink)
+When it comes to summer, it's
+a must-have.
 
 ---
 id: 132
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Short-Sleeved Sweatshirt
+A fashionable, luxurious
+wristwatch.
 
 ---
 id: 133
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Polo Shirt (Black)
+A beautiful blue ocarina.
+Doesn't make you time travel.
 
 ---
 id: 134
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Girl's Sailor Uniform
+You should give these to
+crying babies to pacify them.
 
 ---
 id: 135
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Food Shop Uniform
+A vermilion amulet with golden
+thread. Maybe it's magical!
 
 ---
 id: 136
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Vest & Shirt (Red)
+A neatly folded origami crane.
+I guess it's colorful?
 
 ---
 id: 137
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Vest & Shirt (Blue)
+There's a beautiful melody
+to hear if you wind it up.
 
 ---
 id: 138
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Nightgown
+Cute castanets in two-tone,
+red and blue colors.
 
 ---
 id: 139
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cardigan (Red)
+Unlikely to hurt you in
+the upcoming robot takeover.
 
 ---
 id: 140
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cardigan (Orange)
+A glass swan sculpture. The
+craftsmanship is top-notch.
 
 ---
 id: 141
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cache-cour (Purple)
+It's probably useless.
+Never mind, it's useless.
 
 ---
 id: 142
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cache-cour (Blue)
+The Island: The Stamp.
+You use these for mail.
 
 ---
 id: 143
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Varsity Jacket (Red)
+A sturdy and very detailed
+rice carving from Hokkaido.
 
 ---
 id: 144
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Varsity Jacket (Blue)
+A commemorative print! The
+fish's presence is impressive.
 
 ---
 id: 145
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Bath Towel
+A winner is you.
+Or the winner.
 
 ---
 id: 146
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Harumaki & Momohiki
+I don't think wearing this
+is a great idea.
 
 ---
 id: 147
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Happi Coat
+A cute and fluffy white
+teddy bear.
 
 ---
 id: 148
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-White Coat
+Made with a very beautiful
+pristine-cut diamond.
 
 ---
 id: 149
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Caveman's clothes
+Men and women can both use it.
+Hopefully smells good.
 
 ---
 id: 150
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Boy's School Uniform
+Its quiet presense is charming.
+Miis are based on these.
 
 ---
 id: 151
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Interior Shop Uniform
+It's plastic, it's elastic,
+it's... a thing?
 
 ---
 id: 152
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cheerleader Outfit
+I bet this would sell more if
+someone knew who wrote this.
 
 ---
 id: 153
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sweatshirt & Sweatpants
+I have no idea what to call
+this white-and-black ball.
 
 ---
 id: 154
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Junior High Jersey (Red)
+Despite its spines, it's very
+cute and tiny. Very prickly.
 
 ---
 id: 155
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Junior High Jersey (Blue)
+A ninja's throwing weapon. The
+The dull, black shine is cool.
 
 ---
 id: 156
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Formal Dress
+It's very mysterious and
+ominous. Its mind is an enigma.
 
 ---
 id: 157
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Protective Jumpsuit
+It soothes the weary hearts
+of people. Looks interesting.
 
 ---
 id: 158
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Retro Dress
+There's a snowy scene inside
+the glass. It's romantic!
 
 ---
 id: 159
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Arabian Princess Dress
+A memento from a summer
+vacation.
 
 ---
 id: 160
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Male Idol Clothes
+It contains some faint memories
+about romance.
 
 ---
 id: 161
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Female Idol Clothes
+A premium fluffy towel set
+that comes in two colors.
 
 ---
 id: 162
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Bow-tie & Shorts
+It's only held together by
+dust and air. Likely to break.
 
 ---
 id: 163
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Nurse's Uniform
+A beautiful and very detailed
+light blue globe.
 
 ---
 id: 164
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Scaffolder's Uniform
+It would be funny if this turned
+out to be some airplane poo.
 
 ---
 id: 165
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Clown Suit
+A common tissue box. You
+use it to blow.
 
 ---
 id: 166
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Medieval Armor
+Very useless if you own a
+bidet.
 
 ---
 id: 167
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Prisoner's Outfit
+It catches your eye from top
+to bottom. It's very striking.
 
 ---
 id: 168
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Maid Outfit
+It was excavated from somewhere.
+Has a charming face.
 
 ---
 id: 169
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Shabby Clothes
+It's a nest made from twigs
+and stuff, eggs not included.
 
 ---
 id: 170
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-School Swimsuit
+A wedding album filled with
+memories of a happy couple.
 
 ---
 id: 171
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sentai Suit (Red)
+A colorful jump rope. It's
+made out of vinyl.
 
 ---
 id: 172
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sentai Suit (Blue)
+A genuine harmonica that
+suits a traveler's image.
 
 ---
 id: 173
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sentai Suit (Yellow)
+It's surprisingly heavy and
+made with a resilient material.
 
 ---
 id: 174
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sentai Suit (Green)
+Maybe it could be worth a
+bit more if it was gold.
 
 ---
 id: 175
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sentai Suit (Pink)
+"Wow, is it for me? I'm really
+flattered."
 
 ---
 id: 176
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Loincloth Belt
+Large No. 5 firework shells,
+handcrafted by artisians.
 
 ---
 id: 177
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Basketball Jersey
+Playing cards made by Nintendo.
+They still make them. 
 
 ---
 id: 178
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Dancer's Outfit
+A seal used for letters. (More
+than likely cease and desists.)
 
 ---
 id: 179
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Aristocratic Clothing
+The dolls' faces is the focal
+point. It has delicate brushwork.
 
 ---
 id: 180
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Elastic Jumpsuit
+With colorful sparkle cover. A
+must-have for fashionistas!
 
 ---
 id: 181
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Female Police Uniform
+Why don't they make ones that 
+have a lid to grab money?
+
 
 ---
 id: 182
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Baseball Uniform
+An elegant doll with elegant
+features. She's very fragile.
 
 ---
 id: 183
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Table Tennis Uniform
+Many people in Japan believe
+this has a symbolic meaning.
 
 ---
 id: 184
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Chef's Uniform
+This miniature pine tree
+depicts the vast universe.
 
 ---
 id: 185
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Taxi Driver Outfit
+Its tilted angle is the selling
+point. Feels good on backs.
 
 ---
 id: 186
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Train Conductor's Suit
+This lucky cat will bring
+good fortunes to their owners.
 
 ---
 id: 187
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Ballerina's Costume
+A high-grade fountain pen. A
+classic gift on graduation day.
 
 ---
 id: 188
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tuxedo
+Made with top grade bamboo
+and fluffy cotton fibers.
 
 ---
 id: 189
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Princess Dress
+An alarm clock that sounds
+like "CHIRP! CHIRP! CHIRP!"
 
 ---
 id: 190
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Spacesuit
+A very unique ornament.
+Do you feel its presence?
 
 ---
 id: 191
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Yoga Clothes
+It's made out of a material
+that doesn't melt easily.
 
 ---
 id: 192
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Pawn Shop Uniform
+Probably a fond memory for
+someone who had many friends.
 
 ---
 id: 193
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Retail Store Uniform
+A popular music instrument
+for a music class.
 
 ---
 id: 194
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Boxer Shorts
+It is beautiful and shiny with
+very delicate craftsmanship.
 
 ---
 id: 195
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tracksuit (White)
+Man, I love "that place in the
+keychain!" Don't you?
 
 ---
 id: 196
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tracksuit (Black)
+A fantastic Japanese piece
+of architecture.
 
 ---
 id: 197
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Blouson & Jeans
+A classic souvenir from
+Okinawa. It looks heroic.
 
 ---
 id: 198
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Inspector's Uniform
+A silk handkerchief with
+splendid embroidery.
 
 ---
 id: 199
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Police Uniform
+A folding fan that gives off
+a gorgeous atmosphere.
 
 ---
 id: 200
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Apron
+It has plenty of pretty gems.
 
 ---
 id: 201
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-24/7 Store Uniform
+A classic souvenir from "that
+place." Seems original.
 
 ---
 id: 202
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Striped T-shirt
+This exotic mask comes from
+a very faraway country.
 
 ---
 id: 203
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Kanji T-shirt
+The healing green algae can
+make you feel calm. Soothing.
 
 ---
 id: 204
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Companion's Clothing
+Use this to fight the
+butterflies in your stomach.
 
 ---
 id: 205
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Boy's Blazer
+If you have a slightly sore
+throat, take one pill early.
 
 ---
 id: 206
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Girl's Blazer
+Take some artsy photos on a
+piece of film.
 
 ---
 id: 207
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Down Vest
+You can travel anywhere you
+want with this voucher. Wow!
 
 ---
 id: 208
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Security Guard Uniform
+It's a one-way ticket to
+a part-time job. Time to work!
 
 ---
 id: 209
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Jumpsuit & Rain Boots
+Some games use the mic on
+the second controller.
 
 ---
 id: 210
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Jacket & T-shirt
+Needs a backlight. It's hard
+to look at without one.
 
 ---
 id: 211
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Leather Jacket (Red)
+It's a bit hard to replicate
+this controller. Very unique.
 
 ---
 id: 212
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Halter Neck Dress
+A set of washbowls, towels, &
+soap for an evening hot bath.
 
 ---
 id: 213
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cummerbund
+A necessity to fight against
+the summer heat.
 
 ---
 id: 214
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Snowboard Clothing
+You can put anyone under
+hypnosis with this kit.
 
 ---
 id: 215
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Marathon Outfit
+Unlock the hidden power of
+home cooking, and behold!
 
 ---
 id: 216
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Judo Jacket
+An efficacious lexicon.
 
 ---
 id: 217
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Jockey's Uniform
+A pair of plastic chopsticks,
+characterized by vivid colors.
 
 ---
 id: 218
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Flight Attendant Uniform
+A yellow plastic megaphone.
+Looks nice, despite its price.
 
 ---
 id: 219
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Mao Jacket
+It is made from wood and has
+a cheerful and cute design.
 
 ---
 id: 220
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-An Emperor's New Clothes
+Very hard to stop eating once
+you start.
 
 ---
 id: 221
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Pleated Skirt
+A type of ginger known for its
+refreshing aroma. Very crisp.
 
 ---
 id: 222
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Polka Dot Dress
+"Thanks for solving our
+problems." -Island residents
 
 ---
 id: 223
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Suede Jacket
+Congrats. You're like a teacher
+when it comes to problem-solving.
 
 ---
 id: 224
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Kung Fu Suit
+Congratulations! You're a
+master of problem solving!
 
 ---
 id: 225
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sweatshirt & Shorts
+Congratulations!! You're like
+a wise sage that solves problems!
 
 ---
 id: 226
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Hoodie & Tracksuit
+People should really stop
+relying on your generosity.
 
 ---
 id: 227
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Cropped Pants
+They make these in bulk. Turn
+clockwise to open a door.
 
 ---
 id: 228
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Ripped Jeans
+It gets more delicious per
+bite. Has a complex flavor.
 
 ---
 id: 229
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Resort Swimwear
+Some soy sauce rice crackers 
+with a savory aroma.
 
 ---
 id: 230
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Checkered T-shirt
+The definition of home cooking!
+It has meat and potatoes.
 
 ---
 id: 231
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Open-knit Cardigan
+Crispy outside and juicy inside!
+It's a premium pork cutlet.
 
 ---
 id: 232
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Santa Claus Outfit
+A southern (Japanese) veggie
+with an addictive bitter taste.
 
 ---
 id: 233
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Firefighter's Suit
+Drink a cup a day for your 
+health. Tastes nice and thin.
 
 ---
 id: 234
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Tennis Clothes
+A beautiful gold coin. Collect
+100, and you earn another life.
 
 ---
 id: 235
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Gingham Checkered Shirt
+A beautiful silver coin. It
+seems to have some value.
 
 ---
 id: 236
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Striped Shirt
+A Nintendo Wii. It doesn't
+have HDMI, but it works.
 
 ---
 id: 237
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Chrysanthemum Kimono
+It can do call AND text!
+How revolutionary!
 
 ---
 id: 238
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Padded Kimono Coat
+Add music to your life. Enjoy
+it with headphones.
 
 ---
 id: 239
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Layered Shirt
+Exercise your brain anytime
+you want with this study set.
 
 ---
 id: 240
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Argyle Sweater
+A very moving page-turner
+that's hard to put down.
 
 ---
 id: 241
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Frilly Dress
+A physical melonDS (not to be
+confused with the emulator.)
 
 ---
 id: 242
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Basic White Shirt
+It's like a personal computer,
+but portable.
 
 ---
 id: 243
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Raglan Shirt
+Dust beware: You're in
+for a scare.
 
 ---
 id: 244
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Baggy T-shirt
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 245
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Lace Dress
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 246
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Samurai Hakama
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 247
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Samurai Armor
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 248
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Versailles Dress
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 249
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Sleeveless Denim Jacket
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 250
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Girl's School Uniform
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 251
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Ethnic Shirt
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 252
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Short Duffle Coat
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 253
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Mummy Wrapping
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 254
-attribute: 0x6400780001030101
+attribute: 0x6400A00001030002
 ---
-Loose Socks
-
----
-id: 255
-attribute: 0x6400780001030101
----
-Tartan Shirt
-
----
-id: 256
-attribute: 0x6400780001030101
----
-Feudal Lord's Clothing
-
----
-id: 257
-attribute: 0x6400780001030101
----
-Graduation Hakama
-
----
-id: 258
-attribute: 0x6400780001030101
----
-Shinsengumi
-
----
-id: 259
-attribute: 0x6400780001030101
----
-Ninja Gear
-
----
-id: 260
-attribute: 0x6400780001030101
----
-Germ Suit
-
----
-id: 261
-attribute: 0x6400780001030101
----
-Bodysuit
-
----
-id: 262
-attribute: 0x6400780001030101
----
-Koshimi
-
----
-id: 263
-attribute: 0x6400780001030101
----
-Tank Top
-
----
-id: 264
-attribute: 0x6400780001030101
----
-Suit & Bermuda Shorts
-
----
-id: 265
-attribute: 0x6400780001030101
----
-Ethnic Skirt
-
----
-id: 266
-attribute: 0x6400780001030101
----
-Plaid & Jeans
-
----
-id: 267
-attribute: 0x6400780001030101
----
-Acid-washed Shirt
-
----
-id: 268
-attribute: 0x6400780001030101
----
-Border Tights
-
----
-id: 269
-attribute: 0x6400780001030101
----
-Futuristic Suit
-
----
-id: 270
-attribute: 0x6400780001030101
----
-Dino Costume
-
----
-id: 271
-attribute: 0x6400780001030101
----
-Pajamas (Blue)
-
----
-id: 272
-attribute: 0x6400780001030101
----
-Pajamas (Pink)
-
----
-id: 273
-attribute: 0x6400780001030101
----
-Plain Swimsuit
-
----
-id: 274
-attribute: 0x6400780001030101
----
-Kindergarten Smock
-
----
-id: 275
-attribute: 0x6400780001030101
----
-DS T-shirt
-
----
-id: 276
-attribute: 0x6400780001030101
----
-Wii T-shirt
-
----
-id: 277
-attribute: 0x6400780001030101
----
-Fairy Dress
-
----
-id: 278
-attribute: 0x6400780001030101
----
-Postman Uniform
-
----
-id: 279
-attribute: 0x6400780001030101
----
-Pro. Cook's Uniform
-
----
-id: 280
-attribute: 0x6400780001030101
----
-Plain Kimono
-
----
-id: 281
-attribute: 0x6400780001030101
----
-Knitted Vest
-
----
-id: 282
-attribute: 0x6400780001030101
----
-Bell-bottoms
-
----
-id: 283
-attribute: 0x6400780001030101
----
-Autumn Dress
-
----
-id: 284
-attribute: 0x6400780001030101
----
-Winter Dress
-
----
-id: 285
-attribute: 0x6400780001030101
----
-Spring Dress
-
----
-id: 286
-attribute: 0x6400780001030101
----
-Summer Dress
-
----
-id: 287
-attribute: 0x6400780001030101
----
-Milestone Shirt
-
----
-id: 288
-attribute: 0x6400780001030101
----
-Wrestling Outfit
-
----
-id: 289
-attribute: 0x6400780001030101
----
-Denim Miniskirt
-
----
-id: 290
-attribute: 0x6400780001030101
----
-Logo T-shirt
-
----
-id: 291
-attribute: 0x6400780001030101
----
-Fleece Jacket
-
----
-id: 292
-attribute: 0x6400780001030101
----
-Elf Suit
-
----
-id: 293
-attribute: 0x6400780001030101
----
-Loungewear
-
----
-id: 294
-attribute: 0x6400780001030101
----
-Round-neck Blouse
-
----
-id: 295
-attribute: 0x6400780001030101
----
-Raincoat
-
----
-id: 296
-attribute: 0x6400780001030101
----
-Polo & Apron
-
----
-id: 297
-attribute: 0x6400780001030101
----
-Logo Dress
-
----
-id: 298
-attribute: 0x6400780001030101
----
-Flannel Shirt
-
----
-id: 299
-attribute: 0x6400780001030101
----
-Baby Bear T-shirt
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
 
 ---
 id: 1000
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-Plain
+It's the clothes all Miis
+wear. Better than nothing!
 
 ---
 id: 1001
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スーツノグレー
+A gray suit that gives off
+a bright impression.
 
 ---
 id: 1002
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スーツノクロ
+A black suit that anyone
+can pull off. Looks natural.
 
 ---
 id: 1003
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-セーラーフク
+An outfit with a vivid blue
+collar for sailing. Yep.
 
 ---
 id: 1004
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カウボーイノフク
+A outfit to make toast with.
+Yee-haw!
 
 ---
 id: 1005
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コダイノフクノシロ
+Time-travel wearing this toga
+and you've become a god!
 
 ---
 id: 1006
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コダイノフクノクロ
+It's black. Does that mean
+the wearer is evil?
 
 ---
 id: 1007
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-サッカーユニフォーム
+Protect your shins while
+playing a game of "ball."
 
 ---
 id: 1008
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ウェイトレスノフク
+It goes well with an American
+50's diner or cocktail bar.
 
 ---
 id: 1009
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ペンギンスーツ
+The sweat under this costume
+doubles as a layer of fat.
 
 ---
 id: 1010
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-モコモコキグルミノチャ
+Is it a monkey or a bear?
+It's very fluffy, though.
 
 ---
 id: 1011
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-メイサイフク
+Oh my goodness, that Mii's
+invisible!
 
 ---
 id: 1012
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ホソミノカンフースーツ
+A snug kung-fu outfit with
+bright colors to see at night.
 
 ---
 id: 1013
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オンナモノノユカタ
+You wear it in a summer
+festival.
 
 ---
 id: 1014
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オトコモノノユカタ
+You wear it in a summer
+festival.
 
 ---
 id: 1015
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ウェディングドレス
+Maybe it came from a dream!
+Some women wish to wear this.
 
 ---
 id: 1016
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フルギノジャージ
+A bright jersey flooded with
+various patches.
 
 ---
 id: 1017
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シャツトスカート
+A classic office look. Very
+professional.
 
 ---
 id: 1018
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ポンチョ
+I can't make out the pattern
+on there, but it looks cool.
 
 ---
 id: 1019
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オジョウサマワンピ
+Become a pretty princess
+and have tea with animal pals.
 
 ---
 id: 1020
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ゴシックチョウワンピ
+Eyeliner not included.
 
 ---
 id: 1021
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-マホウツカイノフク
+Wear this to gain 5% magic
+points when crafting potions.
 
 ---
 id: 1022
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-モコモコキグルミノシロ
+What is this thing? It looks
+like a bunny or a dog.
 
 ---
 id: 1023
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フラメンコドレス
+It looks as spicy as salsa:
+the song, dance, and dip.
 
 ---
 id: 1024
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カットソーノシロ
+A heroic shirt meant for those
+who keep grinding for EXP.
 
 ---
 id: 1025
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カットソーノグレー
+A morally dubious shirt meant
+for those who love veggies.
 
 ---
 id: 1026
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カットソーノクロ
+An evil shirt meant for evil
+people who share spoilers.
 
 ---
 id: 1027
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スターノフク
+A star-studded outfit fit
+for a star. Star star star!
 
 ---
 id: 1028
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チャイナドレスノピンク
+A qipao. Maybe it's passionate
+due to the pink color.
 
 ---
 id: 1029
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チャイナドレスノミズイロ
+A qipao. Maybe it's bummed out
+due to the blue color.
 
 ---
 id: 1030
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ニンテンドーセイフクノコン
+I've never seen anyone at
+Nintendo actually wear this.
 
 ---
 id: 1031
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ニンテンドーセイフクノベージュ
+I've never seen anyone at
+Nintendo actually wear this.
 
 ---
 id: 1032
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-グラフィックティーシャツ
+Oh my! It's so graphic!
+Think of the children!
 
 ---
 id: 1033
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジｰジャントチノパン
+Pair this with some boots for
+a coordinated look.
 
 ---
 id: 1034
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダートカーデノミドリ
+It's a green cardigan, I don't
+know what else to say.
 
 ---
 id: 1035
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダートカーデノクロ
+"Does it come in black?"
+It sure does.
 
 ---
 id: 1036
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジュウニヒトエ
+Gorgeous twelve-layered
+ceremonial kimono.
 
 ---
 id: 1037
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブカブカパーカーノグレー
+A grey hoodie that's hip with
+the kids these days.
 
 ---
 id: 1038
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブカブカパーカーノアカ
+This will really make you
+stand out in a crowd.
 
 ---
 id: 1039
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ネコノキグルミ
+It's time to become one with
+the cats. This is a demand.
 
 ---
 id: 1040
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オーバーオール
+Some overalls made to enjoy
+the country life with.
 
 ---
 id: 1041
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スカジャンノクロ
+There's a tiger on the back.
+The void makes it stand out.
 
 ---
 id: 1042
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スカジャンノピンク
+There's a tiger on the back.
+It's hidden by the pinkness.
 
 ---
 id: 1043
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-テアミノストール
+It's like a very loose scarf
+that's doubled in length.
 
 ---
 id: 1044
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-トロピカルドレス
+They slapped some flowers on
+here and called it a day.
 
 ---
 id: 1045
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ホウセキノフク
+The very definition of
+"Bedazzle."
 
 ---
 id: 1046
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アナアキカットソー
+The boots make you look like
+a punk from the 80s.
 
 ---
 id: 1047
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カワジャン
+A sharp leather jacket that's
+ready to rock on with.
 
 ---
 id: 1048
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-サルエルパンツ
+They're easy and comfortable
+to wear, just like shorts.
 
 ---
 id: 1049
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コートノシロ
+Two big pockets and a scarf
+to keep warm.
 
 ---
 id: 1050
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コートノベージュ
+This makes you blend in with
+the snow very, very well.
 
 ---
 id: 1051
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フルギノスウェットノアカ
+It's neat that the color hasn't
+faded away over the years.
 
 ---
 id: 1052
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フルギノスウェットノコン
+It's neat that the color hasn't
+faded away over the years.
 
 ---
 id: 1053
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-パッチワークスカート
+It's very colorful and long,
+so you can easily style it.
 
 ---
 id: 1054
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シャツトパンツノアオ
+This one makes you look Like
+a prim and proper person.
 
 ---
 id: 1055
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボウタイノブラウス
+The fluffy ribbons create a
+gentle impression.
 
 ---
 id: 1056
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シャツトパンツノキ
+The color's more like cream
+than yellow.
 
 ---
 id: 1057
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オキニイリイロノパーカー
+I have no idea how this
+changes colors, but it's cool.
 
 ---
 id: 1058
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オキニイリイロノボーダー
+I have no idea how this
+changes colors, but it's cool.
 
 ---
 id: 1059
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブカブカダウンノカーキ
+This looks like a lithium
+battery that's going to pop.
 
 ---
 id: 1060
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブカブカダウンノクロ
+This looks like a stack of
+tires.
 
 ---
 id: 1061
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ツイードジャケット
+It looks very dapper with that
+tie and subdued tones.
 
 ---
 id: 1062
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カッポウギ
+It's like a suit you wear to
+take on various chores.
 
 ---
 id: 1063
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ファーノコートノベージュ
+This fluffy faux fur makes
+others happy all winter long.
 
 ---
 id: 1064
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ファーノコートノクロ
+Must... resist... urge... 
+to... stroke... fur...
 
 ---
 id: 1065
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ストールトニットワンピ
+A stole is like a scarf,
+but thinner and longer.
 
 ---
 id: 1066
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カラフルストール
+A stole is like a scarf,
+but thinner and longer.
 
 ---
 id: 1067
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダーベビーフクノピンク
+A pretty pastel-pink romper.
+The feet have some pom-poms.
 
 ---
 id: 1068
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダーベビーフクノブルー
+A beautiful baby-blue romper.
+The feet have some pom-poms.
 
 ---
 id: 1069
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ティーシャツロールアップ
+WOOO! THIS OUTFIT GIVES
+YOU LOTS OF ENERGY TO RUN!
 
 ---
 id: 1070
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アロハシャツノミズイロ
+Summer vibes galore! Time
+to take it easy on a hot day.
 
 ---
 id: 1071
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アロハシャツノアカ
+Summer vibes galore! Suited
+well for beach fun.
 
 ---
 id: 1072
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フワフワリボン
+You'll never guess what this
+dress is made of.
 
 ---
 id: 1073
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ヒョウガラノストール
+This outfit looks sassy with
+that logo shirt and scarf.
 
 ---
 id: 1074
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タンクトップトメイサイパンツ
+You're a floating torso
+now. Those legs are invisible!
 
 ---
 id: 1075
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ヒョウノトレーナー
+You can supposedly see the
+face of a leopard on here.
 
 ---
 id: 1076
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-エアロビノフク
+It's all about those leg
+warmers. Gotta keep 'em warm!
 
 ---
 id: 1077
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-クルマガラノシャツ
+This looks like my everyday
+commune to work, but dry.
 
 ---
 id: 1078
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-クルマノティーシャツ
+A salmon pink T-shirt with a
+photo of a car printed on it.
 
 ---
 id: 1079
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ラガーシャツノミドリ
+It's made of sturdy fabric.
+It's loose and handy to have.
 
 ---
 id: 1080
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ワンピーストベスト
+A lace-knit vest and a fluffy
+dress is super girly.
 
 ---
 id: 1081
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ラガーシャツノアカ
+Makes you look ready to fight
+a giant pig.
 
 ---
 id: 1082
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シャツトワイドパンツ
+The green stripes are very
+refreshing. Pants are nice.
 
 ---
 id: 1083
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カーディガントジーンズ
+It's a stylish look that's
+not overdone.
 
 ---
 id: 1084
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハデスーツノクロ
+This suit looks rather devlish
+and charming.
 
 ---
 id: 1085
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハデスーツノシロ
+Do it at the disco, like
+everybody should!
 
 ---
 id: 1086
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-レトロシャツノミドリ
+The clashing colors make you
+look very groovy, man.
 
 ---
 id: 1087
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-レトロシャツノクロ
+The monochrome pattern and
+the silk's sheen look good.
 
 ---
 id: 1088
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ウデマクリワイシャツノシロ
+Roll up the sleeves to look
+sharp and be more efficient.
 
 ---
 id: 1089
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ウデマクリワイシャツノクロ
+Roll up the sleeves to look
+sharp and be more efficient.
 
 ---
 id: 1090
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダーワンピース
+It looks like a colorful wave
+from an abstract sunset.
 
 ---
 id: 1091
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カットソートスカート
+Simple and elegant. The 3/4th
+sleeves are a key feature.
 
 ---
 id: 1092
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ショートオーバーオール
+The vibrant colors create a
+cute impression.
 
 ---
 id: 1093
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シシュウノチュニック
+The embroidery's cute! The
+soft lines give it a girly feel.
 
 ---
 id: 1094
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スモックブラウス
+Has a floral motif at the hem.
+Pair with a petticoat.
 
 ---
 id: 1095
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タートルネックノシロ
+The turtleneck looks like
+its choking the neck.
 
 ---
 id: 1096
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タートルネックノクロ
+I sure love my headphone jack
+and home button on my phone!
 
 ---
 id: 1097
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タートルネックノアカ
+The turtleneck looks like
+its choking the neck.
 
 ---
 id: 1098
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボアジャケット
+A rounded silhouette. The soft,
+fluffy feel's delightful.
 
 ---
 id: 1099
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ピーコートノコン
+Gives off a refeshing impression.
+The thick fabric is warm.
 
 ---
 id: 1100
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ピーコートノチャ
+Looks slightly unsual.
+The thick fabric is warm.
 
 ---
 id: 1101
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アンサンブルノピンク
+A versatile, pink ensemble 
+for work or play.
 
 ---
 id: 1102
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アンサンブルノブルー
+A versatile, blue ensemble 
+for work or play.
 
 ---
 id: 1103
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フラワーレギンス
+A very dark dress with flower-
+dotted waffle-weaved leggings.
 
 ---
 id: 1104
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-トレンチコートノベージュ
+A trench coat that makes the
+wearer looks like a detective.
 
 ---
 id: 1105
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-トレンチコートノグレー
+A trench coat that makes the
+wearer looks like a inspector.
 
 ---
 id: 1106
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ドルマンスリーブシャツ
+I'm a fan of the loose sleeves
+and the champane gold color.
 
 ---
 id: 1107
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハンソデシャツノミドリ
+A refreshing style. The key
+is to show off the inner layer.
 
 ---
 id: 1108
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハンソデシャツノキ
+The bright yellow's similar to
+a shimering summer sunset.
 
 ---
 id: 1109
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハンソデシャツノグレー
+The gray color's perfect for
+everyday use.
 
 ---
 id: 1110
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ベンチコートノアオ
+Wear while watching sports
+on a cold day to warm up.
 
 ---
 id: 1111
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オキニイリイロノタイツ
+I have no idea how this
+changes colors, but it's cool.
 
 ---
 id: 1112
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チビカットソーノシロ
+Everything else is warm except
+for the abdomen.
 
 ---
 id: 1113
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-トナカイノワンピース
+A knitted reindeer dress
+with cheerful Christmas colors.
 
 ---
 id: 1114
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チビカットソーノムラサキ
+Everything else is warm except
+for the abdomen.
 
 ---
 id: 1115
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フクヤサンノセイフク
+Its understated checker
+pattern is a defining feature.
 
 ---
 id: 1116
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ガールズパーカーノピンク
+I guess the knees can deal
+with the cold, right?
 
 ---
 id: 1117
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ガールズパーカーノブルー
+I guess the knees can deal
+with the cold, right?
 
 ---
 id: 1118
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-マドラスチェックノワンピ
+The layered check pattern
+gives off a joyful vibe.
 
 ---
 id: 1119
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チェックノワンピースノクロ
+A cute dress with fine
+gingham checks.
 
 ---
 id: 1120
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チェックノワンピースノアオ
+A cute dress with fine
+gingham checks.
 
 ---
 id: 1121
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ティーシャツトベスト
+A monotone T-shirt and vest.
+Looks sharp and smart!
 
 ---
 id: 1122
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ガーゼノワンピース
+The gauze fabric feels comfy
+to wear. It's delightful!
 
 ---
 id: 1123
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コサージュワンピース
+A beautiful combination of
+royal blue and checks.
 
 ---
 id: 1124
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チェックノマフラーノコン
+A blue plaid scarf that's good
+for taking on the cold.
 
 ---
 id: 1125
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チェックノマフラーノキ
+A bright yellow scarf that
+contrasts with the gray shirt.
 
 ---
 id: 1126
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ロングレザーコート
+It's a very long leather
+coat with some leather boots.
 
 ---
 id: 1127
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オオキイチェックノワンピ
+This checkered pattern will
+surely brighten your mood.
 
 ---
 id: 1128
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブイネックセーターノグレー
+A loosely knit sweater. It
+has a sophisticated look.
 
 ---
 id: 1129
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブイネックセーターノムラサキ
+A loosely knit sweater. It
+has a sophisticated look.
 
 ---
 id: 1130
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ミリタリーコート
+A versatile coat meant for
+work and play. Very convient.
 
 ---
 id: 1131
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ポロシャツノピンク
+A crispy tailored polo shirt.
+Its color seems gentle.
 
 ---
 id: 1132
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハンソデスウェット
+Roll up the pant legs for a
+more casual look.
 
 ---
 id: 1133
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ポロシャツノクロ
+Perhaps the black color makes
+you look slimmer.
 
 ---
 id: 1134
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ナガイスカートノセーラーフク
+A sailor uniform with a long,
+tight skirt and big collar.
 
 ---
 id: 1135
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タベモノヤサンノセイフク
+How do they get food onto the
+island in the first place?
 
 ---
 id: 1136
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ベストトシャツノアカ
+A convenient vest littered in
+pockets. Looks like dusk.
 
 ---
 id: 1137
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ベストトシャツノアオ
+A convenient vest littered in
+pockets. Looks like a sunset.
 
 ---
 id: 1138
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ネグリジェドレス
+A flowing nightgown.
+It's loose and comfy.
 
 ---
 id: 1139
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カーディガンノアカ
+A comfortable cotton V-neck.
+Wear it year-round!
 
 ---
 id: 1140
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カーディガンノオレンジ
+A comfortable cotton V-neck.
+Wear it year-round!
 
 ---
 id: 1141
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カシュクールノムラサキ
+A wrap top that softly wraps
+around the wearer. It's muted.
 
 ---
 id: 1142
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カシュクールノアオ
+A wrap top that softly wraps
+around the wearer. It's subtle.
 
 ---
 id: 1143
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スタジャンノアカ
+Wear this if you absolutely
+despise the blue jackets.
 
 ---
 id: 1144
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スタジャンノアオ
+Wear this if you absolutely
+despise the red jackets.
 
 ---
 id: 1145
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ユアガリバスタオル
+Smells moist.
 
 ---
 id: 1146
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハラマキトモモヒキ
+It's a belly warmer and some
+long underwear for warmth.
 
 ---
 id: 1147
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハッピ
+It's a coat that seems to be
+popular at festivals.
 
 ---
 id: 1148
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハクイ
+Wearing this makes you feel
+a little bit smarter.
 
 ---
 id: 1149
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ゲンシジンノフク
+Hopefully not skinned from
+a real animal.
 
 ---
 id: 1150
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ガクセイフク
+Something new for people who
+only have worn blazers.
 
 ---
 id: 1151
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-インテリアヤサンノセイフク
+The crisp color reminds me of
+a neat and tidy room.
 
 ---
 id: 1152
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チアガールノフク
+"Give me an T! Give me an O!
+Give me a M! Give me an O.."
 
 ---
 id: 1153
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スウェットジョウゲ
+In the mood to just lounge
+around?
 
 ---
 id: 1154
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チュウガクノジャージノアカ
+A school jersey from a school
+that was covered in red.
 
 ---
 id: 1155
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チュウガクノジャージノアオ
+A school jersey from a school
+that was covered in blue.
 
 ---
 id: 1156
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フォーマルドレス
+A long dress that shows a
+slender sihouette at sunset.
 
 ---
 id: 1157
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ツナギ
+Easy to move around and push
+cubes and buttons.
 
 ---
 id: 1158
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-レトロワンピース
+That bold pattern looks cool
+with those subdued colors.
 
 ---
 id: 1159
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アラビアノヒメノフク
+Embrace a whole new world with
+fluffy pants and light sleeves.
 
 ---
 id: 1160
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ダンセイアイドルノフク
+It'll make others think you
+somewhat look like an idol.
 
 ---
 id: 1161
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジョセイアイドルノフク
+A very cute getup that tells
+others "I'm famous!"
 
 ---
 id: 1162
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チョウネクタイトハンズボン
+For outings and parties. Can
+be enjoyed by everyone.
 
 ---
 id: 1163
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ナースフク
+A clean-lined nurse uniform
+ready to do some dirty work.
 
 ---
 id: 1164
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-トビショクノフク
+Also known as a Steeplejack.
 
 ---
 id: 1165
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ピエロノフク
+Behold: You're the punchline!
 
 ---
 id: 1166
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チュウセイノヨロイ
+Just don't walk into a
+guillotine. You'll be fine!
 
 ---
 id: 1167
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シュウジンフク
+Doesn't look flattering in
+the least.
 
 ---
 id: 1168
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-メイドフク
+It's one of those costumes.
 
 ---
 id: 1169
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ミスボラシイフク
+It's pretty worn out, but it's
+surprsingly nice to wear.
 
 ---
 id: 1170
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ガッコウノミズギ
+Perfect for long swims.
 
 ---
 id: 1171
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-センタイヒーローノフクノアカ
+For those who always want to
+be the center of attention.
 
 ---
 id: 1172
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-センタイヒーローノフクノアオ
+For those who want to stay
+calm and collected.
 
 ---
 id: 1173
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-センタイヒーローノフクノキ
+For those who brighen up the
+mood.
 
 ---
 id: 1174
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-センタイヒーローノフクノミドリ
+For those who support others
+behind the shadows.
 
 ---
 id: 1175
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-センタイヒーローノフクノピンク
+For those who somehow get too
+much attention and hate it.
 
 ---
 id: 1176
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-マワシ
+It's like the ones sumo
+wrestlers wear.
 
 ---
 id: 1177
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-バスケユニフォーム
+Jump high and shoot! Time to
+run quickly across the court.
 
 ---
 id: 1178
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ダンサーノフク
+It looks a bit skimpy. Should
+you really give this to a Mii?
 
 ---
 id: 1179
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-キゾクノフク
+Made with fabric that feels as
+soft as a carpet. Prestigious!
 
 ---
 id: 1180
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ゴムノツナギ
+A blue jumpsuit that's ideal
+for working in water.
 
 ---
 id: 1181
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジョセイケイサツカンノフク
+A sharp looking uniform for
+protecting the peace.
 
 ---
 id: 1182
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ヤキュウセンシュノフク
+But where's the hat or the
+helmet? It's a baseball must!
 
 ---
 id: 1183
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タッキュウセンシュノフク
+Become one with the ball and
+be a human blur when worn.
 
 ---
 id: 1184
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シェフノフク
+A crisp, clean uniform for
+a professional chef.
 
 ---
 id: 1185
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タクシーノウンテンシュ
+A chic color combination that
+suits the nighttime cityscape.
 
 ---
 id: 1186
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シャショウノフク
+It somehow gives off a odd
+indispensable presence.
 
 ---
 id: 1187
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-バレリーナノフク
+Wearing this somehow makes
+your back straight and light.
 
 ---
 id: 1188
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タキシード
+This sharp suit is a real
+standout at parties.
 
 ---
 id: 1189
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オヒメサマドレス
+This is what they mean by
+"pretty in pink."
 
 ---
 id: 1190
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ウチュウフク
+Somewhat useless for space
+travel without its helmet.
 
 ---
 id: 1191
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ヨガノフク
+Sweat it out in this health-
+conscious flexible outfit.
 
 ---
 id: 1192
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シチヤサンノフク
+You never know what random
+stuff you'll find wearing this.
 
 ---
 id: 1193
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-デパートノセイフク
+A piece that suits elegant
+demeanor, with a cream color.
 
 ---
 id: 1194
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボクサーパンツ
+Fight your opponents as sweat
+glistens on your brow.
 
 ---
 id: 1195
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジャージノシロ
+A blinding loose jersey for
+going out with.
 
 ---
 id: 1196
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジャージノクロ
+A blinded loose jersey for
+going out with.
 
 ---
 id: 1197
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブルゾントジーンズ
+A blouson jacket with volume
+around the neck, with jeans.
 
 ---
 id: 1198
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ケンサインノフク
+An inspector needs to inspect
+this outfit for inspection.
 
 ---
 id: 1199
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ケイサツカンノフク
+A sharp-looking uniform to
+protect the city with.
 
 ---
 id: 1200
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-エプロン
+Some jeans and an apron will
+get the job done efficiently.
 
 ---
 id: 1201
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コンビニノセイフク
+24/7 workers can't change
+from this uniform. Convient.
 
 ---
 id: 1202
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダーカットソー
+Enjoy the marine style as you
+get a tan down to your feet.
 
 ---
 id: 1203
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カンジティーシャツ
+A black T-shirt with kanji
+printed on the back. Neat!
 
 ---
 id: 1204
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コンパニオンノフク
+A retro dress with a bold
+color scheme. Looks unique.
 
 ---
 id: 1205
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オトコノコノブレザー
+A brown blazer that's paired
+with gray checks. Elegant.
 
 ---
 id: 1206
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オンナノコノブレザー
+A brown blazer that's paired
+with gray checks. Elegant.
 
 ---
 id: 1207
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ダウンベスト
+There's even a striped shirt
+underneath.
 
 ---
 id: 1208
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ケイビインノフク
+You could wear this to break
+into a big place. Camoflauge!
 
 ---
 id: 1209
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ツナギトナガグツ
+Blue coveralls with rubber
+boots for dealing with water.
 
 ---
 id: 1210
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ジャケットトティーシャツ
+A sophisticated monochrome
+look that suits anyone.
 
 ---
 id: 1211
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-レザージャケット
+A red leather jacket with
+some vintage jeans. Awesome.
 
 ---
 id: 1212
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ホルターネックワンピース
+A vivid dress that looks cute, 
+even when viewed from behind.
 
 ---
 id: 1213
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カマーベスト
+A striaghtforward look worn
+with a straightened back.
 
 ---
 id: 1214
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スノボウェア
+It's great for standing out
+in a blizzard.
 
 ---
 id: 1215
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-マラソンユニフォーム
+Aim for completion as you get
+cheers from the roadside!
 
 ---
 id: 1216
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ドウギ
+A pure white gi with a jet-
+black belt. Very balanced.
 
 ---
 id: 1217
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-キシュノフク
+Looks cool with the bold
+colors and geometric patterns.
 
 ---
 id: 1218
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-キャビンアテンダントノフク
+Fly through the sky with this
+cute uniform! Also has a ribbon.
 
 ---
 id: 1219
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-マオカラージャケット
+It sets itself apart from your
+ordinary collared shirt.
 
 ---
 id: 1220
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オウサマノフク
+A noble garment fit for a King.
+Or a Queen. Or a very royal Mii.
 
 ---
 id: 1221
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-プリーツスカート
+The checkrered pattern seems
+somewhat nostalgic.
 
 ---
 id: 1222
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ミズタマノワンピース
+A not-so-bold polka-dot pattern
+with a turtleneck underneath.
 
 ---
 id: 1223
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スエードノジャケット
+It has a rich texture that
+enhances the wearer's charm.
 
 ---
 id: 1224
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カンフースーツ
+Comes with cuffed sleeves and
+cute tapered pants.
 
 ---
 id: 1225
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スウェットトハーフパンツ
+Perfect for kids and adults!
+Comes with felt elbow pads.
 
 ---
 id: 1226
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-パーカートジャージ
+A pink jersey with a fancy
+logo on the back. Stylish!
 
 ---
 id: 1227
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-クロップドパンツ
+Lace up the hem for a more
+feminine touch.
 
 ---
 id: 1228
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ダメージジーンズ
+Some ripped jeans with a
+simple shirt for contrast.
 
 ---
 id: 1229
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-リゾートノミズギ
+You're bound to have an
+exciting time if you wear this.
 
 ---
 id: 1230
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チェックノカットソー
+The checkered pattern looks
+cute. Looks fresh with sandals.
 
 ---
 id: 1231
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ニットハオリスタイル
+A sophisticated casual style.
+A bit ironic.
 
 ---
 id: 1232
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-サンタクロースノフク
+But where's the sleigh
+and reindeer?
 
 ---
 id: 1233
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ショウボウシノフク
+Fire resistant durable clothing.
+The color's bright on purpose.
 
 ---
 id: 1234
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-テニスノフク
+Make a smash with this cute,
+pastel pink outfit!
 
 ---
 id: 1235
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ギンガムチェックシャツ
+Monochrome checker patterns:
+easy for anyone to wear.
 
 ---
 id: 1236
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ストライプシャツ
+A shirt with pink stripes.
+How elegant.
 
 ---
 id: 1237
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-キクノキモノ
+A kimono with an elegant
+chrysanthemum pattern.
 
 ---
 id: 1238
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ドテラ
+A thick, cotton kimono
+to stay warm in the cold.
 
 ---
 id: 1239
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-カサネギカットソー
+The red inner layer really
+stands out.
 
 ---
 id: 1240
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アーガイルノセーター
+A classic argyle sweater.
+Some people might want it.
 
 ---
 id: 1241
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フリルノワンピース
+The french sleeves and frills
+make it look adorable.
 
 ---
 id: 1242
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ベーシックナシロシャツ
+I don't know what else to say.
+It's just a white shirt.
 
 ---
 id: 1243
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ラグランシャツ
+The colors are muted on this
+shirt.
 
 ---
 id: 1244
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブカブカノティーシャツ
+Don't go anywhere wearing this!
+It's only for lounging around.
 
 ---
 id: 1245
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-レースノワンピース
+Very sophisticated, with the
+black lace at the neck.
 
 ---
 id: 1246
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-サムライノハカマ
+A pratical garment used
+for moving around easily.
 
 ---
 id: 1247
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ブシノヨロイ
+You must fight with honor!
 
 ---
 id: 1248
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ベルサイユフウドレス
+Some things in this world are
+too fancy. This is one of them.
 
 ---
 id: 1249
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ソデナシジージャン
+It also comes with a short
+hem. Very bold.
 
 ---
 id: 1250
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オンナノコノセイフク
+The soft lavender hue makes
+the wearer look refined.
 
 ---
 id: 1251
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-エスニックカットソー
+It's relaxing to wear, with
+the knit top and loose bottoms.
 
 ---
 id: 1252
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ショートダッフルコート
+It looks cute due to the color
+and short length.
 
 ---
 id: 1253
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ミイラノフク
+There's something under
+that wrapping, right?
 
 ---
 id: 1254
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ルーズソックス
+They might look like colorful
+chopsticks, but these are cute!
 
 ---
 id: 1255
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タータンチェックシャツ
+A classic shirt with a subdued
+checkered pattern.
 
 ---
 id: 1256
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ダイミョウノフク
+Don't mind if your hem keeps
+dragging, just keep walking.
 
 ---
 id: 1257
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ソツギョウシキノハカマ
+It has a beautiful gradient.
+Congrats on graduating!
 
 ---
 id: 1258
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シンセングミノフク
+It has the word sinserity on
+the back. It's vibrant and blue.
 
 ---
 id: 1259
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ニンジャスーツ
+A ninja suit made for those
+who live a secret life.
 
 ---
 id: 1260
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-バイキンスーツ
+A funny suit with a unitail. 
+Needs antennae for the head.
 
 ---
 id: 1261
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボディコンスーツ
+It's not your average bodysuit,
+It has a zebra pattern!
 
 ---
 id: 1262
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-コシミノ
+A straw skirt worn to feel
+a tropical breeze.
 
 ---
 id: 1263
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-タンクトップ
+Time to show off your strong
+physique with this tank top!
 
 ---
 id: 1264
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-スーツトバミューダパンツ
+Bermuda? Like the triangle?
+So mysterious!
 
 ---
 id: 1265
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-エスニックスカート
+A red skirt that doesn't have
+much besides a necklace.
 
 ---
 id: 1266
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-チェックシャツトジーンズ
+Is this for a hipster or a
+lumberjack? Maybe both.
 
 ---
 id: 1267
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ケミカルウォッシュ
+It has colourful jeans, a small
+backpack, and short sleeves.
 
 ---
 id: 1268
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ボーダータイツ
+The lack of sleeves and red
+skirt looks rebellious.
 
 ---
 id: 1269
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-キンミライスーツ
+It looks like a walking
+computer. Super stylish.
 
 ---
 id: 1270
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-キョウリュウスーツ
+There's no head, but at least
+you have a tail. Stomp around!
 
 ---
 id: 1271
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-パジャマノアオ
+With this, you can nap 
+anywhere! Even at work!
 
 ---
 id: 1272
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-パジャマノピンク
+With this, you can nap 
+anywhere! Even at work!
 
 ---
 id: 1273
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-シンプルナミズギ
+Splish splash.
 
 ---
 id: 1274
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ヨウチエンノスモック
+Look embarasingly adorable
+with these puffy sleeves!
 
 ---
 id: 1275
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ディーエスティーシャツ
+It's the console you're using.
+Some even have a camera!
 
 ---
 id: 1276
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ウィーティーシャツ
+Wii would like to play!
 
 ---
 id: 1277
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ヨウセイノフク
+The only things you fear are
+industrial revolutions and acid.
 
 ---
 id: 1278
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ユウビンヤサンノフク
+They run around like little
+chickens pushing cardboard.
 
 ---
 id: 1279
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-リョウリニンノフク
+The most serious outfit when
+it comes to cooking.
 
 ---
 id: 1280
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-イロムジ
+This elegant kimono evokes
+the spirit of spring.
 
 ---
 id: 1281
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ニットノベスト
+This looks bland and boring.
+Maybe it's because it's gray.
 
 ---
 id: 1282
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ベルボトム
+Looks very psychedelic and
+groovy. You ARE the funk!
 
 ---
 id: 1283
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-アキノワンピース
+Leaves have never looked so
+blocky before.
 
 ---
 id: 1284
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フユノワンピース
+It keeps the wearer warm
+but ironically depicts snow.
 
 ---
 id: 1285
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ハルノワンピース
+Spring up the flowers with
+this pleasant dress.
 
 ---
 id: 1286
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ナツノワンピース
+These look like microplastics.
 
 ---
 id: 1287
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-オメデトウシャツ
+Wear this for any celebratory
+events. Congratulations!
 
 ---
 id: 1288
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-プロレスコスチューム
+It's a bit dissapoing that
+it doesn't come with a mask...
 
 ---
 id: 1289
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-デニムノミニスカート
+A refreshing pastel pink top
+with a denim mini skirt.
 
 ---
 id: 1290
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ロゴカットソー
+There's an oversized 2 on the
+back. The shirt's not brown?
 
 ---
 id: 1291
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-フリースジャケット
+Lightweight, warm, and
+convient.
 
 ---
 id: 1292
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ドワーフノフク
+If you gave this to someone
+tall, are they still an elf?
 
 ---
 id: 1293
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ルームウェア
+Best for hardly working after
+being hard working.
 
 ---
 id: 1294
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-マルエリノブラウス
+The cotton's soft-to-the-touch!
 
 ---
 id: 1295
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-レインコート
+A good 'ol yellow raincoat for
+when it's absolutely pouring.
 
 ---
 id: 1296
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ポロシャツトエプロン
+It could probably be great
+for gardening. Very versatile.
 
 ---
 id: 1297
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-ロゴワンピース
+A big piece of lipstick hides
+any and all lipstick stains.
 
 ---
 id: 1298
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-Flannel Shirt
+Become one with the flannel.
 
 ---
 id: 1299
-attribute: 0x6400780001030001
+attribute: 0x6400A00001030002
 ---
-Koguma T-shirt
+A cute shirt with a bear.
+You should give him honey!
 
 ---
-id: 1000000
-attribute: 0x6400780001030001
+id: 2000
+attribute: 0x6400A00001030002
 ---
-？？？
+ 
+
+---
+id: 2001
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2002
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2003
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2004
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2005
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2006
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2007
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2008
+attribute: 0x6400A00001030002
+---
+This room is filled with
+the latest tech. Trust me.
+
+---
+id: 2009
+attribute: 0x6400A00001030002
+---
+Tatami mats, tea table, and
+a retro TV from the Showa era.
+
+---
+id: 2010
+attribute: 0x6400A00001030002
+---
+It's a room filled with dogs.
+Absolutely no cats allowed!
+
+---
+id: 2011
+attribute: 0x6400A00001030002
+---
+It's the closest thing you'll
+have to becoming a kid again.
+
+---
+id: 2012
+attribute: 0x6400A00001030002
+---
+It looks more like dried
+apricots than flowers.
+
+---
+id: 2013
+attribute: 0x6400A00001030002
+---
+You're very likely to get a
+head injury near the door.
+
+---
+id: 2014
+attribute: 0x6400A00001030002
+---
+Abracadabra! Did you know 
+that carpet's floating on air?
+
+---
+id: 2015
+attribute: 0x6400A00001030002
+---
+You're bound to have FUN here if
+you're afraid of drowning.
+
+---
+id: 2016
+attribute: 0x6400A00001030002
+---
+The color scheme creates a
+soothing area for the heart.
+
+---
+id: 2017
+attribute: 0x6400A00001030002
+---
+A run-of-the-mill room with
+a fridge and a TV.
+
+---
+id: 2018
+attribute: 0x6400A00001030002
+---
+Yee-haw! Live it up in this
+cozy orange contry cottage.
+
+---
+id: 2019
+attribute: 0x6400A00001030002
+---
+Everything in this room is
+more expensive than you.
+
+---
+id: 2020
+attribute: 0x6400A00001030002
+---
+There's plenty of ethnic-
+inspired furniture here.
+
+---
+id: 2021
+attribute: 0x6400A00001030002
+---
+A serious room filled with
+nothing but books.
+
+---
+id: 2022
+attribute: 0x6400A00001030002
+---
+"Good day sir, I do fancy the
+interior of this faculty."
+
+---
+id: 2023
+attribute: 0x6400A00001030002
+---
+A quaint treehouse in the
+forest, away from the city.
+
+---
+id: 2024
+attribute: 0x6400A00001030002
+---
+You no longer have any
+excuses to not excercise.
+
+---
+id: 2025
+attribute: 0x6400A00001030002
+---
+Don't believe their lies. The
+moon IS made out of cheese.
+
+---
+id: 2026
+attribute: 0x6400A00001030002
+---
+A CD collector's worst
+nightmare: Old vinyl records.
+
+---
+id: 2027
+attribute: 0x6400A00001030002
+---
+Uh... I guess it's humble...
+What if it rains?
+
+---
+id: 2028
+attribute: 0x6400A00001030002
+---
+A hint of red makes the
+silver-screen room look neat.
+
+---
+id: 2029
+attribute: 0x6400A00001030002
+---
+A simplistic yet stylish room
+for the youth. Needs a table.
+
+---
+id: 2030
+attribute: 0x6400A00001030002
+---
+OH MY STARS, 
+EVERYTHING'S PINK!
+
+---
+id: 2031
+attribute: 0x6400A00001030002
+---
+A colorful room likely meant
+for kids to roam in.
+
+---
+id: 2032
+attribute: 0x6400A00001030002
+---
+An elegant room for A
+sophisticated woman. Splendid!
+
+---
+id: 2033
+attribute: 0x6400A00001030002
+---
+A swanky, concrete-walled 
+room for professionals.
+
+---
+id: 2034
+attribute: 0x6400A00001030002
+---
+"You call this a room? This
+is just a hole in the building!"
+
+---
+id: 2035
+attribute: 0x6400A00001030002
+---
+If only there was a doctor
+to use all this equipment...
+
+---
+id: 2036
+attribute: 0x6400A00001030002
+---
+A room filled with plenty of
+masterpieces throughout time.
+
+---
+id: 2037
+attribute: 0x6400A00001030002
+---
+Oooh, shiny...
+
+---
+id: 2038
+attribute: 0x6400A00001030002
+---
+Hypothetically speaking, you
+could try to eat this room.
+
+---
+id: 2039
+attribute: 0x6400A00001030002
+---
+This is what they meant by
+"work from home," right?
+
+---
+id: 2040
+attribute: 0x6400A00001030002
+---
+It's very detailed and morbid.
+Plenty of white laces here.
+
+---
+id: 2041
+attribute: 0x6400A00001030002
+---
+A wonderful room to cook (and
+burn) your food. Smells good!
+
+---
+id: 2042
+attribute: 0x6400A00001030002
+---
+Needs more cables, mics,
+and loose chords flying around.
+
+---
+id: 2043
+attribute: 0x6400A00001030002
+---
+A room built for dancing all
+night. Tell your friends!
+
+---
+id: 2044
+attribute: 0x6400A00001030002
+---
+What a view! And it only cost
+me my soul to stay here!
+
+---
+id: 2045
+attribute: 0x6400A00001030002
+---
+Press all of the buttons.
+Nothing bad will happen, right?
+
+---
+id: 2046
+attribute: 0x6400A00001030002
+---
+Time to spend hours putting
+on makeup. Joy.
+
+---
+id: 2047
+attribute: 0x6400A00001030002
+---
+This is great! But you need
+someone else to cut your hair.
+
+---
+id: 2048
+attribute: 0x6400A00001030002
+---
+Become one with the frozen 
+fish by staying in the cold.
+
+---
+id: 2049
+attribute: 0x6400A00001030002
+---
+A room to relive school in.
+Don't doze off in class!
+
+---
+id: 2050
+attribute: 0x6400A00001030002
+---
+A gamer's paradise (as long
+as you have enough quarters)!
+
+---
+id: 2051
+attribute: 0x6400A00001030002
+---
+It's like a very annoying
+game of "spot the difference."
+
+---
+id: 2052
+attribute: 0x6400A00001030002
+---
+Practice your English with
+little alphabet fairies!
+
+---
+id: 2053
+attribute: 0x6400A00001030002
+---
+I hope that TV won't cause
+a fire. Everything's wooden.
+
+---
+id: 2054
+attribute: 0x6400A00001030002
+---
+I heard this cell was made for
+those who steal videogames...
+
+---
+id: 2055
+attribute: 0x6400A00001030002
+---
+Look at that aurora! The light
+from the snow hut feels warm.
+
+---
+id: 2056
+attribute: 0x6400A00001030002
+---
+A relaxing room you can use
+to empty your mind. Ahhhhh...
+
+---
+id: 2057
+attribute: 0x6400A00001030002
+---
+Enjoy a beautiful sunset as
+gravity tries to make you fall.
+
+---
+id: 2058
+attribute: 0x6400A00001030002
+---
+It's nice to relax alone,
+but couples can enjoy it too.
+
+---
+id: 2059
+attribute: 0x6400A00001030002
+---
+For those who cherish harmony.
+The screen light is striking.
+
+---
+id: 2060
+attribute: 0x6400A00001030002
+---
+Ants. The only downside to
+this place is ants.
+
+---
+id: 2061
+attribute: 0x6400A00001030002
+---
+You don't have to only grow
+radishes. Cycle your crops!
+
+---
+id: 2062
+attribute: 0x6400A00001030002
+---
+Pollen. There's tons of sneezy
+pollen everywhere. Sad.
+
+---
+id: 2063
+attribute: 0x6400A00001030002
+---
+Be immersed in grown-up
+atmosphere of a suite room.
+
+---
+id: 2064
+attribute: 0x6400A00001030002
+---
+Trick or Treat!
+You're in for a spook!
+
+---
+id: 2065
+attribute: 0x6400A00001030002
+---
+Merry Christmas, forever!
+Muhahaha!
+
+---
+id: 2066
+attribute: 0x6400A00001030002
+---
+At least you'll never have
+to take a shower again.
+
+---
+id: 2067
+attribute: 0x6400A00001030002
+---
+It's a room filled with cats.
+Absolutely no dogs allowed!
+
+---
+id: 2068
+attribute: 0x6400A00001030002
+---
+Unwind with a hevenly view
+of Mt. Fuji as you bathe.
+
+---
+id: 2069
+attribute: 0x6400A00001030002
+---
+They call this a ruin but
+it was made in the present.
+
+---
+id: 2070
+attribute: 0x6400A00001030002
+---
+The best part is that there's
+no crying babies included!
+
+---
+id: 2071
+attribute: 0x6400A00001030002
+---
+Relax among your plants
+and bask under the sun.
+
+---
+id: 2072
+attribute: 0x6400A00001030002
+---
+This is where we milk the
+"thing is being milked" jokes.
+
+---
+id: 2073
+attribute: 0x6400A00001030002
+---
+A nice backyard where you can
+relax and have some tea.
+
+---
+id: 2074
+attribute: 0x6400A00001030002
+---
+Look at the crowd cheering
+on this game of "Kick me" ball!
+
+---
+id: 2075
+attribute: 0x6400A00001030002
+---
+An elegant room for an
+elegant lifestyle.
+
+---
+id: 2076
+attribute: 0x6400A00001030002
+---
+What if I told you this whole
+room is secretly chocolate?
+
+---
+id: 2077
+attribute: 0x6400A00001030002
+---
+Re-create the photo where
+smealum did the thing!
+
+---
+id: 3000
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 5 or higher to buy.
+
+---
+id: 3100
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 10 or higher to buy.
+
+---
+id: 3200
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 15 or higher to buy.
+
+---
+id: 3300
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 20 or higher to buy.
+
+---
+id: 3400
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 25 or higher to buy.
+
+---
+id: 3500
+attribute: 0x6400A00001030002
+---
+A resident needs to be 
+level 30 or higher to buy.
