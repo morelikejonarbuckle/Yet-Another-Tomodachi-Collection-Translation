@@ -5588,7 +5588,7 @@ attribute: 0x6400E10001000002
 id: 1480000
 attribute: 0x6400800001010101
 ---
-Finally done!
+Completed a Challenging Task!
 
 
 ---
@@ -5624,7 +5624,7 @@ attribute: 0x6400E10001000002
 id: 1480030
 attribute: 0x6400E10001000002
 ---
-Those who witnessed that moment
+There were witnesses that moment
 along with {{1:30 arg="0x0000"}},
 
 
@@ -5639,8 +5639,8 @@ attribute: 0x6400E10001000002
 id: 1480040
 attribute: 0x6400E10001000002
 ---
-embraced each other and shared their joy.
-
+which embraced each other
+and shared their joy.
 
 ---
 id: 1480041
@@ -5653,7 +5653,7 @@ attribute: 0x6400E10001000002
 id: 1480050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}-san,
+{{1:30 arg="0x0000"}},
 we're glad it worked out.
 
 
@@ -5724,7 +5724,7 @@ attribute: 0x6400E10001000002
 id: 1481050
 attribute: 0x6400E10001000002
 ---
-hack a random 3ds
+hack a 3ds
 
 
 ---
@@ -19401,6 +19401,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
