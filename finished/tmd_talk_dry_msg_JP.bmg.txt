@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -9,7 +9,6 @@ MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
 %%%
-
 
 ---
 id: 0
@@ -30,7 +29,7 @@ id: 10
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}. My policy
-is 'Others are others, & I am myself.'"
+is 'Focus on myself rather than others.'"
 
 
 ---
@@ -2248,7 +2247,7 @@ id: 100270
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, hasn't it?"
+It's been 2 months since we last met, right?"
 
 
 ---
@@ -3251,7 +3250,7 @@ id: 300270
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Sometimes, I want to go back to be
-single again. Don’t tell a soul…"
+single again. Don’t tell a soul..."
 
 
 ---
@@ -4115,7 +4114,7 @@ id: 300850
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I want my salary to be divided between
-{{1:31 arg="0x0000"}} and I… Oh, nevermind."
+{{1:31 arg="0x0000"}} and I... Oh, nevermind."
 
 
 ---
@@ -4322,7 +4321,7 @@ id: 300990
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I'm thinking about going to watch
-the fountain musicians this evening."
+the street band this evening."
 
 
 ---
@@ -4471,7 +4470,7 @@ id: 301090
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I feel like there hasn't been
-any new residents moving in… Is it just my imagination?"
+any new residents moving in... Is it just my imagination?"
 
 
 ---
@@ -4590,7 +4589,7 @@ id: 301170
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
-But you have to keep in mind your phone bill…"
+But you have to keep in mind your phone bill..."
 
 
 ---
@@ -4605,7 +4604,7 @@ id: 301180
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When I use the phone, I only talk about
-important stuff. I don’t have many long conversations…"
+important stuff. I don’t have many long conversations..."
 
 
 ---
@@ -5012,7 +5011,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-{{1:31 arg="0x0000"}} doesn’t know their own…"
+{{1:31 arg="0x0000"}} doesn’t know their own..."
 
 
 ---
