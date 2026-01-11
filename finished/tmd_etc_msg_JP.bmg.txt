@@ -1058,8 +1058,8 @@ id: 201700
 attribute: 0x6400A00001010006
 ---
 This is where you register new
-residents and save, 
-among other things. If you
+residents and save, among
+other things. If you
 have any problems, go here!
 
 ---
@@ -1157,7 +1157,7 @@ These interiors aren't cheap!
 id: 202500
 attribute: 0x6400A00001010006
 ---
-【Job Diagnosis Tent】
+【Career Counselor】
 Construction Site
 
 －－－－Criteria to Open－－－－
@@ -1391,8 +1391,8 @@ attribute: 0x6400E00001030001
 id: 400850
 attribute: 0x6400E00001030002
 ---
-{{255:0 arg="0x0100"}}Welcome! What
-legendary trinket do you want to sell me?"
+{{255:0 arg="0x0100"}}Welcome! What legendary trinket
+do you want to sell me?"
 
 ---
 id: 400851
@@ -2148,7 +2148,7 @@ Items
 id: 1100100
 attribute: 0x6400500001010101
 ---
-Register Mii
+Register
 
 ---
 id: 1100101
@@ -2160,13 +2160,13 @@ Mii
 id: 1100102
 attribute: 0x6400500001010101
 ---
-Mii List
+
 
 ---
 id: 1100103
 attribute: 0x6400500001010101
 ---
-List
+Mii List
 
 ---
 id: 1100104
@@ -2312,17 +2312,16 @@ will be living on this island.
 id: 1300770
 attribute: 0x6400B40001010007
 ---
-Just now, the appartment building where {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
-live has been completed!
-Let's look inside the room!
+The apartment building where {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
+will live has been completed!
+Let's look inside their room!
 
 ---
 id: 1300800
 attribute: 0x6400B40001010007
 ---
-Let's visit
-{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}'s room.
-Please press the button labled{{255:0 arg="0x0200"}}Enter{{255:0 arg="0x0800"}}.
+Let's visit {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}'s room. Please press
+the button labeled {{255:0 arg="0x0200"}}Enter{{255:0 arg="0x0800"}}.
 
 ---
 id: 1300850
@@ -2460,8 +2459,8 @@ attribute: 0x6400B40001010007
 ---
 If you see a speech bubble
 in an apartment window, it means
-that Mii {{255:0 arg="0x0200"}} has a problem{{255:0 arg="0x0800"}}.
-Can we solve their problem?
+that Mii{{255:0 arg="0x0200"}} has a problem{{255:0 arg="0x0800"}}.
+Can we solve it?
 
 ---
 id: 1301900
@@ -2473,7 +2472,7 @@ attribute: 0x6400B40001010007
 id: 1302300
 attribute: 0x6400B40001010007
 ---
-The {{255:0 arg="0x0200"}}food shop{{255:0 arg="0x0800"}} has
+The {{255:0 arg="0x0200"}}food mart{{255:0 arg="0x0800"}} has
 just opened! Go there and buy
 something {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
 likes. Maybe pick what you think
@@ -2546,8 +2545,8 @@ attribute: 0x6400B40001010007
 As the population grows,
 more buildings will be made.
 To see what kind of buildings
-will be constructed, touch the {{255:0 arg="0x0200"}}construction
-signs{{255:0 arg="0x0800"}}on the map later.
+will be constructed, touch the 
+{{255:0 arg="0x0200"}}construction signs{{255:0 arg="0x0800"}} on the map.
 Feel free to check them out!
 
 ---
