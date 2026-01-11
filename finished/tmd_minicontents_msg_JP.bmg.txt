@@ -8,7 +8,6 @@ hasMID1: true
 MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
-WHY IS THIS RED WHY DID IT HAVE TO BE RED IS IT CURSED WTFFFFFF
 %%%
 
 ---
@@ -27,7 +26,7 @@ Yahoo!
 id: 131001
 attribute: 0x6400E10001030001
 ---
-Yaaaaaay!
+ヤッーホーーー
 
 ---
 id: 131002
@@ -51,37 +50,37 @@ Don't copy me!
 id: 131005
 attribute: 0x6400E10001030001
 ---
-Maneslunaaaaaaaa!
+マネスルナーーー！
 
 ---
 id: 131006
 attribute: 0x6400E10001030001
 ---
-I hate you! ...I'm kidding! Sorry!
+I hate you! ... Just kidding. Sorry!
 
 ---
 id: 131007
 attribute: 0x6400E10001030001
 ---
-Dakky Rider... JK! Sorry.
+ダイッキライダーーー..ウソ_ゴメンネ!
 
 ---
 id: 131008
 attribute: 0x6400E10001030001
 ---
-This feels good! Ah, not really.
+This feels good! Wait, nevermind.
 
 ---
 id: 131009
 attribute: 0x6400E10001030001
 ---
-Gross! Never mind.
+キモツイィ!.アッ_イマノナシ
 
 ---
 id: 131010
 attribute: 0x6400E10001030001
 ---
-I'm stupid!
+You're a stupid mountain!
 
 ---
 id: 131011
@@ -105,7 +104,7 @@ attribute: 0x6400E10001030001
 id: 131014
 attribute: 0x6400E10001030001
 ---
-Who-hoo!
+Whoo-hoo!
 
 ---
 id: 131015
@@ -153,7 +152,7 @@ attribute: 0x6400E10001030001
 id: 131022
 attribute: 0x6400E10001030001
 ---
-Beat yesterday's self!
+Today is better than yesterday!
 
 ---
 id: 131023
@@ -297,7 +296,7 @@ attribute: 0x6400E10001030001
 id: 131046
 attribute: 0x6400E10001030001
 ---
-Ah, aah!
+Caw, Caw!
 
 ---
 id: 131047
@@ -568,13 +567,13 @@ id: 141002
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"♪ Happy Birthday
-dear {{1:1 arg="0x0000"}}♪"
+dear {{1:1 arg="0x0000"}} ♪"
 
 ---
 id: 200100
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Occupied !"
+{{255:0 arg="0x0100"}}"Occupied!"
 
 ---
 id: 200101
@@ -622,7 +621,8 @@ attribute: 0x6400E10001030001
 id: 201006
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Ghost control! Extract my bladder!"
+{{255:0 arg="0x0100"}}"Ghost exterminators!
+Extract my bladder!"
 
 ---
 id: 201007
@@ -646,7 +646,7 @@ attribute: 0x6400E10001030001
 id: 201010
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Stop hitting me so hard!"
+{{255:0 arg="0x0100"}}"Stop knocking!"
 
 ---
 id: 201011
@@ -658,7 +658,7 @@ attribute: 0x6400E10001030001
 id: 201012
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I'm… drowning…"
+{{255:0 arg="0x0100"}}"I'm... drowning..."
 
 ---
 id: 201013
@@ -694,7 +694,7 @@ attribute: 0x6400E10001030001
 id: 201018
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"My wallet…"
+{{255:0 arg="0x0100"}}"My wallet..."
 
 ---
 id: 201019
@@ -706,7 +706,7 @@ attribute: 0x6400E10001030001
 id: 201020
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Not yet."
+{{255:0 arg="0x0100"}}"I'm not done yet."
 
 ---
 id: 201021
@@ -718,7 +718,7 @@ attribute: 0x6400E10001030001
 id: 201022
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"My phone…"
+{{255:0 arg="0x0100"}}"My phone..."
 
 ---
 id: 201023
@@ -766,7 +766,7 @@ attribute: 0x6400E10001030001
 id: 201030
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Yes."
+{{255:0 arg="0x0100"}}"Mmmmyessss?"
 
 ---
 id: 201031
@@ -863,7 +863,7 @@ attribute: 0x6400E10001030001
 id: 201046
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Not quite yet!"
+{{255:0 arg="0x0100"}}"Not quite  yet!"
 
 ---
 id: 201047
@@ -912,7 +912,7 @@ attribute: 0x6400E10001030001
 id: 201054
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Almost there..."
+{{255:0 arg="0x0100"}}"HNNNNNGGGGGGHHHHHH..."
 
 ---
 id: 201055
@@ -960,7 +960,8 @@ attribute: 0x6400E10001030001
 id: 202004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Toilet broken due to compression"
+{{255:0 arg="0x0100"}}"It's giving me a white
+screen!"
 
 ---
 id: 202005
@@ -1068,7 +1069,7 @@ attribute: 0x6400E10001030001
 id: 202022
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Belly Flop!"
+{{255:0 arg="0x0100"}}"Mmm... delicious water."
 
 ---
 id: 202023
@@ -1349,7 +1350,7 @@ attribute: 0x6400E10001030001
 id: 443108
 attribute: 0x6400E10001030001
 ---
-"...played "kick me" ball
+"...played soccer
 
 ---
 id: 443109
@@ -1409,7 +1410,7 @@ attribute: 0x6400E10001030001
 id: 443118
 attribute: 0x6400E10001030001
 ---
-"...read a comic book
+"...read a book
 
 ---
 id: 443119
@@ -1613,7 +1614,7 @@ attribute: 0x6400E10001030001
 id: 443212
 attribute: 0x6400E10001030001
 ---
-"...can't compress a file
+"...tried to edit a sprite
 
 ---
 id: 443213
@@ -2021,121 +2022,121 @@ attribute: 0x6400E10001030001
 id: 461006
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love you 10 ever."
+{{255:0 arg="0x0100"}}"I love you 9 ever."
 
 ---
 id: 461007
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love you 12 ever."
+{{255:0 arg="0x0100"}}"I love you 10 ever."
 
 ---
 id: 461008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love you 13 ever."
+{{255:0 arg="0x0100"}}"I love you 11 ever."
 
 ---
 id: 461009
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love you 14 ever."
+{{255:0 arg="0x0100"}}"I love you 12 ever."
 
 ---
 id: 461010
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love you 15 ever."
+{{255:0 arg="0x0100"}}"I love you 13 ever."
 
 ---
 id: 461011
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love 16 ever."
+{{255:0 arg="0x0100"}}"I love you 14 ever."
 
 ---
 id: 461012
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I love you 17 ever..."
+{{255:0 arg="0x0100"}}"I love you 5 ever."
 
 ---
 id: 461100
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 4 ever."
+{{255:0 arg="0x0100"}}"No, I love you 5 ever."
 
 ---
 id: 461101
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 5 ever."
+{{255:0 arg="0x0100"}}"No, I love you 6 ever."
 
 ---
 id: 461102
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you more 6 ever."
+{{255:0 arg="0x0100"}}"No, I love you 7 ever."
 
 ---
 id: 461103
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 7 ever."
+{{255:0 arg="0x0100"}}"No, I love you 8 ever."
 
 ---
 id: 461104
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 8 ever."
+{{255:0 arg="0x0100"}}"No, I love you 9 ever."
 
 ---
 id: 461105
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 9 ever."
+{{255:0 arg="0x0100"}}"No, I love you 10 ever."
 
 ---
 id: 461106
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 10 ever."
+{{255:0 arg="0x0100"}}"No, I love you 11 ever."
 
 ---
 id: 461107
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 11 ever."
+{{255:0 arg="0x0100"}}"No, I love you 12 ever."
 
 ---
 id: 461108
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 12 ever."
+{{255:0 arg="0x0100"}}"No, I love you 13 ever."
 
 ---
 id: 461109
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 13 ever."
+{{255:0 arg="0x0100"}}"No, I love you 14 ever."
 
 ---
 id: 461110
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 14 ever."
+{{255:0 arg="0x0100"}}"No, I love you 15 ever."
 
 ---
 id: 461111
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 15 ever."
+{{255:0 arg="0x0100"}}"No, I love you 16 ever."
 
 ---
 id: 461112
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"No, I love you 16 ever."
+{{255:0 arg="0x0100"}}"No, I love you 17 ever."
 
 ---
 id: 461200
@@ -2358,7 +2359,7 @@ attribute: 0x6400E10001030001
 id: 612018
 attribute: 0x6400E10001030001
 ---
-cold blood
+cold blooded
 
 ---
 id: 612019
@@ -2442,7 +2443,7 @@ attribute: 0x6400E10001030001
 id: 621002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I'm gonna jump..."
+{{255:0 arg="0x0100"}}"Now then, I'm going..."
 
 ---
 id: 621003
@@ -2839,7 +2840,6 @@ id: 651000
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"What's your name?"
-(ファッツユアネーム?)
 
 ---
 id: 651001
@@ -2852,7 +2852,6 @@ id: 651002
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"When is your birthday?"
-(ウェンイズユアバースデイ?)
 
 ---
 id: 651003
@@ -2865,7 +2864,6 @@ id: 651004
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"What is your favorite word?"
-(ファットイズユアフェイバリットワード?)
 
 ---
 id: 651005
@@ -2878,7 +2876,6 @@ id: 651006
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"What is your blood type?"
-(ファットイズユアブラッドタイプ?)
 
 ---
 id: 651007
@@ -2891,7 +2888,6 @@ id: 651008
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"How many clothes do you have?"
-(ハウメニークローズ_ドゥーユーハブ?)
 
 ---
 id: 651009
@@ -2904,7 +2900,6 @@ id: 651010
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Who is your best friend?"
-(フーイズユアーベストフレンド?)
 
 ---
 id: 651011
@@ -2916,8 +2911,7 @@ attribute: 0x6400E10001030001
 id: 651012
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"What is your favorite coleur?"
-(ファットイズユアフェイバリットカラー?)
+{{255:0 arg="0x0100"}}"What is your favorite color?"
 
 ---
 id: 651013
@@ -2930,7 +2924,6 @@ id: 651014
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Are you hungry?"
-(アーユーハングリー?)
 
 ---
 id: 651015
@@ -2943,7 +2936,6 @@ id: 651016
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"What kind of song do you sing?"
-(ファットカインドオブソングドゥーユーシング?)
 
 ---
 id: 651017
@@ -2956,7 +2948,6 @@ id: 651018
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Do you have a Wii?"
-(ドゥーユーハブ_アウィー?)
 
 ---
 id: 651019
@@ -2968,8 +2959,7 @@ attribute: 0x6400E10001030001
 id: 651020
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Do you have a DS?"
-(ドゥーユーハブ_アディーエス?)
+{{255:0 arg="0x0100"}}"Do you have a (melon)DS?"
 
 ---
 id: 651021
@@ -2982,7 +2972,6 @@ id: 651022
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Do you have a novel?"
-(ドゥーユーハブ_アノベル?)
 
 ---
 id: 651023
@@ -2995,7 +2984,6 @@ id: 651024
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Do you have worries?"
-(ドゥーユーハブ_ウォリーズ?)
 
 ---
 id: 651025
@@ -3009,7 +2997,7 @@ attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"My name is
 {{1:1 arg="0x0000"}} {{1:1 arg="0x0100"}}."
-(マイネームイズ...)
+
 ---
 id: 652001
 attribute: 0x6400E10001030001
@@ -3021,7 +3009,7 @@ id: 652002
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I don't know."
-(アイドントノウ.)
+
 ---
 id: 652003
 attribute: 0x6400E10001030001
@@ -3033,7 +3021,7 @@ id: 652004
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"It is {{1:250 arg="0x0000"}}/{{1:250 arg="0x0100"}}."
-(イットイズ...)
+
 ---
 id: 652005
 attribute: 0x6400E10001030001
@@ -3045,7 +3033,7 @@ id: 652006
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I don't know."
-(アイドントノウ.)
+
 ---
 id: 652007
 attribute: 0x6400E10001030001
@@ -3057,7 +3045,7 @@ id: 652008
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"My favorite word is
-'{{1:10 arg="0x0000"}}'" (マイフェイバリットワードイズ...)
+'{{1:10 arg="0x0000"}}' "
 
 ---
 id: 652009
@@ -3069,8 +3057,8 @@ attribute: 0x6400E10001030001
 id: 652010
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I don't have a favorite word."
-(アイドントハブフェイバリットワード.)
+{{255:0 arg="0x0100"}}"I don't have favorite word."
+
 ---
 id: 652011
 attribute: 0x6400E10001030001
@@ -3082,7 +3070,7 @@ id: 652012
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"My blood type is {{1:250 arg="0x0000"}}."
-(マイブラッドタイプイズ...)
+
 ---
 id: 652013
 attribute: 0x6400E10001030001
@@ -3094,7 +3082,7 @@ id: 652014
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I don't know."
-(アイドントノウ)
+
 ---
 id: 652015
 attribute: 0x6400E10001030001
@@ -3105,8 +3093,8 @@ attribute: 0x6400E10001030001
 id: 652016
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I have the {{1:250 arg="0x0000"}} clothes."
-(アイハブ... クローズ)
+{{255:0 arg="0x0100"}}"I have {{1:250 arg="0x0000"}} clothes."
+
 ---
 id: 652017
 attribute: 0x6400E10001030001
@@ -3118,7 +3106,7 @@ id: 652018
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I have only this one."
-(アイハブオンリーディスワン)
+
 ---
 id: 652019
 attribute: 0x6400E10001030001
@@ -3130,7 +3118,7 @@ id: 652020
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"My best friend is {{1:1 arg="0x0000"}}."
-(マイベストフレンドイズ...)
+
 ---
 id: 652021
 attribute: 0x6400E10001030001
@@ -3142,7 +3130,7 @@ id: 652022
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I have no best friend."
-(アイハブノーベストフレンド.)
+
 ---
 id: 652023
 attribute: 0x6400E10001030001
@@ -3153,8 +3141,8 @@ attribute: 0x6400E10001030001
 id: 652024
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"My favorite colour is {{1:250 arg="0x0000"}}."
-(マイフェイバリットカラーイズ.)
+{{255:0 arg="0x0100"}}"My favorite color is {{1:250 arg="0x0000"}}."
+
 ---
 id: 652025
 attribute: 0x6400E10001030001
@@ -3165,8 +3153,8 @@ attribute: 0x6400E10001030001
 id: 652026
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I have no favorite coleor."
-(アイハブノーフェイバリットカラー.)
+{{255:0 arg="0x0100"}}"I have no favorite color."
+
 ---
 id: 652027
 attribute: 0x6400E10001030001
@@ -3178,7 +3166,7 @@ id: 652028
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Yes, I'm hungry."
-(イエスアイムハングリー.)
+
 ---
 id: 652029
 attribute: 0x6400E10001030001
@@ -3190,7 +3178,7 @@ id: 652030
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"No, I'm not."
-(ノーアイムノット)
+
 ---
 id: 652031
 attribute: 0x6400E10001030001
@@ -3202,7 +3190,7 @@ id: 652032
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I sing {{1:250 arg="0x0000"}}."
-(アイシング)
+
 ---
 id: 652033
 attribute: 0x6400E10001030001
@@ -3214,7 +3202,7 @@ id: 652034
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I don't sing."
-(アイドントシング)
+
 ---
 id: 652035
 attribute: 0x6400E10001030001
@@ -3226,7 +3214,7 @@ id: 652036
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Yes, I have a Wii."
-(イエスアイハブアウィー)
+
 ---
 id: 652037
 attribute: 0x6400E10001030001
@@ -3238,7 +3226,7 @@ id: 652038
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"No, I don't."
-(ノーアイドント)
+
 ---
 id: 652039
 attribute: 0x6400E10001030001
@@ -3249,8 +3237,8 @@ attribute: 0x6400E10001030001
 id: 652040
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Yes, I have a DS."
-(イエスアイハブアディーエス.)
+{{255:0 arg="0x0100"}}"Yes, I have a (melon)DS."
+
 ---
 id: 652041
 attribute: 0x6400E10001030001
@@ -3262,7 +3250,7 @@ id: 652042
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"No, I don't."
-(ノーアイドント.)
+
 ---
 id: 652043
 attribute: 0x6400E10001030001
@@ -3274,7 +3262,7 @@ id: 652044
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Yes, I have a novel."
-(イエスアイハブアノベル.)
+
 ---
 id: 652045
 attribute: 0x6400E10001030001
@@ -3286,7 +3274,7 @@ id: 652046
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"No, I don't."
-(ノーアイドント.)
+
 ---
 id: 652047
 attribute: 0x6400E10001030001
@@ -3298,7 +3286,7 @@ id: 652048
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Yes, I have worries."
-(イエスアイハブウォリーズ.)
+
 ---
 id: 652049
 attribute: 0x6400E10001030001
@@ -3310,7 +3298,7 @@ id: 652050
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"No, I don't."
-(ノーアイドント.)
+
 ---
 id: 652051
 attribute: 0x6400E10001030001
@@ -3927,25 +3915,25 @@ attribute: 0x6400E10001030001
 id: 653500
 attribute: 0x6400E10001030001
 ---
-Ａ
+A
 
 ---
 id: 653501
 attribute: 0x6400E10001030001
 ---
-Ｂ
+B
 
 ---
 id: 653502
 attribute: 0x6400E10001030001
 ---
-Ｏ
+O
 
 ---
 id: 653503
 attribute: 0x6400E10001030001
 ---
-ＡＢ
+AB
 
 ---
 id: 653600
@@ -3993,7 +3981,7 @@ yellow
 id: 653703
 attribute: 0x6400E10001030001
 ---
-yellow-green
+yellow green
 
 ---
 id: 653704
@@ -4192,7 +4180,7 @@ id: 655000
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Thank you."
-(サンキュー)
+
 ---
 id: 655001
 attribute: 0x6400E10001030001
@@ -4204,7 +4192,7 @@ id: 655002
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Okay! Very good."
-(オーケー_ベリーグー!)
+
 ---
 id: 655003
 attribute: 0x6400E10001030001
@@ -4287,7 +4275,7 @@ attribute: 0x6400E10001030001
 id: 861002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I'll heading out soon-
+{{255:0 arg="0x0100"}}"I'd better go!"
 
 ---
 id: 861003
@@ -4419,8 +4407,7 @@ attribute: 0x6400E10001030001
 id: 861024
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Don't stop me!
-(please do)"
+{{255:0 arg="0x0100"}}"Don't stop me!"
 
 ---
 id: 861025
@@ -4457,7 +4444,7 @@ id: 861030
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I just remembered my 
-non-specific excuse."
+back, sack and crack."
 
 ---
 id: 861031
@@ -4589,7 +4576,7 @@ attribute: 0x6400E10001030001
 id: 862014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"It is not."
+{{255:0 arg="0x0100"}}"It's not."
 
 ---
 id: 862015
@@ -4625,7 +4612,7 @@ attribute: 0x6400E10001030001
 id: 862020
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"It's a once-in-a-lifetime ride!"
+{{255:0 arg="0x0100"}}"It's once-in-a-lifetime ride!"
 
 ---
 id: 862021
@@ -4772,7 +4759,7 @@ attribute: 0x6400E10001030001
 id: 871004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*rabble rabble* *they could be anyone!*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *seriously?*..."
 
 ---
 id: 871005
@@ -4796,7 +4783,7 @@ attribute: 0x6400E10001030001
 id: 871008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"*rabble rabble* *are I an alien?*..."
+{{255:0 arg="0x0100"}}"*rabble rabble* *am I an alien?*..."
 
 ---
 id: 871009
@@ -4948,7 +4935,7 @@ attribute: 0x6400E10001030001
 id: 911014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Wait up. {{1:3 arg="0x0000"}}, you are mine!"
+{{255:0 arg="0x0100"}}"Wait up~ {{1:3 arg="0x0000"}}, you're mine!"
 
 ---
 id: 911015
@@ -4973,7 +4960,7 @@ id: 911018
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"As long as I have you, I don't
-need anything else in this world!"
+need anything else in this world..."
 
 ---
 id: 911019
@@ -4986,7 +4973,7 @@ id: 911020
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}}, you've made
-my life rosy."
+my life become rosy!"
 
 ---
 id: 911021
@@ -5023,7 +5010,7 @@ attribute: 0x6400E10001030001
 id: 912000
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, come after me..."
+{{255:0 arg="0x0100"}}"Hehehe, come after me! "
 
 ---
 id: 912001
@@ -5035,7 +5022,7 @@ attribute: 0x6400E10001030001
 id: 912002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}}..."
+{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}}... "
 
 ---
 id: 912003
@@ -5047,7 +5034,7 @@ attribute: 0x6400E10001030001
 id: 912004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, I am here!"
+{{255:0 arg="0x0100"}}"Hehehe, over here! "
 
 ---
 id: 912005
@@ -5059,7 +5046,7 @@ attribute: 0x6400E10001030001
 id: 912006
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, catch me if you can!!"
+{{255:0 arg="0x0100"}}"Hehehe, catch me if you can!! "
 
 ---
 id: 912007
@@ -5071,7 +5058,7 @@ attribute: 0x6400E10001030001
 id: 912008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, this is embarrassing."
+{{255:0 arg="0x0100"}}"Hehehe, this is embarrassing... "
 
 ---
 id: 912009
@@ -5083,7 +5070,7 @@ attribute: 0x6400E10001030001
 id: 912010
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, I'm happy."
+{{255:0 arg="0x0100"}}"Hehehe, I'm happy... "
 
 ---
 id: 912011
@@ -5095,7 +5082,7 @@ attribute: 0x6400E10001030001
 id: 912012
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}}me too!"
+{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}} me too!"
 
 ---
 id: 912013
@@ -5107,7 +5094,7 @@ attribute: 0x6400E10001030001
 id: 912014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, catch me, {{1:3 arg="0x0000"}}!"
+{{255:0 arg="0x0100"}}"Hehehe, catch me, {{1:3 arg="0x0000"}}! "
 
 ---
 id: 912015
@@ -5119,7 +5106,7 @@ attribute: 0x6400E10001030001
 id: 912016
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, we can keep doing this."
+{{255:0 arg="0x0100"}}"Hehehe, we can keep doing this forever... "
 
 ---
 id: 912017
@@ -5131,8 +5118,8 @@ attribute: 0x6400E10001030001
 id: 912018
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}}'s
-so greedy!"
+{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}} is
+so greedy... "
 
 ---
 id: 912019
@@ -5144,8 +5131,8 @@ attribute: 0x6400E10001030001
 id: 912020
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}}'s
-very poetic..."
+{{255:0 arg="0x0100"}}"Hehehe, {{1:3 arg="0x0000"}} is
+very poetic... "
 
 ---
 id: 912021
@@ -5158,7 +5145,7 @@ id: 912022
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Hehehe, it's because of
-{{1:3 arg="0x0000"}}."
+{{1:3 arg="0x0000"}}... "
 
 ---
 id: 912023
@@ -5170,7 +5157,7 @@ attribute: 0x6400E10001030001
 id: 912024
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Hehehe, I'm also happy."
+{{255:0 arg="0x0100"}}"Hehehe, I'm also happy... "
 
 ---
 id: 912025
@@ -5183,7 +5170,7 @@ id: 913000
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Hehehe, let's do this again
-later on."
+later on... "
 
 ---
 id: 913001
@@ -5265,7 +5252,7 @@ id: 950011
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"Question 3!
-You're halfway there!"
+You're more than halfway there!"
 
 ---
 id: 950012
@@ -5943,27 +5930,27 @@ attribute: 0x6400E10001030001
 id: 991040
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}Here's a question.
-What mountain did {{1:1 arg="0x0000"}}climb？
+{{255:0 arg="0x0100"}}じゃあ質問です。
+{{1:1 arg="0x0000"}}はなんという山に登ったのでしょう？
 
 ---
 id: 991041
 attribute: 0x6400E10001030001
 ---
-I have a question! What mountain {{1:1 arg="0x0000"}}climb?
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワナントイウヤマニノボッタノデショー?
 
 ---
 id: 991042
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}Here's a question.
-Who does {{1:1 arg="0x0000"}}dislike?
+{{255:0 arg="0x0100"}}じゃあ質問です。
+{{1:1 arg="0x0000"}}は誰のことが嫌いなのでしょう？
 
 ---
 id: 991043
 attribute: 0x6400E10001030001
 ---
-Hey, you! You hate {{1:1 arg="0x0000"}} don't you?
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワダレノコトガキライナノデショー?
 
 ---
 id: 991060
@@ -6457,7 +6444,7 @@ id: 1013006
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, {{1:1 arg="0x0100"}} said
-「'{{1:1 arg="0x0200"}}'"
+'{{1:1 arg="0x0200"}}'"
 
 ---
 id: 1013007
@@ -6632,7 +6619,7 @@ attribute: 0x6400E10001030001
 id: 1014020
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"My cat went missing, it's
+{{255:0 arg="0x0100"}}"My cat went missing, I think it's
 somewhere in this apartment. Please help me!"
 
 ---
@@ -6667,12 +6654,12 @@ id: 1041000
 attribute: 0x6400C00001010008
 ---
 {{255:0 arg="0x0100"}}AM  6:30-11:30  Morning Market
-PM   12:00-1:00   Live music
+PM   12:00-1:00   Street Band
 　　  3:00-4:00　English Lesson 1
 　　  7:00-8:00　English Lesson 2
-　　  9:00-11:00  Live Music
+　　  9:00-11:00  Street Band
 Events might be canceled
-only if A few people
+only if a few people
 participate.
 
 ---
@@ -6733,7 +6720,7 @@ attribute: 0x6400E10001030001
 id: 1071008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Ooooh yeah, that's the spot!"
+{{255:0 arg="0x0100"}}"Yessssss... That's it."
 
 ---
 id: 1071009
@@ -6745,7 +6732,7 @@ attribute: 0x6400E10001030001
 id: 1071010
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Can you help me scratch my back?"
+{{255:0 arg="0x0100"}}"Can you help scratch my back?"
 
 ---
 id: 1071011
@@ -6769,7 +6756,7 @@ attribute: 0x6400E10001030001
 id: 1071014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Write more, please."
+{{255:0 arg="0x0100"}}"Scratch harder!"
 
 ---
 id: 1071015
@@ -6944,7 +6931,6 @@ Guess the hiragana the Mii writes.
 You have a 1/12 chance of
 winning. Good luck!
 
-
 ---
 id: 1103001
 attribute: 0x6400600001030101
@@ -7000,7 +6986,6 @@ attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"I'm concerned about making sure
 I have a balanced diet."
-
 
 ---
 id: 1104005
@@ -7104,7 +7089,7 @@ id: 1104020
 attribute: 0x6400E10001030002
 ---
 {{255:0 arg="0x0100"}}"People often say that love is more
-important than money. Do you think so?"
+important than money.  Do you think so?"
 
 ---
 id: 1104021
@@ -7231,7 +7216,7 @@ attribute: 0x6400E10001030001
 id: 1160200
 attribute: 0x6400E10001030001
 ---
-White-walled Town
+It's a White-walled Town!
 
 ---
 id: 1160201
@@ -7243,7 +7228,7 @@ attribute: 0x6400E10001030001
 id: 1160202
 attribute: 0x6400E10001030001
 ---
-Sunflower of Andalusia
+It's the Sunflower of Andalusia!
 
 ---
 id: 1160203
@@ -7255,7 +7240,7 @@ attribute: 0x6400E10001030001
 id: 1160204
 attribute: 0x6400E10001030001
 ---
-Sagrada Familia
+It's the Sagrada Familia!
 
 ---
 id: 1160205
@@ -7267,7 +7252,7 @@ attribute: 0x6400E10001030001
 id: 1160206
 attribute: 0x6400E10001030001
 ---
-West beach
+It's the West beach!
 
 ---
 id: 1160207
@@ -7279,7 +7264,7 @@ attribute: 0x6400E10001030001
 id: 1160208
 attribute: 0x6400E10001030001
 ---
-Pineapple field
+It's a Pineapple field!
 
 ---
 id: 1160209
@@ -7291,7 +7276,7 @@ attribute: 0x6400E10001030001
 id: 1160210
 attribute: 0x6400E10001030001
 ---
-Shuri Castle
+It's the Shuri Castle!
 
 ---
 id: 1160211
@@ -7557,7 +7542,7 @@ attribute: 0x6400E10001030001
 id: 1162202
 attribute: 0x6400E10001030001
 ---
-It's the Central!
+It's... I don't know.
 
 ---
 id: 1162203
@@ -7641,7 +7626,7 @@ attribute: 0x6400E10001030001
 id: 1162308
 attribute: 0x6400E10001030001
 ---
-It's Castel Sant'Angelo!
+It's the Castel Sant'Angelo!
 
 ---
 id: 1162309
@@ -7689,7 +7674,7 @@ attribute: 0x6400E10001030001
 id: 1162402
 attribute: 0x6400E10001030001
 ---
-It's the Fushimi Inari!
+It's the Fushimi Inari shrine!
 
 ---
 id: 1162403
@@ -7821,7 +7806,7 @@ attribute: 0x6400E10001030001
 id: 1162600
 attribute: 0x6400E10001030001
 ---
-ヨエンショウジョウ
+It's... I don't think we should be here.
 
 ---
 id: 1162601
@@ -7917,7 +7902,7 @@ attribute: 0x6400E10001030001
 id: 1162708
 attribute: 0x6400E10001030001
 ---
-It's Sagrada Familia!
+It's the Sagrada Familia!
 
 ---
 id: 1162709
@@ -8205,7 +8190,7 @@ attribute: 0x6400E10001030001
 id: 1172000
 attribute: 0x6400C00001030003
 ---
-Try to make the mii look
+Try to make the Mii look
 where you point. You have 5
 chances. Win once and win!
 
@@ -8480,7 +8465,7 @@ Who used to try
 id: 1200101
 attribute: 0x6400800001030001
 ---
-Who thinks you are
+Who think you are
 
 ---
 id: 1200102
@@ -8528,7 +8513,7 @@ Who doesn't like
 id: 1200109
 attribute: 0x6400800001030001
 ---
-Who's bad at
+Who is bad at
 
 ---
 id: 1200110
@@ -8979,9 +8964,10 @@ attribute: 0x6400E10001030001
 id: 1241000
 attribute: 0x6400C00001030003
 ---
-It's RPS & look that way.
-Winner points. Look the same
-way as the hand to loose.
+It's RPS & look that way!
+Winner of RPS points. Look
+at the same direction as
+the hand to lose in LTW.
 
 ---
 id: 1252000
@@ -9115,7 +9101,7 @@ attribute: 0x6400E10001030001
 id: 1301014
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Phew."
+{{255:0 arg="0x0100"}}"Phew~"
 
 ---
 id: 1301015
@@ -9260,7 +9246,7 @@ You only get 5 shots at this.
 id: 1342000
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}} It's {{1:1 arg="0x0000"}}!
+{{255:0 arg="0x0100"}}"It's {{1:1 arg="0x0000"}}!"
 
 ---
 id: 1342001
@@ -9272,7 +9258,7 @@ attribute: 0x6400E10001030001
 id: 1342002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}It's some {{1:20 arg="0x0000"}}!
+{{255:0 arg="0x0100"}}"It's some {{1:20 arg="0x0000"}}!"
 
 ---
 id: 1342003
@@ -9347,7 +9333,7 @@ attribute: 0x6400E10001030001
 id: 1361008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Fresh off the boat!"
+{{255:0 arg="0x0100"}}"It's fresh off the boat!"
 
 ---
 id: 1361009
@@ -9360,7 +9346,7 @@ id: 1361010
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"It's my homemade
-{{1:20 arg="0x0000"}}!"
+{{1:20 arg="0x0000"}}."
 
 ---
 id: 1361011
@@ -9473,8 +9459,8 @@ attribute: 0x6400E10001030001
 id: 1361028
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"This {{1:20 arg="0x0000"}}
-is from my own garden!"
+{{255:0 arg="0x0100"}}"This is {{1:20 arg="0x0000"}}
+from my own garden!"
 
 ---
 id: 1361029
@@ -9524,7 +9510,7 @@ id: 1361036
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"This {{1:20 arg="0x0000"}} can make
-a crying baby stop crying!"
+a crying baby stop!"
 
 ---
 id: 1361037
@@ -9548,8 +9534,8 @@ attribute: 0x6400E10001030001
 id: 1361040
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"This {{1:20 arg="0x0000"}} is
-good for your sweetheart!"
+{{255:0 arg="0x0100"}}"This {{1:20 arg="0x0000"}} makes
+a great gift for your sweetheart!"
 
 ---
 id: 1361041
@@ -9587,7 +9573,7 @@ id: 1361046
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"It's your chance to rediscover
-the taste of {{1:20 arg="0x0000"}}!"
+the taste of the {{1:20 arg="0x0000"}}!"
 
 ---
 id: 1361047
@@ -10155,7 +10141,7 @@ Masterpiece
 id: 1391014
 attribute: 0x6400C00001030001
 ---
-Everone's Favorite
+Everyone's Favorite
 
 ---
 id: 1391015
@@ -10510,7 +10496,7 @@ attribute: 0x6400E10001030001
 id: 1392102
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"It's more delicious if it's {{1:250 arg="0x0000"}}."
+{{255:0 arg="0x0100"}}"It more delicious if it's {{1:250 arg="0x0000"}}."
 
 ---
 id: 1392103
@@ -10609,7 +10595,7 @@ id: 1393008
 attribute: 0x6400E10001030001
 ---
 {{255:0 arg="0x0100"}}"This kitchen is pretty nice, isn't it?
-It's made by N Company's designer, you know."
+It's made by a luxurious designer, you know."
 
 ---
 id: 1393009
@@ -10773,7 +10759,7 @@ attribute: 0x6400E10001030001
 id: 1393034
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"This frying pan is very easy to use!"
+{{255:0 arg="0x0100"}}"This fry pan is very easy to use!"
 
 ---
 id: 1393035
@@ -10822,7 +10808,7 @@ attribute: 0x6400E10001030001
 id: 1393042
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"I can cook any dish with just a frying pan."
+{{255:0 arg="0x0100"}}"I can cook any dish with just a fry pan."
 
 ---
 id: 1393043
@@ -11758,7 +11744,7 @@ attribute: 0x6400E10001030001
 id: 1432008
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Gotcha!"
+{{255:0 arg="0x0100"}}"Oh no!"
 
 ---
 id: 1432009
@@ -11820,7 +11806,7 @@ attribute: 0x6400E10001030001
 id: 1451000
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Ah, that's the spot!"
+{{255:0 arg="0x0100"}}"Upward slanted eyes♪"
 
 ---
 id: 1451001
@@ -11832,7 +11818,7 @@ attribute: 0x6400E10001030001
 id: 1451002
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Downward slanted eyes!"
+{{255:0 arg="0x0100"}}"Downward slanted eyes♪"
 
 ---
 id: 1451003
@@ -11844,7 +11830,7 @@ attribute: 0x6400E10001030001
 id: 1451004
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Turning round and round!"
+{{255:0 arg="0x0100"}}"Turning round and round♪"
 
 ---
 id: 1451005
@@ -11856,7 +11842,7 @@ attribute: 0x6400E10001030001
 id: 1451006
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Cat's eyes!"
+{{255:0 arg="0x0100"}}"Cat's eyes♪"
 
 ---
 id: 1451007
@@ -11964,7 +11950,7 @@ attribute: 0x6400E10001030002
 id: 1480060
 attribute: 0x6400E10001030002
 ---
-Home Town
+Hometown
 
 ---
 id: 1480061
@@ -12168,7 +12154,7 @@ attribute: 0x6400E10001030002
 id: 1480230
 attribute: 0x6400E10001030002
 ---
-Miracle
+Love's a miracle
 
 ---
 id: 1480231
@@ -12180,7 +12166,7 @@ attribute: 0x6400E10001030002
 id: 1480240
 attribute: 0x6400E10001030002
 ---
-Maternal
+Maternal Love
 
 ---
 id: 1480241
@@ -12264,7 +12250,7 @@ attribute: 0x6400E10001030002
 id: 1480310
 attribute: 0x6400E10001030002
 ---
-Parental
+Parental Love
 
 ---
 id: 1480311
@@ -12276,7 +12262,7 @@ attribute: 0x6400E10001030002
 id: 1480320
 attribute: 0x6400E10001030002
 ---
-Time Flowing
+Time Flow
 
 ---
 id: 1480321
@@ -12596,7 +12582,7 @@ attribute: 0x6400E10001030002
 id: 1481080
 attribute: 0x6400E10001030002
 ---
-{{255:0 arg="0x0100"}}"This will be our last letter of appreciation
+{{255:0 arg="0x0100"}}"This will be the last letter of appreciation
 for you. We are eternally indebted to you."
 
 ---
@@ -12604,4 +12590,3 @@ id: 1481081
 attribute: 0x6400E10001030002
 ---
 ナオ_キリガナイノデ_カンシャジョーヲオクルノワコンカイガサイゴトシマス   
-
