@@ -10,7 +10,6 @@ hasSTR1: false
 hasFLW1: false
 %%%
 
-
 ---
 id: 0
 attribute: 0x6400E10001000002
@@ -653,7 +652,7 @@ attribute: 0x6400E10001000001
 id: 100060
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Oh, hi…"
+{{255:0 arg="0x0100"}}"Oh, hi..."
 
 
 ---
@@ -667,7 +666,7 @@ attribute: 0x6400E10001000001
 id: 100070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It’s nothing… just leave me alone."
+{{255:0 arg="0x0100"}}"It’s nothing... just leave me alone."
 
 
 ---
@@ -785,7 +784,7 @@ attribute: 0x6400E10001000001
 id: 100150
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It’s nothing… leave me be."
+{{255:0 arg="0x0100"}}"It’s nothing... leave me be."
 
 
 ---
@@ -1448,7 +1447,7 @@ id: 100600
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, hasn't it?"
+It's been 2 months since we last met, right?"
 
 
 ---
@@ -2401,7 +2400,7 @@ id: 300010
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Earlier, {{1:31 arg="0x0100"}} gave me
-some {{1:31 arg="0x0000"}}."
+a {{1:31 arg="0x0000"}}."
 
 
 ---
@@ -2891,7 +2890,7 @@ id: 300340
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
-might be dreaming about…"
+might be dreaming about..."
 
 
 ---
@@ -4848,7 +4847,7 @@ id: 301650
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I don't like to assert myself. I
-don’t want others to know what I’m thinking…"
+don’t want others to know what I’m thinking..."
 
 
 ---
@@ -5823,7 +5822,7 @@ attribute: 0x6400E10001000001
 id: 302310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hmm… How many people should I
+{{255:0 arg="0x0100"}}"Hmm... How many people should I
 give New Year’s cards to?"
 
 
@@ -5928,7 +5927,7 @@ id: 302380
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Half a month’s gone by, and
-I feel like I haven’t done anything yet…"
+I feel like I haven’t done anything yet..."
 
 
 ---
@@ -5943,7 +5942,7 @@ id: 302390
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I want my salary to be divided between
-{{1:31 arg="0x0000"}} and I… Ah, nevermind."
+{{1:31 arg="0x0000"}} and I... Ah, nevermind."
 
 
 ---
@@ -5988,7 +5987,7 @@ id: 302420
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} reminded
-me it’s April Fool's tomorrow. Oh boy…"
+me it’s April Fool's tomorrow. Oh boy..."
 
 
 ---
@@ -6153,7 +6152,7 @@ id: 302530
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"It's only Tuesday, but I already want
-a break…"
+a break..."
 
 
 ---
@@ -6286,7 +6285,7 @@ attribute: 0x6400E10001000001
 id: 302620
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm still sleepy…"
+{{255:0 arg="0x0100"}}"I'm still sleepy..."
 
 
 ---
@@ -6360,7 +6359,7 @@ id: 302670
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I plan to go to the morning market
-tomorrow, so I have to go to bed early…"
+tomorrow, so I have to go to bed early..."
 
 
 ---
@@ -6551,7 +6550,7 @@ id: 302800
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"What’s the most important thing to you?
-I can't list anything…"
+I can't list anything..."
 
 
 ---
@@ -6806,7 +6805,7 @@ id: 302970
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I feel like there hasn't been
-any new residents moving in… Is it just my imagination?"
+any new residents moving in... Is it just my imagination?"
 
 
 ---
@@ -6821,7 +6820,7 @@ id: 302980
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I was thinking about how nice it’d
-be if a kind-looking person came to this island…"
+be if a kind-looking person came to this island..."
 
 
 ---
@@ -7032,7 +7031,7 @@ id: 303120
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
-But you have to keep in mind your phone bill…"
+But you have to keep in mind your phone bill..."
 
 
 ---
@@ -7579,7 +7578,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-{{1:31 arg="0x0000"}} doesn’t know their own…"
+{{1:31 arg="0x0000"}} doesn’t know their own..."
 
 
 ---
