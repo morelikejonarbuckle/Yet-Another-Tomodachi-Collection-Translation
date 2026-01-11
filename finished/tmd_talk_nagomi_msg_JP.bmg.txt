@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -9,7 +9,6 @@ MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
 %%%
-
 
 ---
 id: 0
@@ -976,7 +975,7 @@ id: 100310
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, hasn't it?"
+It's been 2 months since we last met, right?"
 
 
 ---
@@ -2040,7 +2039,7 @@ id: 300250
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I wonder what {{1:31 arg="0x0000"}}
-might be dreaming about…"
+might be dreaming about..."
 
 
 ---
@@ -3586,7 +3585,7 @@ attribute: 0x6400E10001000002
 id: 301290
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hmm… How many people should I
+{{255:0 arg="0x0100"}}"Hmm... How many people should I
 give New Year’s cards to?"
 
 
@@ -3675,7 +3674,7 @@ id: 301350
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Half a month’s gone by, and
-I feel like I haven’t done anything yet…"
+I feel like I haven’t done anything yet..."
 
 
 ---
@@ -3690,7 +3689,7 @@ id: 301360
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I want my salary to be divided between
-{{1:31 arg="0x0000"}} and I… Ah, nevermind."
+{{1:31 arg="0x0000"}} and I... Ah, nevermind."
 
 
 ---
@@ -3734,7 +3733,7 @@ id: 301390
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} reminded
-me it’s April Fool's tomorrow. Oh boy…"
+me it’s April Fool's tomorrow. Oh boy..."
 
 
 ---
@@ -3882,7 +3881,7 @@ id: 301490
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's only Tuesday, but I already want
-a break…"
+a break..."
 
 
 ---
@@ -4104,7 +4103,7 @@ id: 301640
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I plan to go to the morning market
-tomorrow, so I have to go to bed early…"
+tomorrow, so I have to go to bed early..."
 
 
 ---
@@ -4252,7 +4251,7 @@ id: 301740
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"What’s the most important thing to you?
-I can't list anything…"
+I can't list anything..."
 
 
 ---
@@ -4372,7 +4371,7 @@ id: 301820
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I was thinking about how nice it’d
-be if a kind-looking person came to this island…"
+be if a kind-looking person came to this island..."
 
 
 ---
@@ -4552,7 +4551,7 @@ id: 301940
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
-But you have to keep in mind your phone bill…"
+But you have to keep in mind your phone bill..."
 
 
 ---
@@ -5092,7 +5091,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-{{1:31 arg="0x0000"}} doesn’t know their own…"
+{{1:31 arg="0x0000"}} doesn’t know their own..."
 
 
 ---
