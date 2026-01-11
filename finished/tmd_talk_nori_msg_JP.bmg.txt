@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -9,7 +9,6 @@ MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
 %%%
-
 
 ---
 id: 0
@@ -1042,7 +1041,7 @@ attribute: 0x6400E10001000001
 id: 100060
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Oh, hi…"
+{{255:0 arg="0x0100"}}"Oh, hi..."
 
 
 ---
@@ -1056,7 +1055,7 @@ attribute: 0x6400E10001000001
 id: 100070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It’s nothing… just leave me alone."
+{{255:0 arg="0x0100"}}"It’s nothing... just leave me alone."
 
 
 ---
@@ -1398,7 +1397,7 @@ id: 100300
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, hasn't it?"
+It's been 2 months since we last met, right?"
 
 
 ---
@@ -3855,7 +3854,7 @@ id: 301180
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I want my salary to be divided between
-{{1:31 arg="0x0000"}} and I… Ah, nevermind."
+{{1:31 arg="0x0000"}} and I... Ah, nevermind."
 
 
 ---
@@ -4179,7 +4178,7 @@ id: 301400
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I plan to go to the morning market
-tomorrow, so I have to go to bed early…"
+tomorrow, so I have to go to bed early..."
 
 
 ---
@@ -4298,7 +4297,7 @@ id: 301480
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"What’s the most important thing to you?
-I can't list anything…"
+I can't list anything..."
 
 
 ---
@@ -4566,7 +4565,7 @@ id: 301660
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
-But you have to keep in mind your phone bill…"
+But you have to keep in mind your phone bill..."
 
 
 ---
@@ -5036,7 +5035,7 @@ id: 500050
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do others know their own birthdays?
-{{1:31 arg="0x0000"}} doesn’t know their own…"
+{{1:31 arg="0x0000"}} doesn’t know their own..."
 
 
 ---
