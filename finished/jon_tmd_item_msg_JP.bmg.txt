@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -32,13 +32,13 @@ Apple Pie
 id: 3
 attribute: 0x6400780001030101
 ---
-Ayu no Shioyaki
+Grilled Sweetfish
 
 ---
 id: 4
 attribute: 0x6400780001030101
 ---
-Red Bean Paste Bun
+Red Bean Bun
 
 ---
 id: 5
@@ -86,7 +86,7 @@ Deep-fried Shrimp
 id: 12
 attribute: 0x6400780001030101
 ---
-Kid's meal
+Kid's Meal
 
 ---
 id: 13
@@ -212,7 +212,7 @@ Carbonara
 id: 33
 attribute: 0x6400780001030101
 ---
-Curry Rice
+Curry & Rice
 
 ---
 id: 34
@@ -278,7 +278,7 @@ Cookie
 id: 44
 attribute: 0x6400780001030101
 ---
-Gummi Drop
+Gumdrop
 
 ---
 id: 45
@@ -350,7 +350,7 @@ Bento Box
 id: 56
 attribute: 0x6400780001030101
 ---
-Cherry
+Cherries
 
 ---
 id: 57
@@ -374,7 +374,7 @@ Zaru Soba
 id: 60
 attribute: 0x6400780001030101
 ---
-Tri-colored Dango
+Tricolor Dango
 
 ---
 id: 61
@@ -392,7 +392,7 @@ Grilled saury
 id: 63
 attribute: 0x6400780001030101
 ---
-Baked Buttered Potato
+Buttered Potato
 
 ---
 id: 64
@@ -464,7 +464,7 @@ Sweet & Sour Pork
 id: 75
 attribute: 0x6400780001030101
 ---
-Sweet Red Bean Soup
+Red Bean Soup
 
 ---
 id: 76
@@ -476,7 +476,7 @@ Sausage
 id: 77
 attribute: 0x6400780001030101
 ---
-Soft-Serve Ice Cream
+Soft-Serve
 
 ---
 id: 78
@@ -782,7 +782,7 @@ Liver
 id: 128
 attribute: 0x6400780001030101
 ---
-Electric Iron
+Iron
 
 ---
 id: 129
@@ -794,7 +794,7 @@ SLR Camera
 id: 130
 attribute: 0x6400780001030101
 ---
-Puppy Plushie
+Plush Puppy
 
 ---
 id: 131
@@ -824,7 +824,7 @@ Pacifier
 id: 135
 attribute: 0x6400780001030101
 ---
-Amulet
+Omamori Amulet
 
 ---
 id: 136
@@ -866,7 +866,7 @@ Dirty Rag
 id: 142
 attribute: 0x6400780001030101
 ---
-Commemorative Stamp
+Mail Stamp
 
 ---
 id: 143
@@ -932,7 +932,7 @@ Someone's Autograph
 id: 153
 attribute: 0x6400780001030101
 ---
-"Kick Me" Ball
+Soccer Ball
 
 ---
 id: 154
@@ -950,7 +950,7 @@ Shuriken
 id: 156
 attribute: 0x6400780001030101
 ---
-Crystal
+Crystal Ball
 
 ---
 id: 157
@@ -986,7 +986,7 @@ Towel Set
 id: 162
 attribute: 0x6400780001030101
 ---
-Probably Expensive Vase
+Expensive-Looking Vase
 
 ---
 id: 163
@@ -1004,7 +1004,7 @@ Moon Rock
 id: 165
 attribute: 0x6400780001030101
 ---
-Tissue
+Box of Tissues
 
 ---
 id: 166
@@ -1070,7 +1070,7 @@ Bouquet
 id: 176
 attribute: 0x6400780001030101
 ---
-Fireworks
+Firework Ball
 
 ---
 id: 177
@@ -1088,7 +1088,7 @@ Wax Seal
 id: 179
 attribute: 0x6400780001030101
 ---
-Hina Doll
+Suruga Hina Dolls
 
 ---
 id: 180
@@ -1124,7 +1124,7 @@ Bonsai Tree
 id: 185
 attribute: 0x6400780001030101
 ---
-Backcratcher
+Back Scratcher
 
 ---
 id: 186
@@ -1190,7 +1190,7 @@ Key Chain
 id: 196
 attribute: 0x6400780001030101
 ---
-Old Tower Figure
+Pagoda Tower Figure
 
 ---
 id: 197
@@ -1238,13 +1238,13 @@ Marimo
 id: 204
 attribute: 0x6400780001030101
 ---
-Stomach Meds
+Stomach Medicine
 
 ---
 id: 205
 attribute: 0x6400780001030101
 ---
-Cold Meds
+Cold Medicine
 
 ---
 id: 206
@@ -1292,13 +1292,13 @@ Bath Set
 id: 213
 attribute: 0x6400780001030101
 ---
-Electric Fan
+Fan
 
 ---
 id: 214
 attribute: 0x6400780001030101
 ---
-Hypnosis Ring
+Hypnotizer
 
 ---
 id: 215
@@ -1454,13 +1454,13 @@ Study Kit
 id: 240
 attribute: 0x6400780001030101
 ---
-A Book
+Novel
 
 ---
 id: 241
 attribute: 0x6400780001030101
 ---
-melonDS
+DS
 
 ---
 id: 242
@@ -3075,6 +3075,3 @@ id: 1000000
 attribute: 0x6400780001030001
 ---
 ？？？
-
-
-
