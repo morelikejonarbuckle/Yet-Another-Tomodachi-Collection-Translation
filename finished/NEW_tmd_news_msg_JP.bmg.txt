@@ -168,7 +168,7 @@ attribute: 0x6400E10001030002
 id: 100172
 attribute: 0x6400600001030001
 ---
-{{255:0 arg="0x0800"}}Recent news
+{{255:0 arg="0x0800"}}CRASH GAME
 
 ---
 id: 100173
@@ -3080,12 +3080,6 @@ An odd case involving a lovestruck
 Oodori in {{1:30 arg="0x0000"}} City was closed.
 
 ---
-id: 1210011
-attribute: 0x6400E10001000002
----
-{{1:30 arg="0x0000"}}シデヒンパツシテイタコクリマジケンガ＿ツイニカイケツシマシタ
-
----
 id: 1210020
 attribute: 0x6400E10001000002
 ---
@@ -3304,8 +3298,8 @@ attribute: 0x6400E10001000002
 id: 1230030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}} said
-{{1:30 arg="0x0200"}}, who was feeding them.
+{{1:30 arg="0x0300"}}, who was feeding them, said
+{{1:30 arg="0x0200"}}
 
 ---
 id: 1230031
@@ -5006,7 +5000,8 @@ attribute: 0x6400E10001000002
 id: 1420030
 attribute: 0x6400E10001000002
 ---
-これがその写真です。
+Upon closer inspection, it appears
+to be {{1:30 arg="0x0200"}}, but it's not certain.
 
 ---
 id: 1420031
@@ -5018,8 +5013,8 @@ attribute: 0x6400E10001000002
 id: 1420040
 attribute: 0x6400E10001000002
 ---
-Upon closer inspection, it appears
-to be {{1:30 arg="0x0200"}}, but it's not certain.
+{{1:30 arg="0x0300"}}, a self-proclaimed UFO expert,
+said "{{1:30 arg="0x0400"}}"
 
 ---
 id: 1420041
@@ -5031,8 +5026,8 @@ attribute: 0x6400E10001000002
 id: 1420050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}, a self-proclaimed UFO expert,
-said "{{1:30 arg="0x0400"}}"
+The mysterious UFO is up to
+the interpretation of others.
 
 ---
 id: 1420051
@@ -5044,8 +5039,7 @@ attribute: 0x6400E10001000002
 id: 1420060
 attribute: 0x6400E10001000002
 ---
-The mysterious UFO is up to
-the interpretation of others.
+What now? I guess we stop?
 
 ---
 id: 1420061
@@ -5473,8 +5467,8 @@ attribute: 0x6400E10001000002
 id: 1460060
 attribute: 0x6400E10001000002
 ---
-We've just been informed that
-"This is a prank..." Uh oh.
+We've just been informed...
+This is a prank, isn't it?
 
 ---
 id: 1460061
@@ -5524,14 +5518,12 @@ attribute: 0x6400800001010101
 ---
 Lost Property?
 
-
 ---
 id: 1470010
 attribute: 0x6400E10001000002
 ---
 In the afternoon, when {{1:30 arg="0x0000"}}
-came to clean the pool locker,
-
+came to clean the pool locker.
 
 ---
 id: 1470011
@@ -5539,13 +5531,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}ノゴゴ＿プールノコーイシツヲソージシテイタ{{1:30 arg="0x0000"}}サンガ
 
-
 ---
 id: 1470020
 attribute: 0x6400E10001000002
 ---
-There were a pair of underpants left near the locker.
-
+There were underpants left near the locker.
 
 ---
 id: 1470021
@@ -5553,14 +5543,12 @@ attribute: 0x6400E10001000002
 ---
 ロッカーノマエニパンツガオチテイルノヲハッケンシマシタ
 
-
 ---
 id: 1470030
 attribute: 0x6400E10001000002
 ---
-When the garments were shown around the
-people who used the locker room,
-
+When the pants were shown around the
+people who used the locker room...
 
 ---
 id: 1470031
@@ -5568,21 +5556,18 @@ attribute: 0x6400E10001000002
 ---
 コーイシツヲシヨーシテイタカタニタズネテミタトコロ
 
-
 ---
 id: 1470040
 attribute: 0x6400E10001000002
 ---
-they said that the pants' pattern looked like
+They said that the pants' pattern looked like
 {{1:30 arg="0x0200"}}'s.
-
 
 ---
 id: 1470041
 attribute: 0x6400E10001000002
 ---
 アノガラカラシテ＿{{1:30 arg="0x0200"}}サンノパンツデワ．トノコト
-
 
 ---
 id: 1470050
@@ -19416,6 +19401,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
