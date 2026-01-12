@@ -6837,15 +6837,14 @@ attribute: 0x6400E10001000002
 id: 1580000
 attribute: 0x6400800001010101
 ---
-World's Smallest {{1:30 arg="0x0000"}}
+World's Smallest {{1:30 arg="0x0000"}}?!
 
 ---
 id: 1580010
 attribute: 0x6400E10001000002
 ---
 A few days ago, {{1:30 arg="0x0100"}} had
-made world's smallest {{1:30 arg="0x0000"}}.
-
+made the world's smallest {{1:30 arg="0x0000"}}.
 
 ---
 id: 1580011
@@ -6858,9 +6857,8 @@ attribute: 0x6400E10001000002
 id: 1580020
 attribute: 0x6400E10001000002
 ---
-Custom made forceps were used to make
-{{1:30 arg="0x0000"}}.
-
+Special machinery such as tweezers
+were involved to make it.
 
 ---
 id: 1580021
@@ -6874,7 +6872,7 @@ id: 1580030
 attribute: 0x6400E10001000002
 ---
 Its size is about half of a matchstick.
-{{1:30 arg="0x0100"}} said...
+{{1:30 arg="0x0300"}
 
 
 ---
@@ -6895,15 +6893,14 @@ attribute: 0x6400E10001000002
 id: 1580041
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}
-
+{{1:30 arg="0x0100"}} said.
 
 ---
 id: 1580050
 attribute: 0x6400E10001000002
 ---
-while answering questions to us.
-
+Our next article explains how
+dolphins will rule the world.
 
 ---
 id: 1580051
@@ -6916,9 +6913,7 @@ attribute: 0x6400E10001000002
 id: 1581010
 attribute: 0x6400E10001000002
 ---
-"Next time, it'll be as small as
-a grain of rice."
-
+"I'll make it small as a pill soon,"
 
 ---
 id: 1581011
@@ -6931,8 +6926,7 @@ attribute: 0x6400E10001000002
 id: 1581020
 attribute: 0x6400E10001000002
 ---
-"I can sell it to you for 100 million yen."
-
+"I'll sell it for 100 million yen."
 
 ---
 id: 1581021
@@ -6945,9 +6939,7 @@ attribute: 0x6400E10001000002
 id: 1581030
 attribute: 0x6400E10001000002
 ---
-"Next time, I want to make the largest item
-in the world."
-
+"I'll make the world's largest thing,"
 
 ---
 id: 1581031
@@ -6960,16 +6952,14 @@ attribute: 0x6400E10001000002
 id: 1590000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}Island Circumference Marathon
-
+{{1:30 arg="0x0000"}} Island Circuit
 
 ---
 id: 1590010
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} Island Circumference Marathon
-was held at {{1:30 arg="0x0100"}} natural park.
-
+At {{1:30 arg="0x0100"}}, the {{1:30 arg="0x0000"}} Island Circuit
+was held at the island's park.
 
 ---
 id: 1590011
@@ -6982,9 +6972,8 @@ attribute: 0x6400E10001000002
 id: 1590020
 attribute: 0x6400E10001000002
 ---
-To showcase the results of their daily practice,
-many people have entered.
-
+Many competitors joined the race
+to show how fit they are.
 
 ---
 id: 1590021
@@ -6997,9 +6986,8 @@ attribute: 0x6400E10001000002
 id: 1590030
 attribute: 0x6400E10001000002
 ---
-Some participants even wore {{1:30 arg="0x0200"}} costumes
-while running.
-
+Some participants even wore costumes of
+{{1:30 arg="0x0200"}} while running.
 
 ---
 id: 1590031
@@ -7012,9 +7000,8 @@ attribute: 0x6400E10001000002
 id: 1590040
 attribute: 0x6400E10001000002
 ---
-The person who finished in first place is
-{{1:30 arg="0x0300"}}.
-
+The winner of the competition was
+{{1:30 arg="0x0300"}},
 
 ---
 id: 1590041
@@ -7027,9 +7014,8 @@ attribute: 0x6400E10001000002
 id: 1590050
 attribute: 0x6400E10001000002
 ---
-The last goal was scored by
-{{1:30 arg="0x0400"}}.
-
+with the last person to reach the
+goal being {{1:30 arg="0x0400"}}.
 
 ---
 id: 1590051
@@ -7043,8 +7029,7 @@ id: 1590060
 attribute: 0x6400E10001000002
 ---
 It took {{1:30 arg="0x0500"}} hours to complete the run.
-Good job! A winner is you.
-
+Good job to everyone! A winner is you.
 
 ---
 id: 1590061
@@ -7059,7 +7044,6 @@ attribute: 0x6400E10001000002
 ---
 bear
 
-
 ---
 id: 1591011
 attribute: 0x6400E10001000002
@@ -7072,7 +7056,6 @@ id: 1591020
 attribute: 0x6400E10001000002
 ---
 ballerina
-
 
 ---
 id: 1591021
@@ -7087,7 +7070,6 @@ attribute: 0x6400E10001000002
 ---
 sumo wrestler
 
-
 ---
 id: 1591031
 attribute: 0x6400E10001000002
@@ -7100,7 +7082,6 @@ id: 1591040
 attribute: 0x6400E10001000002
 ---
 samurai
-
 
 ---
 id: 1591041
@@ -7115,14 +7096,12 @@ attribute: 0x6400800001010101
 ---
 Busy Birds
 
-
 ---
 id: 1600010
 attribute: 0x6400E10001000002
 ---
-On a day when the warmth of spring arrived,
-{{1:30 arg="0x0100"}}at the nature park
-
+Around {{1:30 arg="0x0000"}}, the warmth
+of spring arrived at {{1:30 arg="0x0100"}} Park.
 
 ---
 id: 1600011
@@ -7135,9 +7114,8 @@ attribute: 0x6400E10001000002
 id: 1600020
 attribute: 0x6400E10001000002
 ---
-The green pheasant, a natural monument,
+The green meedori, a natural monument,
 has been observed raising its young.
-
 
 ---
 id: 1600021
@@ -7150,8 +7128,8 @@ attribute: 0x6400E10001000002
 id: 1600030
 attribute: 0x6400E10001000002
 ---
-The parent birds are extremely busy bringing food to their chicks.
-
+So majestic... even though they're
+just feeding their children.
 
 ---
 id: 1600031
@@ -7164,16 +7142,14 @@ attribute: 0x6400E10001000002
 id: 1610000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}Spring/Summer Collection Opening
-
+{{1:30 arg="0x0000"}} Spring & Summer Collection
 
 ---
 id: 1610010
 attribute: 0x6400E10001000002
 ---
-The other day, at the {{1:30 arg="0x0100"}} Arena
-showcased the {{1:30 arg="0x0000"}} Spring/Summer Collection.
-
+The other day, {{1:30 arg="0x0100"}} Arena showcased the
+{{1:30 arg="0x0000"}} Spring & Summer Collection.
 
 ---
 id: 1610011
@@ -7186,8 +7162,8 @@ attribute: 0x6400E10001000002
 id: 1610020
 attribute: 0x6400E10001000002
 ---
-showcased the {{1:30 arg="0x0000"}} Spring/Summer Collection.
-
+This show was only held to exclusive
+members of the press.
 
 ---
 id: 1610021
@@ -7200,9 +7176,8 @@ attribute: 0x6400E10001000002
 id: 1610030
 attribute: 0x6400E10001000002
 ---
-"{{1:30 arg="0x0500"}}"-themed
-featuring the theme "{{1:30 arg="0x0500"}}.”
-
+The latest collection unveiled was themed
+around "{{1:30 arg="0x0500"}}.”
 
 ---
 id: 1610031
@@ -7217,7 +7192,6 @@ attribute: 0x6400E10001000002
 ---
 Here is a videotape of the event:
 
-
 ---
 id: 1610041
 attribute: 0x6400E10001000002
@@ -7229,8 +7203,7 @@ attribute: 0x6400E10001000002
 id: 1611010
 attribute: 0x6400E10001000002
 ---
-A casual brand popular among young people
-
+popular casual brands among youth
 
 ---
 id: 1611011
@@ -7243,8 +7216,7 @@ attribute: 0x6400E10001000002
 id: 1611020
 attribute: 0x6400E10001000002
 ---
-Hot Designers
-
+up-and-coming star designers
 
 ---
 id: 1611021
@@ -7257,8 +7229,7 @@ attribute: 0x6400E10001000002
 id: 1611030
 attribute: 0x6400E10001000002
 ---
-Luxury brands favored by celebrities
-
+luxury brands for celebrities
 
 ---
 id: 1611031
@@ -7271,16 +7242,15 @@ attribute: 0x6400E10001000002
 id: 1620000
 attribute: 0x6400800001010101
 ---
-A Successful around-the-world trip!?
+A Successful around-the-world trip?!
 
 
 ---
 id: 1620010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} days ago, {{1:30 arg="0x0000"}} announced
-announced the successful completion of a round-the-world voyage by yacht.
-
+On the {{1:30 arg="0x0100"}}, {{1:30 arg="0x0000"}} announced the success
+of a round-the-world voyage by yacht.
 
 ---
 id: 1620011
@@ -7293,9 +7263,8 @@ attribute: 0x6400E10001000002
 id: 1620020
 attribute: 0x6400E10001000002
 ---
-They departed {{1:30 arg="0x0200"}} three months ago,
-and returned yesterday.
-
+They departed {{1:30 arg="0x0200"}} Island
+three months ago, and returned yesterday.
 
 ---
 id: 1620021
@@ -7308,9 +7277,8 @@ attribute: 0x6400E10001000002
 id: 1620030
 attribute: 0x6400E10001000002
 ---
-During these past three months, sightings of 
-{{1:30 arg="0x0000"}} have been reported.
-
+However, multiple sightings of the ship
+have occured near the island.
 
 ---
 id: 1620031
@@ -7324,8 +7292,7 @@ id: 1620040
 attribute: 0x6400E10001000002
 ---
 Police are questioning {{1:30 arg="0x0000"}} 
-on suspicion of making false statements in detail.
-
+on suspicion of making false statements.
 
 ---
 id: 1620041
@@ -7340,13 +7307,12 @@ attribute: 0x6400800001010101
 ---
 Restoration work begins
 
-
 ---
 id: 1630010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}Restoration work begins on the
-{{1:30 arg="0x0000"}}.
+Restoration work has begun on the {{1:30 arg="0x0000"}}
+as part of the {{1:30 arg="0x0100"}} Museum.
 
 
 ---
@@ -7363,7 +7329,6 @@ attribute: 0x6400E10001000002
 This {{1:30 arg="0x0000"}} was created in 1192
 as the oldest {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 1630021
 attribute: 0x6400E10001000002
@@ -7376,8 +7341,7 @@ id: 1630030
 attribute: 0x6400E10001000002
 ---
 It had been designated a National Treasure,
-but in recent years, it's been deteriorated.
-
+but nowadays, you can see its deterioration.
 
 ---
 id: 1630031
@@ -7390,9 +7354,8 @@ attribute: 0x6400E10001000002
 id: 1630040
 attribute: 0x6400E10001000002
 ---
-This is why it needs to be restored.
-The restoration is led by Curator {{1:30 arg="0x0200"}}:
-
+This leads to a new restoration
+project, led by Curator {{1:30 arg="0x0200"}}.
 
 ---
 id: 1630041
@@ -7406,7 +7369,7 @@ id: 1630050
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
-
+they said.
 
 ---
 id: 1630051
@@ -7419,9 +7382,8 @@ attribute: 0x6400E10001000002
 id: 1630060
 attribute: 0x6400E10001000002
 ---
-they said. Hopefully, they do a
-wonderful job fixing it up!
-
+Up next: Can songs be fixed by
+adding an electric kettle?
 
 ---
 id: 1630061
@@ -7434,8 +7396,7 @@ attribute: 0x6400E10001000002
 id: 1631010
 attribute: 0x6400E10001000002
 ---
-"I want it to be as clean as new."
-
+"I want it to be just as new,"
 
 ---
 id: 1631011
@@ -7450,7 +7411,6 @@ attribute: 0x6400E10001000002
 ---
 "Sorry if I break it!"
 
-
 ---
 id: 1631021
 attribute: 0x6400E10001000002
@@ -7462,8 +7422,7 @@ attribute: 0x6400E10001000002
 id: 1631030
 attribute: 0x6400E10001000002
 ---
-"It is an honor to participate in this historic endeavor."
-
+"It is an honor to participate in this historic endeavor,"
 
 ---
 id: 1631031
@@ -19318,6 +19277,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
