@@ -10023,14 +10023,14 @@ attribute: 0x6400E10001000002
 id: 1880000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Morning Sun on the River
+{{1:30 arg="0x0000"}} Sun Over the River
 
 ---
 id: 1880010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} Island continues to be {{1:30 arg="0x0100"}}.
-
+As {{1:30 arg="0x0200"}} Island continues to be {{1:30 arg="0x0100"}},
+a special surprise happened this morning.
 
 ---
 id: 1880011
@@ -10043,9 +10043,8 @@ attribute: 0x6400E10001000002
 id: 1880020
 attribute: 0x6400E10001000002
 ---
-At {{1:30 arg="0x0000"}} in the morning by the river,
+At {{1:30 arg="0x0000"}} by the river,
 islanders awoke to a beautiful sunrise.
-
 
 ---
 id: 1880021
@@ -10058,9 +10057,8 @@ attribute: 0x6400E10001000002
 id: 1880030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} island
-will enjoy a day of {{1:30 arg="0x0100"}} weather.
-
+That's all. {{1:30 arg="0x0200"}} Island continues to
+enjoy a day of {{1:30 arg="0x0100"}} weather.
 
 ---
 id: 1880031
@@ -10073,16 +10071,14 @@ attribute: 0x6400E10001000002
 id: 1890000
 attribute: 0x6400800001010101
 ---
-Consecutive fart challenge
-
+Crazy Challenge: Consecutive Farting
 
 ---
 id: 1890010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} took on
-a slightly dangerous challenge.
-
+a somewhat dangerous challenge.
 
 ---
 id: 1890011
@@ -10098,7 +10094,6 @@ attribute: 0x6400E10001000002
 The newest challenge speaks for itself:
 Fart 100 times in a minute.
 
-
 ---
 id: 1890021
 attribute: 0x6400E10001000002
@@ -10113,7 +10108,6 @@ attribute: 0x6400E10001000002
 Despite public concerns,
 {{1:30 arg="0x0000"}} did it anyway.
 
-
 ---
 id: 1890031
 attribute: 0x6400E10001000002
@@ -10125,9 +10119,8 @@ attribute: 0x6400E10001000002
 id: 1890040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}
-was determined to "make it happen no matter what,"
-
+{{1:30 arg="0x0000"}} was determined to
+"make it happen no matter what."
 
 ---
 id: 1890041
@@ -10144,7 +10137,6 @@ attribute: 0x6400E10001000002
 After eating a million cans of beans,
 the challenge was beaten.
 
-
 ---
 id: 1890051
 attribute: 0x6400E10001000002
@@ -10156,8 +10148,8 @@ attribute: 0x6400E10001000002
 id: 1890060
 attribute: 0x6400E10001000002
 ---
-Please don’t try this at home.
-
+This was the first crazy challenge to
+be beaten. Please don’t try this in public.
 
 ---
 id: 1890061
@@ -10172,7 +10164,6 @@ attribute: 0x6400E10001000002
 ---
 The stench was so overwhelming I passed out
 
-
 ---
 id: 1891011
 attribute: 0x6400E10001000002
@@ -10185,7 +10176,6 @@ id: 1891020
 attribute: 0x6400E10001000002
 ---
 The sheer force of the fart ripped my pants
-
 
 ---
 id: 1891021
@@ -10200,7 +10190,6 @@ attribute: 0x6400E10001000002
 ---
 They were too nervous to pass gas even once
 
-
 ---
 id: 1891031
 attribute: 0x6400E10001000002
@@ -10214,7 +10203,6 @@ attribute: 0x6400E10001000002
 ---
 Suddenly feeling embarrassed by the stares around me
 
-
 ---
 id: 1891041
 attribute: 0x6400E10001000002
@@ -10226,14 +10214,14 @@ attribute: 0x6400E10001000002
 id: 1900000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}'s Come-back!
+{{1:30 arg="0x0000"}}'s Come back!
 
 
 ---
 id: 1900010
 attribute: 0x6400E10001000002
 ---
-The other day, {{1:30 arg="0x0000"}}
+After a long hiatus from {{1:30 arg="0x0000"}},
 who had been absent from the media,
 
 
@@ -10248,9 +10236,8 @@ attribute: 0x6400E10001000002
 id: 1900020
 attribute: 0x6400E10001000002
 ---
-held a comeback concert at
-{{1:30 arg="0x0100"}} Live House.
-
+they held a comeback concert at
+{{1:30 arg="0x0100"}} Arena.
 
 ---
 id: 1900021
@@ -10263,9 +10250,8 @@ attribute: 0x6400E10001000002
 id: 1900030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} had been
-dormant due to {{1:30 arg="0x0200"}}.
-
+{{1:30 arg="0x0000"}} had stopped their
+career due to {{1:30 arg="0x0200"}}.
 
 ---
 id: 1900031
@@ -10278,9 +10264,8 @@ attribute: 0x6400E10001000002
 id: 1900040
 attribute: 0x6400E10001000002
 ---
-After {{1:30 arg="0x0300"}} years, the disease
-has finally gone.
-
+But after {{1:30 arg="0x0300"}} years, 
+it seems they're well enough to perform.
 
 ---
 id: 1900041
@@ -10293,9 +10278,8 @@ attribute: 0x6400E10001000002
 id: 1900050
 attribute: 0x6400E10001000002
 ---
-The first song performed during the event
+The first song performed at the event
 was the famous "{{1:30 arg="0x0400"}}."
-
 
 ---
 id: 1900051
@@ -10311,7 +10295,6 @@ attribute: 0x6400E10001000002
 Their newest song, "{{1:30 arg="0x0500"}},"
 was also performed for the first time.
 
-
 ---
 id: 1900061
 attribute: 0x6400E10001000002
@@ -10324,7 +10307,6 @@ id: 1901010
 attribute: 0x6400E10001000002
 ---
 athlete's foot
-
 
 ---
 id: 1901011
@@ -10339,7 +10321,6 @@ attribute: 0x6400E10001000002
 ---
 constipation
 
-
 ---
 id: 1901021
 attribute: 0x6400E10001000002
@@ -10351,8 +10332,7 @@ attribute: 0x6400E10001000002
 id: 1901030
 attribute: 0x6400E10001000002
 ---
-strained back
-
+death
 
 ---
 id: 1901031
@@ -10367,14 +10347,12 @@ attribute: 0x6400800001010101
 ---
 Offensive Smell!?
 
-
 ---
 id: 1910010
 attribute: 0x6400E10001000002
 ---
 Earlier this morning, there was a commotion
 around {{1:30 arg="0x0000"}}'s apartment.
-
 
 ---
 id: 1910011
@@ -19108,6 +19086,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
