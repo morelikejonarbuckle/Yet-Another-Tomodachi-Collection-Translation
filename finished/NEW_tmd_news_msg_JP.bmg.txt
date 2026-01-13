@@ -11292,8 +11292,8 @@ Merry Christmas!
 id: 1990010
 attribute: 0x6400E10001000002
 ---
-The other day, at the
-{{1:30 arg="0x0000"}} Park...
+There was a recent campaign event
+at {{1:30 arg="0x0000"}} Park.
 
 
 ---
@@ -11307,8 +11307,8 @@ attribute: 0x6400E10001000002
 id: 1990020
 attribute: 0x6400E10001000002
 ---
-The island residents gathered to
-decorate a big Christmas tree.
+The island residents gathered together
+to decorate a big Christmas tree.
 
 
 ---
@@ -11323,7 +11323,7 @@ id: 1990030
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}
-
+one participant said with heartfelt sincerity.
 
 ---
 id: 1990031
@@ -11336,9 +11336,8 @@ attribute: 0x6400E10001000002
 id: 1990040
 attribute: 0x6400E10001000002
 ---
-That's the heartfelt response
-we got from the participants.
-
+On behalf of all of us here at Mii News,
+merry Christmas. We wish you a happy new year.
 
 ---
 id: 1990041
@@ -11353,7 +11352,6 @@ attribute: 0x6400E10001000002
 ---
 "It's so romantic!"
 
-
 ---
 id: 1991011
 attribute: 0x6400E10001000002
@@ -11365,8 +11363,7 @@ attribute: 0x6400E10001000002
 id: 1991020
 attribute: 0x6400E10001000002
 ---
-"The glittering lights are beautiful."
-
+"The glittering lights are beautiful,"
 
 ---
 id: 1991021
@@ -11381,7 +11378,6 @@ attribute: 0x6400E10001000002
 ---
 "I'll do this next year, too!"
 
-
 ---
 id: 1991031
 attribute: 0x6400E10001000002
@@ -11393,8 +11389,7 @@ attribute: 0x6400E10001000002
 id: 1991040
 attribute: 0x6400E10001000002
 ---
-"I'm worried about the electric bill."
-
+"I'm worried about the electric bill,"
 
 ---
 id: 1991041
@@ -11407,15 +11402,14 @@ attribute: 0x6400E10001000002
 id: 2000000
 attribute: 0x6400800001010101
 ---
-Alpine Skiing
-
+Alpine Skiing Champion Announced!
 
 ---
 id: 2000010
 attribute: 0x6400E10001000002
 ---
-On day 3 of the ski competition
-at {{1:30 arg="0x0000"}}, the finals were held.
+On day 3 of the ski competition at
+{{1:30 arg="0x0000"}}, the finals were held.
 
 
 ---
@@ -11429,8 +11423,8 @@ attribute: 0x6400E10001000002
 id: 2000020
 attribute: 0x6400E10001000002
 ---
-The winner who beat the main lead,
-{{1:30 arg="0x0100"}}, said...
+Fan-favorite {{1:30 arg="0x0100"}} 
+was defeated in the finals.
 
 
 ---
@@ -11444,8 +11438,8 @@ attribute: 0x6400E10001000002
 id: 2000030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}
-
+They ultimately lost to {{1:30 arg="0x0300"}},
+who won the annual championship.
 
 ---
 id: 2000031
@@ -11459,7 +11453,7 @@ id: 2000040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
-
+{{1:30 arg="0x0300"}} said.
 
 ---
 id: 2000041
@@ -11467,14 +11461,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
 
-
 ---
 id: 2000050
 attribute: 0x6400E10001000002
 ---
-That was what {{1:30 arg="0x0300"}}
-said to us.
-
+They are scheduled to hold a
+press conference in a few days.
 
 ---
 id: 2000051
@@ -11487,9 +11479,8 @@ attribute: 0x6400E10001000002
 id: 2000060
 attribute: 0x6400E10001000002
 ---
-We will get an exclusive interview
-with {{1:30 arg="0x0300"}} later on.
-
+Come back later on Mii news, for
+a special scoop about mutating ponies.
 
 ---
 id: 2000061
@@ -11497,13 +11488,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}センシュワ＿スージツゴニカイケンヲオコナウトシテイマス
 
-
 ---
 id: 2001010
 attribute: 0x6400E10001000002
 ---
-"It was a nice match."
-
+"It was a nice match,"
 
 ---
 id: 2001011
@@ -11516,8 +11505,7 @@ attribute: 0x6400E10001000002
 id: 2001020
 attribute: 0x6400E10001000002
 ---
-"This is my happiest moment."
-
+"This is my happiest moment ever,"
 
 ---
 id: 2001021
@@ -11530,8 +11518,7 @@ attribute: 0x6400E10001000002
 id: 2001030
 attribute: 0x6400E10001000002
 ---
-"I got a perfect score this time."
-
+"I got a perfect score this time,"
 
 ---
 id: 2001031
@@ -11544,9 +11531,7 @@ attribute: 0x6400E10001000002
 id: 2001040
 attribute: 0x6400E10001000002
 ---
-"I thought I could break the
-record. That's a bit regrettable."
-
+"I thought I could break the record,"
 
 ---
 id: 2001041
@@ -11560,7 +11545,6 @@ id: 2010000
 attribute: 0x6400800001010101
 ---
 New Star
-
 
 ---
 id: 2010010
@@ -19017,6 +19001,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
