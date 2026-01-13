@@ -8932,15 +8932,14 @@ attribute: 0x6400E10001000002
 id: 1770000
 attribute: 0x6400800001010101
 ---
-Mii News!
+Finally Broadcasting Mii News!
 
 ---
 id: 1770010
 attribute: 0x6400E10001000002
 ---
 We’ve received enough funding to
-broadcast news on the daily!
-
+broadcast daily news!
 
 ---
 id: 1770011
@@ -8953,9 +8952,8 @@ attribute: 0x6400E10001000002
 id: 1770020
 attribute: 0x6400E10001000002
 ---
-The news will cover everything that happens
+Mii news will cover everything that happens
 around {{1:30 arg="0x0100"}} Island.
-
 
 ---
 id: 1770021
@@ -8971,7 +8969,6 @@ attribute: 0x6400E10001000002
 The latest news will be on air at 7 A.M.
 and 7 P.M. Please don't miss it!
 
-
 ---
 id: 1770031
 attribute: 0x6400E10001000002
@@ -8983,15 +8980,13 @@ attribute: 0x6400E10001000002
 id: 1780000
 attribute: 0x6400800001010101
 ---
-Interior Shop Open!
-
+Interiors Shop Open!
 
 ---
 id: 1780010
 attribute: 0x6400E10001000002
 ---
-The interior shop has just opened today.
-
+The interiors shop has just opened today!
 
 ---
 id: 1780011
@@ -9007,7 +9002,6 @@ attribute: 0x6400E10001000002
 There are 70 different styles of interiors
 for you to choose.
 
-
 ---
 id: 1780021
 attribute: 0x6400E10001000002
@@ -9022,7 +9016,6 @@ attribute: 0x6400E10001000002
 Their items change daily. Can you
 collect them all?
 
-
 ---
 id: 1780031
 attribute: 0x6400E10001000002
@@ -9034,9 +9027,8 @@ attribute: 0x6400E10001000002
 id: 1780040
 attribute: 0x6400E10001000002
 ---
-Remember, interiors you have already purchased
+Special notice: Interiors you have already purchased
 will always be available.
-
 
 ---
 id: 1780041
@@ -9049,15 +9041,13 @@ attribute: 0x6400E10001000002
 id: 1790000
 attribute: 0x6400800001010101
 ---
-Job Diagnosis!
-
+Career Counselor Open!
 
 ---
 id: 1790010
 attribute: 0x6400E10001000002
 ---
-The Job Diagnosis tent has just opened!
-
+The Career Counselor tent has just opened!
 
 ---
 id: 1790011
@@ -9071,8 +9061,7 @@ id: 1790020
 attribute: 0x6400E10001000002
 ---
 Have you ever been troubled about which
-job would suit you best?
-
+job would suit you best? Fret not!
 
 ---
 id: 1790021
@@ -9085,9 +9074,8 @@ attribute: 0x6400E10001000002
 id: 1790030
 attribute: 0x6400E10001000002
 ---
-The job diagnosis tent provides free
+The Career Counselor provides free
 consultation and finds a job that suits you.
-
 
 ---
 id: 1790031
@@ -9095,14 +9083,12 @@ attribute: 0x6400E10001000002
 ---
 テキショクノヤカタデワ＿ジブンニピッタリノショクギョーヲ＿ムリョーデシンダンシテモラエルヨーデス
 
-
 ---
 id: 1790040
 attribute: 0x6400E10001000002
 ---
 If you still can't make a decision about
-you career, please visit the hall.
-
+you career, please visit them today.
 
 ---
 id: 1790041
@@ -9115,9 +9101,8 @@ attribute: 0x6400E10001000002
 id: 1790050
 attribute: 0x6400E10001000002
 ---
-However, your birth year
+There's one big catch: Your birth year
 and date are required for the consultation.
-
 
 ---
 id: 1790051
@@ -9131,8 +9116,7 @@ id: 1790060
 attribute: 0x6400E10001000002
 ---
 Please make sure you have your birthday
-information registered!
-
+information registered first!
 
 ---
 id: 1790061
@@ -9145,15 +9129,13 @@ attribute: 0x6400E10001000002
 id: 1800000
 attribute: 0x6400800001010101
 ---
-Question Hall!
-
+Question Hall Open!
 
 ---
 id: 1800010
 attribute: 0x6400E10001000002
 ---
-The question hall has just opened today.
-
+The question hall has just opened today!
 
 ---
 id: 1800011
@@ -9169,7 +9151,6 @@ attribute: 0x6400E10001000002
 There are 2 events at the hall: the majority
 vote and the question corner.
 
-
 ---
 id: 1800021
 attribute: 0x6400E10001000002
@@ -9183,7 +9164,6 @@ attribute: 0x6400E10001000002
 ---
 The majority vote lets the residents help
 you decide between two choices.
-
 
 ---
 id: 1800031
@@ -9199,7 +9179,6 @@ attribute: 0x6400E10001000002
 The question corner lets you ask the
 residents many kinds of quirky questions.
 
-
 ---
 id: 1800041
 attribute: 0x6400E10001000002
@@ -9213,7 +9192,6 @@ attribute: 0x6400E10001000002
 ---
 When you can't make a decision or feel like
 asking questions, please visit the hall!
-
 
 ---
 id: 1800051
@@ -9229,7 +9207,6 @@ attribute: 0x6400E10001000002
 All residents are required to participate
 in the majority vote. Please cooperate!
 
-
 ---
 id: 1800061
 attribute: 0x6400E10001000002
@@ -9241,16 +9218,14 @@ attribute: 0x6400E10001000002
 id: 1810000
 attribute: 0x6400800001010101
 ---
-Ranking Board!
-
+Ranking Board Set Up!
 
 ---
 id: 1810010
 attribute: 0x6400E10001000002
 ---
-The ranking board has just opened today.
+The ranking board has just opened today!
 It's a bulletin board that shows off rankings.
-
 
 ---
 id: 1810011
@@ -9266,7 +9241,6 @@ attribute: 0x6400E10001000002
 Currently, the list for "Best Condition,"
 or vitality, has been posted.
 
-
 ---
 id: 1810021
 attribute: 0x6400E10001000002
@@ -9280,7 +9254,6 @@ attribute: 0x6400E10001000002
 ---
 We asked the person who built the ranking
 board, {{1:30 arg="0x0100"}}:
-
 
 ---
 id: 1810031
@@ -9296,7 +9269,6 @@ attribute: 0x6400E10001000002
 "I want to post some more rankings about
 various things later on."
 
-
 ---
 id: 1810041
 attribute: 0x6400E10001000002
@@ -9308,9 +9280,8 @@ attribute: 0x6400E10001000002
 id: 1810050
 attribute: 0x6400E10001000002
 ---
-This means there may be more lists
-to come.
-
+There's likely many more lists
+coming soon.
 
 ---
 id: 1810051
@@ -9323,15 +9294,13 @@ attribute: 0x6400E10001000002
 id: 1820000
 attribute: 0x6400800001010101
 ---
-Apparel Shop!
-
+Clothing Shop Open!
 
 ---
 id: 1820010
 attribute: 0x6400E10001000002
 ---
-The apparel shop has just opened!
-
+The clothing shop has just opened!
 
 ---
 id: 1820011
@@ -9347,7 +9316,6 @@ attribute: 0x6400E10001000002
 They sell a variety of clothing, from
 silly costumes to formal outfits.
 
-
 ---
 id: 1820021
 attribute: 0x6400E10001000002
@@ -9359,9 +9327,8 @@ attribute: 0x6400E10001000002
 id: 1820030
 attribute: 0x6400E10001000002
 ---
-No matter what gender or how old you are,
+No how old you are or what gender you are,
 you’ll be sure to find something you like.
-
 
 ---
 id: 1820031
@@ -9374,9 +9341,8 @@ attribute: 0x6400E10001000002
 id: 1820040
 attribute: 0x6400E10001000002
 ---
-We asked a passerby, {{1:30 arg="0x0100"}},
-and got this comment...
-
+We asked a passerby, {{1:30 arg="0x0100"}}:
+"I’m gonna be the island’s first fashonista!"
 
 ---
 id: 1820041
@@ -9389,9 +9355,8 @@ attribute: 0x6400E10001000002
 id: 1820050
 attribute: 0x6400E10001000002
 ---
-"I’m gonna be the island’s first
-fashonista!"
-
+Items in the store change daily, so it's
+recommended to visit the store often.
 
 ---
 id: 1820051
@@ -9404,9 +9369,8 @@ attribute: 0x6400E10001000002
 id: 1820060
 attribute: 0x6400E10001000002
 ---
-Items in the store change daily, so it's
-recommended to visit the store often.
-
+There's even special outfits only
+available in certain seasons!
 
 ---
 id: 1820061
@@ -9419,7 +9383,7 @@ attribute: 0x6400E10001000002
 id: 1830000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} to auction
+Auctioning Off {{1:30 arg="0x0000"}}
 
 
 ---
@@ -9427,7 +9391,7 @@ id: 1830010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}} has collected
-various goods of {{1:30 arg="0x0000"}}.
+various types of {{1:30 arg="0x0000"}}, listed for auction.
 
 
 ---
@@ -9441,8 +9405,8 @@ attribute: 0x6400E10001000002
 id: 1830020
 attribute: 0x6400E10001000002
 ---
-They already listed them for to be auctioned.
-
+Among the items listed is a rare {{1:30 arg="0x0000"}},
+and it's drawing attention to see what price they'll fetch.
 
 ---
 id: 1830021
@@ -9455,9 +9419,8 @@ attribute: 0x6400E10001000002
 id: 1830030
 attribute: 0x6400E10001000002
 ---
-Among the items listed is a rare {{1:30 arg="0x0000"}},
-and it's drawing attention to see what price they'll fetch.
-
+The seller {{1:30 arg="0x0100"}}, had
+some comments:
 
 ---
 id: 1830031
@@ -9470,9 +9433,7 @@ attribute: 0x6400E10001000002
 id: 1830040
 attribute: 0x6400E10001000002
 ---
-The seller {{1:30 arg="0x0100"}}, had
-some comments:
-
+{{1:30 arg="0x0200"}}
 
 ---
 id: 1830041
@@ -9485,22 +9446,19 @@ attribute: 0x6400E10001000002
 id: 1830050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
+They're looking forward to the results.
 
 ---
 id: 1830051
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
 
 ---
 id: 1830060
 attribute: 0x6400E10001000002
 ---
-and said they are looking forward to the results.
-
+Our next topic will be aired later.
+It involves plenty of bananas. 
 
 ---
 id: 1830061
@@ -9530,7 +9488,6 @@ attribute: 0x6400E10001000002
 ---
 "I can't even imagine how much it'll be worth,"
 
-
 ---
 id: 1831021
 attribute: 0x6400E10001000002
@@ -9543,7 +9500,6 @@ id: 1831030
 attribute: 0x6400E10001000002
 ---
 "I thought now was the time to list it,"
-
 
 ---
 id: 1831031
@@ -9558,7 +9514,6 @@ attribute: 0x6400E10001000002
 ---
 "I'll add a bonus for the winning bidder,"
 
-
 ---
 id: 1831041
 attribute: 0x6400E10001000002
@@ -9572,7 +9527,6 @@ attribute: 0x6400E10001000002
 ---
 "Free shipping right now!"
 
-
 ---
 id: 1831051
 attribute: 0x6400E10001000002
@@ -9585,7 +9539,6 @@ id: 1840000
 attribute: 0x6400800001010101
 ---
 Undersea Challenge
-
 
 ---
 id: 1840010
@@ -19183,6 +19136,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
