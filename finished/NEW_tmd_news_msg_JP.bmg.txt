@@ -8595,7 +8595,6 @@ attribute: 0x6400E10001000002
 Around {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island
 held the Loudest Voice Contest.
 
-
 ---
 id: 1740011
 attribute: 0x6400E10001000002
@@ -8607,9 +8606,8 @@ attribute: 0x6400E10001000002
 id: 1740020
 attribute: 0x6400E10001000002
 ---
-The rule is, the participants shout
+The rules are simple: Participants shout about
 whatever they like. The loudest one wins.
-
 
 ---
 id: 1740021
@@ -8622,9 +8620,8 @@ attribute: 0x6400E10001000002
 id: 1740030
 attribute: 0x6400E10001000002
 ---
-The winner of this tournament is
-{{1:30 arg="0x0200"}} who shouted...
-
+{{1:30 arg="0x0200"}} won this tournament
+by shouting the following phrase:
 
 ---
 id: 1740031
@@ -8646,13 +8643,11 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
 
-
 ---
 id: 1740050
 attribute: 0x6400E10001000002
 ---
-...which made the audience laugh.
-
+It also made the audience laugh.
 
 ---
 id: 1740051
@@ -8665,8 +8660,7 @@ attribute: 0x6400E10001000002
 id: 1741010
 attribute: 0x6400E10001000002
 ---
-"GIVE ME SOME FOOD ALREADY!!"
-
+"GIVE ME SOME FOOD ALREADY!!!"
 
 ---
 id: 1741011
@@ -8679,8 +8673,7 @@ attribute: 0x6400E10001000002
 id: 1741020
 attribute: 0x6400E10001000002
 ---
-"GIVE ME BACK MY YOUTH!!"
-
+"GIVE ME BACK MY YOUTH!!!"
 
 ---
 id: 1741021
@@ -8693,8 +8686,7 @@ attribute: 0x6400E10001000002
 id: 1741030
 attribute: 0x6400E10001000002
 ---
-"OBJECTION!!"
-
+"CHESTOOOOO!!!"
 
 ---
 id: 1741031
@@ -8707,8 +8699,7 @@ attribute: 0x6400E10001000002
 id: 1741040
 attribute: 0x6400E10001000002
 ---
-"MICROPHOOONE TEESST!!"
-
+"MICROPHOOONE TEESST!!!"
 
 ---
 id: 1741041
@@ -8721,8 +8712,7 @@ attribute: 0x6400E10001000002
 id: 1741050
 attribute: 0x6400E10001000002
 ---
-"HIIIIIIIII!!"
-
+"HIIIIIIIII!!!"
 
 ---
 id: 1741051
@@ -8735,15 +8725,14 @@ attribute: 0x6400E10001000002
 id: 1750000
 attribute: 0x6400800001010101
 ---
-Cockroach
-
+Cockroach House Incident
 
 ---
 id: 1750010
 attribute: 0x6400E10001000002
 ---
-This is a tragic incident. Earlier this
-morning...
+This tragedy occured at {{1:30 arg="0x0100"}}, when
+{{1:30 arg="0x0000"}} stepped in a sticky cockroach house.
 
 
 ---
@@ -8757,9 +8746,8 @@ attribute: 0x6400E10001000002
 id: 1750020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} accidentally
-fell in a cockroach glue trap.
-
+Fortunately, {{1:30 arg="0x0200"}} happened to be
+passing by nearby and rescued them.
 
 ---
 id: 1750021
@@ -8772,9 +8760,8 @@ attribute: 0x6400E10001000002
 id: 1750030
 attribute: 0x6400E10001000002
 ---
-Fortunately, {{1:30 arg="0x0000"}}'s
-neighbor {{1:30 arg="0x0200"}},
-
+Sadly, {{1:30 arg="0x0200"}} was stuck in the
+cockroach house instead.
 
 ---
 id: 1750031
@@ -8787,9 +8774,8 @@ attribute: 0x6400E10001000002
 id: 1750040
 attribute: 0x6400E10001000002
 ---
-happened to pass by and came
-to the rescue.
-
+The cockroach house will be shut down
+and sanitized as this article is aired.
 
 ---
 id: 1750041
@@ -8802,9 +8788,8 @@ attribute: 0x6400E10001000002
 id: 1750050
 attribute: 0x6400E10001000002
 ---
-However, {{1:30 arg="0x0200"}} was
-trapped in there instead.
-
+This was due to the Health and Safety
+Administration noticing that messy house.
 
 ---
 id: 1750051
@@ -8824,9 +8809,8 @@ attribute: 0x6400800001010101
 id: 1760010
 attribute: 0x6400E10001000002
 ---
-Around dawn, the {{1:30 arg="0x0000"}} Kong
-had appeared in town.
-
+This {{1:30 arg="0x0100"}}, a beast was released!
+{{1:30 arg="0x0000"}} Kong had appeared in town.
 
 ---
 id: 1760011
@@ -8839,9 +8823,8 @@ attribute: 0x6400E10001000002
 id: 1760020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} Kong climbed up
-the TV Tower.
-
+{{1:30 arg="0x0000"}} Kong climbed up the TV
+tower and {{1:30 arg="0x0200"}}
 
 ---
 id: 1760021
@@ -8854,9 +8837,8 @@ attribute: 0x6400E10001000002
 id: 1760030
 attribute: 0x6400E10001000002
 ---
-After {{1:30 arg="0x0200"}},
-it returned to the sea.
-
+After that, it returned to the sea.
+The wrath of the monster had ended.
 
 ---
 id: 1760031
@@ -8869,9 +8851,8 @@ attribute: 0x6400E10001000002
 id: 1760040
 attribute: 0x6400E10001000002
 ---
-According to a monster specialist,
-{{1:30 arg="0x0300"}}...
-
+Monster specialist {{1:30 arg="0x0300"}} claims
+the appearance of {{1:30 arg="0x0000"}} Kong is rare.
 
 ---
 id: 1760041
@@ -8884,9 +8865,8 @@ attribute: 0x6400E10001000002
 id: 1760050
 attribute: 0x6400E10001000002
 ---
-It is very rare that a
-{{1:30 arg="0x0000"}} Kong would come to town.
-
+More than likely, it probably came
+to find some {{1:30 arg="0x0400"}}.
 
 ---
 id: 1760051
@@ -8899,9 +8879,8 @@ attribute: 0x6400E10001000002
 id: 1760060
 attribute: 0x6400E10001000002
 ---
-It probably came to find some
-{{1:30 arg="0x0400"}}.
-
+Tune in next time for our four
+hour block for forged flowers.
 
 ---
 id: 1760061
@@ -8916,7 +8895,6 @@ attribute: 0x6400E10001000002
 ---
 watching the news
 
-
 ---
 id: 1761011
 attribute: 0x6400E10001000002
@@ -8929,7 +8907,6 @@ id: 1761020
 attribute: 0x6400E10001000002
 ---
 visiting the dome
-
 
 ---
 id: 1761021
@@ -8944,7 +8921,6 @@ attribute: 0x6400E10001000002
 ---
 visiting the mountain
 
-
 ---
 id: 1761031
 attribute: 0x6400E10001000002
@@ -8957,7 +8933,6 @@ id: 1770000
 attribute: 0x6400800001010101
 ---
 Mii News!
-
 
 ---
 id: 1770010
@@ -19208,6 +19183,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
