@@ -9538,7 +9538,7 @@ attribute: 0x6400E10001000002
 id: 1840000
 attribute: 0x6400800001010101
 ---
-Undersea Challenge
+Crazy Challenges: Eating Underwater
 
 ---
 id: 1840010
@@ -9546,7 +9546,6 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} took on a challenge in
 front of public witnesses.
-
 
 ---
 id: 1840011
@@ -9562,7 +9561,6 @@ attribute: 0x6400E10001000002
 The challenge was to eat some {{1:30 arg="0x0100"}}
 while staying upside down, under the water.
 
-
 ---
 id: 1840021
 attribute: 0x6400E10001000002
@@ -9576,7 +9574,6 @@ attribute: 0x6400E10001000002
 ---
 Although everyone got worried,
 {{1:30 arg="0x0000"}} insisted to try it.
-
 
 ---
 id: 1840031
@@ -9592,7 +9589,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}} said enthusiastically,
 "It’ll surely be a success!"
 
-
 ---
 id: 1840041
 attribute: 0x6400E10001000002
@@ -9605,9 +9601,8 @@ attribute: 0x6400E10001000002
 id: 1840050
 attribute: 0x6400E10001000002
 ---
-However, the challenge ultimately failed and
+The challenge ultimately failed and
 they had to go to the hospital.
-
 
 ---
 id: 1840051
@@ -9623,7 +9618,6 @@ attribute: 0x6400E10001000002
 This is a very dangerous stunt. Please
 do not imitate it.
 
-
 ---
 id: 1840061
 attribute: 0x6400E10001000002
@@ -9635,8 +9629,8 @@ attribute: 0x6400E10001000002
 id: 1841010
 attribute: 0x6400E10001000002
 ---
-Uh… that’s it…
-
+Our next article is a new investigation
+into the depths of the ocean. Stay tuned!
 
 ---
 id: 1841011
@@ -9649,8 +9643,7 @@ attribute: 0x6400E10001000002
 id: 1841020
 attribute: 0x6400E10001000002
 ---
- 
-
+I can hold my breath for 10 seconds.
 
 ---
 id: 1841021
@@ -9663,8 +9656,7 @@ attribute: 0x6400E10001000002
 id: 1841030
 attribute: 0x6400E10001000002
 ---
- 
-
+I chuckled at the memory.
 
 ---
 id: 1841031
@@ -9677,8 +9669,7 @@ attribute: 0x6400E10001000002
 id: 1841040
 attribute: 0x6400E10001000002
 ---
- 
-
+I feel ashamed to do that.
 
 ---
 id: 1841041
@@ -9691,8 +9682,7 @@ attribute: 0x6400E10001000002
 id: 1841050
 attribute: 0x6400E10001000002
 ---
- 
-
+I was so cold. I had to use the loo.
 
 ---
 id: 1841051
@@ -9705,16 +9695,14 @@ attribute: 0x6400E10001000002
 id: 1850000
 attribute: 0x6400800001010101
 ---
-The Nostril Challenge
-
+Crazy Challenges: The Nose Hole Edition
 
 ---
 id: 1850010
 attribute: 0x6400E10001000002
 ---
-It appears that {{1:30 arg="0x0000"}}
-took on a difficult challenge.
-
+{{1:30 arg="0x0000"}} challenged themselves:
+How much {{1:30 arg="0x0100"}} can go up your nose?
 
 ---
 id: 1850011
@@ -9727,9 +9715,8 @@ attribute: 0x6400E10001000002
 id: 1850020
 attribute: 0x6400E10001000002
 ---
-This time, it's a challenge to see how many {{1:30 arg="0x0100"}}
-you can fit in your nostrils.
-
+Ignoring the concerns of those around them,
+{{1:30 arg="0x0000"}} pushed forward with the challenge.
 
 ---
 id: 1850021
@@ -9742,9 +9729,8 @@ attribute: 0x6400E10001000002
 id: 1850030
 attribute: 0x6400E10001000002
 ---
-Ignoring the concerns of those around them, {{1:30 arg="0x0000"}}
-pushed forward with the challenge.
-
+They wanted to "make it happen no matter what."
+They failed {{1:30 arg="0x0200"}}.
 
 ---
 id: 1850031
@@ -9756,10 +9742,9 @@ attribute: 0x6400E10001000002
 ---
 id: 1850040
 attribute: 0x6400E10001000002
----
-{{1:30 arg="0x0000"}}
-was determined to "make it happen no matter what."
-
+--- 
+These crazy challenges should never
+be attempted. Please do not try at home.
 
 ---
 id: 1850041
@@ -9773,9 +9758,8 @@ attribute: 0x6400E10001000002
 id: 1850050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}},
-The challenge failed.
-
+Up next: Attempted robbery occured with
+Wii remote zapper.
 
 ---
 id: 1850051
@@ -9788,8 +9772,7 @@ attribute: 0x6400E10001000002
 id: 1850060
 attribute: 0x6400E10001000002
 ---
-Please do not try this at home.
-
+More news will come later at 7.
 
 ---
 id: 1850061
@@ -9802,8 +9785,7 @@ attribute: 0x6400E10001000002
 id: 1851010
 attribute: 0x6400E10001000002
 ---
-Because it was too big to fit
-
+because it was too big to fit
 
 ---
 id: 1851011
@@ -9816,8 +9798,7 @@ attribute: 0x6400E10001000002
 id: 1851020
 attribute: 0x6400E10001000002
 ---
-Because their nose was too stuffy
-
+because their nose was too stuffy
 
 ---
 id: 1851021
@@ -9830,16 +9811,15 @@ attribute: 0x6400E10001000002
 id: 1860000
 attribute: 0x6400800001010101
 ---
-Bridge Challenge
+Crazy Challenge: Planking Gone Too Far
 
 
 ---
 id: 1860010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} took on
-a dangerous challenge.
-
+{{1:30 arg="0x0000"}} took on a dangerous challenge:
+Becoming a bridge by staying flat.
 
 ---
 id: 1860011
@@ -9852,9 +9832,8 @@ attribute: 0x6400E10001000002
 id: 1860020
 attribute: 0x6400E10001000002
 ---
-The contestant must become a bridge
-for a motorbike to cross safely.
-
+The most dangerous part of this challenge
+is the motorbike that crosses over you.
 
 ---
 id: 1860021
@@ -9867,9 +9846,8 @@ attribute: 0x6400E10001000002
 id: 1860030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} tried this
-challenge in front of worrying witnesses.
-
+{{1:30 arg="0x0000"}} tried this challenge
+in front of worrying witnesses.
 
 ---
 id: 1860031
@@ -9883,8 +9861,7 @@ id: 1860040
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} said,
-"I will absolutely make it!"
-
+"I'll absolutely make it!"
 
 ---
 id: 1860041
@@ -9899,8 +9876,7 @@ id: 1860050
 attribute: 0x6400E10001000002
 ---
 However, {{1:30 arg="0x0100"}},
-so it turned out to be a failure.
-
+and it failed catastrophically.
 
 ---
 id: 1860051
@@ -9913,9 +9889,8 @@ attribute: 0x6400E10001000002
 id: 1860060
 attribute: 0x6400E10001000002
 ---
-This is very dangerous, so please
-do not imitate.
-
+Please do not try this at home.
+Or ever.
 
 ---
 id: 1860061
@@ -9942,7 +9917,7 @@ attribute: 0x6400E10001000002
 id: 1861020
 attribute: 0x6400E10001000002
 ---
-the balance was off
+their stance was broken
 
 
 ---
@@ -9984,15 +9959,15 @@ attribute: 0x6400E10001000002
 id: 1870000
 attribute: 0x6400800001010101
 ---
-Another scorching summer
+Another Sscorching Summer
 
 
 ---
 id: 1870010
 attribute: 0x6400E10001000002
 ---
-It’s another hot day on the island.
-
+The hot days on the island continue
+to come and go.
 
 ---
 id: 1870011
@@ -10021,8 +9996,7 @@ id: 1870030
 attribute: 0x6400E10001000002
 ---
 According to {{1:30 arg="0x0000"}} Meteorological Agency,
-this year was a record-breaking heatwave.
-
+this year is hotter than ever.
 
 ---
 id: 1870031
@@ -10038,7 +10012,6 @@ attribute: 0x6400E10001000002
 Please put on plenty of sunscreen
 and stay cool, when possible.
 
-
 ---
 id: 1870041
 attribute: 0x6400E10001000002
@@ -10052,12 +10025,11 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Morning Sun on the River
 
-
 ---
 id: 1880010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} island continues to be {{1:30 arg="0x0100"}}.
+{{1:30 arg="0x0200"}} Island continues to be {{1:30 arg="0x0100"}}.
 
 
 ---
@@ -19136,6 +19108,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
