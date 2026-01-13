@@ -10345,14 +10345,14 @@ attribute: 0x6400E10001000002
 id: 1910000
 attribute: 0x6400800001010101
 ---
-Offensive Smell!?
+Foul Odor, Alarming??? 
 
 ---
 id: 1910010
 attribute: 0x6400E10001000002
 ---
-Earlier this morning, there was a commotion
-around {{1:30 arg="0x0000"}}'s apartment.
+Around {{1:30 arg="0x0100"}}, there was a disturbance
+caused by {{1:30 arg="0x0000"}}'s apartment.
 
 ---
 id: 1910011
@@ -10365,8 +10365,8 @@ attribute: 0x6400E10001000002
 id: 1910020
 attribute: 0x6400E10001000002
 ---
-When {{1:30 arg="0x0200"}} open the window, there was
-a foul odor from {{1:30 arg="0x0000"}}'s room.
+{{1:30 arg="0x0200"}} opened their window, and
+a foul odor emitted from {{1:30 arg="0x0000"}}'s room.
 
 
 ---
@@ -10380,8 +10380,8 @@ attribute: 0x6400E10001000002
 id: 1910030
 attribute: 0x6400E10001000002
 ---
-The smell seemed to be floating around.
-
+It then proceeded to linger around the
+building, leading to police investigations.
 
 ---
 id: 1910031
@@ -10394,9 +10394,8 @@ attribute: 0x6400E10001000002
 id: 1910040
 attribute: 0x6400E10001000002
 ---
-The police were informed and started
-searching the house.
-
+They found an unconcious {{1:30 arg="0x0000"}},
+who was rushed to the hospital.
 
 ---
 id: 1910041
@@ -10409,9 +10408,8 @@ attribute: 0x6400E10001000002
 id: 1910050
 attribute: 0x6400E10001000002
 ---
-They found {{1:30 arg="0x0000"}} and took
-{{1:30 arg="0x0000"}} to a hospital.
-
+In recovery, {{1:30 arg="0x0000"}} apologized and said
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1910051
@@ -10424,9 +10422,8 @@ attribute: 0x6400E10001000002
 id: 1910060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} apologized and said,
-{{1:30 arg="0x0300"}}
-
+We'd like to introduce our sponsor,
+Smelyuk. Fresh food for 50 years!
 
 ---
 id: 1910061
@@ -10441,7 +10438,6 @@ attribute: 0x6400E10001000002
 ---
 "I didn't take a shower in a month."
 
-
 ---
 id: 1911011
 attribute: 0x6400E10001000002
@@ -10454,7 +10450,6 @@ id: 1911020
 attribute: 0x6400E10001000002
 ---
 "The food in my fridge went bad."
-
 
 ---
 id: 1911021
@@ -10469,7 +10464,6 @@ attribute: 0x6400E10001000002
 ---
 "I was cooking with kimchi."
 
-
 ---
 id: 1911031
 attribute: 0x6400E10001000002
@@ -10483,14 +10477,12 @@ attribute: 0x6400800001010101
 ---
 Autumn Art Exhibition
 
-
 ---
 id: 1920010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} art gallery is hosting
+{{1:30 arg="0x0000"}} Arena is hosting
 an "Autumn Art Exhibition."
-
 
 ---
 id: 1920011
@@ -10506,7 +10498,6 @@ attribute: 0x6400E10001000002
 Artist {{1:30 arg="0x0100"}} won the
 {{1:30 arg="0x0200"}} award.
 
-
 ---
 id: 1920021
 attribute: 0x6400E10001000002
@@ -10518,9 +10509,8 @@ attribute: 0x6400E10001000002
 id: 1920030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}’s
-Oil Painting also got some praise.
-
+Additionally, {{1:30 arg="0x0300"}}’s
+oil painting also got some praise.
 
 ---
 id: 1920031
@@ -10536,7 +10526,6 @@ attribute: 0x6400E10001000002
 Here are a few masterpieces, such as "{{1:30 arg="0x0400"}}”
 and “{{1:30 arg="0x0500"}}."
 
-
 ---
 id: 1920041
 attribute: 0x6400E10001000002
@@ -10548,9 +10537,8 @@ attribute: 0x6400E10001000002
 id: 1920050
 attribute: 0x6400E10001000002
 ---
-Tourists and families
-were taking their time to appreciate it.
-
+Tourists and families were taking
+their time to appreciate it.
 
 ---
 id: 1920051
@@ -10565,13 +10553,11 @@ attribute: 0x6400E10001000002
 ---
 Bold Strokes
 
-
 ---
 id: 1921011
 attribute: 0x6400E10001000002
 ---
 Daitan Touch
-
 
 ---
 id: 1921020
@@ -10579,13 +10565,11 @@ attribute: 0x6400E10001000002
 ---
 Delicate Brushwork
 
-
 ---
 id: 1921021
 attribute: 0x6400E10001000002
 ---
-センサイナフデヅカイ
-
+Literal Garbage
 
 ---
 id: 1921030
@@ -10593,13 +10577,11 @@ attribute: 0x6400E10001000002
 ---
 A Brilliant Color Scheme
 
-
 ---
 id: 1921031
 attribute: 0x6400E10001000002
 ---
-カレイナイロヅカイ
-
+Flounder Flower
 
 ---
 id: 1922010
@@ -10607,21 +10589,18 @@ attribute: 0x6400800001010001
 ---
 {{1:30 arg="0x0400"}} and {{1:30 arg="0x0500"}}
 
-
 ---
 id: 1930000
 attribute: 0x6400800001010101
 ---
-Let's conserve water!
-
+Let's Conserve Water!
 
 ---
 id: 1930010
 attribute: 0x6400E10001000002
 ---
-This summer's intense heat 
+{{1:30 arg="0x0000"}} summer's intense heat 
 has caused a severe water shortage.
-
 
 ---
 id: 1930011
@@ -10637,7 +10616,6 @@ attribute: 0x6400E10001000002
 If this situation continues, in {{1:30 arg="0x0100"}} days,
 {{1:30 arg="0x0200"}} Island will run out of fresh water.
 
-
 ---
 id: 1930021
 attribute: 0x6400E10001000002
@@ -10652,7 +10630,6 @@ attribute: 0x6400E10001000002
 We spoke with {{1:30 arg="0x0300"}}, who consciously 
 conserves water in their daily life:
 
-
 ---
 id: 1930031
 attribute: 0x6400E10001000002
@@ -10666,7 +10643,6 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
 
-
 ---
 id: 1930041
 attribute: 0x6400E10001000002
@@ -10679,8 +10655,7 @@ id: 1930050
 attribute: 0x6400E10001000002
 ---
 Everyone, please follow {{1:30 arg="0x0300"}}'s example.
-Let's all make a conscious effort to conserve water in our daily lives.
-
+Let's all try to conserve water in our daily lives.
 
 ---
 id: 1930051
@@ -10695,7 +10670,6 @@ attribute: 0x6400E10001000002
 ---
 "I use bathwater for laundry every day."
 
-
 ---
 id: 1931011
 attribute: 0x6400E10001000002
@@ -10708,7 +10682,6 @@ id: 1931020
 attribute: 0x6400E10001000002
 ---
 "I always make sure the cap is properly closed."
-
 
 ---
 id: 1931021
@@ -10724,7 +10697,6 @@ attribute: 0x6400E10001000002
 "When washing dishes, I always
 I make sure to turn off the water properly."
 
-
 ---
 id: 1931031
 attribute: 0x6400E10001000002
@@ -10736,7 +10708,7 @@ attribute: 0x6400E10001000002
 id: 1940000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}Cruising in circles
+{{1:30 arg="0x0000"}} Cruising in Circles
 
 
 ---
@@ -10744,8 +10716,7 @@ id: 1940010
 attribute: 0x6400E10001000002
 ---
 Summer is finally in full swing, and in
- {{1:30 arg="0x0100"}} Bay, an event occurs:
-
+{{1:30 arg="0x0100"}} Bay, an event occurs:
 
 ---
 id: 1940011
@@ -10758,9 +10729,8 @@ attribute: 0x6400E10001000002
 id: 1940020
 attribute: 0x6400E10001000002
 ---
-An annual cruise, 
-conducted by the S.S. {{1:30 arg="0x0000"}}.
-
+An annual cruise, conducted by the S.S. {{1:30 arg="0x0000"}}.
+The boarding area draws in many people,
 
 ---
 id: 1940021
@@ -10773,9 +10743,8 @@ attribute: 0x6400E10001000002
 id: 1940030
 attribute: 0x6400E10001000002
 ---
-Day after day, the boarding area
-draws many families and couples.
-
+from families and couples. They all
+look forward to enjoying {{1:30 arg="0x0100"}} bay.
 
 ---
 id: 1940031
@@ -10788,8 +10757,8 @@ attribute: 0x6400E10001000002
 id: 1940040
 attribute: 0x6400E10001000002
 ---
-They all enjoy the {{1:30 arg="0x0100"}}
-bay in the summer.
+One tourist, {{1:30 arg="0x0200"}}, rode
+the S.S. {{1:30 arg="0x0000"}} for the first time.
 
 
 ---
@@ -10803,9 +10772,8 @@ attribute: 0x6400E10001000002
 id: 1940050
 attribute: 0x6400E10001000002
 ---
-One tourist, {{1:30 arg="0x0200"}}, rode
-the S.S. {{1:30 arg="0x0000"}} for the first time.
-
+"{{1:30 arg="0x0300"}}" they said,
+with great vigor.
 
 ---
 id: 1940051
@@ -10818,9 +10786,8 @@ attribute: 0x6400E10001000002
 id: 1940060
 attribute: 0x6400E10001000002
 ---
-They replied,  "{{1:30 arg="0x0300"}}"
-with great vigor.
-
+We thank our sponsor, the S.S. {{1:30 arg="0x0000"}}.
+Please donate to Mii News today!
 
 ---
 id: 1940061
@@ -10833,8 +10800,7 @@ attribute: 0x6400E10001000002
 id: 1941010
 attribute: 0x6400E10001000002
 ---
-the wind feels so nice!
-
+The wind feels so nice!
 
 ---
 id: 1941011
@@ -10849,7 +10815,6 @@ attribute: 0x6400E10001000002
 ---
 I definitely want to come again next year,
 
-
 ---
 id: 1941021
 attribute: 0x6400E10001000002
@@ -10862,7 +10827,6 @@ id: 1941030
 attribute: 0x6400E10001000002
 ---
 It’s more fun than I expected,
-
 
 ---
 id: 1941031
@@ -10877,12 +10841,11 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}}'s new movie
 
-
 ---
 id: 1950010
 attribute: 0x6400E10001000002
 ---
-The press conference for the new film directed by {{1:30 arg="0x0000"}} 
+The press conference for a new film directed by {{1:30 arg="0x0000"}} 
 will be held on {{1:30 arg="0x0100"}}.
 
 
@@ -10897,9 +10860,8 @@ attribute: 0x6400E10001000002
 id: 1950020
 attribute: 0x6400E10001000002
 ---
-The film was screened at an undisclosed location on 
-{{1:30 arg="0x0200"}} island.
-
+The film was screened at many undisclosed locations on 
+{{1:30 arg="0x0200"}} Island.
 
 ---
 id: 1950021
@@ -10915,7 +10877,6 @@ attribute: 0x6400E10001000002
 According to the announcement, the film is titled
 "{{1:30 arg="0x0300"}} and the Woman."
 
-
 ---
 id: 1950031
 attribute: 0x6400E10001000002
@@ -10927,9 +10888,8 @@ attribute: 0x6400E10001000002
 id: 1950040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0400"}} was cast as the lead in
-in a suspense story solving the mystery of {{1:30 arg="0x0300"}}.
-
+{{1:30 arg="0x0400"}} was cast as the lead in a suspense story
+solving the mystery of {{1:30 arg="0x0300"}}.
 
 ---
 id: 1950041
@@ -10945,7 +10905,6 @@ attribute: 0x6400E10001000002
 "{{1:30 arg="0x0500"}}"  
 {{1:30 arg="0x0000"}} said.
 
-
 ---
 id: 1950051
 attribute: 0x6400E10001000002
@@ -10960,7 +10919,6 @@ attribute: 0x6400E10001000002
 They were very enthusiastic when
 we interviewed them.
 
-
 ---
 id: 1950061
 attribute: 0x6400E10001000002
@@ -10973,7 +10931,6 @@ id: 1951010
 attribute: 0x6400E10001000002
 ---
 I want to challenge the limits of film,
-
 
 ---
 id: 1951011
@@ -10988,7 +10945,6 @@ attribute: 0x6400E10001000002
 ---
 I want to create a film everyone can enjoy,
 
-
 ---
 id: 1951021
 attribute: 0x6400E10001000002
@@ -11001,7 +10957,6 @@ id: 1951030
 attribute: 0x6400E10001000002
 ---
 I want this to win the next Mii Movie Awards,
-
 
 ---
 id: 1951031
@@ -11016,13 +10971,12 @@ attribute: 0x6400800001010101
 ---
 Love Letter
 
-
 ---
 id: 1960010
 attribute: 0x6400E10001000002
 ---
 Yesterday, a love letter addressed to
-{{1:30 arg="0x0000"}}...
+{{1:30 arg="0x0000"}} was found by {{1:30 arg="0x0100"}}.
 
 
 ---
@@ -11036,9 +10990,8 @@ attribute: 0x6400E10001000002
 id: 1960020
 attribute: 0x6400E10001000002
 ---
-...was found by
-{{1:30 arg="0x0100"}}.
-
+Because there was no sender's address,
+{{1:30 arg="0x0100"}} did a questionable move:
 
 ---
 id: 1960021
@@ -11051,9 +11004,7 @@ attribute: 0x6400E10001000002
 id: 1960030
 attribute: 0x6400E10001000002
 ---
-Because there was no sender's address,
-{{1:30 arg="0x0100"}} did a questionable move:
-
+submit the letter to the police.
 
 ---
 id: 1960031
@@ -11066,8 +11017,8 @@ attribute: 0x6400E10001000002
 id: 1960040
 attribute: 0x6400E10001000002
 ---
-submit the letter to the police.
-
+The letter's contents was full of
+passion toward {{1:30 arg="0x0000"}}.
 
 ---
 id: 1960041
@@ -11080,9 +11031,8 @@ attribute: 0x6400E10001000002
 id: 1960050
 attribute: 0x6400E10001000002
 ---
-The letter's content was full of
-passion toward {{1:30 arg="0x0000"}}.
-
+The police said that they felt
+embarrassed to read it.
 
 ---
 id: 1960051
@@ -11095,9 +11045,8 @@ attribute: 0x6400E10001000002
 id: 1960060
 attribute: 0x6400E10001000002
 ---
-The police said that they felt
-embarrassed to read it.
-
+I'm starting to think airing this
+report wasn't such a good idea...
 
 ---
 id: 1960061
@@ -11105,20 +11054,17 @@ attribute: 0x6400E10001000002
 ---
 ケイサツノカタモコンワクシテイルトノコトデス
 
-
 ---
 id: 1970000
 attribute: 0x6400800001010101
 ---
 Bountiful Harvest
 
-
 ---
 id: 1970010
 attribute: 0x6400E10001000002
 ---
 Autumn has arrived on {{1:30 arg="0x0000"}} island.
-
 
 ---
 id: 1970011
@@ -11134,7 +11080,6 @@ attribute: 0x6400E10001000002
 This year, we were blessed with great temperatures 
 and weather, resulting in a bumper crop.
 
-
 ---
 id: 1970021
 attribute: 0x6400E10001000002
@@ -11147,7 +11092,7 @@ id: 1970030
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}, who was growing vegetables, said,
-
+{{1:30 arg="0x0200"}}
 
 ---
 id: 1970031
@@ -11160,8 +11105,8 @@ attribute: 0x6400E10001000002
 id: 1970040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
+Tune in next time for a special report:
+How Pigs Can Fly With One Simple Trick.
 
 ---
 id: 1970041
@@ -11174,8 +11119,8 @@ attribute: 0x6400E10001000002
 id: 1970050
 attribute: 0x6400E10001000002
 ---
-speaking with deep feeling.
-
+We won't tell much, but the
+report is in the name.
 
 ---
 id: 1970051
@@ -11190,7 +11135,6 @@ attribute: 0x6400E10001000002
 ---
 "This year's vegetables are delicious!"
 
-
 ---
 id: 1971011
 attribute: 0x6400E10001000002
@@ -11202,8 +11146,7 @@ attribute: 0x6400E10001000002
 id: 1971020
 attribute: 0x6400E10001000002
 ---
-"This time of year is the best,"
-
+"This time of year is the best."
 
 ---
 id: 1971021
@@ -11216,9 +11159,7 @@ attribute: 0x6400E10001000002
 id: 1971030
 attribute: 0x6400E10001000002
 ---
-"I want everyone to understand
-understand the goodness of vegetables,"
-
+"I want everyone to know veggies are good."
 
 ---
 id: 1971031
@@ -11231,15 +11172,14 @@ attribute: 0x6400E10001000002
 id: 1980000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}Ice Cream
-
+{{1:30 arg="0x0000"}} Ice Cream Tasting
 
 ---
 id: 1980010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0200"}} Island,
-the {{1:30 arg="0x0100"}} Corp's...
+On {{1:30 arg="0x0200"}} Island, the {{1:30 arg="0x0100"}} Corp
+hosts a sampling event for a new flavor.
 
 
 ---
@@ -11253,9 +11193,8 @@ attribute: 0x6400E10001000002
 id: 1980020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} ice cream
-sampling is currently ongoing.
-
+The flavor, {{1:30 arg="0x0000"}}, will be
+put in future ice cream products.
 
 ---
 id: 1980021
@@ -11268,9 +11207,8 @@ attribute: 0x6400E10001000002
 id: 1980030
 attribute: 0x6400E10001000002
 ---
-The visitor to come to try the
-{{1:30 arg="0x0000"}} ice cream said...
-
+We interviewed someone who wanted
+to try out the new ice cream flavor:
 
 ---
 id: 1980031
@@ -11285,21 +11223,18 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
 
-
 ---
 id: 1980041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
 
-
 ---
 id: 1980050
 attribute: 0x6400E10001000002
 ---
-This ice cream is highly rated from
-the people who have tried it.
-
+Many taste-testers seem to highly
+reccomend this ice cream to others.
 
 ---
 id: 1980051
@@ -11312,8 +11247,7 @@ attribute: 0x6400E10001000002
 id: 1981010
 attribute: 0x6400E10001000002
 ---
-"It's unexpectedly delicious!"
-
+"It's surprisingly delicious!"
 
 ---
 id: 1981011
@@ -11328,7 +11262,6 @@ attribute: 0x6400E10001000002
 ---
 "I'm already addicted to it."
 
-
 ---
 id: 1981021
 attribute: 0x6400E10001000002
@@ -11342,7 +11275,6 @@ attribute: 0x6400E10001000002
 ---
 "I want to try their new flavors, too."
 
-
 ---
 id: 1981031
 attribute: 0x6400E10001000002
@@ -11354,8 +11286,7 @@ attribute: 0x6400E10001000002
 id: 1990000
 attribute: 0x6400800001010101
 ---
-Merry Christmas
-
+Merry Christmas!
 
 ---
 id: 1990010
@@ -19086,6 +19017,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
