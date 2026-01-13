@@ -7435,8 +7435,7 @@ attribute: 0x6400E10001000002
 id: 1640000
 attribute: 0x6400800001010101
 ---
-Biggest {{1:30 arg="0x0000"}}
-
+The Biggest {{1:30 arg="0x0000"}} Ever
 
 ---
 id: 1640010
@@ -7444,7 +7443,6 @@ attribute: 0x6400E10001000002
 ---
 Students of {{1:30 arg="0x0100"}} Elementary
 made the world's biggest {{1:30 arg="0x0000"}}.
-
 
 ---
 id: 1640011
@@ -7460,7 +7458,6 @@ attribute: 0x6400E10001000002
 This world record {{1:30 arg="0x0000"}}
 is big enough for 1000 people.
 
-
 ---
 id: 1640021
 attribute: 0x6400E10001000002
@@ -7472,9 +7469,8 @@ attribute: 0x6400E10001000002
 id: 1640030
 attribute: 0x6400E10001000002
 ---
-However, it was found out that an ingredient
-{{1:30 arg="0x0200"}} brought...
-
+Sadly, one of the key ingredients
+{{1:30 arg="0x0200"}} brough is expired.
 
 ---
 id: 1640031
@@ -7487,9 +7483,8 @@ attribute: 0x6400E10001000002
 id: 1640040
 attribute: 0x6400E10001000002
 ---
-...has passed its expiration date. The
-health committee came to investigate.
-
+The health department deemed it
+safe to eat, as it was 3 days over.
 
 ---
 id: 1640041
@@ -7502,9 +7497,8 @@ attribute: 0x6400E10001000002
 id: 1640050
 attribute: 0x6400E10001000002
 ---
-It was only 3 days passed expiration date,
-so the committee had proved it safe.
-
+The world's largest {{1:30 arg="0x0000"}} will be
+given to {{1:30 arg="0x0100"}} islanders equally.
 
 ---
 id: 1640051
@@ -7517,9 +7511,8 @@ attribute: 0x6400E10001000002
 id: 1640060
 attribute: 0x6400E10001000002
 ---
-The world's biggest {{1:30 arg="0x0000"}} will
-be cut up and shared among the residents.
-
+Our next topic: How deadly pickles
+can make you explode- there's no time?
 
 ---
 id: 1640061
@@ -7534,14 +7527,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}}'s Jokes
 
-
 ---
 id: 1650010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} usually spends
 an entire day thinking about funny things.
-
 
 ---
 id: 1650011
@@ -7554,9 +7545,8 @@ attribute: 0x6400E10001000002
 id: 1650020
 attribute: 0x6400E10001000002
 ---
-We gathered some people  at {{1:30 arg="0x0100"}} community center
-and held a presentation for some new material.
-
+We gathered some people at {{1:30 arg="0x0100"}} community center
+and held a show for their new material.
 
 ---
 id: 1650021
@@ -7572,7 +7562,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}}'s new material
 was delivered with a hint of nervousness.
 
-
 ---
 id: 1650031
 attribute: 0x6400E10001000002
@@ -7586,7 +7575,6 @@ attribute: 0x6400E10001000002
 ---
 Despite their busy schedules, the nearby
 residents reacted. Here are their thoughts:
-
 
 ---
 id: 1650041
@@ -7613,9 +7601,8 @@ attribute: 0x6400E10001000002
 id: 1650060
 attribute: 0x6400E10001000002
 ---
-the crowd said. {{1:30 arg="0x0000"}} mentioned
-will continue to come up with interesting ideas going forward.
-
+{{1:30 arg="0x0000"}} mentioned they will try
+to come up with interesting ideas going forward.
 
 ---
 id: 1650061
@@ -7628,8 +7615,7 @@ attribute: 0x6400E10001000002
 id: 1651010
 attribute: 0x6400E10001000002
 ---
-"I laughed so hard I almost died,"
-
+"I laughed so hard I almost died."
 
 ---
 id: 1651011
@@ -7642,7 +7628,7 @@ attribute: 0x6400E10001000002
 id: 1651020
 attribute: 0x6400E10001000002
 ---
-"Please make this the last time,"
+"Please don't make me see that again."
 
 
 ---
@@ -7656,7 +7642,8 @@ attribute: 0x6400E10001000002
 id: 1651030
 attribute: 0x6400E10001000002
 ---
-"It was too cold to bear watching,"
+"It was too cold. I couldn't bear to
+watch it."
 
 
 ---
@@ -7671,7 +7658,7 @@ id: 1651040
 attribute: 0x6400E10001000002
 ---
 "I think this person will definitely
-break through someday,"
+break through someday."
 
 
 ---
@@ -7685,7 +7672,7 @@ attribute: 0x6400E10001000002
 id: 1651050
 attribute: 0x6400E10001000002
 ---
-"I could feel the tension,"
+"I could feel the tension in the room."
 
 
 ---
@@ -7701,14 +7688,12 @@ attribute: 0x6400800001010101
 ---
 Who Ate It?
 
-
 ---
 id: 1660010
 attribute: 0x6400E10001000002
 ---
-Yesterday, the {{1:30 arg="0x0100"}} that
-belonged to {{1:30 arg="0x0000"}}...
-
+During {{1:30 arg="0x0200"}}, {{1:30 arg="0x0100"}}'s cherished
+{{1:30 arg="0x0000"}} was gone.
 
 ---
 id: 1660011
@@ -7721,8 +7706,8 @@ attribute: 0x6400E10001000002
 id: 1660020
 attribute: 0x6400E10001000002
 ---
-...was eaten up by someone.
-
+"This happened before. I’m getting
+REALLY annoyed about this,"
 
 ---
 id: 1660021
@@ -7735,9 +7720,8 @@ attribute: 0x6400E10001000002
 id: 1660030
 attribute: 0x6400E10001000002
 ---
-The precious {{1:30 arg="0x0100"}} was gone,
-so {{1:30 arg="0x0000"}} got very angry.
-
+{{1:30 arg="0x0100"}} said while crying. They then
+begged the cops to look for it.
 
 ---
 id: 1660031
@@ -7750,9 +7734,8 @@ attribute: 0x6400E10001000002
 id: 1660040
 attribute: 0x6400E10001000002
 ---
-"This happened before. I’m getting
-REALLY annoyed about this!"
-
+Our next article is a brief interview
+for a man who thinks he's stuck in time.
 
 ---
 id: 1660041
@@ -7765,8 +7748,8 @@ attribute: 0x6400E10001000002
 id: 1660050
 attribute: 0x6400E10001000002
 ---
-They also cried while giving comments.
-
+He thinks time paused for two decades,
+finding common articles or objects odd.
 
 ---
 id: 1660051
@@ -7779,9 +7762,8 @@ attribute: 0x6400E10001000002
 id: 1660060
 attribute: 0x6400E10001000002
 ---
-The police took on {{1:30 arg="0x0000"}}'s
-request and had started investigating.
-
+Said odd things include refrences to other
+events that shouldn't happen until a decade later.
 
 ---
 id: 1660061
@@ -7794,16 +7776,14 @@ attribute: 0x6400E10001000002
 id: 1670000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}}Island Residents' Sports Festival Held!
-
+{{1:30 arg="0x0000"}} Island Sports Festival Held!
 
 ---
 id: 1670010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0100"}}, the sports festival at 
+On {{1:30 arg="0x0100"}}, a residents' sports festival at 
 {{1:30 arg="0x0000"}} Island was held.
-
 
 ---
 id: 1670011
@@ -7816,9 +7796,8 @@ attribute: 0x6400E10001000002
 id: 1670020
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} islanders divided into multiple teams
-competing for the championship.
-
+{{1:30 arg="0x0000"}} islanders were divided into multiple teams
+that competed for the championship.
 
 ---
 id: 1670021
@@ -7831,9 +7810,8 @@ attribute: 0x6400E10001000002
 id: 1670030
 attribute: 0x6400E10001000002
 ---
-The program was proceeding smoothly
-during the final ball rolling event, {{1:30 arg="0x0200"}}.
-
+Everything went well until the
+big ball event, with a minor injury:
 
 ---
 id: 1670031
@@ -7846,9 +7824,8 @@ attribute: 0x6400E10001000002
 id: 1670040
 attribute: 0x6400E10001000002
 ---
-One of our reporters go caught in the ball
-and rolled over themselves.
-
+One of our reporters, {{1:30 arg="0x0200"}},
+was caught in the ball and started rolling.
 
 ---
 id: 1670041
@@ -7861,9 +7838,8 @@ attribute: 0x6400E10001000002
 id: 1670050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, the reporter, was hospitalized
-but received no serious injuries.
-
+Thankfully, they were hospitalized
+and received no serious injuries.
 
 ---
 id: 1670051
@@ -7876,9 +7852,8 @@ attribute: 0x6400E10001000002
 id: 1670060
 attribute: 0x6400E10001000002
 ---
-We reached out to {{1:30 arg="0x0300"}}, 
-a participant, for some comments:
-
+We reached out to participants for comments: 
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1670061
@@ -7893,7 +7868,6 @@ attribute: 0x6400E10001000002
 ---
 "I wanted to show everyone my cool side."
 
-
 ---
 id: 1671011
 attribute: 0x6400E10001000002
@@ -7905,8 +7879,7 @@ attribute: 0x6400E10001000002
 id: 1671020
 attribute: 0x6400E10001000002
 ---
-"When I came to, the scenery was spinning."
-
+"Before I knew it, the scenery was spinning."
 
 ---
 id: 1671021
@@ -7919,8 +7892,7 @@ attribute: 0x6400E10001000002
 id: 1671030
 attribute: 0x6400E10001000002
 ---
-"When I came to, I found myself being rolled around."
-
+"Before I knew it, I was being rolled around."
 
 ---
 id: 1671031
@@ -7933,8 +7905,7 @@ attribute: 0x6400E10001000002
 id: 1671040
 attribute: 0x6400E10001000002
 ---
-"I got too carried away. I caused trouble for the team."
-
+"I got too carried away and hurt my team..."
 
 ---
 id: 1671041
@@ -7947,8 +7918,7 @@ attribute: 0x6400E10001000002
 id: 1671050
 attribute: 0x6400E10001000002
 ---
-"It feels ridiculous. It's too embarrassing."
-
+"This feels ridiculous. It's too embarrassing."
 
 ---
 id: 1671051
@@ -7968,8 +7938,8 @@ attribute: 0x6400800001010101
 id: 1680010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} is the {{1:30 arg="0x0000"}}
-Eating Contest's deciding match.
+Around {{1:30 arg="0x0100"}}, the
+{{1:30 arg="0x0000"}} Eating Contest took place.
 
 
 ---
@@ -7998,9 +7968,8 @@ attribute: 0x6400E10001000002
 id: 1680030
 attribute: 0x6400E10001000002
 ---
-“Who will break the champion's {{1:30 arg="0x0200"}}?”
-That topic drew a lot of attention.
-
+Many viewers wondered who would defeat
+last contest's champion, {{1:30 arg="0x0200"}}.
 
 ---
 id: 1680031
@@ -8013,8 +7982,8 @@ attribute: 0x6400E10001000002
 id: 1680040
 attribute: 0x6400E10001000002
 ---
-However, {{1:30 arg="0x0200"}}'s
-overwhelmed the competition with their astonishing speed.
+However, {{1:30 arg="0x0200"}} overwhelmed the 
+competition with their astonishing speed.
 
 
 ---
@@ -8028,9 +7997,8 @@ attribute: 0x6400E10001000002
 id: 1680050
 attribute: 0x6400E10001000002
 ---
-This year too, {{1:30 arg="0x0200"}}
-once again clinched the championship by a landslide.
-
+And once again, {{1:30 arg="0x0200"}} won
+the championship by a landslide.
 
 ---
 id: 1680051
@@ -8043,9 +8011,8 @@ attribute: 0x6400E10001000002
 id: 1680060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} is so overwhelmingly strong, that
-they are being considered for induction into the Hall of Fame.
-
+They are considered an induction into
+ the Hall of Fame due to their skills.
 
 ---
 id: 1680061
@@ -8058,7 +8025,7 @@ attribute: 0x6400E10001000002
 id: 1690000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Gymnastics is all the rage
+{{1:30 arg="0x0000"}} Gymnastics Is all the Rage
 
 
 ---
@@ -8066,8 +8033,7 @@ id: 1690010
 attribute: 0x6400E10001000002
 ---
 Recently, {{1:30 arg="0x0000"}} gymnastics
-is all the rage.
-
+has become wildly popular.
 
 ---
 id: 1690011
@@ -8080,9 +8046,8 @@ attribute: 0x6400E10001000002
 id: 1690020
 attribute: 0x6400E10001000002
 ---
-It all started when {{1:30 arg="0x0100"}} 
-began doing gymnastics for health reasons.
-
+It began when {{1:30 arg="0x0100"}} did exercises
+for health reasons, and others did the same.
 
 ---
 id: 1690021
@@ -8095,9 +8060,8 @@ attribute: 0x6400E10001000002
 id: 1690030
 attribute: 0x6400E10001000002
 ---
-Nowadays, from children to adults, it has gained
-popularity across a wide range of generations.
-
+Nowadays, it has gained popularity across a 
+wide range of generations, from children to adults.
 
 ---
 id: 1690031
@@ -8110,9 +8074,8 @@ attribute: 0x6400E10001000002
 id: 1690040
 attribute: 0x6400E10001000002
 ---
-Strange rumors began to spread, such as "It’ll make you smarter"
-or "it improves your financial luck," due to its popularity.
-
+The craze spawned lots of rumors, such as "It’ll
+make you smarter" or "it improves your financial luck."
 
 ---
 id: 1690041
@@ -8125,9 +8088,8 @@ attribute: 0x6400E10001000002
 id: 1690050
 attribute: 0x6400E10001000002
 ---
-People started freely rearranging exercise 
-into a hip-hop style, trying to find a partner in love.
-
+People also started rearranging this  
+exercise into hip-hop styles for love.
 
 ---
 id: 1690051
@@ -8140,8 +8102,8 @@ attribute: 0x6400E10001000002
 id: 1690060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} is
-is very confused.
+Like many other people, {{1:30 arg="0x0100"}} is
+is very confused by this fact.
 
 
 ---
@@ -8155,16 +8117,14 @@ attribute: 0x6400E10001000002
 id: 1700000
 attribute: 0x6400800001010101
 ---
-Which one is stronger?
-
+Which Material Is stronger?
 
 ---
 id: 1700010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} Laboratory
-conducts durability tests on various materials.
-
+{{1:30 arg="0x0000"}} Labs has conducted
+a durability test on various materials.
 
 ---
 id: 1700011
@@ -8177,9 +8137,8 @@ attribute: 0x6400E10001000002
 id: 1700020
 attribute: 0x6400E10001000002
 ---
-The investigation conducted a brand-new
-durability test to find scientific results.
-
+The materials in the test are
+{{1:30 arg="0x0200"}} and {{1:30 arg="0x0300"}}.
 
 ---
 id: 1700021
@@ -8192,8 +8151,8 @@ attribute: 0x6400E10001000002
 id: 1700030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} and {{1:30 arg="0x0300"}}
-
+The experiment investigated which
+material will be crushed by gravity.
 
 ---
 id: 1700031
@@ -8206,9 +8165,8 @@ attribute: 0x6400E10001000002
 id: 1700040
 attribute: 0x6400E10001000002
 ---
-This experiment investigates which
-material will be crushed by force.
-
+At the end of the experiment, {{1:30 arg="0x0200"}}
+was mashed like a potato.
 
 ---
 id: 1700041
@@ -8221,9 +8179,8 @@ attribute: 0x6400E10001000002
 id: 1700050
 attribute: 0x6400E10001000002
 ---
-Experimental results confirmed that {{1:30 arg="0x0200"}}
-was found to be corrupted.
-
+{{1:30 arg="0x0000"}}, the director of the research institute,
+is very satisfied with these results.
 
 ---
 id: 1700051
@@ -8236,9 +8193,8 @@ attribute: 0x6400E10001000002
 id: 1700060
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}, the director of the research institute,
-is very satisfied with these results.
-
+Tune in next time for a special report:
+Singing out of tune breaks reality.
 
 ---
 id: 1700061
@@ -8251,16 +8207,14 @@ attribute: 0x6400E10001000002
 id: 1710000
 attribute: 0x6400800001010101
 ---
-Suspicious Person
-
+Suspicious Bear Man
 
 ---
 id: 1710010
 attribute: 0x6400E10001000002
 ---
-A mysterious bearman broke into the food mart on
-{{1:30 arg="0x0200"}} Island.
-
+Around {{1:30 arg="0x0100"}}, a mysterious man broke into
+the Food Mart at {{1:30 arg="0x0200"}} Island.
 
 ---
 id: 1710011
@@ -8273,9 +8227,8 @@ attribute: 0x6400E10001000002
 id: 1710020
 attribute: 0x6400E10001000002
 ---
-The local store security was taking a lunch break
-when the incident occurred.
-
+They were wearing a stuffed animal
+costume, so their voice was muffled.
 
 ---
 id: 1710021
@@ -8288,9 +8241,8 @@ attribute: 0x6400E10001000002
 id: 1710030
 attribute: 0x6400E10001000002
 ---
-Police interviewed the suspect, who said their voice
-was muffled due to the animal helmet.
-
+The clerk couldn’t understand them, which led
+the suspect to take off their helmet.
 
 ---
 id: 1710031
@@ -8303,9 +8255,8 @@ attribute: 0x6400E10001000002
 id: 1710040
 attribute: 0x6400E10001000002
 ---
-The clerk couldn’t understand them,
-which led the suspect to take off their helmet.
-
+They were immediately reported as a suspicious
+criminal. Their intentions are unknown.
 
 ---
 id: 1710041
@@ -8318,9 +8269,8 @@ attribute: 0x6400E10001000002
 id: 1710050
 attribute: 0x6400E10001000002
 ---
-The clerk immediately reported them to local authorities.
-Here is the security camera image from that time.
-
+Our next topic involves the most
+exciting thing on television.
 
 ---
 id: 1710051
@@ -8333,9 +8283,8 @@ attribute: 0x6400E10001000002
 id: 1710060
 attribute: 0x6400E10001000002
 ---
-What this suspicious individual intended to do
-remains unknown.
-
+We have exclusive rights to air
+the thing millions of - Time's up?
 
 ---
 id: 1710061
@@ -8348,15 +8297,14 @@ attribute: 0x6400E10001000002
 id: 1720000
 attribute: 0x6400800001010101
 ---
-Levitation!?
-
+The Secret to Levitation?!
 
 ---
 id: 1720010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0100"}},
-{{1:30 arg="0x0000"}} sent a photograph to the TV station.
+On {{1:30 arg="0x0100"}}, {{1:30 arg="0x0000"}} gave us
+a special photograph.
 
 
 ---
@@ -8370,9 +8318,8 @@ attribute: 0x6400E10001000002
 id: 1720020
 attribute: 0x6400E10001000002
 ---
-We received a letter with the photo:
-"After years of training, I have finally succeeded in levitation."
-
+We received a caption with the photo:
+"I've finally mastered the art of levitation."
 
 ---
 id: 1720021
@@ -8385,9 +8332,8 @@ attribute: 0x6400E10001000002
 id: 1720030
 attribute: 0x6400E10001000002
 ---
-Some of our staff think this might’ve
-have been achieved by photography tricks:
-
+Some of our staff think this was
+faked by photography tricks:
 
 ---
 id: 1720031
@@ -8400,9 +8346,8 @@ attribute: 0x6400E10001000002
 id: 1720040
 attribute: 0x6400E10001000002
 ---
-"What if they jumped in the air
-at a high shutter speed instead?"
-
+"What if they took a photo
+while jumping?" said one reporter.
 
 ---
 id: 1720041
@@ -8415,9 +8360,8 @@ attribute: 0x6400E10001000002
 id: 1720050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} {{1:30 arg="0x0000"}} said.
-
-
+In response, {{1:30 arg="0x0000"}} gave a comment:
+{{1:30 arg="0x0200"}}
 ---
 id: 1720051
 attribute: 0x6400E10001000002
@@ -8429,9 +8373,8 @@ attribute: 0x6400E10001000002
 id: 1720060
 attribute: 0x6400E10001000002
 ---
-and stated that uncovering the truth
+It appears that uncovering the truth
 will likely take some time.
-
 
 ---
 id: 1720061
@@ -8458,7 +8401,7 @@ attribute: 0x6400E10001000002
 id: 1721020
 attribute: 0x6400E10001000002
 ---
-"You don't have to believe it,"
+"You don't have to believe it."
 
 
 ---
@@ -8472,7 +8415,7 @@ attribute: 0x6400E10001000002
 id: 1721030
 attribute: 0x6400E10001000002
 ---
-"I'm not lying,"
+"I'm not lying."
 
 
 ---
@@ -8486,7 +8429,7 @@ attribute: 0x6400E10001000002
 id: 1721040
 attribute: 0x6400E10001000002
 ---
-"No comment,"
+"No comment."
 
 
 ---
@@ -8500,7 +8443,7 @@ attribute: 0x6400E10001000002
 id: 1721050
 attribute: 0x6400E10001000002
 ---
-"I don't remember it well,"
+"I don't remember it well."
 
 
 ---
@@ -8514,16 +8457,14 @@ attribute: 0x6400E10001000002
 id: 1730000
 attribute: 0x6400800001010101
 ---
-Can't Stop!?
-
+Impossible to Cure Hiccups?
 
 ---
 id: 1730010
 attribute: 0x6400E10001000002
 ---
-Earlier, {{1:30 arg="0x0000"}} have
-had suffered from nonstop hiccups.
-
+Around {{1:30 arg="0x0100"}}, {{1:30 arg="0x0000"}}'s hiccups
+began and didn't go away.
 
 ---
 id: 1730011
@@ -8536,9 +8477,8 @@ attribute: 0x6400E10001000002
 id: 1730020
 attribute: 0x6400E10001000002
 ---
-Currently, their symptoms aren’t
-getting better.
-
+They also seem to be in great distress
+due to their ongoing hiccups.
 
 ---
 id: 1730021
@@ -8551,9 +8491,8 @@ attribute: 0x6400E10001000002
 id: 1730030
 attribute: 0x6400E10001000002
 ---
-The doctor still hasn't found the cause
-yet. {{1:30 arg="0x0000"}} said...
-
+"We don't know the cause," their doctor
+said. {{1:30 arg="0x0000"}} gave us a comment:
 
 ---
 id: 1730031
@@ -8569,21 +8508,18 @@ attribute: 0x6400E10001000002
 "I want this to go away soon. I can't-
 *hic*-stand it anymore!"
 
-
 ---
 id: 1730041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
 
-
 ---
 id: 1730050
 attribute: 0x6400E10001000002
 ---
-...and could do nothing but to wait
-until the symptom disappears.
-
+They tried to speak this with a
+look of urgency. Best wishes!
 
 ---
 id: 1730051
@@ -8597,8 +8533,7 @@ id: 1731010
 attribute: 0x6400E10001000002
 ---
 “I’ll do any-*hic*-thing
-to stop these!”
-
+to stop this!”
 
 ---
 id: 1731011
@@ -8614,7 +8549,6 @@ attribute: 0x6400E10001000002
 “Maybe eat-*hic*-ing that
 wasn’t a good idea...”
 
-
 ---
 id: 1731021
 attribute: 0x6400E10001000002
@@ -8627,7 +8561,6 @@ id: 1731030
 attribute: 0x6400E10001000002
 ---
 “I can’t-*hic*-stop! WHYYYY?!?!?!”
-
 
 ---
 id: 1731031
@@ -8642,7 +8575,6 @@ attribute: 0x6400E10001000002
 ---
 “Please, let-*hic*- it be over!”
 
-
 ---
 id: 1731041
 attribute: 0x6400E10001000002
@@ -8654,14 +8586,13 @@ attribute: 0x6400E10001000002
 id: 1740000
 attribute: 0x6400800001010101
 ---
-The Loudest!
-
+The Loudest Voice Ever!
 
 ---
 id: 1740010
 attribute: 0x6400E10001000002
 ---
-Recently, {{1:30 arg="0x0100"}} Island
+Around {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island
 held the Loudest Voice Contest.
 
 
@@ -19277,6 +19208,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
