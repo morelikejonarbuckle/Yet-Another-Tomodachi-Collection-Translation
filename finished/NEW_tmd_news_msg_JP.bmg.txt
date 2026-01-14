@@ -11544,16 +11544,14 @@ attribute: 0x6400E10001000002
 id: 2010000
 attribute: 0x6400800001010101
 ---
-New Star
+New Star Discovered
 
 ---
 id: 2010010
 attribute: 0x6400E10001000002
 ---
-Yesterday, {{1:30 arg="0x0000"}},
-an astronomer, discovered a new star.
-
-
+Yesterday, astronomer {{1:30 arg="0x0000"}}
+discovered a new star.
 ---
 id: 2010011
 attribute: 0x6400E10001000002
@@ -11565,9 +11563,8 @@ attribute: 0x6400E10001000002
 id: 2010020
 attribute: 0x6400E10001000002
 ---
-It was a little sparkling blue star
-in the south.
-
+The star is small and blue, and it
+shines in the southern sky.
 
 ---
 id: 2010021
@@ -11580,9 +11577,8 @@ attribute: 0x6400E10001000002
 id: 2010030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} had
-already named the star:
-
+{{1:30 arg="0x0000"}} had already named the star
+"{{1:30 arg="0x0100"}} Star."
 
 ---
 id: 2010031
@@ -11595,8 +11591,7 @@ attribute: 0x6400E10001000002
 id: 2010040
 attribute: 0x6400E10001000002
 ---
-"{{1:30 arg="0x0100"}} Star."
-
+{{1:30 arg="0x0200"}}
 
 ---
 id: 2010041
@@ -11609,8 +11604,7 @@ attribute: 0x6400E10001000002
 id: 2010050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
+{{1:30 arg="0x0000"}} said.
 
 ---
 id: 2010051
@@ -11623,9 +11617,8 @@ attribute: 0x6400E10001000002
 id: 2010060
 attribute: 0x6400E10001000002
 ---
-That was what {{1:30 arg="0x0000"}}
-told us.
-
+Later on, we'll discuss the ethics
+of having two pairs of socks.
 
 ---
 id: 2010061
@@ -11654,7 +11647,7 @@ id: 2011020
 attribute: 0x6400E10001000002
 ---
 "I hope this star will last
-forever."
+forever,"
 
 
 ---
@@ -11668,9 +11661,8 @@ attribute: 0x6400E10001000002
 id: 2011030
 attribute: 0x6400E10001000002
 ---
-"I hope they let me name it
+"I wanted to originally name it
 the Miracle Superstar Special!"
-
 
 ---
 id: 2011031
@@ -11683,16 +11675,14 @@ attribute: 0x6400E10001000002
 id: 2020000
 attribute: 0x6400800001010101
 ---
-New Mixed Juice!
-
+New Flavor of Mixed Juice!
 
 ---
 id: 2020010
 attribute: 0x6400E10001000002
 ---
-On{{1:30 arg="0x0000"}}, The {{1:30 arg="0x0100"}} Beverage Co.
+On {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Beverage Co.
 announced a mixed juice with odd ingredients.
-
 
 ---
 id: 2020011
@@ -11708,7 +11698,6 @@ attribute: 0x6400E10001000002
 It was made from {{1:30 arg="0x0200"}},
 {{1:30 arg="0x0300"}}, and bananas.
 
-
 ---
 id: 2020021
 attribute: 0x6400E10001000002
@@ -11720,9 +11709,8 @@ attribute: 0x6400E10001000002
 id: 2020030
 attribute: 0x6400E10001000002
 ---
-The main ingredient is pure
-{{1:30 arg="0x0200"}},
-
+The main ingredient is purified
+versions of those three ingredients.
 
 ---
 id: 2020031
@@ -11736,9 +11724,8 @@ attribute: 0x6400E10001000002
 id: 2020040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0300"}}, and
-bananas, mixed together.
-
+The company claims this is a brand-new
+flavor not discovered yet. 
 
 ---
 id: 2020041
@@ -11751,9 +11738,8 @@ attribute: 0x6400E10001000002
 id: 2020050
 attribute: 0x6400E10001000002
 ---
-The flavor is something new that
-no one has ever discovered.
-
+Additionally, this drink provides
+plenty of nutrients.
 
 ---
 id: 2020051
@@ -11766,9 +11752,8 @@ attribute: 0x6400E10001000002
 id: 2020060
 attribute: 0x6400E10001000002
 ---
-Additionally, it provides a variety of nutrients,
-making it perfect for busy people.
-
+It's perfect for busy people who
+don't have time to eat that much.
 
 ---
 id: 2020061
@@ -11781,16 +11766,14 @@ attribute: 0x6400E10001000002
 id: 2030000
 attribute: 0x6400800001010101
 ---
-Mutation!?
-
+Mutating Cabbages!?
 
 ---
 id: 2030010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}'s cabbages
-had mutated into {{1:30 arg="0x0100"}}.
-
+In {{1:30 arg="0x0000"}}'s cabbage field,
+a {{1:30 arg="0x0100"}} sprouted through mutation.
 
 ---
 id: 2030011
@@ -11804,8 +11787,7 @@ id: 2030020
 attribute: 0x6400E10001000002
 ---
 We asked {{1:30 arg="0x0200"}}, a plant morphologist,
-for their opinion.
-
+for their surprised opinion:
 
 ---
 id: 2030021
@@ -11821,7 +11803,6 @@ attribute: 0x6400E10001000002
 "I couldn't imagine this. It's so
 interesting! I'll even research on it."
 
-
 ---
 id: 2030031
 attribute: 0x6400E10001000002
@@ -11833,8 +11814,8 @@ attribute: 0x6400E10001000002
 id: 2030040
 attribute: 0x6400E10001000002
 ---
-As for the {{1:30 arg="0x0100"}}...
-
+The strange {{1:30 arg="0x0100"}} will be taken
+to the {{1:30 arg="0x0300"}} Lab for research.
 
 ---
 id: 2030041
@@ -11847,9 +11828,8 @@ attribute: 0x6400E10001000002
 id: 2030050
 attribute: 0x6400E10001000002
 ---
-It will be transported to the
-{{1:30 arg="0x0300"}} Lab later on.
-
+Our next topic: Film enthusiasts argue
+over meaningless- oh, time's up.
 
 ---
 id: 2030051
@@ -11863,7 +11843,6 @@ id: 2040000
 attribute: 0x6400800001010101
 ---
 Scuba Diving Trial Session
-
 
 ---
 id: 2040010
@@ -19001,6 +18980,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
