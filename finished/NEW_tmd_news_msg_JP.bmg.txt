@@ -11848,8 +11848,8 @@ Scuba Diving Trial Session
 id: 2040010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0000"}}, a Scuba diving event was held at
-{{1:30 arg="0x0100"}} beach.
+Around {{1:30 arg="0x0000"}}, a Scuba diving event 
+was held at {{1:30 arg="0x0100"}} beach.
 
 
 ---
@@ -11863,9 +11863,8 @@ attribute: 0x6400E10001000002
 id: 2040020
 attribute: 0x6400E10001000002
 ---
-This introductory diving experience is based
-on the concept of protecting our beautiful oceans.
-
+This introductory diving experience
+involves protecting our beautiful oceans.
 
 ---
 id: 2040021
@@ -11878,9 +11877,8 @@ attribute: 0x6400E10001000002
 id: 2040030
 attribute: 0x6400E10001000002
 ---
-The event was sponsored by
-{{1:30 arg="0x0200"}} company.
-
+The event, which drew in a large crowd,
+was sponsored by the {{1:30 arg="0x0200"}} company.
 
 ---
 id: 2040031
@@ -11894,7 +11892,7 @@ id: 2040040
 attribute: 0x6400E10001000002
 ---
 Many of the participants were first-timers.
-
+"I was deeply moved," one participant said.
 
 ---
 id: 2040041
@@ -11907,9 +11905,7 @@ attribute: 0x6400E10001000002
 id: 2040050
 attribute: 0x6400E10001000002
 ---
-"I was deeply moved.
-{{1:30 arg="0x0300"}}"
-
+"{{1:30 arg="0x0300"}}"
 
 ---
 id: 2040051
@@ -11922,8 +11918,8 @@ attribute: 0x6400E10001000002
 id: 2040060
 attribute: 0x6400E10001000002
 ---
-the bewildered participant said.
-
+Up next: Teenagers attempt to poison
+water supply, but turns it into soda.
 
 ---
 id: 2040061
@@ -11936,8 +11932,7 @@ attribute: 0x6400E10001000002
 id: 2041010
 attribute: 0x6400E10001000002
 ---
-The ocean is beautiful,
-
+The ocean is beautiful.
 
 ---
 id: 2041011
@@ -11950,8 +11945,8 @@ attribute: 0x6400E10001000002
 id: 2041020
 attribute: 0x6400E10001000002
 ---
-It was my first time to see fish up close,
-
+It was my first time seeing
+fish up close.
 
 ---
 id: 2041021
@@ -11964,8 +11959,7 @@ attribute: 0x6400E10001000002
 id: 2041030
 attribute: 0x6400E10001000002
 ---
-I was so excited. I thought I'd drown,
-
+I was so excited. I thought I'd drown!
 
 ---
 id: 2041031
@@ -11978,8 +11972,7 @@ attribute: 0x6400E10001000002
 id: 2041040
 attribute: 0x6400E10001000002
 ---
-The fish are so tame,
-
+The fish are so tame.
 
 ---
 id: 2041041
@@ -11993,7 +11986,6 @@ id: 2050000
 attribute: 0x6400800001010101
 ---
 Monument erected
-
 
 ---
 id: 2050010
@@ -12015,7 +12007,7 @@ id: 2050020
 attribute: 0x6400E10001000002
 ---
 A statue of {{1:30 arg="0x0000"}} 
-was erected in {{1:30 arg="0x0100"}}  park.
+was erected in {{1:30 arg="0x0100"}} park.
 
 
 ---
@@ -18980,6 +18972,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
