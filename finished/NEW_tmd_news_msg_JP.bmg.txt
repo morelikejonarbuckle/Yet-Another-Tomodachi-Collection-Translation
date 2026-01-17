@@ -12189,8 +12189,7 @@ id: 2070010
 attribute: 0x6400E10001000002
 ---
 Ancient ruins have been discovered on
-{{1:30 arg="0x0000"}}'s land.
-
+{{1:30 arg="0x0000"}}'s lawn.
 
 ---
 id: 2070011
@@ -12203,9 +12202,8 @@ attribute: 0x6400E10001000002
 id: 2070020
 attribute: 0x6400E10001000002
 ---
-Many ancient artifacts appear to be inside the ruins,
-and investigations are currently underway.
-
+Many ancient artifacts may be burried.
+Investigations are currently underway.
 
 ---
 id: 2070021
@@ -12218,9 +12216,8 @@ attribute: 0x6400E10001000002
 id: 2070030
 attribute: 0x6400E10001000002
 ---
-However, there are various traps inside
-that pose a danger to the survey team.
-
+Sadly, there are traps of arrows and snakes
+that prevent investigators from exploring.
 
 ---
 id: 2070031
@@ -12233,9 +12230,8 @@ attribute: 0x6400E10001000002
 id: 2070040
 attribute: 0x6400E10001000002
 ---
-Currently, the investigation is awaiting
-the arrival of specialists.
-
+They are also waiting for experts
+to access the scene.
 
 ---
 id: 2070041
@@ -12250,7 +12246,6 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}
 
-
 ---
 id: 2070051
 attribute: 0x6400E10001000002
@@ -12262,7 +12257,6 @@ attribute: 0x6400E10001000002
 id: 2070060
 attribute: 0x6400E10001000002
 ---
-The land owner,
 {{1:30 arg="0x0000"}} said.
 
 
@@ -12280,7 +12274,6 @@ attribute: 0x6400E10001000002
 "I want this mystery to be solved
 as soon as possible."
 
-
 ---
 id: 2071011
 attribute: 0x6400E10001000002
@@ -12293,8 +12286,7 @@ id: 2071020
 attribute: 0x6400E10001000002
 ---
 “I excited to see how valuable
-it’ll be."
-
+the treasures will be,"
 
 ---
 id: 2071021
@@ -12307,8 +12299,8 @@ attribute: 0x6400E10001000002
 id: 2071030
 attribute: 0x6400E10001000002
 ---
-"It’s mysterious and romantic.."
-
+"It’s mysterious and romantic...
+I might open a cafe here!"
 
 ---
 id: 2071031
@@ -12322,8 +12314,7 @@ id: 2071040
 attribute: 0x6400E10001000002
 ---
 "I’m worried about being cursed if
-I break it."
-
+I touch anything,"
 
 ---
 id: 2071041
@@ -12338,13 +12329,12 @@ attribute: 0x6400800001010101
 ---
 Earthquake Alert!?
 
-
 ---
 id: 2080010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0000"}}, a magnitude 1 tremor
-happened {{1:30 arg="0x0100"}} department store’s toy section.
+On {{1:30 arg="0x0000"}}, a magnitude 1 earthquake
+happened in {{1:30 arg="0x0100"}} department store.
 
 
 ---
@@ -12361,7 +12351,6 @@ attribute: 0x6400E10001000002
 The epicenter is believed to be {{1:30 arg="0x0200"}},
 age {{1:30 arg="0x0300"}}.
 
-
 ---
 id: 2080021
 attribute: 0x6400E10001000002
@@ -12373,9 +12362,8 @@ attribute: 0x6400E10001000002
 id: 2080030
 attribute: 0x6400E10001000002
 ---
-Many speculate the earthquake originated from the child’s
-frustration of not being allowed to buy toys.
-
+Seismologists think the earthquake began when
+{{1:30 arg="0x0200"}} threw a fit.
 
 ---
 id: 2080031
@@ -12388,8 +12376,8 @@ attribute: 0x6400E10001000002
 id: 2080040
 attribute: 0x6400E10001000002
 ---
-Additionally, aftershocks are expected to continue for a while.
-
+Said outburst was fueled by the child
+not being able to buy a toy.
 
 ---
 id: 2080041
@@ -12402,8 +12390,8 @@ attribute: 0x6400E10001000002
 id: 2080050
 attribute: 0x6400E10001000002
 ---
+Aftershocks are expected to continue for a while.
 Please exercise extreme caution, nearby residents.
-
 
 ---
 id: 2080051
@@ -12416,16 +12404,14 @@ attribute: 0x6400E10001000002
 id: 2090000
 attribute: 0x6400800001010101
 ---
-Giant eel captured
-
+Giant Eel Captured
 
 ---
 id: 2090010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0100"}},  {{1:30 arg="0x0000"}}
-caught a giant eel in the island's river.
-
+Around {{1:30 arg="0x0100"}},  {{1:30 arg="0x0000"}} caught
+an eel big as a human in the island's river.
 
 ---
 id: 2090011
@@ -12438,8 +12424,8 @@ attribute: 0x6400E10001000002
 id: 2090020
 attribute: 0x6400E10001000002
 ---
-This giant eel was as big as an adult human.
-
+It took a million hours for {{1:30 arg="0x0000"}}
+to find the eel and catch it.
 
 ---
 id: 2090021
@@ -12452,9 +12438,8 @@ attribute: 0x6400E10001000002
 id: 2090030
 attribute: 0x6400E10001000002
 ---
-It took a million hours for {{1:30 arg="0x0000"}}
-to tug the eel.
-
+Previous attempts involved being swallowed
+and wrestling out the eel's throat.
 
 ---
 id: 2090031
@@ -12470,7 +12455,6 @@ attribute: 0x6400E10001000002
 There were also incidents like being swallowed by an eel
 and wrestling out of the eel's throat,
 
-
 ---
 id: 2090041
 attribute: 0x6400E10001000002
@@ -12485,7 +12469,6 @@ attribute: 0x6400E10001000002
 but they successfully captured it without 
 any incidents.
 
-
 ---
 id: 2090051
 attribute: 0x6400E10001000002
@@ -12498,7 +12481,7 @@ id: 2090060
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
-
+another fisherman said.
 
 ---
 id: 2090061
@@ -12511,8 +12494,7 @@ attribute: 0x6400E10001000002
 id: 2091010
 attribute: 0x6400E10001000002
 ---
-"This is the first time I've heard of one this big."
-
+"This is the first time I've heard of one this big,"
 
 ---
 id: 2091011
@@ -12525,8 +12507,7 @@ attribute: 0x6400E10001000002
 id: 2091020
 attribute: 0x6400E10001000002
 ---
-"I wonder how many servings of kabayaki this will make?"
-
+"I wonder how much kabayaki this will make?"
 
 ---
 id: 2091021
@@ -12539,8 +12520,7 @@ attribute: 0x6400E10001000002
 id: 2091030
 attribute: 0x6400E10001000002
 ---
-"I'd love to try it and see what it tastes like."
-
+"I'd love to try it and see what it tastes like,"
 
 ---
 id: 2091031
@@ -12554,7 +12534,6 @@ id: 2100000
 attribute: 0x6400800001010101
 ---
 The Big Proposal Plan
-
 
 ---
 id: 2100010
@@ -18960,6 +18939,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
