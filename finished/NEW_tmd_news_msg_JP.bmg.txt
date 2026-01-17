@@ -11985,15 +11985,14 @@ attribute: 0x6400E10001000002
 id: 2050000
 attribute: 0x6400800001010101
 ---
-Monument erected
+Monument of Strength Erected
 
 ---
 id: 2050010
 attribute: 0x6400E10001000002
 ---
-To honor {{1:30 arg="0x0000"}}, who’s made many
+{{1:30 arg="0x0000"}}, who’s made many
 contributions to  {{1:30 arg="0x0100"}} island,
-
 
 ---
 id: 2050011
@@ -12006,9 +12005,8 @@ attribute: 0x6400E10001000002
 id: 2050020
 attribute: 0x6400E10001000002
 ---
-A statue of {{1:30 arg="0x0000"}} 
-was erected in {{1:30 arg="0x0100"}} park.
-
+has a statue of them recently
+erected in {{1:30 arg="0x0100"}} park.
 
 ---
 id: 2050021
@@ -12021,9 +12019,8 @@ attribute: 0x6400E10001000002
 id: 2050030
 attribute: 0x6400E10001000002
 ---
-The model’s powerful posing, which symbolizes
-their strength is truly impressive.
-
+The model’s powerful pose symbolizes
+their strength. It's truly impressive.
 
 ---
 id: 2050031
@@ -12036,8 +12033,8 @@ attribute: 0x6400E10001000002
 id: 2050040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}
-
+"{{1:30 arg="0x0200"}}"
+one resident said.
 
 ---
 id: 2050041
@@ -12050,8 +12047,8 @@ attribute: 0x6400E10001000002
 id: 2050050
 attribute: 0x6400E10001000002
 ---
-It's already popular among residents.
-
+Our next topic covers the dangerous
+"hyper" drug. Tune in later! 
 
 ---
 id: 2050051
@@ -12064,8 +12061,7 @@ attribute: 0x6400E10001000002
 id: 2051010
 attribute: 0x6400E10001000002
 ---
-"I think it’ll become a symbol of the island."
-
+"I think it’ll become a symbol of the island,"
 
 ---
 id: 2051011
@@ -12078,8 +12074,7 @@ attribute: 0x6400E10001000002
 id: 2051020
 attribute: 0x6400E10001000002
 ---
-"It’s Perfect for a date meeting spot."
-
+"It’s perfect for a date meeting spot!"
 
 ---
 id: 2051021
@@ -12094,7 +12089,6 @@ attribute: 0x6400E10001000002
 ---
 "I want one in my garden too!"
 
-
 ---
 id: 2051031
 attribute: 0x6400E10001000002
@@ -12107,7 +12101,6 @@ id: 2051040
 attribute: 0x6400E10001000002
 ---
 "It's incredibly cool. I'm so envious!"
-
 
 ---
 id: 2051041
@@ -12122,14 +12115,12 @@ attribute: 0x6400800001010101
 ---
 The Big Thief
 
-
 ---
 id: 2060010
 attribute: 0x6400E10001000002
 ---
-Yesterday, it appears a theft occurred 
-at the tennis court on {{1:30 arg="0x0000"}} Island.
-
+Yesterday, a theft occurred on {{1:30 arg="0x0000"}}
+Island's tennis court.
 
 ---
 id: 2060011
@@ -12143,7 +12134,7 @@ id: 2060020
 attribute: 0x6400E10001000002
 ---
 The thief, who served a beautiful shot,
-
+had stolen {{1:30 arg="0x0100"}}'s heart.
 
 ---
 id: 2060021
@@ -12156,9 +12147,8 @@ attribute: 0x6400E10001000002
 id: 2060030
 attribute: 0x6400E10001000002
 ---
-had stolen  {{1:30 arg="0x0100"}}'s heart.
-What? You thought it was something worse?
-
+The {{1:30 arg="0x0000"}} police have launched 
+an investigation into this major incident.
 
 ---
 id: 2060031
@@ -12171,9 +12161,8 @@ attribute: 0x6400E10001000002
 id: 2060040
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} police have launched 
-an investigation into this major incident.
-
+In other news, a lovey-dovey couple
+has robbed the National Tennis League.
 
 ---
 id: 2060041
@@ -12186,15 +12175,14 @@ attribute: 0x6400E10001000002
 id: 2062010
 attribute: 0x6400800001010001
 ---
-事件のあったテニスコート
-
+They appear to have stolen proof
+that all sports matches are rigged.
 
 ---
 id: 2070000
 attribute: 0x6400800001010101
 ---
-Ancient Ruins!
-
+Ancient Ruins Discovered!!
 
 ---
 id: 2070010
@@ -18972,6 +18960,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
