@@ -13218,14 +13218,14 @@ attribute: 0x6400E10001000002
 id: 2170000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} Display spoofing allegations
+{{1:30 arg="0x0000"}} Display Spoofing Allegations
 
 ---
 id: 2170010
 attribute: 0x6400E10001000002
 ---
 Around {{1:30 arg="0x0100"}}, {{1:30 arg="0x0200"}} Island
-food wholesalers have gotten into some trouble.
+food wholesalers have been investigated.
 
 ---
 id: 2170011
@@ -13238,8 +13238,8 @@ attribute: 0x6400E10001000002
 id: 2170020
 attribute: 0x6400E10001000002
 ---
-We questioned the company of suspicious display tampering,
-involving {{1:30 arg="0x0000"}}.
+The company was questioned about suspicious
+display tampering involving {{1:30 arg="0x0000"}}.
 
 ---
 id: 2170021
@@ -13252,9 +13252,8 @@ attribute: 0x6400E10001000002
 id: 2170030
 attribute: 0x6400E10001000002
 ---
-According to our investigation, the ingredient
-"consideration" was not listed.
-
+According to the investigation, the ingredient
+"consideration" was not listed in nutrition facts.
 
 ---
 id: 2170031
@@ -13267,9 +13266,8 @@ attribute: 0x6400E10001000002
 id: 2170040
 attribute: 0x6400E10001000002
 ---
-However, since there are absolutely no issues with the quality,
-it is being sold as usual.
-
+There are absolutely no issues with the quality,
+so it is being sold as usual.
 
 ---
 id: 2170041
@@ -13284,14 +13282,12 @@ attribute: 0x6400800001010101
 ---
 Potato Chips Are All the Rage
 
-
 ---
 id: 2180010
 attribute: 0x6400E10001000002
 ---
 Recently, there’s been a lot of buzz about
-{{1:30 arg="0x0000"}} confectionery.
-
+{{1:30 arg="0x0000"}} as a popular flavor,
 
 ---
 id: 2180011
@@ -13304,9 +13300,8 @@ attribute: 0x6400E10001000002
 id: 2180020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} flavored potato chips
-are all the rage.
-
+with {{1:30 arg="0x0100"}} flavored potato chips
+being all the rage.
 
 ---
 id: 2180021
@@ -13319,8 +13314,8 @@ attribute: 0x6400E10001000002
 id: 2180030
 attribute: 0x6400E10001000002
 ---
-The new potato chips are {{1:30 arg="0x0100"}} and perfectly
-match newly harvested potatoes.
+These new potato chips are {{1:30 arg="0x0100"}} 
+and perfectly match newly harvested potatoes.
 
 
 ---
@@ -13335,8 +13330,7 @@ id: 2180040
 attribute: 0x6400E10001000002
 ---
 It’s said the chips have an addictively
-delicious taste.
-
+delicious taste. Lots of our staff agree!
 
 ---
 id: 2180041
@@ -13352,7 +13346,6 @@ attribute: 0x6400E10001000002
 The commercial features the hugely popular 
 {{1:30 arg="0x0200"}} as its star,
 
-
 ---
 id: 2180051
 attribute: 0x6400E10001000002
@@ -13367,7 +13360,6 @@ attribute: 0x6400E10001000002
 which could also been a factor in the
 huge popularity of this product.
 
-
 ---
 id: 2180061
 attribute: 0x6400E10001000002
@@ -13381,14 +13373,12 @@ attribute: 0x6400800001010101
 ---
 Ghost photo!?
 
-
 ---
 id: 2190010
 attribute: 0x6400E10001000002
 ---
-We have received a paranormal photograph
+Previously, we have received a paranormal photo
 presumed to have a captured human spirit.
-
 
 ---
 id: 2190011
@@ -13401,9 +13391,8 @@ attribute: 0x6400E10001000002
 id: 2190020
 attribute: 0x6400E10001000002
 ---
-But actually, what’s shown here is
-the person who posted this photo:
-
+In reality, one staff member noticed
+the person in the picture looked familiar:
 
 ---
 id: 2190021
@@ -13418,7 +13407,6 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}'s friend, {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 2190031
 attribute: 0x6400E10001000002
@@ -13430,9 +13418,8 @@ attribute: 0x6400E10001000002
 id: 2190040
 attribute: 0x6400E10001000002
 ---
-This photograph has been determined not
-to be a spirit photograph.
-
+We now know this photograph
+is not a spirit captured in a photo.
 
 ---
 id: 2190041
@@ -13445,8 +13432,8 @@ attribute: 0x6400E10001000002
 id: 2190050
 attribute: 0x6400E10001000002
 ---
-From  {{1:30 arg="0x0000"}}, who was surprised
-by the previous broadcast,
+We previously aired this article
+before and got a message from {{1:30 arg="0x0000"}}.
 
 
 ---
@@ -13461,8 +13448,7 @@ id: 2190060
 attribute: 0x6400E10001000002
 ---
 We have received your notification, and hereby
-offer our apologies for the error.
-
+offer our apologies for this error.
 
 ---
 id: 2190061
@@ -13475,8 +13461,7 @@ attribute: 0x6400E10001000002
 id: 2190070
 attribute: 0x6400E10001000002
 ---
-The Rumored Ghost Photo
-
+The fabricated ghost photo
 
 ---
 id: 2190071
@@ -13484,20 +13469,17 @@ attribute: 0x6400E10001000002
 ---
 225
 
-
 ---
 id: 2192010
 attribute: 0x6400800001010001
 ---
-The Rumored Ghost Photo
-
+The fabricated ghost photo
 
 ---
 id: 2200000
 attribute: 0x6400800001010101
 ---
 Noise Problem
-
 
 ---
 id: 2200010
@@ -18885,6 +18867,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
