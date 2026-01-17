@@ -12542,7 +12542,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}} Island's famous event
 organizer is now looking for lovers.
 
-
 ---
 id: 2100011
 attribute: 0x6400E10001000002
@@ -12557,7 +12556,6 @@ attribute: 0x6400E10001000002
 In front of crowds, lovers must propose
 using {{1:30 arg="0x0100"}}.
 
-
 ---
 id: 2100021
 attribute: 0x6400E10001000002
@@ -12569,9 +12567,8 @@ attribute: 0x6400E10001000002
 id: 2100030
 attribute: 0x6400E10001000002
 ---
-If their partner accepts, they give the heart-shaped
-{{1:30 arg="0x0100"}} to their partner.
-
+If their partner accepts, they give the 
+heart-shaped {{1:30 arg="0x0100"}} to their partner.
 
 ---
 id: 2100031
@@ -12587,7 +12584,6 @@ attribute: 0x6400E10001000002
 More than 100 participating couples have
 married through this event in the past.
 
-
 ---
 id: 2100041
 attribute: 0x6400E10001000002
@@ -12602,7 +12598,6 @@ attribute: 0x6400E10001000002
 The organizer requests others to entrust
 your sincere feelings to {{1:30 arg="0x0100"}},
 
-
 ---
 id: 2100051
 attribute: 0x6400E10001000002
@@ -12615,7 +12610,6 @@ id: 2100060
 attribute: 0x6400E10001000002
 ---
 and is calling for applications.
-
 
 ---
 id: 2100061
@@ -12630,14 +12624,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Gone Missing
 
-
 ---
 id: 2110010
 attribute: 0x6400E10001000002
 ---
-Earlier this {{1:30 arg="0x0200"}}, {{1:30 arg="0x0100"}}
-reported a shocking revelation:
-
+Earlier around {{1:30 arg="0x0200"}}, {{1:30 arg="0x0100"}} reported
+that {{1:30 arg="0x0000"}} had gone missing.
 
 ---
 id: 2110011
@@ -12650,8 +12642,8 @@ attribute: 0x6400E10001000002
 id: 2110020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} had gone missing.
-
+The police and {{1:30 arg="0x0100"}} are
+now searching for {{1:30 arg="0x0000"}}.
 
 ---
 id: 2110021
@@ -12664,9 +12656,8 @@ attribute: 0x6400E10001000002
 id: 2110030
 attribute: 0x6400E10001000002
 ---
-The police and {{1:30 arg="0x0100"}} are
-now searching for {{1:30 arg="0x0000"}}.
-
+Further investigation showed that {{1:30 arg="0x0000"}}
+frequently tried to run away from home.
 
 ---
 id: 2110031
@@ -12679,9 +12670,8 @@ attribute: 0x6400E10001000002
 id: 2110040
 attribute: 0x6400E10001000002
 ---
-It is possible that {{1:30 arg="0x0000"}} had
-attempted to run away from home.
-
+{{1:30 arg="0x0100"}} is hearing 
+the details of the situation.
 
 ---
 id: 2110041
@@ -12694,8 +12684,8 @@ attribute: 0x6400E10001000002
 id: 2110050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} is hearing the details of the situation.
-
+Next up on Mii news is the report
+over the biology of an odd animal:
 
 ---
 id: 2110051
@@ -12708,9 +12698,7 @@ attribute: 0x6400E10001000002
 id: 2110060
 attribute: 0x6400E10001000002
 ---
-Subsequent investigations showed that  {{1:30 arg="0x0000"}}
-frequently tried to run away from home.
-
+Toaster pastry cats. For now...
 
 ---
 id: 2110061
@@ -12725,13 +12713,11 @@ attribute: 0x6400E10001000002
 ---
 Missing {{1:30 arg="0x0000"}}
 
-
 ---
 id: 2110071
 attribute: 0x6400E10001000002
 ---
 225
-
 
 ---
 id: 2112010
@@ -12739,13 +12725,11 @@ attribute: 0x6400800001010001
 ---
 Missing {{1:30 arg="0x0000"}}
 
-
 ---
 id: 2120000
 attribute: 0x6400800001010101
 ---
 Apartment Renovation Complete!
-
 
 ---
 id: 2120010
@@ -12753,7 +12737,6 @@ attribute: 0x6400E10001000002
 ---
 It appears that the apartment has remodeled
 itself while nobody was looking.
-
 
 ---
 id: 2120011
@@ -12769,7 +12752,6 @@ attribute: 0x6400E10001000002
 As the number of residents increased, the number of
 available apartments have become limited.
 
-
 ---
 id: 2120021
 attribute: 0x6400E10001000002
@@ -12783,7 +12765,6 @@ attribute: 0x6400E10001000002
 ---
 Forty-eight rooms were built to
 expand the apartment complex.
-
 
 ---
 id: 2120031
@@ -12799,7 +12780,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}} commented,
 "{{1:30 arg="0x0100"}}"
 
-
 ---
 id: 2120041
 attribute: 0x6400E10001000002
@@ -12814,7 +12794,6 @@ attribute: 0x6400E10001000002
 This surprising moment was sure
 to be a highlight of anyone's day.
 
-
 ---
 id: 2120051
 attribute: 0x6400E10001000002
@@ -12826,7 +12805,7 @@ attribute: 0x6400E10001000002
 id: 2121010
 attribute: 0x6400E10001000002
 ---
-Wow, the apartment is really high now, isn't it?
+Wow, it's really high now, isn't it?
 
 
 ---
@@ -12842,7 +12821,6 @@ attribute: 0x6400E10001000002
 ---
 They finished remodeling in no time.
 
-
 ---
 id: 2121021
 attribute: 0x6400E10001000002
@@ -12856,7 +12834,6 @@ attribute: 0x6400E10001000002
 ---
 I just noticed it this morning.
 
-
 ---
 id: 2121031
 attribute: 0x6400E10001000002
@@ -12868,24 +12845,20 @@ attribute: 0x6400E10001000002
 id: 2122010
 attribute: 0x6400800001010001
 ---
-The apartment building where
-construction occured
-
+The rebuilt apartment building
 
 ---
 id: 2130000
 attribute: 0x6400800001010101
 ---
-Our population reaches 10!
-
+Island Population Reaches 10!
 
 ---
 id: 2130010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0000"}}, the {{1:30 arg="0x0100"}} Island
-has 10 total residents.
-
+On {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island
+has reached 10 total residents.
 
 ---
 id: 2130011
@@ -12901,7 +12874,6 @@ attribute: 0x6400E10001000002
 A party was held at the island hotel
 to celebrate this event.
 
-
 ---
 id: 2130021
 attribute: 0x6400E10001000002
@@ -12913,9 +12885,8 @@ attribute: 0x6400E10001000002
 id: 2130030
 attribute: 0x6400E10001000002
 ---
-Resident  {{1:30 arg="0x0200"}}
+Resident {{1:30 arg="0x0200"}}
 happily told us a comment:
-
 
 ---
 id: 2130031
@@ -12930,7 +12901,6 @@ attribute: 0x6400E10001000002
 ---
 "It's gradually getting livelier."
 
-
 ---
 id: 2130041
 attribute: 0x6400E10001000002
@@ -12944,14 +12914,12 @@ attribute: 0x6400800001010101
 ---
 Lottery Winner Announcement
 
-
 ---
 id: 2140010
 attribute: 0x6400E10001000002
 ---
-Earlier this {{1:30 arg="0x0000"}}, the  {{1:30 arg="0x0100"}} island
-lottery results were announced.
-
+Around {{1:30 arg="0x0000"}}, the {{1:30 arg="0x0100"}} Island
+Lottery results were announced.
 
 ---
 id: 2140011
@@ -12967,7 +12935,6 @@ attribute: 0x6400E10001000002
 The grand prize is a lifetime supply of {{1:30 arg="0x0200"}},
 but the winner has yet to come forward.
 
-
 ---
 id: 2140021
 attribute: 0x6400E10001000002
@@ -12981,7 +12948,6 @@ attribute: 0x6400E10001000002
 ---
 We spoke with {{1:30 arg="0x0300"}}, an island resident
 who had come to see who won.
-
 
 ---
 id: 2140031
@@ -13002,14 +12968,14 @@ id: 2140041
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
-
+they said.
 
 ---
 id: 2140050
 attribute: 0x6400E10001000002
 ---
 Congratulations to all the winners!
-
+Please remember the cons of gambling.
 
 ---
 id: 2140051
@@ -13024,7 +12990,6 @@ attribute: 0x6400E10001000002
 ---
 "I'm so envious of the winners!"
 
-
 ---
 id: 2141011
 attribute: 0x6400E10001000002
@@ -13036,8 +13001,7 @@ attribute: 0x6400E10001000002
 id: 2141020
 attribute: 0x6400E10001000002
 ---
-"I bought 100 tickets but still didn't win."
-
+"I bought 100 tickets but still didn't win,"
 
 ---
 id: 2141021
@@ -13050,8 +13014,7 @@ attribute: 0x6400E10001000002
 id: 2141030
 attribute: 0x6400E10001000002
 ---
-"Too bad. I was unlucky."
-
+"Too bad. I was unlucky,"
 
 ---
 id: 2141031
@@ -13066,7 +13029,6 @@ attribute: 0x6400E10001000002
 ---
 "I'll keep buying until I win!"
 
-
 ---
 id: 2141041
 attribute: 0x6400E10001000002
@@ -13078,8 +13040,7 @@ attribute: 0x6400E10001000002
 id: 2141050
 attribute: 0x6400E10001000002
 ---
-"Eh? No way! I won!!"
-
+"*scratches ticket* Eh? No way! I won!!!"
 
 ---
 id: 2141051
@@ -13094,14 +13055,12 @@ attribute: 0x6400800001010101
 ---
 Rascals Unite!
 
-
 ---
 id: 2150010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} Nomiya stable wrestlers and children
 exchanged strength-testing interactions.
-
 
 ---
 id: 2150011
@@ -13115,8 +13074,7 @@ id: 2150020
 attribute: 0x6400E10001000002
 ---
 Surprisingly, the winner was third-grader {{1:30 arg="0x0100"}}, from
- {{1:30 arg="0x0200"}} Elementary School.
-
+{{1:30 arg="0x0200"}} Elementary School.
 
 ---
 id: 2150021
@@ -13129,9 +13087,8 @@ attribute: 0x6400E10001000002
 id: 2150030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} grabbed a giant mochi cake
-so big, it would astonish adults,
-
+{{1:30 arg="0x0100"}} won by lifting a giant mochi cake
+so big that it would astonish adults,
 
 ---
 id: 2150031
@@ -13144,8 +13101,8 @@ attribute: 0x6400E10001000002
 id: 2150040
 attribute: 0x6400E10001000002
 ---
-and lifted it with ease.
-
+and lifted it with ease. They
+cheerfully said the following:
 
 ---
 id: 2150041
@@ -13159,8 +13116,7 @@ id: 2150050
 attribute: 0x6400E10001000002
 ---
 "Last year I was the runner-up.
-I'm thrilled to have won this year,"
-
+I'm thrilled to have won this year."
 
 ---
 id: 2150051
@@ -13173,8 +13129,8 @@ attribute: 0x6400E10001000002
 id: 2150060
 attribute: 0x6400E10001000002
 ---
-they cheerfully told me.
-
+Up next: Millitary goes mad using
+soldiers as Ammo- oh, time's up.
 
 ---
 id: 2150061
@@ -13187,16 +13143,14 @@ attribute: 0x6400E10001000002
 id: 2160000
 attribute: 0x6400800001010101
 ---
-"Everything {{1:30 arg="0x0000"}}" is now open! 
-
+"Everything {{1:30 arg="0x0000"}}" is Now Open! 
 
 ---
 id: 2160010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}, on {{1:30 arg="0x0200"}} Island,
+Recently this {{1:30 arg="0x0100"}}, on {{1:30 arg="0x0200"}} Island,
 a new store has opened.
-
 
 ---
 id: 2160011
@@ -13212,14 +13166,12 @@ attribute: 0x6400E10001000002
 The name of the store is called
 "Everything {{1:30 arg="0x0000"}}."
 
-
 ---
 id: 2160021
 attribute: 0x6400E10001000002
 ---
 They sell  {{1:30 arg="0x0000"}} tempura, chawanmushi, clear soup
-kama-meshi, {{1:30 arg="0x0000"}} sushi, gratin,
-
+kama-meshi, juice, chips, sushi, gratin,
 
 ---
 id: 2160030
@@ -13235,14 +13187,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}ノテンプラ＿チャワンムシ＿スイモノ＿カマメシ＿{{1:30 arg="0x0000"}}ズシ＿グラタン
 
-
 ---
 id: 2160040
 attribute: 0x6400E10001000002
 ---
-grilled {{1:30 arg="0x0000"}}, and other various items
-related to {{1:30 arg="0x0000"}}.
-
+grilled {{1:30 arg="0x0000"}}, and other various foods
+and items related to {{1:30 arg="0x0000"}}.
 
 ---
 id: 2160041
@@ -13255,8 +13205,7 @@ attribute: 0x6400E10001000002
 id: 2160050
 attribute: 0x6400E10001000002
 ---
-The oversized {{1:30 arg="0x0000"}} sign is their landmark.
-
+Their oversized {{1:30 arg="0x0000"}} sign is their landmark.
 
 ---
 id: 2160051
@@ -13271,14 +13220,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Display spoofing allegations
 
-
 ---
 id: 2170010
 attribute: 0x6400E10001000002
 ---
-This  {{1:30 arg="0x0100"}}, {{1:30 arg="0x0200"}} Island
+Around {{1:30 arg="0x0100"}}, {{1:30 arg="0x0200"}} Island
 food wholesalers have gotten into some trouble.
-
 
 ---
 id: 2170011
@@ -13293,7 +13240,6 @@ attribute: 0x6400E10001000002
 ---
 We questioned the company of suspicious display tampering,
 involving {{1:30 arg="0x0000"}}.
-
 
 ---
 id: 2170021
@@ -18939,6 +18885,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
