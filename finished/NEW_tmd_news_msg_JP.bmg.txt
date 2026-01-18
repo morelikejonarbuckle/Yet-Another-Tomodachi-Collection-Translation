@@ -13486,8 +13486,7 @@ id: 2200010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} filed a
-complaint about the neighbor's noise.
-
+noise complaint from their neighbor.
 
 ---
 id: 2200011
@@ -13500,9 +13499,8 @@ attribute: 0x6400E10001000002
 id: 2200020
 attribute: 0x6400E10001000002
 ---
-According to {{1:30 arg="0x0000"}}, they’ve been suffering from sleep
-deprivation.
-
+According to {{1:30 arg="0x0000"}}, they’ve been
+suffering from sleep deprivation,
 
 ---
 id: 2200021
@@ -13515,9 +13513,8 @@ attribute: 0x6400E10001000002
 id: 2200030
 attribute: 0x6400E10001000002
 ---
-This is due to the loud snores that come
-from the neighbor. 
-
+due to the loud snores that come
+from their neighbor. 
 
 ---
 id: 2200031
@@ -13530,8 +13527,8 @@ attribute: 0x6400E10001000002
 id: 2200040
 attribute: 0x6400E10001000002
 ---
-“I can’t take this anymore!” {{1:30 arg="0x0100"}} commented.
-
+“I can’t take this anymore!” they said.
+"{{1:30 arg="0x0100"}}"
 
 ---
 id: 2200041
@@ -13544,9 +13541,8 @@ attribute: 0x6400E10001000002
 id: 2200050
 attribute: 0x6400E10001000002
 ---
-The neighbor, who will remain anonymous, 
-couldn’t hide his shock and said "Did I snore that loud?"
-
+The neighbor, who will remain anonymous, couldn’t hide
+his shock and said "Did I snore that loud?"
 
 ---
 id: 2200051
@@ -13559,8 +13555,7 @@ attribute: 0x6400E10001000002
 id: 2201010
 attribute: 0x6400E10001000002
 ---
-“Sleep with a clothespin on your nose,”
-
+“Sleep with a clothespin on your nose!”
 
 ---
 id: 2201011
@@ -13573,8 +13568,7 @@ attribute: 0x6400E10001000002
 id: 2201020
 attribute: 0x6400E10001000002
 ---
-“Please plug my nose,”
-
+“Please plug my nose!”
 
 ---
 id: 2201021
@@ -13587,8 +13581,7 @@ attribute: 0x6400E10001000002
 id: 2201030
 attribute: 0x6400E10001000002
 ---
-“Please hide my face,”
-
+“Please hide my face!”
 
 ---
 id: 2201031
@@ -13603,13 +13596,11 @@ attribute: 0x6400800001010001
 ---
 The sleepless  {{1:30 arg="0x0000"}} said.
 
-
 ---
 id: 2210000
 attribute: 0x6400800001010101
 ---
-Tough-as-nails{{1:30 arg="0x0000"}}
-
+Tough-as-nails {{1:30 arg="0x0000"}}
 
 ---
 id: 2210010
@@ -13617,7 +13608,6 @@ attribute: 0x6400E10001000002
 ---
 Wild {{1:30 arg="0x0000"}} has grown vigorously
 through many cracks in the asphalt.
-
 
 ---
 id: 2210011
@@ -13630,9 +13620,8 @@ attribute: 0x6400E10001000002
 id: 2210020
 attribute: 0x6400E10001000002
 ---
-A Wild {{1:30 arg="0x0000"}} was found
+The {{1:30 arg="0x0000"}} was originally found
 in the corner of a busy street.
-
 
 ---
 id: 2210021
@@ -13648,7 +13637,6 @@ attribute: 0x6400E10001000002
 We interviewed a clerk who was working at a shop
 nearby, and they replied with the following:
 
-
 ---
 id: 2210031
 attribute: 0x6400E10001000002
@@ -13661,7 +13649,6 @@ id: 2210040
 attribute: 0x6400E10001000002
 ---
 "{{1:30 arg="0x0000"}} is growing?"
-
 
 ---
 id: 2210041
@@ -13677,7 +13664,6 @@ attribute: 0x6400E10001000002
 Other stores' clerks also had no
 clue about it.
 
-
 ---
 id: 2210051
 attribute: 0x6400E10001000002
@@ -13689,9 +13675,8 @@ attribute: 0x6400E10001000002
 id: 2210060
 attribute: 0x6400E10001000002
 ---
-It should've grown somewhere else
-without being disturbed by anyone.
-
+We hope it continues to grow in
+an area that doesn't bother citizens.
 
 ---
 id: 2210061
@@ -13704,15 +13689,14 @@ attribute: 0x6400E10001000002
 id: 2220000
 attribute: 0x6400800001010101
 ---
-Spring is Late
-
+A Distant Spring
 
 ---
 id: 2220010
 attribute: 0x6400E10001000002
 ---
-The cold and lonely days keep continuing.
-
+This month's general weather outlook:
+Bitter cold that's here to stay.
 
 ---
 id: 2220011
@@ -13725,9 +13709,8 @@ attribute: 0x6400E10001000002
 id: 2220020
 attribute: 0x6400E10001000002
 ---
-Some ice has washed ashore
-{{1:30 arg="0x0000"}} Island. Inside,
-
+Some ice has washed ashore the
+northernmost cape of {{1:30 arg="0x0000"}} Island.
 
 ---
 id: 2220021
@@ -13740,9 +13723,8 @@ attribute: 0x6400E10001000002
 id: 2220030
 attribute: 0x6400E10001000002
 ---
-we found the Arctic {{1:30 arg="0x0100"}}
-peeking out.
-
+There was even an Arctic {{1:30 arg="0x0100"}}
+peeking out!
 
 ---
 id: 2220031
@@ -13755,8 +13737,8 @@ attribute: 0x6400E10001000002
 id: 2220040
 attribute: 0x6400E10001000002
 ---
+In conclusion,
 Spring seems to be a little further off.
-
 
 ---
 id: 2220041
@@ -13769,16 +13751,13 @@ attribute: 0x6400E10001000002
 id: 2230000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} 50-unit leap 
-
+A 50 {{1:30 arg="0x0000"}} Tall Leap 
 
 ---
 id: 2230010
 attribute: 0x6400E10001000002
 ---
-This {{1:30 arg="0x0100"}}, at the {{1:30 arg="0x0200"}} World Athletics Championships,
-a high jump competition took place.
-
+Around {{1:30 arg="0x0100"}}, at the {{1:30 arg="0x0200"}} World Sports, the high jump event took place.
 
 ---
 id: 2230011
@@ -13791,9 +13770,8 @@ attribute: 0x6400E10001000002
 id: 2230020
 attribute: 0x6400E10001000002
 ---
-The gold medal goes to {{1:30 arg="0x0300"}}.
-The record stands at fifty stacked-up {{1:30 arg="0x0000"}},
-
+The gold medal goes to {{1:30 arg="0x0300"}}, for
+jumping as high as fifty stacked-up {{1:30 arg="0x0000"}}.
 
 ---
 id: 2230021
@@ -13806,9 +13784,8 @@ attribute: 0x6400E10001000002
 id: 2230030
 attribute: 0x6400E10001000002
 ---
-an achievement that sets a new record in
-Mii history.
-
+This is a new achievement that sets
+a new record in Mii history!
 
 ---
 id: 2230031
@@ -13821,9 +13798,8 @@ attribute: 0x6400E10001000002
 id: 2230040
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0400"}} athlete in 2nd place
-dropped out after 32 {{1:30 arg="0x0000"}}.
-
+The winner effortlessly leapt over the piling-up
+{{1:30 arg="0x0000"}}, overwhelming the crowd.
 
 ---
 id: 2230041
@@ -13836,9 +13812,8 @@ attribute: 0x6400E10001000002
 id: 2230050
 attribute: 0x6400E10001000002
 ---
-They effortlessly leapt over the piling-up {{1:30 arg="0x0000"}},
-overwhelming the crowd.
-
+On the podium, they made a bold comment:
+"Next time, I'll jump over 60!"
 
 ---
 id: 2230051
@@ -13851,9 +13826,8 @@ attribute: 0x6400E10001000002
 id: 2230060
 attribute: 0x6400E10001000002
 ---
-On the podium, they made a bold comment:
-"Next time, I'll jump over 60!"
-
+Another athlete, {{1:30 arg="0x0400"}},
+dropped out after 32 {{1:30 arg="0x0000"}}.
 
 ---
 id: 2230061
@@ -13866,8 +13840,7 @@ attribute: 0x6400E10001000002
 id: 2230070
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0300"}} player who won
-
+The winner, {{1:30 arg="0x0300"}}
 
 ---
 id: 2230071
@@ -13880,23 +13853,20 @@ attribute: 0x6400E10001000002
 id: 2232010
 attribute: 0x6400800001010001
 ---
-The winning {{1:30 arg="0x0300"}} player
-
+The winner, {{1:30 arg="0x0300"}}
 
 ---
 id: 2240000
 attribute: 0x6400800001010101
 ---
-Hanging {{1:30 arg="0x0000"}}!
-
+Hanging {{1:30 arg="0x0000"}} Incident!
 
 ---
 id: 2240010
 attribute: 0x6400E10001000002
 ---
 A terrible incident had happened
-on the {{1:30 arg="0x0100"}}.
-
+around {{1:30 arg="0x0100"}}.
 
 ---
 id: 2240011
@@ -13910,8 +13880,7 @@ id: 2240020
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}} was found collapsed
-on the street.
-
+on the street, with {{1:30 arg="0x0000"}} on some string.
 
 ---
 id: 2240021
@@ -13924,9 +13893,8 @@ attribute: 0x6400E10001000002
 id: 2240030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}’s head had a
-{{1:30 arg="0x0000"}} suspended from it.
-
+Bystanders told police {{1:30 arg="0x0200"}} spent the whole day
+running around to try and catch it.
 
 ---
 id: 2240031
@@ -13939,9 +13907,8 @@ attribute: 0x6400E10001000002
 id: 2240040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} apparently spent the whole day
-running around to try and catch it.
-
+The police stated that a fishing rod was used
+to carry out this prank.
 
 ---
 id: 2240041
@@ -13954,9 +13921,8 @@ attribute: 0x6400E10001000002
 id: 2240050
 attribute: 0x6400E10001000002
 ---
-The police stated that a fishing rod was used
-to carry out this prank.
-
+From the evidence, the police deduced that
+the culprit might be an avid angler.
 
 ---
 id: 2240051
@@ -13969,8 +13935,7 @@ attribute: 0x6400E10001000002
 id: 2240060
 attribute: 0x6400E10001000002
 ---
-From the evidence, the police deduced that
-the culprit might be an avid angler.
+
 
 
 ---
@@ -13986,14 +13951,12 @@ attribute: 0x6400800001010101
 ---
 Summer tradition: Mii Goldfish
 
-
 ---
 id: 2250010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} island's summer tradition,
-Mii Goldfish, are now at their peak.
-
+{{1:30 arg="0x0000"}} Island's summer tradition
+Mii Goldfish are now at their peak.
 
 ---
 id: 2250011
@@ -14009,7 +13972,6 @@ attribute: 0x6400E10001000002
 The Mii Goldfish only inhabits {{1:30 arg="0x0000"}} Island,
 and are extremely rare.
 
-
 ---
 id: 2250021
 attribute: 0x6400E10001000002
@@ -14021,9 +13983,8 @@ attribute: 0x6400E10001000002
 id: 2250030
 attribute: 0x6400E10001000002
 ---
-Their beautiful long fins fluttering in the water
-look like a red dress.
-
+"Their beautiful long fins fluttering in the water
+look like a red dress," one visitor says.
 
 ---
 id: 2250031
@@ -14039,7 +14000,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}} came to a goldfish-scooping
 event in hopes to find the fabled fish.
 
-
 ---
 id: 2250041
 attribute: 0x6400E10001000002
@@ -14054,7 +14014,6 @@ attribute: 0x6400E10001000002
 "{{1:30 arg="0x0200"}}"
 they said.
 
-
 ---
 id: 2250051
 attribute: 0x6400E10001000002
@@ -14067,7 +14026,6 @@ id: 2251010
 attribute: 0x6400E10001000002
 ---
 His face resembles a friend's,
-
 
 ---
 id: 2251011
@@ -14082,7 +14040,6 @@ attribute: 0x6400E10001000002
 ---
 She has a cute face,
 
-
 ---
 id: 2251021
 attribute: 0x6400E10001000002
@@ -14096,7 +14053,6 @@ attribute: 0x6400E10001000002
 ---
 Mine looks funny with a weird face,
 
-
 ---
 id: 2251031
 attribute: 0x6400E10001000002
@@ -14109,7 +14065,6 @@ id: 2260000
 attribute: 0x6400800001010101
 ---
 Biotechnology Society
-
 
 ---
 id: 2260010
@@ -18867,6 +18822,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
