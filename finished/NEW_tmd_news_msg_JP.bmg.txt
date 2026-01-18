@@ -14064,13 +14064,13 @@ attribute: 0x6400E10001000002
 id: 2260000
 attribute: 0x6400800001010101
 ---
-Biotechnology Society
+Society for Biotechnology Conference
 
 ---
 id: 2260010
 attribute: 0x6400E10001000002
 ---
-The other day, a conference presenting cutting-
+Recently, a conference presenting cutting-
 edge biotechnology research was held.
 
 
@@ -14085,7 +14085,7 @@ attribute: 0x6400E10001000002
 id: 2260020
 attribute: 0x6400E10001000002
 ---
-The topic of discussion was the claim that some brain cells
+The conference involved the discovery of brain cells
 resembling the facial features of Miis.
 
 
@@ -14100,9 +14100,8 @@ attribute: 0x6400E10001000002
 id: 2260030
 attribute: 0x6400E10001000002
 ---
-According to the {{1:30 arg="0x0000"}} institute,
+According to the {{1:30 arg="0x0000"}} Institute,
 research is underway using advanced technology.
-
 
 ---
 id: 2260031
@@ -14115,9 +14114,8 @@ attribute: 0x6400E10001000002
 id: 2260040
 attribute: 0x6400E10001000002
 ---
-Given that this content overturns conventional wisdom in neuroscience,
-detailed clarification is eagerly anticipated as soon as possible.
-
+Since this contents changes everything in 
+neuroscience, scientists await more details.
 
 ---
 id: 2260041
@@ -14130,16 +14128,14 @@ attribute: 0x6400E10001000002
 id: 2270000
 attribute: 0x6400800001010101
 ---
-As a Model for the Hina Dolls
-
+Islanders Model for Hina Dolls
 
 ---
 id: 2270010
 attribute: 0x6400E10001000002
 ---
-{{{1:30 arg="0x0000"}}, a private initiative planned by private citizens,
-will use {1:30 arg="0x0100"}} island residents as models for hina dolls.
-
+{{{1:30 arg="0x0000"}}, a private initiative, will use {1:30 arg="0x0100"}} 
+Island residents as models for hina dolls.
 
 ---
 id: 2270011
@@ -14152,9 +14148,8 @@ attribute: 0x6400E10001000002
 id: 2270020
 attribute: 0x6400E10001000002
 ---
-A few dolls have been already completed
-by an artisan. Regarding production,
-
+Artisans have already finished a few dolls,
+with more to come later.
 
 ---
 id: 2270021
@@ -14167,9 +14162,8 @@ attribute: 0x6400E10001000002
 id: 2270030
 attribute: 0x6400E10001000002
 ---
-there was a massive number of volunteers,
-which led to a lottery-like scenario.
-
+There was a massive number of volunteers,
+so a lottery was held to select people.
 
 ---
 id: 2270031
@@ -14182,9 +14176,8 @@ attribute: 0x6400E10001000002
 id: 2270040
 attribute: 0x6400E10001000002
 ---
-Result: The male doll is {{1:30 arg="0x0200"}} and
-the princess doll is {{1:30 arg="0x0300"}}.
-
+Two dolls are available: Emperor doll 
+{{1:30 arg="0x0200"}} and princess doll {{1:30 arg="0x0300"}}.
 
 ---
 id: 2270041
@@ -14200,7 +14193,6 @@ attribute: 0x6400E10001000002
 These dolls will be on display for a bit,
 then they’ll be stored at City Hall.
 
-
 ---
 id: 2270051
 attribute: 0x6400E10001000002
@@ -14214,14 +14206,12 @@ attribute: 0x6400800001010101
 ---
 YURUMii Newsletter launches
 
-
 ---
 id: 2280010
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}} Island has
 published a free newsletter, called “YURUMii.”
-
 
 ---
 id: 2280011
@@ -14237,7 +14227,6 @@ attribute: 0x6400E10001000002
 Its inaugural issue features a section on
 relaxing cafes.
 
-
 ---
 id: 2280021
 attribute: 0x6400E10001000002
@@ -14251,7 +14240,6 @@ attribute: 0x6400E10001000002
 ---
 It also includes an essay from {{1:30 arg="0x0100"}},
 {{1:30 arg="0x0000"}} island's slow-life leader.
-
 
 ---
 id: 2280031
@@ -14267,7 +14255,6 @@ attribute: 0x6400E10001000002
 This issue has a lot of topics about
 {{1:30 arg="0x0200"}}
 
-
 ---
 id: 2280041
 attribute: 0x6400E10001000002
@@ -14280,7 +14267,6 @@ id: 2281010
 attribute: 0x6400E10001000002
 ---
 basking in the sun.
-
 
 ---
 id: 2281011
@@ -14295,7 +14281,6 @@ attribute: 0x6400E10001000002
 ---
 slowing down your life.
 
-
 ---
 id: 2281021
 attribute: 0x6400E10001000002
@@ -14307,8 +14292,7 @@ attribute: 0x6400E10001000002
 id: 2281030
 attribute: 0x6400E10001000002
 ---
-"What is organic?"
-
+what's organic.
 
 ---
 id: 2281031
@@ -14321,7 +14305,7 @@ attribute: 0x6400E10001000002
 id: 2281040
 attribute: 0x6400E10001000002
 ---
-"Standing still."
+standing still.
 
 
 ---
@@ -14337,14 +14321,12 @@ attribute: 0x6400800001010101
 ---
 The Hunt for Oversized {{1:30 arg="0x0000"}}
 
-
 ---
 id: 2290010
 attribute: 0x6400E10001000002
 ---
 It's the harvest time for {{1:30 arg="0x0000"}}
-on Mt. {{1:30 arg="0x0100"}}.
-
+on Mt. {{1:30 arg="0x0100"}},
 
 ---
 id: 2290011
@@ -14360,7 +14342,6 @@ attribute: 0x6400E10001000002
 the number one place to cultivate
 oversized {{1:30 arg="0x0000"}}.
 
-
 ---
 id: 2290021
 attribute: 0x6400E10001000002
@@ -14375,7 +14356,6 @@ attribute: 0x6400E10001000002
 It’s open for hunting for {{1:30 arg="0x0000"}} 
 on {{1:30 arg="0x0200"}}.
 
-
 ---
 id: 2290031
 attribute: 0x6400E10001000002
@@ -14389,7 +14369,6 @@ attribute: 0x6400E10001000002
 ---
 A resident from {{1:30 arg="0x0100"}} City,
 {{1:30 arg="0x0300"}}, gleefully told us...
-
 
 ---
 id: 2290041
@@ -18822,6 +18801,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
