@@ -14325,8 +14325,8 @@ The Hunt for Oversized {{1:30 arg="0x0000"}}
 id: 2290010
 attribute: 0x6400E10001000002
 ---
-It's the harvest time for {{1:30 arg="0x0000"}}
-on Mt. {{1:30 arg="0x0100"}},
+The time to harvest {{1:30 arg="0x0000"}}
+is here, on Mt. {{1:30 arg="0x0100"}}.
 
 ---
 id: 2290011
@@ -14339,8 +14339,8 @@ attribute: 0x6400E10001000002
 id: 2290020
 attribute: 0x6400E10001000002
 ---
-the number one place to cultivate
-oversized {{1:30 arg="0x0000"}}.
+It's the number one place to cultivate
+extra-large {{1:30 arg="0x0000"}}!
 
 ---
 id: 2290021
@@ -14368,7 +14368,7 @@ id: 2290040
 attribute: 0x6400E10001000002
 ---
 A resident from {{1:30 arg="0x0100"}} City,
-{{1:30 arg="0x0300"}}, gleefully told us...
+{{1:30 arg="0x0300"}}, gleefully gave a comment:
 
 ---
 id: 2290041
@@ -14383,7 +14383,6 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0400"}}
 
-
 ---
 id: 2290051
 attribute: 0x6400E10001000002
@@ -14395,9 +14394,8 @@ attribute: 0x6400E10001000002
 id: 2291010
 attribute: 0x6400E10001000002
 ---
-"I'll bring some home and brag to my
+"I'll bring some home and brag to my 
 friends."
-
 
 ---
 id: 2291011
@@ -14412,7 +14410,6 @@ attribute: 0x6400E10001000002
 ---
 "I've never seen one this big!"
 
-
 ---
 id: 2291021
 attribute: 0x6400E10001000002
@@ -14426,7 +14423,6 @@ attribute: 0x6400E10001000002
 ---
 "I’ll eat ten and then go home."
 
-
 ---
 id: 2291031
 attribute: 0x6400E10001000002
@@ -14438,8 +14434,8 @@ attribute: 0x6400E10001000002
 id: 2291040
 attribute: 0x6400E10001000002
 ---
-"This place is something special, isn’t it?"
-
+"This place is something special,
+isn’t it?"
 
 ---
 id: 2291041
@@ -14454,12 +14450,11 @@ attribute: 0x6400800001010101
 ---
 Let's make {{1:30 arg="0x0000"}} out of glass!
 
-
 ---
 id: 2300010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}, at Glass Studio {{1:30 arg="0x0200"}},
+{{1:30 arg="0x0100"}}, at {{1:30 arg="0x0200"}} Glass Studio,
 they had a program to make a glass {{1:30 arg="0x0000"}}.
 
 
@@ -18801,6 +18796,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
