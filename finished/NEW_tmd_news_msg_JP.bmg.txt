@@ -14448,15 +14448,14 @@ attribute: 0x6400E10001000002
 id: 2300000
 attribute: 0x6400800001010101
 ---
-Let's make {{1:30 arg="0x0000"}} out of glass!
+Making {{1:30 arg="0x0000"}} Out of Glass
 
 ---
 id: 2300010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}, at {{1:30 arg="0x0200"}} Glass Studio,
-they had a program to make a glass {{1:30 arg="0x0000"}}.
-
+{{1:30 arg="0x0100"}}, {{1:30 arg="0x0200"}} Glass Studio hosted
+a program to make a glass {{1:30 arg="0x0000"}}.
 
 ---
 id: 2300011
@@ -14469,9 +14468,8 @@ attribute: 0x6400E10001000002
 id: 2300020
 attribute: 0x6400E10001000002
 ---
-A workshop was held.
 Participants, accompanied by instructors,
-
+rotated a rod with glass in a furnace.
 
 ---
 id: 2300021
@@ -14484,8 +14482,8 @@ attribute: 0x6400E10001000002
 id: 2300030
 attribute: 0x6400E10001000002
 ---
-tentatively rotated the rod with glass in a furnace,
-until the shape resembled  {{1:30 arg="0x0000"}}.
+The participants had to carefully turn and
+poke glass until it resembled {{1:30 arg="0x0000"}}.
 
 
 ---
@@ -14502,7 +14500,6 @@ attribute: 0x6400E10001000002
 Each participant completed their {{1:30 arg="0x0000"}},
 and said, "{{1:30 arg="0x0300"}}."
 
-
 ---
 id: 2300041
 attribute: 0x6400E10001000002
@@ -14514,9 +14511,8 @@ attribute: 0x6400E10001000002
 id: 2300050
 attribute: 0x6400E10001000002
 ---
-It appeared that they had fun in
+Many agree that they had fun in
 their glass-making experience.
-
 
 ---
 id: 2300051
@@ -14529,8 +14525,7 @@ attribute: 0x6400E10001000002
 id: 2301010
 attribute: 0x6400E10001000002
 ---
-I never imagined it would be made like this
-
+So that's how you make them
 
 ---
 id: 2301011
@@ -14543,8 +14538,7 @@ attribute: 0x6400E10001000002
 id: 2301020
 attribute: 0x6400E10001000002
 ---
-It turned out remarkably similar
-
+Mine looks remarkably similar
 
 ---
 id: 2301021
@@ -14557,8 +14551,7 @@ attribute: 0x6400E10001000002
 id: 2301030
 attribute: 0x6400E10001000002
 ---
-I feel like making something else
-
+I feel like making more things
 
 ---
 id: 2301031
@@ -14573,7 +14566,6 @@ attribute: 0x6400E10001000002
 ---
 It was a very good experience
 
-
 ---
 id: 2301041
 attribute: 0x6400E10001000002
@@ -14587,14 +14579,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Throwing World Championships
 
-
 ---
 id: 2310010
 attribute: 0x6400E10001000002
 ---
-The 100th {{1:30 arg="0x0000"}} Throwing World Championship
-was held.
-
+The 100th {{1:30 arg="0x0000"}} Throwing Garbage
+World Championship was held today.
 
 ---
 id: 2310011
@@ -14607,8 +14597,8 @@ attribute: 0x6400E10001000002
 id: 2310020
 attribute: 0x6400E10001000002
 ---
-Competitors shout their message while throwing
-{{1:30 arg="0x0000"}}.
+Competitors throw random items while shouting
+a message. This year's item is {{1:30 arg="0x0000"}}.
 
 
 ---
@@ -14622,9 +14612,9 @@ attribute: 0x6400E10001000002
 id: 2310030
 attribute: 0x6400E10001000002
 ---
-Judging criteria include the "distance" the {{1:30 arg="0x0000"}} flies,
-the "artistry" of the dance style,
-
+There are three Judging criteria:
+The distance the {{1:30 arg="0x0000"}} flew,
+the "artistry" of its flight pattern,
 
 ---
 id: 2310031
@@ -14637,9 +14627,8 @@ attribute: 0x6400E10001000002
 id: 2310040
 attribute: 0x6400E10001000002
 ---
-the competition attire, messages,
-and so on.
-
+and the performace, which includes
+the thrower's attire and message.
 
 ---
 id: 2310041
@@ -14652,9 +14641,8 @@ attribute: 0x6400E10001000002
 id: 2310050
 attribute: 0x6400E10001000002
 ---
-The competition was based on total points.
-The winner’s decided on who has the longest distance.
-
+This year's winner is {{1:30 arg="0x0100"}},
+who also won last year's championship.
 
 ---
 id: 2310051
@@ -14667,9 +14655,8 @@ attribute: 0x6400E10001000002
 id: 2310060
 attribute: 0x6400E10001000002
 ---
-The previous champion, {{1:30 arg="0x0100"}},
-won the championship for the second consecutive year.
-
+For more sports news, visit our
+website, which will be online soon.
 
 ---
 id: 2310061
@@ -14684,14 +14671,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Island Cleanup Event
 
-
 ---
 id: 2320010
 attribute: 0x6400E10001000002
 ---
 A volunteer cleanup event will be held
 across {{1:30 arg="0x0000"}} island.
-
 
 ---
 id: 2320011
@@ -14704,9 +14689,8 @@ attribute: 0x6400E10001000002
 id: 2320020
 attribute: 0x6400E10001000002
 ---
-As island development progresses, the number
-of tourists increases proportionally.
-
+The more {{1:30 arg="0x0000"}} Island got developed,
+the more tourists entered the island.
 
 ---
 id: 2320021
@@ -14719,9 +14703,8 @@ attribute: 0x6400E10001000002
 id: 2320030
 attribute: 0x6400E10001000002
 ---
-It all started when we began volunteer cleanup
-efforts to tackle the growing trash problem.
-
+It all began when volunteer cleanup efforts
+started to tackle the growing trash problem.
 
 ---
 id: 2320031
@@ -14734,9 +14717,8 @@ attribute: 0x6400E10001000002
 id: 2320040
 attribute: 0x6400E10001000002
 ---
-The event features many elements
-of a festival, with Miis dressing up in costumes.
-
+The event features many elements of a festival,
+such as dressing up in costumes.
 
 ---
 id: 2320041
@@ -14749,9 +14731,8 @@ attribute: 0x6400E10001000002
 id: 2320050
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}}, a resident scheduled to
-be in the festival activities, said
-
+{{1:30 arg="0x0100"}}, a resident scheduled
+to participate, gave a comment:
 
 ---
 id: 2320051
@@ -14765,8 +14746,7 @@ id: 2320060
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}
-with plenty of enthusiasm.
-
+they said with plenty of enthusiasm.
 
 ---
 id: 2320061
@@ -14781,7 +14761,6 @@ attribute: 0x6400E10001000002
 ---
 "I'm looking forward to joining now,"
 
-
 ---
 id: 2321011
 attribute: 0x6400E10001000002
@@ -14793,8 +14772,7 @@ attribute: 0x6400E10001000002
 id: 2321020
 attribute: 0x6400E10001000002
 ---
-"As residents, it's only natural to keep the town clean,"
-
+"As residents, we should clean the island,"
 
 ---
 id: 2321021
@@ -14807,8 +14785,7 @@ attribute: 0x6400E10001000002
 id: 2321030
 attribute: 0x6400E10001000002
 ---
-"I want everyone to actively participate too,"
-
+"I hope everyone will actively participate,"
 
 ---
 id: 2321031
@@ -14821,8 +14798,7 @@ attribute: 0x6400E10001000002
 id: 2321040
 attribute: 0x6400E10001000002
 ---
-"I want to make this a fun event,"
-
+"We want to make this a fun event,"
 
 ---
 id: 2321041
@@ -14837,7 +14813,6 @@ attribute: 0x6400E10001000002
 ---
 "I'll pick up lots of trash!"
 
-
 ---
 id: 2321051
 attribute: 0x6400E10001000002
@@ -14850,7 +14825,6 @@ id: 2330000
 attribute: 0x6400800001010101
 ---
 New Panda at the Zoo!
-
 
 ---
 id: 2330010
@@ -18796,6 +18770,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
