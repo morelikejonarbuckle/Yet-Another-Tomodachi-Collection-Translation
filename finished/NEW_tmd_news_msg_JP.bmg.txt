@@ -2662,7 +2662,7 @@ attribute: 0x6400E10001000002
 id: 1160000
 attribute: 0x6400800001010101
 ---
-Power Generator Challenge!
+Fruit Power Generator Experiment!
 
 ---
 id: 1160010
@@ -9458,7 +9458,7 @@ id: 1830060
 attribute: 0x6400E10001000002
 ---
 Our next topic will be aired later.
-It involves plenty of bananas. 
+It's about the upcoming robot takeover. 
 
 ---
 id: 1830061
@@ -14833,7 +14833,6 @@ attribute: 0x6400E10001000002
 Last year, {{1:30 arg="0x0000"}} the panda
 was welcomed to the {{1:30 arg="0x0100"}} zoo.
 
-
 ---
 id: 2330011
 attribute: 0x6400E10001000002
@@ -14845,9 +14844,8 @@ attribute: 0x6400E10001000002
 id: 2330020
 attribute: 0x6400E10001000002
 ---
-As the son-in-law, {{1:30 arg="0x0200"}} 
-has joined the family.
-
+As a son-in-law, {{1:30 arg="0x0200"}} 
+has also joined the family.
 
 ---
 id: 2330021
@@ -14860,9 +14858,8 @@ attribute: 0x6400E10001000002
 id: 2330030
 attribute: 0x6400E10001000002
 ---
-Pandas are currently a critically endangered species
+Pandas are a critically endangered species
 experiencing a rapid decline in population.
-
 
 ---
 id: 2330031
@@ -14878,7 +14875,6 @@ attribute: 0x6400E10001000002
 Two baby pandas are expected
 to be born soon.
 
-
 ---
 id: 2330041
 attribute: 0x6400E10001000002
@@ -14891,8 +14887,7 @@ id: 2330050
 attribute: 0x6400E10001000002
 ---
 The release of {{1:30 arg="0x0200"}} will commence
-once they become familiar with the environment.
-
+once they get used to their surroundings.
 
 ---
 id: 2330051
@@ -14905,9 +14900,8 @@ attribute: 0x6400E10001000002
 id: 2330060
 attribute: 0x6400E10001000002
 ---
-People are saying {{1:30 arg="0x0300"}}
-around town.
-
+{{1:30 arg="0x0300"}}
+a passerby in the city said.
 
 ---
 id: 2330061
@@ -14920,8 +14914,7 @@ attribute: 0x6400E10001000002
 id: 2331010
 attribute: 0x6400E10001000002
 ---
-"I can't wait to see it."
-
+"I can't wait to see it,"
 
 ---
 id: 2331011
@@ -14936,7 +14929,6 @@ attribute: 0x6400E10001000002
 ---
 "Sooo cute!"
 
-
 ---
 id: 2331021
 attribute: 0x6400E10001000002
@@ -14948,8 +14940,7 @@ attribute: 0x6400E10001000002
 id: 2331030
 attribute: 0x6400E10001000002
 ---
-"I want the panda to love it here."
-
+"I want the panda to love it here,"
 
 ---
 id: 2331031
@@ -14962,8 +14953,7 @@ attribute: 0x6400E10001000002
 id: 2331040
 attribute: 0x6400E10001000002
 ---
-"I'm looking forward to the baby."
-
+"I'm looking forward to the baby,"
 
 ---
 id: 2331041
@@ -14976,8 +14966,7 @@ attribute: 0x6400E10001000002
 id: 2331050
 attribute: 0x6400E10001000002
 ---
-"The panda will definitely be popular."
-
+"The panda will definitely be popular,"
 
 ---
 id: 2331051
@@ -14990,16 +14979,14 @@ attribute: 0x6400E10001000002
 id: 2340000
 attribute: 0x6400800001010101
 ---
-Lookalike pets?!
-
+Lookalike Pets?!
 
 ---
 id: 2340010
 attribute: 0x6400E10001000002
 ---
 Today’s topic is about heartwarming,
-adorable puppies.
-
+adorable, yet odd puppies.
 
 ---
 id: 2340011
@@ -15015,7 +15002,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}}’s dog Pochi, who lives in the city,
 looks exactly like his owner.
 
-
 ---
 id: 2340021
 attribute: 0x6400E10001000002
@@ -15030,7 +15016,6 @@ attribute: 0x6400E10001000002
 The dog loves to eat {{1:30 arg="0x0200"}}. A dog
 expert, {{1:30 arg="0x0100"}} made a comment:
 
-
 ---
 id: 2340031
 attribute: 0x6400E10001000002
@@ -15042,9 +15027,8 @@ attribute: 0x6400E10001000002
 id: 2340040
 attribute: 0x6400E10001000002
 ---
-"I've never heard of a dog that
-likes to eat {{1:30 arg="0x0200"}}."
-
+"I've never heard of a dog eating
+{{1:30 arg="0x0200"}}," they replied. They seemed shocked.
 
 ---
 id: 2340041
@@ -15057,8 +15041,8 @@ attribute: 0x6400E10001000002
 id: 2340050
 attribute: 0x6400E10001000002
 ---
-They were really surprised.
-
+Tune in later for more news, including
+disturbing singing automatons.
 
 ---
 id: 2340051
@@ -15071,16 +15055,14 @@ attribute: 0x6400E10001000002
 id: 2350000
 attribute: 0x6400800001010101
 ---
-Snowy Mountains
-
+Snowy Mountain Season Arrives
 
 ---
 id: 2350010
 attribute: 0x6400E10001000002
 ---
-The snowy mountain season has come
-to {{1:30 arg="0x0000"}} Island.
-
+Snowy mountain season has finally
+arrived on {{1:30 arg="0x0000"}} Island.
 
 ---
 id: 2350011
@@ -15094,8 +15076,7 @@ id: 2350020
 attribute: 0x6400E10001000002
 ---
 Mt. {{1:30 arg="0x0000"}} has accumulated more
-snow that usual this year,
-
+snow that usual this year.
 
 ---
 id: 2350021
@@ -15108,9 +15089,8 @@ attribute: 0x6400E10001000002
 id: 2350030
 attribute: 0x6400E10001000002
 ---
-with{{1:30 arg="0x0100"}} times
-more people coming over to ski here.
-
+It appears there are {{1:30 arg="0x0100"}} times more people 
+coming to ski than last year.
 
 ---
 id: 2350031
@@ -15126,7 +15106,6 @@ attribute: 0x6400E10001000002
 We interviewed {{1:30 arg="0x0200"}},
 a frequent skier who comes every year:
 
-
 ---
 id: 2350041
 attribute: 0x6400E10001000002
@@ -15139,7 +15118,6 @@ id: 2350050
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0300"}}
-
 
 ---
 id: 2350051
@@ -15155,7 +15133,6 @@ attribute: 0x6400E10001000002
 And with that, they glided away
 with a flourish.
 
-
 ---
 id: 2350061
 attribute: 0x6400E10001000002
@@ -15170,7 +15147,6 @@ attribute: 0x6400E10001000002
 "I'm so glad we got lots of snow
 this year."
 
-
 ---
 id: 2351011
 attribute: 0x6400E10001000002
@@ -15183,7 +15159,6 @@ id: 2351020
 attribute: 0x6400E10001000002
 ---
 "The fluffy snow feels really good."
-
 
 ---
 id: 2351021
@@ -15199,7 +15174,6 @@ attribute: 0x6400E10001000002
 "I have a hunch that a passionate
 romance will blossom around this time."
 
-
 ---
 id: 2351031
 attribute: 0x6400E10001000002
@@ -15212,7 +15186,6 @@ id: 2351040
 attribute: 0x6400E10001000002
 ---
 "I lost my wallet in the snow…"
-
 
 ---
 id: 2351041
@@ -15227,14 +15200,12 @@ attribute: 0x6400800001010101
 ---
 Remembering Digits of Pi
 
-
 ---
 id: 2360010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0000"}},  {{1:30 arg="0x0100"}} Island
-held a tournament for memorizing digits of Pi.
-
+Around {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island held a tournament
+for memorizing digits of Pi.
 
 ---
 id: 2360011
@@ -15242,14 +15213,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0000"}}＿{{1:30 arg="0x0100"}}トーニテ＿エンシューリツキオクセカイタイカイガオコナワレマシタ
 
-
 ---
 id: 2360020
 attribute: 0x6400E10001000002
 ---
 Participants all over the world joined,
 including last year’s champion, {{1:30 arg="0x0200"}}.
-
 
 ---
 id: 2360021
@@ -15262,9 +15231,8 @@ attribute: 0x6400E10001000002
 id: 2360030
 attribute: 0x6400E10001000002
 ---
-The finalists were {{1:30 arg="0x0200"}}
-and {{1:30 arg="0x0300"}},
-
+Previous champion {{1:30 arg="0x0200"}}
+and {{1:30 arg="0x0300"}} were the last two remaining.
 
 ---
 id: 2360031
@@ -15277,9 +15245,8 @@ attribute: 0x6400E10001000002
 id: 2360040
 attribute: 0x6400E10001000002
 ---
-when {{1:30 arg="0x0300"}}quit out of frustration
-at the  {{1:30 arg="0x0400"}}th digit.
-
+{{1:30 arg="0x0300"}} quit out of frustration
+at the {{1:30 arg="0x0400"}}th digit,
 
 ---
 id: 2360041
@@ -15292,9 +15259,8 @@ attribute: 0x6400E10001000002
 id: 2360050
 attribute: 0x6400E10001000002
 ---
-Once again, {{1:30 arg="0x0200"}} successfully 
+and once again, {{1:30 arg="0x0200"}} successfully 
 defended their championship title.
-
 
 ---
 id: 2360051
@@ -15310,7 +15276,6 @@ attribute: 0x6400E10001000002
 For the record, {{1:30 arg="0x0200"}}
 can memorize 7974 digits.
 
-
 ---
 id: 2360061
 attribute: 0x6400E10001000002
@@ -15322,16 +15287,14 @@ attribute: 0x6400E10001000002
 id: 2370000
 attribute: 0x6400800001010101
 ---
-Super Cheap Tour
-
+Super Cheap Summer Tour
 
 ---
 id: 2370010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} Tourist announced several
-super-cheap summer tours.
-
+{{1:30 arg="0x0000"}} Tourism announced several
+super cheap summer tours.
 
 ---
 id: 2370011
@@ -15344,9 +15307,8 @@ attribute: 0x6400E10001000002
 id: 2370020
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} Tourist is a travel agency
+{{1:30 arg="0x0000"}} Tourism is a travel agency
 famous for its low prices.
-
 
 ---
 id: 2370021
@@ -15359,9 +15321,8 @@ attribute: 0x6400E10001000002
 id: 2370030
 attribute: 0x6400E10001000002
 ---
-This time, they’ve prepared a super-cheap southern
-island tour for the summer.
-
+This time, they’ve prepared a super-cheap 
+southern island tour for the summer.
 
 ---
 id: 2370031
@@ -15374,9 +15335,8 @@ attribute: 0x6400E10001000002
 id: 2370040
 attribute: 0x6400E10001000002
 ---
-Other travel agencies said,
+Some travel agencies gave a comment:
 {{1:30 arg="0x0100"}}
-
 
 ---
 id: 2370041
@@ -15389,9 +15349,8 @@ attribute: 0x6400E10001000002
 id: 2370050
 attribute: 0x6400E10001000002
 ---
-They are exploring ways to
-stay afloat.
-
+They are exploring ways to stay afloat
+as fierce competition continues.
 
 ---
 id: 2370051
@@ -15406,7 +15365,6 @@ attribute: 0x6400E10001000002
 ---
 "We can’t believe how cheap that is!"
 
-
 ---
 id: 2371011
 attribute: 0x6400E10001000002
@@ -15418,8 +15376,7 @@ attribute: 0x6400E10001000002
 id: 2371020
 attribute: 0x6400E10001000002
 ---
-"We can't afford to be complacent here."
-
+"We can't afford to sit down and relax."
 
 ---
 id: 2371021
@@ -15432,8 +15389,7 @@ attribute: 0x6400E10001000002
 id: 2371030
 attribute: 0x6400E10001000002
 ---
-"That low price must have a catch."
-
+"That low price HAS to have a catch."
 
 ---
 id: 2371031
@@ -15446,8 +15402,7 @@ attribute: 0x6400E10001000002
 id: 2371040
 attribute: 0x6400E10001000002
 ---
-"I'd like to apply too."
-
+"I'd like to apply for a tour too."
 
 ---
 id: 2371041
@@ -15462,14 +15417,12 @@ attribute: 0x6400800001010101
 ---
 Lookalike Robot
 
-
 ---
 id: 2380010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0100"}}, {{1:30 arg="0x0000"}} of the
-{{1:30 arg="0x0000"}} Engineering Research Institute revealed a new creation.
-
+Around {{1:30 arg="0x0100"}}, {{1:30 arg="0x0000"}} of {{1:30 arg="0x0000"}} Engineering
+Research Institute revealed a new creation.
 
 ---
 id: 2380011
@@ -15477,14 +15430,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}＿{{1:30 arg="0x0000"}}コーガクケンキュージョニテ＿{{1:30 arg="0x0000"}}シニヨリ
 
-
 ---
 id: 2380020
 attribute: 0x6400E10001000002
 ---
-The engineers have succeeded in creating a robot
-that looks like a Mii.
-
+They (and the other engineers) have
+created a robot that looks like a Mii.
 
 ---
 id: 2380021
@@ -15497,9 +15448,8 @@ attribute: 0x6400E10001000002
 id: 2380030
 attribute: 0x6400E10001000002
 ---
-This robot has the same personality as its creator,
-and can handle many tasks they can do.。
-
+This robot has the same personality 
+as its creator. It even moves like a Mii!
 
 ---
 id: 2380031
@@ -15512,9 +15462,8 @@ attribute: 0x6400E10001000002
 id: 2380040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} said,
+{{1:30 arg="0x0000"}} said
 {{1:30 arg="0x0200"}}
-
 
 ---
 id: 2380041
@@ -15528,7 +15477,7 @@ id: 2380050
 attribute: 0x6400E10001000002
 ---
 in response to the new invention.
-
+All hail our new robot overlords!
 
 ---
 id: 2380051
@@ -15543,7 +15492,6 @@ attribute: 0x6400E10001000002
 ---
 "This will be fun,"
 
-
 ---
 id: 2381011
 attribute: 0x6400E10001000002
@@ -15555,8 +15503,7 @@ attribute: 0x6400E10001000002
 id: 2381020
 attribute: 0x6400E10001000002
 ---
-"We might get flooded with orders from all kinds of people,"
-
+"This will sell out in seconds,"
 
 ---
 id: 2381021
@@ -15569,8 +15516,7 @@ attribute: 0x6400E10001000002
 id: 2381030
 attribute: 0x6400E10001000002
 ---
-"It’s too lifelike, it’s scary,"
-
+"It’s so lifelike. It’s scary,"
 
 ---
 id: 2381031
@@ -15583,8 +15529,7 @@ attribute: 0x6400E10001000002
 id: 2381040
 attribute: 0x6400E10001000002
 ---
-"Everything’s perfect except for the battery life,"
-
+"It’s perfect except for the battery life,"
 
 ---
 id: 2381041
@@ -15597,16 +15542,14 @@ attribute: 0x6400E10001000002
 id: 2390000
 attribute: 0x6400800001010101
 ---
-Bungee Jumping Challenge!
-
+Crazy Challenge: Plane Bungee Jumping
 
 ---
 id: 2390010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}} tried to take on a
-widely popular challenge:
-
+{{1:30 arg="0x0000"}} took on a very complicated
+crazy challenge:
 
 ---
 id: 2390011
@@ -15622,7 +15565,6 @@ attribute: 0x6400E10001000002
 Tying udon noodles to yourself from an airplane
 and then bungee jumping.
 
-
 ---
 id: 2390021
 attribute: 0x6400E10001000002
@@ -15634,9 +15576,8 @@ attribute: 0x6400E10001000002
 id: 2390030
 attribute: 0x6400E10001000002
 ---
-Ignoring the concerns of those around them, {{1:30 arg="0x0000"}}
-pushed forward with the challenge.
-
+Ignoring the concerns of those around them,
+{{1:30 arg="0x0000"}} pushed forward with the challenge.
 
 ---
 id: 2390031
@@ -15649,9 +15590,8 @@ attribute: 0x6400E10001000002
 id: 2390040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}
-was determined to "make it happen no matter what,"
-
+{{1:30 arg="0x0000"}} was about to try
+to complete the challenge...
 
 ---
 id: 2390041
@@ -15665,9 +15605,8 @@ attribute: 0x6400E10001000002
 id: 2390050
 attribute: 0x6400E10001000002
 ---
-but realized  {{1:30 arg="0x0100"}}
+but {{1:30 arg="0x0100"}}
 and gave up on it.
-
 
 ---
 id: 2390051
@@ -15682,7 +15621,7 @@ id: 2390060
 attribute: 0x6400E10001000002
 ---
 Please do not try this challenge at home.
-
+Or on a air-based vehicle.
 
 ---
 id: 2390061
@@ -15695,8 +15634,7 @@ attribute: 0x6400E10001000002
 id: 2390070
 attribute: 0x6400E10001000002
 ---
-(The photo is for illustrative purposes only. They are not actually flying.)
-
+(Disclaimer: Illustrated Mockup)
 
 ---
 id: 2390071
@@ -15704,13 +15642,11 @@ attribute: 0x6400E10001000002
 ---
 22
 
-
 ---
 id: 2391010
 attribute: 0x6400E10001000002
 ---
-the udon is rotten
-
+they realized the udon is rotten
 
 ---
 id: 2391011
@@ -15725,7 +15661,6 @@ attribute: 0x6400E10001000002
 ---
 they ate the udon
 
-
 ---
 id: 2391021
 attribute: 0x6400E10001000002
@@ -15737,8 +15672,7 @@ attribute: 0x6400E10001000002
 id: 2391030
 attribute: 0x6400E10001000002
 ---
-this is a terrible idea
-
+they thought this is a terrible idea
 
 ---
 id: 2391031
@@ -15751,8 +15685,7 @@ attribute: 0x6400E10001000002
 id: 2391040
 attribute: 0x6400E10001000002
 ---
-there’s nothing forcing them to do it
-
+they realized no one is forcing them
 
 ---
 id: 2391041
@@ -15765,8 +15698,7 @@ attribute: 0x6400E10001000002
 id: 2392010
 attribute: 0x6400800001010001
 ---
-写真はイメージです。実際には飛んでいません。
-
+(Disclaimer: Illustrated Mockup)
 
 ---
 id: 2400000
@@ -15774,14 +15706,12 @@ attribute: 0x6400800001010101
 ---
 New Domino Toppling Record Achieved!
 
-
 ---
 id: 2400010
 attribute: 0x6400E10001000002
 ---
-This {{1:30 arg="0x0000"}}, at the  {{1:30 arg="0x0100"}} gymnasium,
-a new record for dominoes toppling has been set.
-
+Around {{1:30 arg="0x0000"}}, at the  {{1:30 arg="0x0100"}} gymnasium,
+a new record for domino toppling was set.
 
 ---
 id: 2400011
@@ -15797,7 +15727,6 @@ attribute: 0x6400E10001000002
 The new record was achieved by
 {{1:30 arg="0x0200"}}.
 
-
 ---
 id: 2400021
 attribute: 0x6400E10001000002
@@ -15809,9 +15738,8 @@ attribute: 0x6400E10001000002
 id: 2400030
 attribute: 0x6400E10001000002
 ---
-Amazingly, they arranged {{1:30 arg="0x0300"}} ten thousand pieces by by hand,
-and successfully toppled the dominoes without stopping midway.
-
+Amazingly, they manually set {{1:30 arg="0x0300"}} thousand
+dominos. All of them toppled down.
 
 ---
 id: 2400031
@@ -15827,7 +15755,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0400"}} 
 {{1:30 arg="0x0200"}} said.
 
-
 ---
 id: 2400041
 attribute: 0x6400E10001000002
@@ -15840,8 +15767,8 @@ attribute: 0x6400E10001000002
 id: 2400050
 attribute: 0x6400E10001000002
 ---
-He shared his thoughts on achieving the new record.
-
+Our next article: How do you
+properly pronounce the word tomato?
 
 ---
 id: 2400051
@@ -15854,8 +15781,7 @@ attribute: 0x6400E10001000002
 id: 2401010
 attribute: 0x6400E10001000002
 ---
-"When I accidentally knocked some over, I genuinely thought about stopping,"
-
+"I knocked some over and almost quit,"
 
 ---
 id: 2401011
@@ -15868,8 +15794,7 @@ attribute: 0x6400E10001000002
 id: 2401020
 attribute: 0x6400E10001000002
 ---
-"It got really tough because I gradually started getting bored along the way,"
-
+"It was extremely boring,"
 
 ---
 id: 2401021
@@ -15882,8 +15807,7 @@ attribute: 0x6400E10001000002
 id: 2401030
 attribute: 0x6400E10001000002
 ---
-"I'm glad I didn't give up and saw it through to the end,"
-
+"I'm glad I saw it through to the end,"
 
 ---
 id: 2401031
@@ -15896,8 +15820,7 @@ attribute: 0x6400E10001000002
 id: 2401040
 attribute: 0x6400E10001000002
 ---
-"This time, I'll do a domino fall with the refrigerator,"
-
+"I'll set it up in my fridge later,"
 
 ---
 id: 2401041
@@ -15911,7 +15834,6 @@ id: 2410000
 attribute: 0x6400800001010101
 ---
 Teru-Teru Bozu doll
-
 
 ---
 id: 2410010
@@ -18770,6 +18692,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
