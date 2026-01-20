@@ -15839,8 +15839,8 @@ Teru-Teru Bozu Doll
 id: 2410010
 attribute: 0x6400E10001000002
 ---
-With {{1:30 arg="0x0000"}} fast approaching, students
-of {{1:30 arg="0x0100"}} elementary made a teru-teru bozu doll.
+With {{1:30 arg="0x0000"}} fast approaching, students of {{1:30 arg="0x0100"}} elementary
+made a teru-teru bozu doll.
 
 ---
 id: 2410011
@@ -15868,7 +15868,7 @@ id: 2410030
 attribute: 0x6400E10001000002
 ---
 For those unfamiliar, a Teru-Teru Bozu
-doll has a myth with the weather.
+doll has a myth about the weather.
 
 ---
 id: 2410031
@@ -15897,7 +15897,6 @@ attribute: 0x6400E10001000002
 ---
 field trip
 
-
 ---
 id: 2411011
 attribute: 0x6400E10001000002
@@ -15910,7 +15909,6 @@ id: 2411020
 attribute: 0x6400E10001000002
 ---
 sports day
-
 
 ---
 id: 2411021
@@ -15925,7 +15923,6 @@ attribute: 0x6400E10001000002
 ---
 nature walk
 
-
 ---
 id: 2411031
 attribute: 0x6400E10001000002
@@ -15939,7 +15936,6 @@ attribute: 0x6400E10001000002
 ---
 sweet potato digging festival
 
-
 ---
 id: 2411041
 attribute: 0x6400E10001000002
@@ -15951,16 +15947,14 @@ attribute: 0x6400E10001000002
 id: 2420000
 attribute: 0x6400800001010101
 ---
-Animals Have Gone Wild on  {{1:30 arg="0x0000"}} Island
-
+Invasive Species on {{1:30 arg="0x0000"}} Island
 
 ---
 id: 2420010
 attribute: 0x6400E10001000002
 ---
-The presence of the {{1:30 arg="0x0100"}} mockingbird is
-getting increasingly noticeable throughout the island.
-
+The amount of {{1:30 arg="0x0100"}} mockingbirds
+is getting very big across the island.
 
 ---
 id: 2420011
@@ -15973,9 +15967,8 @@ attribute: 0x6400E10001000002
 id: 2420020
 attribute: 0x6400E10001000002
 ---
-The species is invasive, being artificially
-introduced for ornamental purposes.
-
+The avian species is invasive and was
+imported for ornamental purposes.
 
 ---
 id: 2420021
@@ -15988,9 +15981,8 @@ attribute: 0x6400E10001000002
 id: 2420030
 attribute: 0x6400E10001000002
 ---
-They have appeared to escape and become wild.
-They are also known for their graceful appearance.
-
+The birds escaped and became wild.
+A bit ironic due to their graceful looks.
 
 ---
 id: 2420031
@@ -16003,9 +15995,8 @@ attribute: 0x6400E10001000002
 id: 2420040
 attribute: 0x6400E10001000002
 ---
-The species is a {{1:30 arg="0x0100"}}-like bird,
-Ecosystem experts had some words to say:
-
+The species is a {{1:30 arg="0x0100"}}-like bird.
+Ecosystem experts commented this:
 
 ---
 id: 2420041
@@ -16021,7 +16012,6 @@ attribute: 0x6400E10001000002
 "Invasive species have a bad effect
 on native natural environments and wildlife."
 
-
 ---
 id: 2420051
 attribute: 0x6400E10001000002
@@ -16036,7 +16026,6 @@ attribute: 0x6400E10001000002
 Furthermore, the captured individuals
 are reportedly donated to zoos nationwide.
 
-
 ---
 id: 2420061
 attribute: 0x6400E10001000002
@@ -16048,8 +16037,7 @@ attribute: 0x6400E10001000002
 id: 2420070
 attribute: 0x6400E10001000002
 ---
-Feral {{1:30 arg="0x0100"}} Mimic Bird
-
+Feral {{1:30 arg="0x0100"}} Mockingbird
 
 ---
 id: 2420071
@@ -16057,20 +16045,17 @@ attribute: 0x6400E10001000002
 ---
 225
 
-
 ---
 id: 2422010
 attribute: 0x6400800001010001
 ---
-Feral {{1:30 arg="0x0100"}} Mimic Bird
-
+Feral {{1:30 arg="0x0100"}} Mockingbird
 
 ---
 id: 2430000
 attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} House Treasure Found!
-
 
 ---
 id: 2430010
@@ -18689,6 +18674,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
