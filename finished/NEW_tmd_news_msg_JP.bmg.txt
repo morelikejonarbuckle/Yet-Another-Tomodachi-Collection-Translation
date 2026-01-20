@@ -15833,14 +15833,14 @@ attribute: 0x6400E10001000002
 id: 2410000
 attribute: 0x6400800001010101
 ---
-Teru-Teru Bozu doll
+Teru-Teru Bozu Doll
 
 ---
 id: 2410010
 attribute: 0x6400E10001000002
 ---
-With a {{1:30 arg="0x0000"}} fast approaching,
-
+With {{1:30 arg="0x0000"}} fast approaching, students
+of {{1:30 arg="0x0100"}} elementary made a teru-teru bozu doll.
 
 ---
 id: 2410011
@@ -15853,9 +15853,8 @@ attribute: 0x6400E10001000002
 id: 2410020
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0100"}} elementary school 
-students made a teruteru bozu doll.
-
+One of the students, {{1:30 arg="0x0200"}}, commented
+"I hope this {{1:30 arg="0x0000"}} will be sunny."
 
 ---
 id: 2410021
@@ -15868,9 +15867,8 @@ attribute: 0x6400E10001000002
 id: 2410030
 attribute: 0x6400E10001000002
 ---
-One of the students, {{1:30 arg="0x0200"}}, wished
-"I hope this {{1:30 arg="0x0000"}} will be sunny."
-
+For those unfamiliar, a Teru-Teru Bozu
+doll has a myth with the weather.
 
 ---
 id: 2410031
@@ -15885,7 +15883,6 @@ attribute: 0x6400E10001000002
 ---
 If the teru-teru bozu did not bring sunshine,
 it will be punished by flipping it upside-down.
-
 
 ---
 id: 2410041
@@ -18692,6 +18689,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
