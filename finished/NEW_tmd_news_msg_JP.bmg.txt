@@ -23,7 +23,6 @@ attribute: 0x6400E10001030002
 ---
 {{255:0 arg="0x0800"}} {{1:30 arg="0x0000"}} （Age {{1:30 arg="0x0100"}}）
 
-
 ---
 id: 100110
 attribute: 0x6400E10001030002
@@ -130,7 +129,7 @@ attribute: 0x6400E10001030002
 id: 100150
 attribute: 0x6400E10001030002
 ---
-{{255:0 arg="0x0100"}}Yes.
+{{255:0 arg="0x0100"}} Yes.
 
 ---
 id: 100151
@@ -180,7 +179,7 @@ attribute: 0x6400600001030001
 id: 100200
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"You can only save 10 recent headlines."
+{{255:0 arg="0x0100"}}"You can only save 10 recent articles."
 
 ---
 id: 100201
@@ -198,7 +197,7 @@ attribute: 0x6400000101010001
 id: 200010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}LALALALALALA I CANT HEAR YOU
+{{1:30 arg="0x0000"}}Placeholder
 
 ---
 id: 202010
@@ -18492,6 +18491,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
