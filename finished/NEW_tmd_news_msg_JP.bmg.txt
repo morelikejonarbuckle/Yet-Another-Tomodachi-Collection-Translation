@@ -16055,15 +16055,14 @@ Feral {{1:30 arg="0x0100"}} Mockingbird
 id: 2430000
 attribute: 0x6400800001010101
 ---
-{{1:30 arg="0x0000"}} House Treasure Found!
+{{1:30 arg="0x0000"}} House Treasure Found?
 
 ---
 id: 2430010
 attribute: 0x6400E10001000002
 ---
-Long considered a myth, the
-treasure of the {{1:30 arg="0x0000"}} family…
-
+For many long years, the treasure of the 
+{{1:30 arg="0x0000"}} family has said to be a myth... until now.
 
 ---
 id: 2430011
@@ -16076,8 +16075,8 @@ attribute: 0x6400E10001000002
 id: 2430020
 attribute: 0x6400E10001000002
 ---
-…has finally been unearthed!
-
+The treasure is rumored to be in a rocky area 
+on {{1:30 arg="0x0100"}} Island, but the exact location is a mystery.
 
 ---
 id: 2430021
@@ -16090,9 +16089,8 @@ attribute: 0x6400E10001000002
 id: 2430030
 attribute: 0x6400E10001000002
 ---
-The location is said to be a rocky area on {{1:30 arg="0x0100"}} Island,
-but the exact location has not been disclosed.
-
+The {{1:30 arg="0x0000"}}'s treasure is said to
+have more than 10 billion yen.
 
 ---
 id: 2430031
@@ -16105,9 +16103,8 @@ attribute: 0x6400E10001000002
 id: 2430040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}The buried treasure in the 
-house is said to exceed 10 billion yen!
-
+Many people are looking in every
+nook and cranny in that mountanous area.
 
 ---
 id: 2430041
@@ -16120,9 +16117,8 @@ attribute: 0x6400E10001000002
 id: 2430050
 attribute: 0x6400E10001000002
 ---
-There's a big argument going on for
-the rights to the money.
-
+{{1:30 arg="0x0200"}}
+various hunters said.
 
 ---
 id: 2430051
@@ -16135,9 +16131,8 @@ attribute: 0x6400E10001000002
 id: 2430060
 attribute: 0x6400E10001000002
 ---
-Many sides claim the following:
-{{1:30 arg="0x0200"}}
-
+Our next subject: Gullible person presses
+obvious "crash" button- oh, time's up.
 
 ---
 id: 2430061
@@ -16152,7 +16147,6 @@ attribute: 0x6400E10001000002
 ---
 "I found it! It’s mine!"
 
-
 ---
 id: 2431011
 attribute: 0x6400E10001000002
@@ -16164,8 +16158,7 @@ attribute: 0x6400E10001000002
 id: 2431020
 attribute: 0x6400E10001000002
 ---
-"Since I found it on my land, it's mine."
-
+"Since I found it on my land, it's mine,"
 
 ---
 id: 2431021
@@ -16178,8 +16171,7 @@ attribute: 0x6400E10001000002
 id: 2431030
 attribute: 0x6400E10001000002
 ---
-"I'm the youngest, so it's mine."
-
+"I'm the youngest, so it's mine,"
 
 ---
 id: 2431031
@@ -16192,15 +16184,14 @@ attribute: 0x6400E10001000002
 id: 2440000
 attribute: 0x6400800001010101
 ---
-Beware of pollen!
-
+Beware of Pollen!
 
 ---
 id: 2440010
 attribute: 0x6400E10001000002
 ---
 Look out noses, it’s pollen season.
-
+This year's looking higher than usual.
 
 ---
 id: 2440011
@@ -16213,9 +16204,8 @@ attribute: 0x6400E10001000002
 id: 2440020
 attribute: 0x6400E10001000002
 ---
-This year, it's said that pollen counts
-will be higher than usual.
-
+One unfortunate soul, {{1:30 arg="0x0000"}},
+suffers from hay fever every year.
 
 ---
 id: 2440021
@@ -16228,9 +16218,8 @@ attribute: 0x6400E10001000002
 id: 2440030
 attribute: 0x6400E10001000002
 ---
-Every year, {{1:30 arg="0x0000"}}
-suffers from hay fever.
-
+They have even tried
+{{1:30 arg="0x0100"}}.
 
 ---
 id: 2440031
@@ -16243,9 +16232,8 @@ attribute: 0x6400E10001000002
 id: 2440040
 attribute: 0x6400E10001000002
 ---
-They have even tried
-{{1:30 arg="0x0100"}}.
-
+They're trying the best they can
+to fight against the pollen.
 
 ---
 id: 2440041
@@ -16258,9 +16246,8 @@ attribute: 0x6400E10001000002
 id: 2440050
 attribute: 0x6400E10001000002
 ---
-They are considering more countermeasures
-to prepare against the pollen.
-
+We wish them good luck towards
+a clean and healthy nose.
 
 ---
 id: 2440051
@@ -16275,7 +16262,6 @@ attribute: 0x6400E10001000002
 ---
 wearing a five-layer mask
 
-
 ---
 id: 2441011
 attribute: 0x6400E10001000002
@@ -16288,7 +16274,6 @@ id: 2441020
 attribute: 0x6400E10001000002
 ---
 stuffing tissues in their nostrils
-
 
 ---
 id: 2441021
@@ -16303,7 +16288,6 @@ attribute: 0x6400E10001000002
 ---
 buying an air purifier
 
-
 ---
 id: 2441031
 attribute: 0x6400E10001000002
@@ -16317,14 +16301,12 @@ attribute: 0x6400800001010101
 ---
 Another Apartment Remodel
 
-
 ---
 id: 2450010
 attribute: 0x6400E10001000002
 ---
 The apartment has been remodeled
-when nobody was looking… again.
-
+when nobody was looking... again.
 
 ---
 id: 2450011
@@ -16337,9 +16319,8 @@ attribute: 0x6400E10001000002
 id: 2450020
 attribute: 0x6400E10001000002
 ---
-As the number of residents increased,
-the number of available apartments became limited.
-
+It's a simple formula: More residents
+equals less apartment rooms.
 
 ---
 id: 2450021
@@ -16352,10 +16333,8 @@ attribute: 0x6400E10001000002
 id: 2450030
 attribute: 0x6400E10001000002
 ---
-After the remodeling, the apartment
-now has a total of 72 rooms.
-
-
+Quick construction workers remodeled
+the apartment to have 72 rooms.
 ---
 id: 2450031
 attribute: 0x6400E10001000002
@@ -16368,7 +16347,7 @@ id: 2450040
 attribute: 0x6400E10001000002
 ---
 "{{1:30 arg="0x0100"}}"
-
+one islander {{1:30 arg="0x0000"}} said.
 
 ---
 id: 2450041
@@ -16381,8 +16360,8 @@ attribute: 0x6400E10001000002
 id: 2450050
 attribute: 0x6400E10001000002
 ---
-one islander {{1:30 arg="0x0000"}} said.
-
+"How is it not falling down?"
+the construction crew said.
 
 ---
 id: 2450051
@@ -16397,7 +16376,6 @@ attribute: 0x6400E10001000002
 ---
 I was talking, then poof! It changed,
 
-
 ---
 id: 2451011
 attribute: 0x6400E10001000002
@@ -16410,7 +16388,6 @@ id: 2451020
 attribute: 0x6400E10001000002
 ---
 Apartment prices did go up recently,
-
 
 ---
 id: 2451021
@@ -16425,7 +16402,6 @@ attribute: 0x6400E10001000002
 ---
 When did they even start building?
 
-
 ---
 id: 2451031
 attribute: 0x6400E10001000002
@@ -16439,13 +16415,11 @@ attribute: 0x6400800001010001
 ---
 The remodeled apartment
 
-
 ---
 id: 2460000
 attribute: 0x6400800001010101
 ---
-Final remodeling?
-
+Final Remodeling?
 
 ---
 id: 2460010
@@ -16453,7 +16427,6 @@ attribute: 0x6400E10001000002
 ---
 It appears that the apartment
 has been remodeled again.
-
 
 ---
 id: 2460011
@@ -16466,9 +16439,8 @@ attribute: 0x6400E10001000002
 id: 2460020
 attribute: 0x6400E10001000002
 ---
-More people moved in and made
-available apartments limited.
-
+Many residents moved in again,
+filling up apartments (again).
 
 ---
 id: 2460021
@@ -16481,9 +16453,8 @@ attribute: 0x6400E10001000002
 id: 2460030
 attribute: 0x6400E10001000002
 ---
-It seems the number of apartments
-now has 100 rooms.
-
+The number of apartments now
+goes up to 100. How enormous!
 
 ---
 id: 2460031
@@ -16496,9 +16467,8 @@ attribute: 0x6400E10001000002
 id: 2460040
 attribute: 0x6400E10001000002
 ---
-We asked {{1:30 arg="0x0000"}} for their opinion:
 "{{1:30 arg="0x0100"}}"
-
+{{1:30 arg="0x0000"}} said.
 
 ---
 id: 2460041
@@ -16511,8 +16481,8 @@ attribute: 0x6400E10001000002
 id: 2460050
 attribute: 0x6400E10001000002
 ---
-they said.
-
+"We had to use the dark arts to
+keep it afloat," construction workers said.
 
 ---
 id: 2460051
@@ -16520,13 +16490,11 @@ attribute: 0x6400E10001000002
 ---
 トカタッテイマシタ
 
-
 ---
 id: 2461010
 attribute: 0x6400E10001000002
 ---
 I wonder if this is the last renovation,
-
 
 ---
 id: 2461011
@@ -16541,7 +16509,6 @@ attribute: 0x6400E10001000002
 ---
 I doubt it can go any higher,
 
-
 ---
 id: 2461021
 attribute: 0x6400E10001000002
@@ -16555,7 +16522,6 @@ attribute: 0x6400E10001000002
 ---
 Is this the last time it’ll be remodeled?
 
-
 ---
 id: 2461031
 attribute: 0x6400E10001000002
@@ -16567,8 +16533,7 @@ attribute: 0x6400E10001000002
 id: 2462010
 attribute: 0x6400800001010001
 ---
-The apartment
-
+The very, very tall apartment
 
 ---
 id: 2470000
@@ -16581,9 +16546,8 @@ Pawn Shop now Open!
 id: 2470010
 attribute: 0x6400E10001000002
 ---
-On the {{1:30 arg="0x0000"}}, the pawnshop
-has opened.
-
+Around {{1:30 arg="0x0000"}}, the Pawn Shop
+opened up for the first time.
 
 ---
 id: 2470011
@@ -16596,9 +16560,8 @@ attribute: 0x6400E10001000002
 id: 2470020
 attribute: 0x6400E10001000002
 ---
-If you have any treasures you no
-longer need, please bring it here.
-
+The shop is looking for any types
+of treasures you might've collected.
 
 ---
 id: 2470021
@@ -16611,9 +16574,8 @@ attribute: 0x6400E10001000002
 id: 2470030
 attribute: 0x6400E10001000002
 ---
-Sometimes, unexpected things sell
-for high prices.
-
+They're especially looking forward to
+rare items, and will pay a high price.
 
 ---
 id: 2470031
@@ -16626,9 +16588,8 @@ attribute: 0x6400E10001000002
 id: 2470040
 attribute: 0x6400E10001000002
 ---
-Don't forget to visit this shop
-if you're on a tight budget.
-
+If you're struggling financially,
+stop by! They'll even buy tissues!
 
 ---
 id: 2470041
@@ -16643,14 +16604,12 @@ attribute: 0x6400800001010101
 ---
 Compatibility Tester: Now Open!
 
-
 ---
 id: 2480010
 attribute: 0x6400E10001000002
 ---
-On the {{1:30 arg="0x0000"}}, the Compatibility Tester
-has opened.
-
+The Compatibility Tester has opened
+around {{1:30 arg="0x0000"}}.
 
 ---
 id: 2480011
@@ -16663,9 +16622,8 @@ attribute: 0x6400E10001000002
 id: 2480020
 attribute: 0x6400E10001000002
 ---
-A dedicated computer uses electro-magic to
-diagnose compatibility with someone else.
-
+This dedicated computer uses electro-magic to
+diagnose compatibility between a couple.
 
 ---
 id: 2480021
@@ -16678,9 +16636,8 @@ attribute: 0x6400E10001000002
 id: 2480030
 attribute: 0x6400E10001000002
 ---
-There are two readings: Friendship for two Miis
-of the same sex, and romance with opposite sex partners.
-
+Same sex couples get a friendship exam,
+while opposites get a romance exam.
 
 ---
 id: 2480031
@@ -16693,9 +16650,8 @@ attribute: 0x6400E10001000002
 id: 2480040
 attribute: 0x6400E10001000002
 ---
-Make sure to fill in the Mii’s date
-of birth first!
-
+It's very limited, and only works
+with a Mii's full Date of Birth.
 
 ---
 id: 2480041
@@ -16708,9 +16664,8 @@ attribute: 0x6400E10001000002
 id: 2480050
 attribute: 0x6400E10001000002
 ---
-It’s a good opportunity to register
-a Mii’s Date of Birth and other details.
-
+Hopefully, there'll be another model
+for same-sex romance rankings...
 
 ---
 id: 2480051
@@ -16723,16 +16678,14 @@ attribute: 0x6400E10001000002
 id: 2490000
 attribute: 0x6400800001010101
 ---
-Popular Guy Ranking Announced!
-
+Most Popular Guys Ranking Announced!
 
 ---
 id: 2490010
 attribute: 0x6400E10001000002
 ---
-On the {{1:30 arg="0x0000"}}, the ranking for “Most Popular
-Guy” has been announced.
-
+Around {{1:30 arg="0x0000"}}, the ranking for “Most Popular
+Guys” was revealed.
 
 ---
 id: 2490011
@@ -16745,9 +16698,8 @@ attribute: 0x6400E10001000002
 id: 2490020
 attribute: 0x6400E10001000002
 ---
-Who’s the most popular guy
-on {{1:30 arg="0x0100"}} Island?
-
+{{1:30 arg="0x0200"}} had their doubts about their charm,
+and interviewed lots of male islanders.
 
 ---
 id: 2490021
@@ -16760,9 +16712,8 @@ attribute: 0x6400E10001000002
 id: 2490030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} who had their doubts, and
-interviewed everyone on {{1:30 arg="0x0100"}} Island to find out.
-
+They were pretty shocked to see
+the results.
 
 ---
 id: 2490031
@@ -16778,7 +16729,6 @@ attribute: 0x6400E10001000002
 They then announced the results on the
 ranking bulletin board.
 
-
 ---
 id: 2490041
 attribute: 0x6400E10001000002
@@ -16793,7 +16743,6 @@ attribute: 0x6400E10001000002
 The results are updated frequently, so
 be sure to drop by and check it out!
 
-
 ---
 id: 2490051
 attribute: 0x6400E10001000002
@@ -16805,16 +16754,14 @@ attribute: 0x6400E10001000002
 id: 2500000
 attribute: 0x6400800001010101
 ---
-Popular Girl Ranking Announced!
-
+Most Popular Girls Ranking Announced!
 
 ---
 id: 2500010
 attribute: 0x6400E10001000002
 ---
-On the {{1:30 arg="0x0000"}}, the ranking for “Most Popular
-Gal” has been announced.
-
+Around {{1:30 arg="0x0000"}}, the ranking for “Most Popular
+Girls” was revealed.
 
 ---
 id: 2500011
@@ -16827,9 +16774,8 @@ attribute: 0x6400E10001000002
 id: 2500020
 attribute: 0x6400E10001000002
 ---
-Who’s the most popular girl on
-on {{1:30 arg="0x0100"}} Island?
-
+The ranking committee originally
+announced this a while ago.
 
 ---
 id: 2500021
@@ -16842,9 +16788,8 @@ attribute: 0x6400E10001000002
 id: 2500030
 attribute: 0x6400E10001000002
 ---
-The ranking committee discovered an anonymous
-complaint before posting, saying “Please don’t publish this!”
-
+They found an anonymous plee that said
+“Please don’t publish this!”
 
 ---
 id: 2500031
@@ -16857,9 +16802,8 @@ attribute: 0x6400E10001000002
 id: 2500040
 attribute: 0x6400E10001000002
 ---
-The anonymous complainer didn’t argue again
-after seeing her rise in the ranks, though.
-
+We think she didn't complain again
+after she climed up the ranks, though.
 
 ---
 id: 2500041
@@ -16875,7 +16819,6 @@ attribute: 0x6400E10001000002
 The results are updated frequently, so
 be sure to drop by and check it out!
 
-
 ---
 id: 2500051
 attribute: 0x6400E10001000002
@@ -16889,12 +16832,11 @@ attribute: 0x6400800001010101
 ---
 Popularity Ranking Announced!
 
-
 ---
 id: 2510010
 attribute: 0x6400E10001000002
 ---
-On {{1:30 arg="0x0000"}}, the popularity
+{{1:30 arg="0x0000"}}, the popularity
 rankings of every Mii will be revealed!
 
 
@@ -18674,6 +18616,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
