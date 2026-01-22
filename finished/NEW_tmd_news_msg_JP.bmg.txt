@@ -16713,7 +16713,7 @@ id: 2490030
 attribute: 0x6400E10001000002
 ---
 They were pretty shocked to see
-the results.
+the results!
 
 ---
 id: 2490031
@@ -16836,9 +16836,8 @@ Popularity Ranking Announced!
 id: 2510010
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0000"}}, the popularity
-rankings of every Mii will be revealed!
-
+Around {{1:30 arg="0x0000"}}, the popularity
+ranking of every Mii was revealed!
 
 ---
 id: 2510011
@@ -16851,9 +16850,8 @@ attribute: 0x6400E10001000002
 id: 2510020
 attribute: 0x6400E10001000002
 ---
-Who's the most popular person on {{1:30 arg="0x0100"}} Island?
-It might even be {{1:30 arg="0x0000"}}!
-
+A fairly popular islander, {{1:30 arg="0x0000"}}, decided to
+interview everyone on {{1:30 arg="0x0100"}} Island.
 
 ---
 id: 2510021
@@ -16866,9 +16864,8 @@ attribute: 0x6400E10001000002
 id: 2510030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} said, "I want to
-make many friends and become super popular."
-
+"I want to make many friends and become
+super popular," {{1:30 arg="0x0200"}} said.
 
 ---
 id: 2510031
@@ -16881,9 +16878,8 @@ attribute: 0x6400E10001000002
 id: 2510040
 attribute: 0x6400E10001000002
 ---
-Hopefully they’ll become the most
+Hopefully, they’ll become the most
 popular Mii on the island.
-
 
 ---
 id: 2510041
@@ -16899,7 +16895,6 @@ attribute: 0x6400E10001000002
 The results are updated frequently, so
 be sure to drop by and check it out!
 
-
 ---
 id: 2510051
 attribute: 0x6400E10001000002
@@ -16913,14 +16908,12 @@ attribute: 0x6400800001010101
 ---
 Best Friend Ranking Announced!
 
-
 ---
 id: 2520010
 attribute: 0x6400E10001000002
 ---
-On the {{1:30 arg="0x0000"}}, the Best Friend Rankings
-was announced on the ranking bulletin board.
-
+Around {{1:30 arg="0x0000"}}, the Best Friend Ranking
+was revealed.
 
 ---
 id: 2520011
@@ -16936,7 +16929,6 @@ attribute: 0x6400E10001000002
 It only features the top 100 pairs of
 best friends from the compatibility tester.
 
-
 ---
 id: 2520021
 attribute: 0x6400E10001000002
@@ -16951,7 +16943,6 @@ attribute: 0x6400E10001000002
 The results are updated frequently, so
 be sure to drop by and check it out!
 
-
 ---
 id: 2520031
 attribute: 0x6400E10001000002
@@ -16965,14 +16956,12 @@ attribute: 0x6400800001010101
 ---
 Love Compatibility Ranking Announced!
 
-
 ---
 id: 2530010
 attribute: 0x6400E10001000002
 ---
-This {{1:30 arg="0x0000"}} a romantic compatibility
-ranking will be shown on the ranking bulletin board.
-
+Around {{1:30 arg="0x0000"}}, a romantic
+compatibility ranking was revealed.
 
 ---
 id: 2530011
@@ -16988,7 +16977,6 @@ attribute: 0x6400E10001000002
 It only features the top 100 pairs of
 lovers from the compatibility tester.
 
-
 ---
 id: 2530021
 attribute: 0x6400E10001000002
@@ -17003,7 +16991,6 @@ attribute: 0x6400E10001000002
 The results are updated frequently, so
 make sure to drop by and check it out!
 
-
 ---
 id: 2530031
 attribute: 0x6400E10001000002
@@ -17017,14 +17004,12 @@ attribute: 0x6400800001010101
 ---
 Favorite Mii Ranking Revealed!
 
-
 ---
 id: 2540010
 attribute: 0x6400E10001000002
 ---
-This {{1:30 arg="0x0000"}}, a ranking for “favorited”
-Miis will be posted on the ranking bulletin board.
-
+Around {{1:30 arg="0x0000"}}, a ranking for “favorited”
+Miis was revealed.
 
 ---
 id: 2540011
@@ -17037,9 +17022,8 @@ attribute: 0x6400E10001000002
 id: 2540020
 attribute: 0x6400E10001000002
 ---
-There have been many instances of  {{1:30 arg="0x0100"}}'s
-lookalike not paying attention to specific Miis.
-
+There's plenty of Miis that {{1:30 arg="0x0100"}}'s
+lookalike usually ignores.
 
 ---
 id: 2540021
@@ -17052,9 +17036,8 @@ attribute: 0x6400E10001000002
 id: 2540030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}} wondered
-“Who’s the most pampered Mii on the Island?”
-
+{{1:30 arg="0x0200"}} wondered how come
+they wouldn't pay attention to them.
 
 ---
 id: 2540031
@@ -17067,9 +17050,8 @@ attribute: 0x6400E10001000002
 id: 2540040
 attribute: 0x6400E10001000002
 ---
-We conducted an independent investigation
+They conducted an independent investigation
 from many perspectives for this list.
-
 
 ---
 id: 2540041
@@ -17082,9 +17064,8 @@ attribute: 0x6400E10001000002
 id: 2540050
 attribute: 0x6400E10001000002
 ---
-There appears to have been considerable
-favoritism, but we won’t disclose the details.
-
+More than likely, this list was published
+to poke fun at {{1:30 arg="0x0100"}}'s lookalike.
 
 ---
 id: 2540051
@@ -17100,7 +17081,6 @@ attribute: 0x6400E10001000002
 The results are updated frequently, so
 be sure to drop by and check it out!
 
-
 ---
 id: 2540061
 attribute: 0x6400E10001000002
@@ -17112,8 +17092,7 @@ attribute: 0x6400E10001000002
 id: 2550000
 attribute: 0x6400800001010101
 ---
-Wireless Communication now Available!
-
+Wireless Communications now Available!
 
 ---
 id: 2550010
@@ -17121,7 +17100,6 @@ attribute: 0x6400E10001000002
 ---
 Starting from {{1:30 arg="0x0000"}}, you can use DS wireless
 communications at City Hall.
-
 
 ---
 id: 2550011
@@ -17135,8 +17113,7 @@ id: 2550020
 attribute: 0x6400E10001000002
 ---
 You can use Wireless Communications to
-allow residents from other islands to visit,
-
+exchange residents from other islands.
 
 ---
 id: 2550021
@@ -17149,9 +17126,8 @@ attribute: 0x6400E10001000002
 id: 2550030
 attribute: 0x6400E10001000002
 ---
-or transfer {{1:30 arg="0x0100"}} Island's
+This includes copying {{1:30 arg="0x0100"}} Island's
 residents to other islands as well.
-
 
 ---
 id: 2550031
@@ -17167,7 +17143,6 @@ attribute: 0x6400E10001000002
 Additionally, you can use the Mii Channel
 on the Wii to store additional Miis!
 
-
 ---
 id: 2550041
 attribute: 0x6400E10001000002
@@ -17179,9 +17154,8 @@ attribute: 0x6400E10001000002
 id: 2550050
 attribute: 0x6400E10001000002
 ---
-Finally, you can exchange food, clothing,
-and treasures.
-
+Finally, you can also exchange food,
+clothing, and treasure.
 
 ---
 id: 2550051
@@ -17197,7 +17171,6 @@ attribute: 0x6400E10001000002
 Surely, this will make {{1:30 arg="0x0100"}} Island
 a lot more livelier.
 
-
 ---
 id: 2550061
 attribute: 0x6400E10001000002
@@ -17211,15 +17184,12 @@ attribute: 0x6400800001010101
 ---
 Please Consider Donating!
 
-
 ---
 id: 2560010
 attribute: 0x6400E10001000002
 ---
-Starting today, fundraising donations will be
-collected at the fountain square.
-
-
+Just now, fundraising donations opened
+up at the newly built fountain.
 ---
 id: 2560011
 attribute: 0x6400E10001000002
@@ -17231,9 +17201,8 @@ attribute: 0x6400E10001000002
 id: 2560020
 attribute: 0x6400E10001000002
 ---
-To make {{1:30 arg="0x0100"}} a wonderful
-island, please consider making a donation.
-
+To make {{1:30 arg="0x0100"}} Island a wonderful
+place, please consider making a donation.
 
 ---
 id: 2560021
@@ -17249,7 +17218,6 @@ attribute: 0x6400E10001000002
 The money will be given to {{1:30 arg="0x0200"}}'s
 lookalike, the owner of {{1:30 arg="0x0100"}} Island.
 
-
 ---
 id: 2560031
 attribute: 0x6400E10001000002
@@ -17261,9 +17229,8 @@ attribute: 0x6400E10001000002
 id: 2560040
 attribute: 0x6400E10001000002
 ---
-It’s planned to be utilized for the residents
-of the island.
-
+The money will be spent to improve
+islander life.
 
 ---
 id: 2560041
@@ -17276,9 +17243,8 @@ attribute: 0x6400E10001000002
 id: 2560050
 attribute: 0x6400E10001000002
 ---
-Donations will be collected only once a day.
-Make sure to collect them!
-
+Also, there will be some events at
+the fountain after donations end.
 
 ---
 id: 2560051
@@ -17291,9 +17257,8 @@ attribute: 0x6400E10001000002
 id: 2560060
 attribute: 0x6400E10001000002
 ---
-Furthermore, after the fundraising concludes
-at the fountain square, various events will happen.
-
+Donations can be collected once a day.
+Make sure to collect them!
 
 ---
 id: 2560061
@@ -17308,14 +17273,12 @@ attribute: 0x6400800001010101
 ---
 Staff Credits Revealed!
 
-
 ---
 id: 2570010
 attribute: 0x6400E10001000002
 ---
-On the {{1:30 arg="0x0000"}}, the staff credits
-are now available to view.
-
+This {{1:30 arg="0x0000"}}, you've
+unlocked the staff credits.
 
 ---
 id: 2570011
@@ -17331,7 +17294,6 @@ attribute: 0x6400E10001000002
 You can finally see the people who made
 Tomodachi Collection!
 
-
 ---
 id: 2570021
 attribute: 0x6400E10001000002
@@ -17345,13 +17307,12 @@ attribute: 0x6400800001010101
 ---
 City Hall Now Open!
 
-
 ---
 id: 2580010
 attribute: 0x6400E10001000002
 ---
-The City Hall has just opened today.
-
+This {{1:30 arg="0x0000"}}, the City Hall opened
+for general use.
 
 ---
 id: 2580011
@@ -17364,9 +17325,8 @@ attribute: 0x6400E10001000002
 id: 2580020
 attribute: 0x6400E10001000002
 ---
-You can register new residents and
+You can register new residents here and
 edit the profiles of registered ones.
-
 
 ---
 id: 2580021
@@ -17379,9 +17339,8 @@ attribute: 0x6400E10001000002
 id: 2580030
 attribute: 0x6400E10001000002
 ---
-The City Hall also keeps records of what
-happened on {{1:30 arg="0x0100"}} Island.
-
+The City Hall also keeps records of your
+various items and islanders.
 
 ---
 id: 2580031
@@ -17397,7 +17356,6 @@ attribute: 0x6400E10001000002
 Various other things can be done at
 the city hall, so make sure to stop by!
 
-
 ---
 id: 2580041
 attribute: 0x6400E10001000002
@@ -17409,16 +17367,14 @@ attribute: 0x6400E10001000002
 id: 2590000
 attribute: 0x6400800001010101
 ---
-Whoops!
-
+Don't Forget to Save!
 
 ---
 id: 2590010
 attribute: 0x6400E10001000002
 ---
 The game has detected that you
-didn't enter the town hall & save.
-
+didn't save the game, but reset.
 
 ---
 id: 2590011
@@ -17431,9 +17387,8 @@ attribute: 0x6400E10001000002
 id: 2590020
 attribute: 0x6400E10001000002
 ---
-Doing so will severely trouble the
-residents of this island.
-
+Doing so will trigger an annoying
+news broadcast about reseting.
 
 ---
 id: 2590021
@@ -17447,8 +17402,7 @@ id: 2590030
 attribute: 0x6400E10001000002
 ---
 Please be sure to save properly
-before turning off the power.
-
+before turning off the power!
 
 ---
 id: 2590031
@@ -17461,9 +17415,8 @@ attribute: 0x6400E10001000002
 id: 2590040
 attribute: 0x6400E10001000002
 ---
-"Where can I save?"
-You can save at the City Hall.
-
+"But where do I save?" At the
+City Hall. Big orange button.
 
 ---
 id: 2590041
@@ -17477,8 +17430,7 @@ id: 2590050
 attribute: 0x6400E10001000002
 ---
 You can also press START button to save
-at the island overview screen. (main menu)
-
+when you exit the apartments.
 
 ---
 id: 2590051
@@ -17493,14 +17445,12 @@ attribute: 0x6400800001010101
 ---
 Another reset nagging
 
-
 ---
 id: 2600010
 attribute: 0x6400E10001000002
 ---
 You reset the game again,
 or maybe you didn't.
-
 
 ---
 id: 2600011
@@ -17527,8 +17477,8 @@ attribute: 0x6400E10001000002
 id: 2600030
 attribute: 0x6400E10001000002
 ---
-One of the residents, {{1:30 arg="0x0000"}},
-said...
+{{1:30 arg="0x0000"}}, a resident
+affected by the reset, gave a comment:
 
 ---
 id: 2600031
@@ -17549,14 +17499,12 @@ attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0100"}}
 
-
 ---
 id: 2600050
 attribute: 0x6400E10001000002
 ---
 We're sorry we have to inform you 
 this information every time you reset.
-
 
 ---
 id: 2600051
@@ -17572,7 +17520,6 @@ attribute: 0x6400E10001000002
 Please always save properly before
 turning the power off!
 
-
 ---
 id: 2600061
 attribute: 0x6400E10001000002
@@ -17585,7 +17532,6 @@ id: 2601010
 attribute: 0x6400E10001000002
 ---
 "Again?"
-
 
 ---
 id: 2601011
@@ -17601,7 +17547,6 @@ attribute: 0x6400E10001000002
 "Let me guess, someone found
 a glitch?"
 
-
 ---
 id: 2601021
 attribute: 0x6400E10001000002
@@ -17614,7 +17559,6 @@ id: 2601030
 attribute: 0x6400E10001000002
 ---
 "Another day, another reset nag."
-
 
 ---
 id: 2601031
@@ -17629,7 +17573,6 @@ attribute: 0x6400E10001000002
 ---
 "I bet the battery died."
 
-
 ---
 id: 2601041
 attribute: 0x6400E10001000002
@@ -17641,8 +17584,8 @@ attribute: 0x6400E10001000002
 id: 2601050
 attribute: 0x6400E10001000002
 ---
-"Sigh."
-
+"That button says 'CRASH GAME' for
+a reason."
 
 ---
 id: 2601051
@@ -17657,14 +17600,12 @@ attribute: 0x6400800001010101
 ---
 {{1:30 arg="0x0000"}} Fall & Winter Collection
 
-
 ---
 id: 2610010
 attribute: 0x6400E10001000002
 ---
-Recently, the {{1:30 arg="0x0100"}} Arena hosted the opening
-of the {{1:30 arg="0x0000"}} Fall & Winter collection.
-
+Recently, the {{1:30 arg="0x0100"}} Arena hosted the
+{{1:30 arg="0x0000"}} Fall & Winter collection.
 
 ---
 id: 2610011
@@ -17677,9 +17618,8 @@ attribute: 0x6400E10001000002
 id: 2610020
 attribute: 0x6400E10001000002
 ---
-We got a comment for the {{1:30 arg="0x0200"}} designer,
-{{1:30 arg="0x0400"}} {{1:30 arg="0x0300"}}.
-
+The most prominent {{1:30 arg="0x0200"}} designer,
+{{1:30 arg="0x0400"}}・{{1:30 arg="0x0300"}}, gave a comment:
 
 ---
 id: 2610021
@@ -17695,7 +17635,6 @@ attribute: 0x6400E10001000002
 "The current fashion was inspired
 by {{1:30 arg="0x0500"}}."
 
-
 ---
 id: 2610031
 attribute: 0x6400E10001000002
@@ -17709,13 +17648,11 @@ attribute: 0x6400E10001000002
 ---
 Here's the replay.
 
-
 ---
 id: 2610041
 attribute: 0x6400E10001000002
 ---
 the death of VHS
-
 
 ---
 id: 2611010
@@ -17723,13 +17660,11 @@ attribute: 0x6400E10001000002
 ---
 fame
 
-
 ---
 id: 2611011
 attribute: 0x6400E10001000002
 ---
 being watched
-
 
 ---
 id: 2611020
@@ -17737,13 +17672,11 @@ attribute: 0x6400E10001000002
 ---
 endless possiblities
 
-
 ---
 id: 2611021
 attribute: 0x6400E10001000002
 ---
 suffering consequences
-
 
 ---
 id: 2611030
@@ -17751,13 +17684,11 @@ attribute: 0x6400E10001000002
 ---
 revolutions
 
-
 ---
 id: 2611031
 attribute: 0x6400E10001000002
 ---
 elegance
-
 
 ---
 id: 2611040
@@ -17765,28 +17696,24 @@ attribute: 0x6400E10001000002
 ---
 recyclables
 
-
 ---
 id: 2611041
 attribute: 0x6400E10001000002
 ---
-dirt
-
+bad hygiene
 
 ---
 id: 2620000
 attribute: 0x6400800001010101
 ---
-The Case of the Lost National Treasure
-
+The Disappearance of a National Treasure
 
 ---
 id: 2620010
 attribute: 0x6400E10001000002
 ---
-Recently, {{1:30 arg="0x0000"}} had
-seen a glimpse of a priceless national treasure.
-
+Recently, {{1:30 arg="0x0000"}} had seen a glimpse of a
+priceless national treasure.
 
 ---
 id: 2620011
@@ -17799,9 +17726,8 @@ attribute: 0x6400E10001000002
 id: 2620020
 attribute: 0x6400E10001000002
 ---
-The treasure had been hidden inside
-their room.
-
+They claim the rare treasure was buried
+somewhere in their apartment.
 
 ---
 id: 2620021
@@ -17817,7 +17743,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0000"}} spent hours of time
 digging up their apartment for the treasure,
 
-
 ---
 id: 2620031
 attribute: 0x6400E10001000002
@@ -17832,7 +17757,6 @@ attribute: 0x6400E10001000002
 but the treasure had not yet been found.
 The search is still ongoing.
 
-
 ---
 id: 2620041
 attribute: 0x6400E10001000002
@@ -17844,9 +17768,8 @@ attribute: 0x6400E10001000002
 id: 2620050
 attribute: 0x6400E10001000002
 ---
-There is a VHS of the search operation.
-We’ll play it for you now.
-
+Here is some footage of the search.
+Maybe you can spot the treasure!
 
 ---
 id: 2620051
@@ -17861,14 +17784,12 @@ attribute: 0x6400800001010101
 ---
 Nagashi Somen Festival
 
-
 ---
 id: 2630010
 attribute: 0x6400E10001000002
 ---
 The other day, {{1:30 arg="0x0000"}} Island
 hosted a Nagashi Somen Tournament.
-
 
 ---
 id: 2630011
@@ -17885,7 +17806,6 @@ attribute: 0x6400E10001000002
 Participants were frantically catching
 somen noodles with their chopsticks.
 
-
 ---
 id: 2630021
 attribute: 0x6400E10001000002
@@ -17897,8 +17817,7 @@ attribute: 0x6400E10001000002
 id: 2630030
 attribute: 0x6400E10001000002
 ---
-Here's a VHS of the event:
-
+Here's a videotape of the event.
 
 ---
 id: 2630031
@@ -17913,14 +17832,12 @@ attribute: 0x6400800001010101
 ---
 100 Problems Solved!
 
-
 ---
 id: 2640010
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} has become a
-wonderful day！
-
+{{1:30 arg="0x0000"}} has become a
+joyful day!
 
 ---
 id: 2640011
@@ -17934,8 +17851,7 @@ id: 2640020
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}’s lookalike has solved a couple
-of problems residents of {{1:30 arg="0x0100"}} Island have.
-
+of problems for {{1:30 arg="0x0100"}} Island residents.
 
 ---
 id: 2640021
@@ -17948,9 +17864,8 @@ attribute: 0x6400E10001000002
 id: 2640030
 attribute: 0x6400E10001000002
 ---
-As of today, at least 100 of them
-were solved.
-
+Today, a little statistic shows
+100 problems have been solved.
 
 ---
 id: 2640031
@@ -17966,7 +17881,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}} Island residents are holding
 a ceremony to present a shabby trophy.
 
-
 ---
 id: 2640041
 attribute: 0x6400E10001000002
@@ -17978,8 +17892,7 @@ attribute: 0x6400E10001000002
 id: 2640050
 attribute: 0x6400E10001000002
 ---
-Please take a look.
-
+Please take a look!
 
 ---
 id: 2640051
@@ -17994,14 +17907,12 @@ attribute: 0x6400800001010101
 ---
 200 Problems Solved!
 
-
 ---
 id: 2650010
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} has become a
-wonderful day！
-
+{{1:30 arg="0x0000"}} has become a
+excellent day!
 
 ---
 id: 2650011
@@ -18017,7 +17928,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0200"}}'s lookalike has doubled
 the amount of problems solved.
 
-
 ---
 id: 2650021
 attribute: 0x6400E10001000002
@@ -18029,9 +17939,8 @@ attribute: 0x6400E10001000002
 id: 2650030
 attribute: 0x6400E10001000002
 ---
-They deserve the title of the Island’s guardian,
-as the number of problems solved reaches 200.
-
+They're not a bad person for helping
+{{1:30 arg="0x0300"}} islanders. They solved 200 problems!
 
 ---
 id: 2650031
@@ -18044,9 +17953,8 @@ attribute: 0x6400E10001000002
 id: 2650040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} Island residents are holding
-a ceremony to present another trophy that's slightly better.
-
+{{1:30 arg="0x0100"}} Island residents are holding a ceremony
+to present another slightly better trophy.
 
 ---
 id: 2650041
@@ -18059,8 +17967,7 @@ attribute: 0x6400E10001000002
 id: 2650050
 attribute: 0x6400E10001000002
 ---
-Please take a look.
-
+Please take a look!
 
 ---
 id: 2650051
@@ -18075,14 +17982,12 @@ attribute: 0x6400800001010101
 ---
 400 Problems Solved!
 
-
 ---
 id: 2660010
 attribute: 0x6400E10001000002
 ---
 The {{1:30 arg="0x0000"}} has become a
-wonderful day！
-
+memorable day!
 
 ---
 id: 2660011
@@ -18098,7 +18003,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0200"}}’s lookalike, has once again
 doubled the amount of problems solved to 400.
 
-
 ---
 id: 2660021
 attribute: 0x6400E10001000002
@@ -18113,7 +18017,6 @@ attribute: 0x6400E10001000002
 I think it’s safe to say that they truly care
 about the residents of this island.
 
-
 ---
 id: 2660031
 attribute: 0x6400E10001000002
@@ -18125,9 +18028,8 @@ attribute: 0x6400E10001000002
 id: 2660040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} Island residents are holding
-a ceremony to present a trophy of gratefulness.
-
+{{1:30 arg="0x0100"}} Island residents are holding a ceremony
+to present a trophy of gratefulness.
 
 ---
 id: 2660041
@@ -18140,8 +18042,7 @@ attribute: 0x6400E10001000002
 id: 2660050
 attribute: 0x6400E10001000002
 ---
-Please take a look.
-
+Please take a look!
 
 ---
 id: 2660051
@@ -18161,9 +18062,8 @@ attribute: 0x6400800001010101
 id: 2670010
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} has become a
-wonderful day！
-
+{{1:30 arg="0x0000"}} has become an
+exciting day!
 
 ---
 id: 2670011
@@ -18177,8 +18077,7 @@ id: 2670020
 attribute: 0x6400E10001000002
 ---
 {{1:30 arg="0x0200"}}'s lookalike has now
-solved 700 problems.
-
+solved 700 problems. That's a lot!
 
 ---
 id: 2670021
@@ -18194,7 +18093,6 @@ attribute: 0x6400E10001000002
 We must now swear our absolute loyalty 
 to the rightful lord of this island.
 
-
 ---
 id: 2670031
 attribute: 0x6400E10001000002
@@ -18206,9 +18104,8 @@ attribute: 0x6400E10001000002
 id: 2670040
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0100"}} Island residents are holding
-a ceremony to present an all-mighty trophy.
-
+{{1:30 arg="0x0100"}} Island residents are holding a ceremony
+to present an all-mighty trophy.
 
 ---
 id: 2670041
@@ -18221,8 +18118,7 @@ attribute: 0x6400E10001000002
 id: 2670050
 attribute: 0x6400E10001000002
 ---
-Please take a look.
-
+Please take a look!
 
 ---
 id: 2670051
@@ -18237,14 +18133,12 @@ attribute: 0x6400800001010101
 ---
 A Thousand Problems Solved!
 
-
 ---
 id: 2680010
 attribute: 0x6400E10001000002
 ---
-The {{1:30 arg="0x0000"}} has become a
-wonderful day!
-
+{{1:30 arg="0x0000"}} has become a
+national holiday!
 
 ---
 id: 2680011
@@ -18260,7 +18154,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0200"}}'s lookalike has become
 the heart and soul of this island.
 
-
 ---
 id: 2680021
 attribute: 0x6400E10001000002
@@ -18273,8 +18166,7 @@ id: 2680030
 attribute: 0x6400E10001000002
 ---
 Today marks the 1000th problem solved
-by them.
-
+by them! It's incredible!
 
 ---
 id: 2680031
@@ -18290,7 +18182,6 @@ attribute: 0x6400E10001000002
 {{1:30 arg="0x0100"}} residents are holding
 a sacrifice to appeal to our lord and savior.
 
-
 ---
 id: 2680041
 attribute: 0x6400E10001000002
@@ -18302,8 +18193,7 @@ attribute: 0x6400E10001000002
 id: 2680050
 attribute: 0x6400E10001000002
 ---
-Please take a look.
-
+Please take a look!
 
 ---
 id: 2680051
@@ -18318,14 +18208,12 @@ attribute: 0x6400800001010101
 ---
 Population of 30 Achieved!
 
-
 ---
 id: 2690010
 attribute: 0x6400E10001000002
 ---
-As of today, {{1:30 arg="0x0100"}} Island
+As of {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island
 has 30 residents in total.
-
 
 ---
 id: 2690011
@@ -18339,8 +18227,7 @@ id: 2690020
 attribute: 0x6400E10001000002
 ---
 There was a party at the island hotel to
-celebrate this memorable day.
-
+celebrate this exciting day.
 
 ---
 id: 2690021
@@ -18353,9 +18240,8 @@ attribute: 0x6400E10001000002
 id: 2690030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, an island resident,
-told us with a big smile...
-
+"It’s starting to get lively over here!"
+resident {{1:30 arg="0x0200"}} said.
 
 ---
 id: 2690031
@@ -18368,8 +18254,8 @@ attribute: 0x6400E10001000002
 id: 2690040
 attribute: 0x6400E10001000002
 ---
-"It’s starting to get lively over here!"
-
+Additionally, many islanders are
+confused how a hotel magically appeared.
 
 ---
 id: 2690041
@@ -18384,14 +18270,12 @@ attribute: 0x6400800001010101
 ---
 Population of 50 Achieved!
 
-
 ---
 id: 2700010
 attribute: 0x6400E10001000002
 ---
-As of today, {{1:30 arg="0x0100"}} Island
+As of {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island
 has 50 residents in total.
-
 
 ---
 id: 2700011
@@ -18407,7 +18291,6 @@ attribute: 0x6400E10001000002
 There was a party at that hotel to
 celebrate, once again.
 
-
 ---
 id: 2700021
 attribute: 0x6400E10001000002
@@ -18419,9 +18302,8 @@ attribute: 0x6400E10001000002
 id: 2700030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, an island resident,
-told us with a big smile...
-
+"This place is splendid!"
+resident {{1:30 arg="0x0200"}} said.
 
 ---
 id: 2700031
@@ -18434,8 +18316,8 @@ attribute: 0x6400E10001000002
 id: 2700040
 attribute: 0x6400E10001000002
 ---
-"This place is splendid!"
-
+Additionally, research shows the hotel
+only appears to celebrate this one event.
 
 ---
 id: 2700041
@@ -18450,14 +18332,12 @@ attribute: 0x6400800001010101
 ---
 Population of 100 Achieved!
 
-
 ---
 id: 2710010
 attribute: 0x6400E10001000002
 ---
-As of today, {{1:30 arg="0x0100"}} Island
-has 100 residents in total.
-
+As of {{1:30 arg="0x0000"}}, {{1:30 arg="0x0100"}} Island
+has 100 total residents.
 
 ---
 id: 2710011
@@ -18473,7 +18353,6 @@ attribute: 0x6400E10001000002
 A party was held at the island hotel,
 but it more resembled a massive festival.
 
-
 ---
 id: 2710021
 attribute: 0x6400E10001000002
@@ -18485,9 +18364,8 @@ attribute: 0x6400E10001000002
 id: 2710030
 attribute: 0x6400E10001000002
 ---
-{{1:30 arg="0x0200"}}, an island resident
-told us with deep emotions...
-
+"It's very cramped here,"
+islander {{1:30 arg="0x0200"}} said.
 
 ---
 id: 2710031
@@ -18500,8 +18378,8 @@ attribute: 0x6400E10001000002
 id: 2710040
 attribute: 0x6400E10001000002
 ---
-"It's very cramped here."
-
+Mii apartments has no more available
+rooms, and are making lots of cash.
 
 ---
 id: 2710041
@@ -18514,9 +18392,8 @@ attribute: 0x6400E10001000002
 id: 2710050
 attribute: 0x6400E10001000002
 ---
-Due to limitations, there are no
-more available rooms in Mii apartments.
-
+It seems impossible to have any more
+residents without kicking some out.
 
 ---
 id: 2710051
@@ -18529,9 +18406,8 @@ attribute: 0x6400E10001000002
 id: 2710060
 attribute: 0x6400E10001000002
 ---
-It seems impossible to have any more
-residents without kicking some out.
-
+Breaking News: The island hotel turned 
+out to be the apartments this whole time?!
 
 ---
 id: 2710061
@@ -18616,6 +18492,7 @@ attribute: 0x6400E10001030002
  
 
 ---
+
 
 
 
