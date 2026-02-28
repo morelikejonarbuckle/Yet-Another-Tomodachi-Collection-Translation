@@ -962,37 +962,37 @@ attribute: 0x6400F00001000101
 id: 158
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}　
+           {{255:0 arg="0x0900"}}　R-YaTian (not affiliated, made better Tinke)
 
 ---
 id: 159
 attribute: 0x6400F00001000101
 ---
-        {{255:0 arg="0x0700"}}SPECIAL UNTHANKS
+           {{255:0 arg="0x0900"}}　
 
 ---
 id: 160
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}}Anyone at Nintendo who keeps
+           {{255:0 arg="0x0700"}}SPECIAL UNTHANKS
 
 ---
 id: 161
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}trying to remove cool stuff
+           {{255:0 arg="0x0900"}}Anyone at Nintendo who keeps
 
 ---
 id: 162
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}(Specifically Ryujinx)
+           {{255:0 arg="0x0900"}}trying to remove cool stuff
 
 ---
 id: 163
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}　
+           {{255:0 arg="0x0900"}}　(Specifically Ryujinx)
 
 ---
 id: 164
@@ -1130,7 +1130,7 @@ attribute: 0x6400F00001000101
 id: 187
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}}　
+          {{255:0 arg="0x0900"}}　please tell me you enjoyed it i spent 6 months on this
 
 ---
 id: 188
@@ -1214,4 +1214,4 @@ attribute: 0x6400F00001000101
 id: 240
 attribute: 0x6400F00001000101
 ---
-          {{255:0 arg="0x0900"}}　 
+
