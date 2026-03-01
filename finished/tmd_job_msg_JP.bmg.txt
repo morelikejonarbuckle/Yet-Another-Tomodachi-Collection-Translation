@@ -1,4 +1,4 @@
-﻿%%%
+%%%
 bigEndian: false
 bigEndianLabels: false
 encoding: utf-16
@@ -248,7 +248,7 @@ Basketball Player
 id: 39
 attribute: 0x6400910001010101
 ---
-Sentai Hero
+Sentai Hero (A)
 
 ---
 id: 40
@@ -374,7 +374,7 @@ Car Mechanic
 id: 60
 attribute: 0x6400910001010101
 ---
-Convenience Store Manager
+24/7 Store Manager
 
 ---
 id: 61
@@ -602,7 +602,7 @@ Maid
 id: 98
 attribute: 0x6400910001010101
 ---
-Ad Designer
+Set Designer
 
 ---
 id: 99
@@ -710,7 +710,7 @@ Flower Arranger
 id: 116
 attribute: 0x6400910001010101
 ---
-Sentai Heros
+Sentai Hero (B)
 
 ---
 id: 117
@@ -974,7 +974,7 @@ Pillar of the family
 id: 200040
 attribute: 0x6400910001030001
 ---
-Sentai Hero
+Sentai Hero (C)
 
 ---
 id: 200041
@@ -1430,7 +1430,7 @@ Undecided
 id: 200116
 attribute: 0x6400910001030001
 ---
-Sentai Heros
+Sentai Hero (D)
 
 ---
 id: 200117
@@ -1574,19 +1574,19 @@ Quit
 id: 302000
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} has tried this job…
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} has tried this job...
 
 ---
 id: 302100
 attribute: 0x6400800001030001
 ---
-Thanks for your hard work.
+Thanks for working!
 
 ---
 id: 302200
 attribute: 0x6400C40001030001
 ---
-Take a shot every time they use the word "However" and you'd be drunk in minutes
+Employer comments:
 
 ---
 id: 302300
@@ -1607,7 +1607,7 @@ id: 400001
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"Dried squid this, firefly
-squid that… Shut up! Anything with
+squid that... Shut up! Anything with
 a lot of legs is a octopus!"
 400001
 
@@ -1671,8 +1671,8 @@ is a bit like dribbling.
 id: 400021
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}You can't take your helmet
-off, even when you're taking a bath.
+{{255:0 arg="0x0900"}}Never takes their helmet
+off, even when they're taking a bath.
 
 ---
 id: 400022
@@ -1700,9 +1700,8 @@ with themselves, it dies down a bit.
 id: 400031
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}He holds a violin that's
-more expensive than his apartment as
-if it were a part of his body.
+{{255:0 arg="0x0900"}}She holds a violin that's
+more expensive than her apartment.
 
 ---
 id: 400032
@@ -1741,7 +1740,7 @@ id: 400042
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}No matter how efficient it seems,
-you'd beter not hand sushi
+they better not hand sushi
 directly to the customer.
 
 ---
@@ -1798,9 +1797,9 @@ I shrug it off. Feels great!
 id: 400061
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}He has a good sense of humor
-and is popular among members, but he
-skips practice if he has a slight cold.
+{{255:0 arg="0x0900"}}Has a good sense of humor
+and is popular among members, but skips
+practice if they have a slight cold.
 
 ---
 id: 400062
@@ -1815,9 +1814,8 @@ laugh at your jokes.
 id: 400063
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}His slender looks, on the
-contrary, attracks female fans.
-In life, anything cean be a blessing.
+{{255:0 arg="0x0900"}}His slender looks, ironically
+attracts female fans. It's an odd gift.
 
 ---
 id: 400070
@@ -1873,15 +1871,14 @@ attribute: 0x6400E00001010002
 id: 400082
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Even when you take off
-the costume, their impression
-doesn't change that much.
+{{255:0 arg="0x0900"}}Even after takin off their
+costume, their impression doesn't change much.
 
 ---
 id: 400083
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}The relaxed style of the NC's
+{{255:0 arg="0x0900"}}The relaxed style of the MC's
 part of the charm, but let's ensure
 they'll say the next person's name.
 
@@ -1907,7 +1904,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"Everytime I get the advice
 'Don't hit the duster, sweep it,' I
-secretly get annoyed.
+secretly get annoyed."
 
 ---
 id: 400093
@@ -1923,7 +1920,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}When I wore a sweater over
 my shoulders, my co-workers said
-"That's not right…"
+"That's not right..."
 
 ---
 id: 400101
@@ -1976,29 +1973,25 @@ I never let it show on my face.
 id: 400113
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Every time I take a card, the
-wind pressure causes them all 
-to flip over.
+{{255:0 arg="0x0900"}}"Every time I take a card, the
+wind flips them over."
 
 ---
 id: 400120
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}Even if the female Journalist
+{{255:0 arg="0x0900"}}"Even if the female Journalist
 by my side throws sarcastic remarks,
-I won't back down an inch!
+I won't back down an inch!"
 
 
 ---
 id: 400121
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}During the winner's interview,
+{{255:0 arg="0x0900"}}"During the winner's interview,
 even though I'm happy, I can help
-but make sarcastic remaks about me.
-{{255:0 arg="0x0900"}}asdfgasrdegasdfgadsfgadfgadfg
-legendarybirdssoaringthroughthespa
-amagicalminidouxmakesmuffinsoutofmoo
+but make sarcastic remaks about me."
 
 ---
 id: 400122
@@ -2012,9 +2005,9 @@ I gently avert my gaze.
 id: 400123
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}His comments are always
+{{255:0 arg="0x0900"}}"His comments are always
 aggressive. I bet he'll form a duo
-with a broad-minded video jocket!
+with a broad-minded video jockey!"
 
 ---
 id: 400130
@@ -2044,7 +2037,7 @@ that doesn't match my prefrences.
 id: 400133
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}"How much for that gemstone?"
+{{255:0 arg="0x0900"}}"How much is that gemstone?"
 "18.6 million yen."
 
 
@@ -2066,8 +2059,8 @@ but they have a remarkable poker face.
 id: 400142
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}I'm better than anyone else
-when it comes to small talk!
+{{255:0 arg="0x0900"}}"I'm better than anyone else
+when it comes to small talk!"
 
 ---
 id: 400143
@@ -2081,9 +2074,9 @@ that's okay.
 id: 400150
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}You were born with a flirty
-nature. That's how you'll come back
-after your marriage and retirement.
+{{255:0 arg="0x0900"}}Was born with a flirty
+nature. That's how she'll come back
+after marriage and retirement.
 
 ---
 id: 400151
@@ -2097,7 +2090,7 @@ to buy elegant items, like silk.
 id: 400152
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}Since he's too good at being
+{{255:0 arg="0x0900"}}Since she's too good at being
 spoiled, the editor volunteered to
 help with the coloring himself.
 
@@ -2113,17 +2106,16 @@ she rolls around like a caterpillar.
 id: 400160
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}It's fine to make prototypes,
-but before going to retail, let's
-at least write a shopping list.
+{{255:0 arg="0x0900"}}"It's fine to make prototypes,
+but before mass-producing, you should
+write a list of materials."
 
 ---
 id: 400161
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}I'm a different person on and
-off the podium. More than anything, I'm
-afraid of that secret being known.
+{{255:0 arg="0x0900"}}"I'm a different person on and
+off the podium. Keep that a secret."
 
 ---
 id: 400162
@@ -2139,7 +2131,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"It's not even a sports day,
 so don't use fireworks in the morning!"
-The neighborhood always complained.
+the neighborhood always complained.
 
 ---
 id: 400170
@@ -2202,8 +2194,8 @@ in front of them is awkward.
 id: 400183
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Auxiliary verb? Don't say
-things that don't make sense!
+{{255:0 arg="0x0900"}}"Auxiliary verb? Don't say
+things that don't make sense!"
 
 ---
 id: 400190
@@ -2240,16 +2232,16 @@ bottle shows a rather bold side.
 id: 400200
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}The tonkotsu soup you make's
-delicious… or so I thought, since
+{{255:0 arg="0x0900"}}The tonkotsu soup they make's
+delicious... or so I thought, since
 the secret ingredient is nasty bones.
 
 ---
 id: 400201
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Due to family obligations,
-I'll likely end practice at 5:30.
+{{255:0 arg="0x0900"}}"Due to family obligations,
+I'll likely end practice at 5:30."
 
 ---
 id: 400202
@@ -2328,9 +2320,8 @@ give 'em a death stare."
 id: 400223
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}They may be a one-man show,
-but their work is reliable. They
-often trip over their coat's hem.
+{{255:0 arg="0x0900"}}They often trip over
+their coat's hem. Works alone.
 
 ---
 id: 400230
@@ -2351,9 +2342,9 @@ confronts luxury black-painted cars.
 id: 400232
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}No matter what my husband
-smells like when returns, I never
-interfere. After all, I have my own… 
+{{255:0 arg="0x0900"}}"No matter what my husband
+smells like after a long day, I never
+interfere. Also because I smell."
 
 
 ---
@@ -2495,9 +2486,8 @@ I confidently express my allure.
 id: 400280
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Making curry at a training
-camp's extremely difficult. Others
-might percieve it as hostile.
+{{255:0 arg="0x0900"}}Making curry at a training camp's
+very difficult. Others think it's hostile.
 
 ---
 id: 400281
@@ -2591,16 +2581,15 @@ start to choose their audiences.
 id: 400310
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}A kind-hearted princess who
-treats her servants to some cream
-puffs. What a delicious reward!
+{{255:0 arg="0x0900"}}A kind-hearted princess who treats
+her servants to some cream puffs.
 
 ---
 id: 400311
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Before long, we'll probably
-start sleeping together.
+{{255:0 arg="0x0900"}}"Before long, we'll probably
+start sleeping together."
 
 ---
 id: 400312
@@ -2827,17 +2816,15 @@ showing how he puts the horse first.
 id: 400382
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Don't get so caught up in
-your chats that you fall down into
-the irrigation ditch.
+{{255:0 arg="0x0900"}}"Don't get so caught up in chatting.
+or else you'll drive into a manhole."
 
 ---
 id: 400383
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Even if the culprit's among
-many people gathered in the hall,
-they'll never be restrained.
+{{255:0 arg="0x0900"}}Even if the culprit's among many
+people, they'll never be restrained.
 
 ---
 id: 400390
@@ -2870,7 +2857,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"I went out for pork shabu-
 shabu and complained to a talent.
-Even though I have to support them…
+Even though I have to support them...
 
 ---
 id: 400400
@@ -2915,8 +2902,8 @@ choose fans at the handshake event."
 id: 400411
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}Even though he was playing
-a victim of bullying, he glared at
+{{255:0 arg="0x0900"}}Even though they played as
+a victim of bullying, they glared at
 the other actor, ruining the immersion.
 
 ---
@@ -2955,9 +2942,8 @@ like students with a buzz-cut.
 id: 400422
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}When push comes to shove,
-I'll rely on my life experiences
-to make a decisive breakthrough.
+{{255:0 arg="0x0900"}}"I tell students when they're
+stuck, rely on life experiences."
 
 ---
 id: 400423
@@ -3027,9 +3013,8 @@ the exhaust will pollute the earth."
 id: 400443
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Even during the five-hour
-pre-meeting, he never voiced his 
-opinion until the very end.
+{{255:0 arg="0x0900"}}At a five-hour pre-meeting,
+he never spoke up until the end.
 
 ---
 id: 400450
@@ -3171,7 +3156,7 @@ id: 400491
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"I headed south and ended up
-at the South Pole. How can I get
+at the North Pole. How can I get
 back home?"
 
 ---
@@ -3194,7 +3179,7 @@ id: 400500
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"I always start my chats
-with 'This is just a guess, but…'"
+with 'This is just a guess, but...'"
 
 ---
 id: 400501
@@ -3240,10 +3225,8 @@ in a uniquely sweet tone.
 id: 400512
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}Unfortunately, they don't
-know anything about the language
-of flowers.
-
+{{255:0 arg="0x0900"}}Unfortunately, they don't know
+anything about the language of flowers.
 
 ---
 id: 400513
@@ -3251,31 +3234,29 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"After working overtime, my
 husband feels the arrival of spring
-before dinner… or so I wish."
+before dinner... or so I wish."
 
 ---
 id: 400520
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}Known for his one-line jokes.
-His jokes are more famous than the
-name of his comedy duo.
+Gets more attention.
 
 ---
 id: 400521
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}At the peak of his career,
-he won by 60K points. At his worst,
-he lost by a landslide.
+{{255:0 arg="0x0900"}}At the peak of their career,
+they won by 60K points. At their worst,
+they lost by a landslide.
 
 ---
 id: 400522
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}They predict pretty much
-everything, from weather to pest
-outbreaks. It's almost prophetic.
+everything, from weather to pests.
 
 ---
 id: 400523
@@ -3328,8 +3309,7 @@ id: 400541
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}"The work I do is very
-dangerous. I'm constantly exposed
-to life-threatining situations."
+dangerous. I step into death daily."
 
 ---
 id: 400542
@@ -3383,8 +3363,7 @@ id: 400560
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}He speaks about himself as if
-it was someone else's story,
-causing the guests to chuckle.
+it was someone else's story.
 
 ---
 id: 400561
@@ -3414,7 +3393,7 @@ depicts life in the lens of a dog."
 id: 400570
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}They never move from their
+{{255:0 arg="0x0900"}}She never moves from their
 spot, even when the delivery truck
 arrives.
 
@@ -3581,9 +3560,8 @@ option must choose "Absurdly Firm."
 id: 400621
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}They name each and every
-string attached to the mawashi
-and cherish them.
+{{255:0 arg="0x0900"}}They name each and every string
+ attached to the mawashi (belt).
 
 ---
 id: 400622
@@ -3637,8 +3615,8 @@ rather than their future.
 id: 400640
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}The products being developed
-are more complex, such as a super-
+{{255:0 arg="0x0900"}}The products being sold
+are very complex, such as a super-
 duper-turbo-power-swiss-army-knife.
 
 ---
@@ -3831,24 +3809,21 @@ id: 400700
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}They return from the sea in a
-straight line, from the offshore
-to the coast.
+straight line, offshore to the coast.
 
 ---
 id: 400701
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}They have somewhat slow
-reflexes, often tripping over
-thin stakes then falling down.
+{{255:0 arg="0x0900"}}They have somewhat slow reflexes,
+often tripping then falling down.
 
 ---
 id: 400702
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}"I have an incredible rhythm
-with the cows, I can even chew my
-food at least 40 times."
+{{255:0 arg="0x0900"}}"I'm so in sync with the cows,
+I can even chew grass 40 times."
 
 ---
 id: 400703
@@ -3888,7 +3863,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}In these eco-conscious times,
 saying you use disposable undies 
-isn't something you would admit…
+isn't something you would admit...
 
 ---
 id: 400720
@@ -3896,15 +3871,14 @@ attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}"However, I can't seem to
 score a goal when it comes to
-love…"
+love..."
 
 ---
 id: 400721
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}This person has so much
-character, they could make a
-hijacker cry with their stories.
+{{255:0 arg="0x0900"}}This person has so much character.
+Their stories make hijackers sob!
 
 ---
 id: 400722
@@ -3934,8 +3908,7 @@ id: 400731
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}"Nobody notices me, even when
-I wave farewell in my regular
-clothes."
+I wave farewell after a long day."
 
 ---
 id: 400732
@@ -4110,9 +4083,8 @@ into her eyes instead of talking.
 id: 400783
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}"Make sure not to wipe away
-the perp's fingerprints! Don't be
-too thorough."
+{{255:0 arg="0x0900"}}"Remember not to wipe away
+fingerprints! Don't be to thorough."
 
 ---
 id: 400790
@@ -4144,7 +4116,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}A piece of tape stuck to the
 floor won the Honorary Chairman's
-award at a big art festival.
+award at a big movie festival.
 
 ---
 id: 400800
@@ -4174,8 +4146,7 @@ id: 400803
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}"If I overlook a defective
-product, the world will be taken
-over by a terrible shadow plague."
+product, the world will explode."
 
 
 ---
@@ -4191,7 +4162,7 @@ id: 400811
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"I spent all this time
-getting to know these skills…
+getting to know these skills...
 I wish I could make art with them."
 
 ---
@@ -4223,8 +4194,7 @@ id: 400821
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}"Life is always a game of
-waiting. My specialty is getting a
-kokushi musou with a chiho."
+waiting. It's also a life of sleep."
 
 
 ---
@@ -4257,7 +4227,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"My husband always says, 'You
 weren't like this when we first
-started dating…'"
+started dating...'"
 
 ---
 id: 400832
@@ -4383,7 +4353,7 @@ id: 400870
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}The judges and audience think
-to themselves "Is he OK?" He leads
+to themselves "Is she OK?" Leads
 a pretty captivating performance.
 
 ---
@@ -4400,15 +4370,15 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}They suddenly act distant and
 try to look away. Something fishy
-is going on with them…
+is going on with them...
 
 ---
 id: 400873
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}He's already at the water
-station after 4km from the start.
-He's clearly struggling to move.
+{{255:0 arg="0x0900"}}They're already at the water
+station after 4km from the start,
+and is clearly struggling to move.
 
 ---
 id: 400880
@@ -4439,7 +4409,7 @@ id: 400883
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}Their catchphrase is "A real
-young master can't write 'Botchan.'"
+writer can't overuse 'Desu.'"
 
 ---
 id: 400890
@@ -4452,7 +4422,7 @@ to the junior companions.
 id: 400891
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}One reason for the growing
+{{255:0 arg="0x0900"}}One reason for her growing
 enthusiasm for education is that
 they can't blend in at PTA meetings.
 
@@ -4493,7 +4463,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}With wild gas prices, their
 quick calculation skills are
-useful… in a computer world.
+useful... in a computer world.
 
 
 ---
@@ -4589,15 +4559,15 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"When I realized I stood in
 the station for four hours in the 
-heavy rain, my master said '"Sorry.'"
+heavy rain, my master said 'Sorry.'"
 
 ---
 id: 400933
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}From a lung's perspective,
-it's possible to exhale for a long
-time.
+{{255:0 arg="0x0900"}}From a lung's perspective, it's 
+possible to exhale for a long time.
+
 
 ---
 id: 400940
@@ -4635,9 +4605,9 @@ complained, I grew more determined."
 id: 400950
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}"When the scandal about that
-actor went out, I thought he'd deny
-it, but he had some meaningful words."
+{{255:0 arg="0x0900"}}"When the scandal about that actor
+went out, I thought they'd deny it, 
+but they had some meaningful words."
 
 ---
 id: 400951
@@ -4652,8 +4622,7 @@ id: 400952
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}"Even though the forecast
-predicts rain, I still think it's
-sunny."
+predicts rain, I think it's sunny."
 
 ---
 id: 400953
@@ -4685,13 +4654,14 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}Regarded as brave, they were
 just not afraid of fire.
+Spiders, however...
 
 ---
 id: 400963
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}Relationships aren't as
-smooth as diamonds.
+{{255:0 arg="0x0900"}}"Relationships aren't as
+smooth as the railroad."
 
 ---
 id: 400970
@@ -4837,7 +4807,7 @@ tension was intense as putting.
 id: 401012
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}"I relieve my worries by
+{{255:0 arg="0x0900"}}"I relieve my problems by
 talking to babies. It would be a
 big deal if they understood words."
 
@@ -4940,9 +4910,8 @@ nervous."
 id: 401043
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}"I express a desire to create
-a flower-inspired work and get
-laughed at. Such a shame!"
+{{255:0 arg="0x0900"}}"I wanted to make a flower-
+inspired work but I was laughed at."
 
 ---
 id: 401050
@@ -4996,9 +4965,8 @@ makes me befriend many herbivores."
 id: 401062
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}She's skilled at dodging
-bored housewives' "You won't believe
-THIS!" stories.
+{{255:0 arg="0x0900"}}They're skilled at dodging bored 
+housewives' "You won't believe THIS!" stories.
 
 ---
 id: 401063
@@ -5235,7 +5203,7 @@ attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"Drums are essential for many
 songs, that's why I chose them."
-That seems a bit lackluster…
+That seems a bit lackluster...
 
 ---
 id: 401141
@@ -5304,9 +5272,8 @@ monitor sales with a noddle graph."
 id: 401161
 attribute: 0x6400E00001010002
 ---
-{{255:0 arg="0x0900"}}"I speak politely to new 
-hires and am well trusted
-by female staff."
+{{255:0 arg="0x0900"}}"I speak politely to new hires
+and I'm well trusted by female staff."
 
 ---
 id: 401162
@@ -5359,15 +5326,14 @@ id: 401180
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}The mother said "It's OK to
-have big dreams," but with a half-
-smile.
+have big dreams (lying)." That aged well!
 
 ---
 id: 401181
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}Having 12 screens is totally
-over the top… The company didn't
+over the top... The company didn't
 make up their mind if that's good.
 
 ---
@@ -6287,7 +6253,7 @@ nobody dares to defy them
 id: 500360
 attribute: 0x6400E00001010001
 ---
-a genius who creates something from nothing
+creates something from nothing
 
 ---
 id: 500361
@@ -6419,7 +6385,7 @@ often grumpy
 id: 500412
 attribute: 0x6400E00001010001
 ---
-Just because he's friendly at work…
+Just because he's friendly at work...
 
 ---
 id: 500413
@@ -6521,13 +6487,13 @@ attribute: 0x6400E00001010001
 id: 500453
 attribute: 0x6400E00001010001
 ---
-you'll never know what triggers their anger
+we never know what flips their swich
 
 ---
 id: 500460
 attribute: 0x6400E00001010001
 ---
-has a sharp tongue & focuses on current events
+has a sharp tongue, very topical
 
 ---
 id: 500461
@@ -7314,7 +7280,7 @@ a bit shy when talking to people
 id: 500783
 attribute: 0x6400E00001010001
 ---
-there's pros and cons to them being cautious
+a bit too cautious
 
 ---
 id: 500790
@@ -7422,7 +7388,7 @@ was shocked when it came out of the water
 id: 500831
 attribute: 0x6400E00001010001
 ---
-all of a sudden…
+all of a sudden...
 
 ---
 id: 500832
@@ -7555,7 +7521,7 @@ values peace above all else
 id: 500883
 attribute: 0x6400E00001010001
 ---
-hardly working, not working hard
+hardly working, laid-back
 
 ---
 id: 500890
@@ -7735,7 +7701,7 @@ the embodiment of justice
 id: 500961
 attribute: 0x6400E00001010001
 ---
-just stands there… MENACINGLY!!!
+just stands there... MENACINGLY!!!
 
 ---
 id: 500962
@@ -8300,4 +8266,3 @@ id: 501193
 attribute: 0x6400E00001010001
 ---
 will get upset if not flattered
-
