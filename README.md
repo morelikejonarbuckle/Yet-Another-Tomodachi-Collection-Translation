@@ -13,6 +13,6 @@ Use this version of Tinke or else the textures refuse to load.
 https://github.com/R-YaTian/TinkeDSi/actions/runs/22517582323
 
 If you have windows use THIS exact copy of MSBT editor, the later updates break the BMG
-https://gitlab.com/AeonSake/msbt-editor/-/releases/2.9.3
+https://gitlab.com/AeonSake/msbt-editor/-/releases/2.9.4
 
 Best of wishes!
