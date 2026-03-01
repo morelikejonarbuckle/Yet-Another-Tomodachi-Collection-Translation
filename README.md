@@ -4,7 +4,7 @@ A improved translation of Tomodachi Collection
 Jon got bored one day and impulsively tried to finish jjjewel's translation. He used something slightly better than Google translate to finish this mod (read the wiki)
 Some text might get cut off when you play this ROM hack. Jon might set up a google form to submit errors in case some people don't want to sign up for a Github account
 
-# Project will likely stop after 0.89 due to Tinke and BMG files
+# Project will likely stop after 0.90 due to Tinke and BMG files
 https://github.com/R-YaTian/TinkeDSi/issues/16
 
 
