@@ -126,7 +126,7 @@ attribute: 0x6400E00001030001
 id: 101004
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Totally this one!"
+{{255:0 arg="0x0100"}}" It's Totally this one!"
 
 ---
 id: 101005
@@ -426,7 +426,7 @@ attribute: 0x6400E00001030001
 id: 101054
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one had some change on the ground."
+{{255:0 arg="0x0100"}}"I saw a 100-yen coin over here."
 
 ---
 id: 101055
@@ -462,7 +462,7 @@ attribute: 0x6400E00001030001
 id: 101060
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Only rookies would choose the other one."
+{{255:0 arg="0x0100"}}"Only amateurs would choose the other one."
 
 ---
 id: 101061
@@ -654,7 +654,7 @@ attribute: 0x6400E00001030001
 id: 101092
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one, but I'll never tell"
+{{255:0 arg="0x0100"}}"This one, but I'll never tell why."
 
 ---
 id: 101093
@@ -774,7 +774,7 @@ attribute: 0x6400E00001030001
 id: 101112
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I decided with the pure heart of a baby."
+{{255:0 arg="0x0100"}}"I decided this with the pure heart of a baby."
 
 ---
 id: 101113
@@ -858,13 +858,14 @@ attribute: 0x6400E00001010001
 id: 200203
 attribute: 0x6400E00001010101
 ---
-OK
+ OK
 
 ---
 id: 200204
 attribute: 0x6400B40001010007
 ---
-Please select a Mii you want to check.
+Please select a Mii 
+you want to check on.
 
 ---
 id: 200205
@@ -896,7 +897,8 @@ attribute: 0x6400E00001030001
 id: 200209
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}You might be mistaking {{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} for a narcicist. Select another Mii.
+{{255:0 arg="0x0100"}}You might be mistaking this mii for 
+a narcicist. Select another Mii.
 
 ---
 id: 200250
@@ -922,7 +924,7 @@ id: 200400
 attribute: 0x6400000101010102
 ---
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}&{{255:0 arg="0x0700"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0800"}}'s
-Their Compatibility Level is...
+Friend Compatibility Level is...
 
 ---
 id: 200450
@@ -1001,7 +1003,7 @@ id: 201450
 attribute: 0x6400000101010102
 ---
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}&{{255:0 arg="0x0700"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0800"}}'s
-Their Love Compatibility is...
+Love Compatibility Level is...
 
 ---
 id: 201470
@@ -1359,7 +1361,7 @@ to this relationship is surpringly bland.
 id: 206500
 attribute: 0x6400E00001010002
 ---
-The relationship is based on
+The relationship is carried on
 {{1:1 arg="0x0000"}}'s strong feelings.
 
 ---
@@ -1381,9 +1383,8 @@ everything to {{1:1 arg="0x0000"}}!
 id: 206800
 attribute: 0x6400E00001010002
 ---
-Although they love each other, if they
-let their guard down, {{1:1 arg="0x0100"}}
-tends to loose interest.
+They love each other, if they let
+their guard down, {{1:1 arg="0x0100"}} tends to loose interest.
 
 ---
 id: 206900
@@ -1410,8 +1411,8 @@ They might as well be married already!
 id: 300000
 attribute: 0x6400800001020005
 ---
-What does vitality mean, 
-anyway? Nobody knows.
+Who takes care of themselves
+the most? Who needs fixing up?
 (Birth date required)
 
 ---
@@ -1448,7 +1449,7 @@ id: 300400
 attribute: 0x6400800001020005
 ---
 
-Who is very happy?
+What duo is the happiest?
 (Based on a spree 
 I had while using the 
 Compatibility Tester.)
@@ -1457,7 +1458,7 @@ Compatibility Tester.)
 id: 300500
 attribute: 0x6400800001020005
 ---
-Who's the best couple?
+What's the best couple?
 (PLEASE don't take this
 as serious dating advice!)
 
@@ -1465,7 +1466,7 @@ as serious dating advice!)
 id: 300600
 attribute: 0x6400800001020005
 ---
-Who does the look-alike
+Who does the lookalike
 like most?
 (The Miis at the bottom
 deserve some attention
@@ -1524,7 +1525,7 @@ Compatibility tests
 id: 301200
 attribute: 0x6400780001010005
 ---
-Favorited by Look-alike
+Favorited by Lookalike
 Work In Progress
 ---Conditions---
 30 residents 
@@ -1540,3 +1541,4 @@ id: 900000
 attribute: 0x6400000001030001
 ---
 ck
+
