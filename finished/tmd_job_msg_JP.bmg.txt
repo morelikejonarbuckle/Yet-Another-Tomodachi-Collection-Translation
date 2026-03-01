@@ -4698,8 +4698,8 @@ id: 400970
 attribute: 0x6400E00001010003
 ---
 {{255:0 arg="0x0900"}}"As a DJ, I stress about
-pronouncing songs in an American
-style while in the booth."
+knowing what songs to play based
+on the crowd's atmosphere."
 
 ---
 id: 400971
@@ -4713,17 +4713,17 @@ into despair and won't let them rise.
 id: 400972
 attribute: 0x6400E00001010003
 ---
-{{255:0 arg="0x0900"}}A true pro believes he has no
-credibility unless they have a
-perfect figure.
+{{255:0 arg="0x0900"}}A true pro believes they have
+no credibility unless they have
+a perfect figure.
 
 ---
 id: 400973
 attribute: 0x6400E00001010002
 ---
 {{255:0 arg="0x0900"}}They hold hands to help cross
-the street. However,However,However
-However,how,now brown cow, however.
+the street. Some concerned
+folks find it a bit romantic.
 
 ---
 id: 400980
@@ -8300,3 +8300,4 @@ id: 501193
 attribute: 0x6400E00001010001
 ---
 will get upset if not flattered
+
