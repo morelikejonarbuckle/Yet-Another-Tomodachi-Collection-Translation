@@ -212,7 +212,7 @@ Please enter their nickname.
 id: 950
 attribute: 0x6400F00001010001
 ---
-Voice settings
+Tune
 
 ---
 id: 1000
@@ -260,7 +260,7 @@ Catchphrase 2
 id: 1600
 attribute: 0x6400280001010001
 ---
-Edit Voice
+Tune
 
 ---
 id: 1700
@@ -776,13 +776,13 @@ Dress up this Mii
 id: 110250
 attribute: 0x6400280001010101
 ---
-Visit Apt.
+Visit
 
 ---
 id: 110300
 attribute: 0x6400280001010001
 ---
-Delete
+Del.
 
 ---
 id: 110400
@@ -799,7 +799,7 @@ id: 110410
 attribute: 0x6400B40001010007
 ---
 The cost of moving will be
-２１００ yen. Is that acceptable?
+2100 yen. Is that acceptable?
 
 ---
 id: 110420
@@ -1059,8 +1059,8 @@ attribute: 0x6400A00001010006
 ---
 This is where you register new
 residents and save, among
-other things. If you
-have any problems, go here!
+other things. If you have any 
+problems, go here!
 
 ---
 id: 201800
@@ -2297,7 +2297,7 @@ be a resident of this island{{255:0 arg="0x0800"}}.
 id: 1300700
 attribute: 0x6400B40001010007
 ---
-Now then, please {{255:0 arg="0x0200"}}create avatar{{255:0 arg="0x0800"}}
+Now then, please {{255:0 arg="0x0200"}}create a avatar{{255:0 arg="0x0800"}}
 as a {{255:0 arg="0x0200"}}Mii{{255:0 arg="0x0800"}} to live on this island.
 
 ---
@@ -2305,8 +2305,8 @@ id: 1300750
 attribute: 0x6400B40001010007
 ---
 You have created {{255:0 arg="0x0200"}}your lookalike{{255:0 arg="0x0800"}}!
-From now on, {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
-will be living on this island.
+From now on, {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} will be living
+on this island.
 
 ---
 id: 1300770
@@ -2393,9 +2393,8 @@ attribute: 0x6400B40001010007
 id: 1301500
 attribute: 0x6400B40001010007
 ---
-Miis can meet up on their
-own, talk to each other,
-and become friends.
+Miis can meet up on their own,
+talk to each other, and become friends.
 
 ---
 id: 1301600
@@ -2458,7 +2457,7 @@ id: 1301800
 attribute: 0x6400B40001010007
 ---
 If you see a speech bubble
-in an apartment window, it means
+in a apartment window, it means
 that Mii{{255:0 arg="0x0200"}} has a problem{{255:0 arg="0x0800"}}.
 Can we solve it?
 
@@ -2472,19 +2471,17 @@ attribute: 0x6400B40001010007
 id: 1302300
 attribute: 0x6400B40001010007
 ---
-The {{255:0 arg="0x0200"}}food mart{{255:0 arg="0x0800"}} has
-just opened! Go there and buy
-something {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
+The {{255:0 arg="0x0200"}}food mart{{255:0 arg="0x0800"}} has just opened! 
+Go there and buy something {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
 likes. Maybe pick what you think
-the real person will like.
+their lookalike will like.
 
 ---
 id: 1302400
 attribute: 0x6400B40001010007
 ---
-You have bought some food.
-Now, let's give it to
-{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
+You've bought some food.
+Now, let's give it to {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
 
 ---
 id: 1302450
@@ -2553,8 +2550,7 @@ Feel free to check them out!
 id: 1302900
 attribute: 0x6400B40001010007
 ---
-You can go to the city hall
-to {{255:0 arg="0x0200"}}save{{255:0 arg="0x0800"}},
+You can go to the city hall to {{255:0 arg="0x0200"}}save{{255:0 arg="0x0800"}},
 or {{255:0 arg="0x0200"}}press START{{255:0 arg="0x0800"}} on this map screen.
 Never forget to save the game,
 {{255:0 arg="0x0200"}}or else.{{255:0 arg="0x0800"}}
@@ -2564,7 +2560,7 @@ id: 1303000
 attribute: 0x6400B40001010007
 ---
 Let's have other people's Miis
-live on {{1:1 arg="0x0000"}}Island,
+live on {{1:1 arg="0x0000"}} Island,
 and gently watch over the lives
 and relationships they build
 on this island.
@@ -2617,7 +2613,7 @@ See you again soon!
 id: 1400400
 attribute: 0x6400B40001010007
 ---
-Starting wireless communication.
+Starting wireless communications.
 Your progress will be saved.
 Save and continue?
 
@@ -2867,3 +2863,4 @@ id: 1600600
 attribute: 0x6400B40001010007
 ---
 I'm sorry.
+
