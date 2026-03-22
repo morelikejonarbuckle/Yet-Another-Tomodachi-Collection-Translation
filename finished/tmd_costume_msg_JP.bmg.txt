@@ -128,7 +128,7 @@ Poncho
 id: 19
 attribute: 0x6400780001030101
 ---
-A dress for a Princess
+Princess Dress
 
 ---
 id: 20
@@ -1322,7 +1322,7 @@ Jockey's Uniform
 id: 218
 attribute: 0x6400780001030101
 ---
-Flight Attendant Uniform
+Flight Service Uniform
 
 ---
 id: 219
@@ -1334,7 +1334,7 @@ Mao Jacket
 id: 220
 attribute: 0x6400780001030101
 ---
-An Emperor's New Clothes
+Emperor's New Clothes
 
 ---
 id: 221
