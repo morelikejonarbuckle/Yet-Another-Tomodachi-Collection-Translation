@@ -16,3 +16,5 @@ If you have windows use THIS exact copy of MSBT editor, the later updates break 
 https://gitlab.com/AeonSake/msbt-editor/-/releases/2.9.4
 
 Best of wishes!
+
+P.S. Is there any better way to organize files on Github? The file layout so far looks messed up and all over the place
