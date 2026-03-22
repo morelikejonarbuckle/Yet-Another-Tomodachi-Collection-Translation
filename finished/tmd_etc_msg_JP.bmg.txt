@@ -1059,7 +1059,7 @@ attribute: 0x6400A00001010006
 ---
 This is where you register new
 residents and save, among
-other things. If you have any 
+other things. If you have any
 problems, go here!
 
 ---
@@ -1087,9 +1087,10 @@ id: 202000
 attribute: 0x6400A00001010006
 ---
 This is where island residents
-give donations to you (and for
-themselves). This only happens
-once a day.
+give donations to you        
+(and for themselves).        
+It only happens                
+once a day!                     
 
 ---
 id: 202050
@@ -1336,7 +1337,7 @@ Buy
 id: 400100
 attribute: 0x6400B40001030001
 ---
-How many will you buy?
+How many?
 
 ---
 id: 400200
@@ -1360,7 +1361,7 @@ Has
 id: 400500
 attribute: 0x6400B40001030001
 ---
-How many will you sell?
+How many?
 
 ---
 id: 400600
