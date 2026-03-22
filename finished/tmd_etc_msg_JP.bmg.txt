@@ -2403,8 +2403,8 @@ attribute: 0x6400B40001010007
 ---
 Each Mii has different
 personalities. It may be
-easy to become friends
-with some Miis, or hard
+easy to befriend
+some Miis, or hard
 with other Miis.
 
 ---
