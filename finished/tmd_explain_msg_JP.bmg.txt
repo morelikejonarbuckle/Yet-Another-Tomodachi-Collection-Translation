@@ -191,7 +191,7 @@ id: 25
 attribute: 0x6400A00001030002
 ---
 Summer won't start until you
-eat this. The flavor's strawberry.
+eat this. Made from strawberries.
 
 ---
 id: 26
@@ -295,7 +295,7 @@ with beef and onion. Dig in!
 id: 40
 attribute: 0x6400A00001030002
 ---
-Highly nutritious item you
+A Highly nutritious item you
 can't miss during school lunch.
 
 ---
@@ -1492,7 +1492,7 @@ id: 211
 attribute: 0x6400A00001030002
 ---
 It's a bit hard to replicate
-this controller. Very unique.
+this controller. Kinda unique.
 
 ---
 id: 212
@@ -1637,7 +1637,7 @@ It's a premium pork cutlet.
 id: 232
 attribute: 0x6400A00001030002
 ---
-A southern (Japanese) veggie
+A southern Japanese veggie
 with an addictive bitter taste.
 
 ---
@@ -1665,22 +1665,22 @@ seems to have some value.
 id: 236
 attribute: 0x6400A00001030002
 ---
-A Nintendo Wii. It doesn't
-have HDMI, but it works.
+A Nintendo Wii. Comes with a
+component cable TV! How rare.
 
 ---
 id: 237
 attribute: 0x6400A00001030002
 ---
 It can do call AND text!
-How revolutionary!
+That's all it can do! (wow)
 
 ---
 id: 238
 attribute: 0x6400A00001030002
 ---
-Add music to your life. Enjoy
-it with headphones.
+A CD player with a speaker.
+The songs sound the same to you.
 
 ---
 id: 239
@@ -1700,8 +1700,8 @@ that's hard to put down.
 id: 241
 attribute: 0x6400A00001030002
 ---
-A physical melonDS (not to be
-confused with the emulator.)
+A Nintendo DS that totally
+doesn't have two flashcards.
 
 ---
 id: 242
@@ -3249,7 +3249,7 @@ id: 1208
 attribute: 0x6400A00001030002
 ---
 You could wear this to break
-into a big place. Camoflauge!
+into a big place. Camouflage!
 
 ---
 id: 1209
@@ -3319,7 +3319,7 @@ id: 1218
 attribute: 0x6400A00001030002
 ---
 Fly through the sky with this
-cute uniform! Also has a ribbon.
+cute uniform! Has a ribbon.
 
 ---
 id: 1219
@@ -3333,14 +3333,14 @@ id: 1220
 attribute: 0x6400A00001030002
 ---
 A noble garment fit for a King.
-Or a Queen. Or a very royal Mii.
+Or a Queen. Or royalty.
 
 ---
 id: 1221
 attribute: 0x6400A00001030002
 ---
-The checkrered pattern seems
-somewhat nostalgic.
+The checkrered pattern
+seems somewhat nostalgic.
 
 ---
 id: 1222
@@ -3846,7 +3846,8 @@ being hard working.
 id: 1294
 attribute: 0x6400A00001030002
 ---
-The cotton's soft-to-the-touch!
+The cotton's soft-to-
+the-touch! Don't dirty it.
 
 ---
 id: 1295
@@ -3969,8 +3970,8 @@ apricots than flowers.
 id: 2013
 attribute: 0x6400A00001030002
 ---
-You're very likely to get a
-head injury near the door.
+The cars jumping off the slope
+is likely a big safety hazard.
 
 ---
 id: 2014
@@ -3983,8 +3984,8 @@ that carpet's floating on air?
 id: 2015
 attribute: 0x6400A00001030002
 ---
-You're bound to have FUN here if
-you're afraid of drowning.
+You're bound to have fun here
+if you're afraid of drowning.
 
 ---
 id: 2016
@@ -4054,14 +4055,14 @@ id: 2025
 attribute: 0x6400A00001030002
 ---
 Don't believe their lies. The
-moon IS made out of cheese.
+moon's made out of cheese.
 
 ---
 id: 2026
 attribute: 0x6400A00001030002
 ---
-A CD collector's worst
-nightmare: Old vinyl records.
+A wonderful record collection!
+It's hard to take care of them.
 
 ---
 id: 2027
@@ -4088,8 +4089,8 @@ for the youth. Needs a table.
 id: 2030
 attribute: 0x6400A00001030002
 ---
-OH MY STARS, 
-EVERYTHING'S PINK!
+The stuffed bear really ties
+it all together. Very pink.
 
 ---
 id: 2031
@@ -4171,8 +4172,8 @@ burn) your food. Smells good!
 id: 2042
 attribute: 0x6400A00001030002
 ---
-Needs more cables, mics,
-and loose chords flying around.
+Needs more cables, mics, and
+loose chords flying around.
 
 ---
 id: 2043
@@ -4186,7 +4187,7 @@ id: 2044
 attribute: 0x6400A00001030002
 ---
 What a view! And it only cost
-me my soul to stay here!
+me a fortune to stay here!
 
 ---
 id: 2045
@@ -4206,8 +4207,8 @@ on makeup. Joy.
 id: 2047
 attribute: 0x6400A00001030002
 ---
-This is great! But you need
-someone else to cut your hair.
+You likely need someone else
+to cut your hair in this room.
 
 ---
 id: 2048
@@ -4234,8 +4235,8 @@ as you have enough quarters)!
 id: 2051
 attribute: 0x6400A00001030002
 ---
-It's like a very annoying
-game of "spot the difference."
+An essential for the upcoming
+robot revolution.
 
 ---
 id: 2052
@@ -4297,7 +4298,7 @@ The screen light is striking.
 id: 2060
 attribute: 0x6400A00001030002
 ---
-Ants. The only downside to
+How nice! The only downside to
 this place is ants.
 
 ---
@@ -4325,15 +4326,15 @@ atmosphere of a suite room.
 id: 2064
 attribute: 0x6400A00001030002
 ---
-Trick or Treat!
-You're in for a spook!
+Trick or Treat! Does anyone
+trick others? I only see treats.
 
 ---
 id: 2065
 attribute: 0x6400A00001030002
 ---
-Merry Christmas, forever!
-Muhahaha!
+Merry Christmas! You got coal...
+but you can fuel the fireplace!
 
 ---
 id: 2066
@@ -4360,8 +4361,8 @@ of Mt. Fuji as you bathe.
 id: 2069
 attribute: 0x6400A00001030002
 ---
-They call this a ruin but
-it was made in the present.
+They call this ancient but
+the room was made in the present.
 
 ---
 id: 2070
@@ -4381,8 +4382,8 @@ and bask under the sun.
 id: 2072
 attribute: 0x6400A00001030002
 ---
-This is where we milk the
-"thing is being milked" jokes.
+This is where we milk jokes
+about Virtual Boy. Tastes good.
 
 ---
 id: 2073
