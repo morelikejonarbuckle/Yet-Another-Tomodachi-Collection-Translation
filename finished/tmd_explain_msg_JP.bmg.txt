@@ -707,15 +707,15 @@ The seasoning's the key.
 id: 99
 attribute: 0x6400A00001030002
 ---
-A true Japanifornian delacy.
-Veggies balance out the meat!
+A staple of fast-food. The
+veggies balance out the meat!
 
 ---
 id: 100
 attribute: 0x6400A00001030002
 ---
-A bunless burger. It even
-comes with some special sauce!
+A bunless burger. Includes
+some special steak sauce!
 
 ---
 id: 101
