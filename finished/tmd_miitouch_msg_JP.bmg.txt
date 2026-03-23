@@ -656,8 +656,9 @@ id: 1301200
 attribute: 0x6400B40001010007
 ---
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} wants some friends.
- Try creating more Miis, either from
-{{255:0 arg="0x0200"}}real life{{255:0 arg="0x0800"}} or some {{255:0 arg="0x0200"}}fictional characters{{255:0 arg="0x0800"}}.
+ Try creating more Miis, either 
+{{255:0 arg="0x0200"}}from real life{{255:0 arg="0x0800"}} or {{255:0 arg="0x0200"}} from
+fictional characters{{255:0 arg="0x0800"}}.
 
 ---
 id: 1301300
@@ -690,7 +691,8 @@ attribute: 0x6400B40001010007
 ---
 When you solve a Mii's {{255:0 arg="0x0200"}}problem{{255:0 arg="0x0800"}}
 their {{255:0 arg="0x0200"}}satisfaction level{{255:0 arg="0x0800"}} will go up.
-Something nice might happen if you level them up!
+Something nice might happen if you
+level them up!
 
 ---
 id: 1301500
@@ -786,7 +788,7 @@ id: 1302600
 attribute: 0x6400B40001010007
 ---
 Their satisfaction level went up!
-Increase it by recalling that Mii's 
+Increase it by recalling that Mii's
 likes and dislikes.
 
 ---
@@ -801,10 +803,10 @@ a bit of {{255:0 arg="0x0200"}}money?{{255:0 arg="0x0800"}}
 id: 1302640
 attribute: 0x6400B40001010007
 ---
-Each time you satisfy a Mii, they'll
+Each time you satisfy a Mii, they'll 
 give you some {{255:0 arg="0x0200"}}money{{255:0 arg="0x0800"}}
-to thank you. You can use
-that cash to buy items for them!
+to thank you. You can use that cash 
+to buy items for them!
 
 ---
 id: 1302700
@@ -864,8 +866,7 @@ By giving a song as a present,
 your Mii can sing it. You can also
 edit and create custom* lyrics.
 
-*lyrics created from a pool
-of words.
+*selected from a pool of words
 
 ---
 id: 1304300
@@ -1105,7 +1106,7 @@ id: 1305250
 attribute: 0x6400B40001010007
 ---
 You can change the room's
-atmosphere by giving the Mii
+atmosphere by giving a Mii
 a new interior. Try to find an
 interior that matches your Mii!
 
@@ -1159,7 +1160,7 @@ id: 1306000
 attribute: 0x6400B40001010007
 ---
 You can also give a
-practical {{255:0 arg="0x0200"}}Practical item{{255:0 arg="0x0800"}} as a present.
+{{255:0 arg="0x0200"}}Practical item{{255:0 arg="0x0800"}} as a present.
 Sometimes these practical
 items will be necessary!
 
@@ -1209,4 +1210,3 @@ id: 1311000
 attribute: 0x6400E00001010001
 ---
 {{1:1 arg="0x0000"}}'s clothes
-
