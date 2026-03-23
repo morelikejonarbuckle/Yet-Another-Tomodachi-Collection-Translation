@@ -7470,7 +7470,7 @@ attribute: 0x6400E10001030001
 id: 1162104
 attribute: 0x6400E10001030001
 ---
-It's the Pineapple Fields!
+That's how pineapples grow! Huh.
 
 ---
 id: 1162105
@@ -7506,7 +7506,7 @@ attribute: 0x6400E10001030001
 id: 1162110
 attribute: 0x6400E10001030001
 ---
-It's a beach during the evening!
+It's calming to stay at the beach.
 
 ---
 id: 1162111
@@ -7518,7 +7518,7 @@ attribute: 0x6400E10001030001
 id: 1162112
 attribute: 0x6400E10001030001
 ---
-It's a Fruit Stand!
+Look at all this fresh fruit!
 
 ---
 id: 1162113
@@ -7530,7 +7530,7 @@ attribute: 0x6400E10001030001
 id: 1162200
 attribute: 0x6400E10001030001
 ---
-It's the Central at Night!
+There's plenty of pretty skyscrapers!
 
 ---
 id: 1162201
@@ -7650,7 +7650,7 @@ attribute: 0x6400E10001030001
 id: 1162312
 attribute: 0x6400E10001030001
 ---
-It's a colosseum!
+It's the Roman colosseum!
 
 ---
 id: 1162313
@@ -7722,7 +7722,7 @@ attribute: 0x6400E10001030001
 id: 1162500
 attribute: 0x6400E10001030001
 ---
-It's a water buffalo!
+Look, a water buffalo!
 
 ---
 id: 1162501
@@ -7782,7 +7782,7 @@ attribute: 0x6400E10001030001
 id: 1162510
 attribute: 0x6400E10001030001
 ---
-It's a sugarcane Field!
+It's a sugarcane field. Huh.
 
 ---
 id: 1162511
@@ -7866,7 +7866,7 @@ attribute: 0x6400E10001030001
 id: 1162702
 attribute: 0x6400E10001030001
 ---
-It's the White Village!
+It's a white village! I'm lost...
 
 ---
 id: 1162703
@@ -7878,7 +7878,7 @@ attribute: 0x6400E10001030001
 id: 1162704
 attribute: 0x6400E10001030001
 ---
-It's Toledo!
+It's Toledo! What a view!
 
 ---
 id: 1162705
@@ -7926,7 +7926,7 @@ attribute: 0x6400E10001030001
 id: 1162712
 attribute: 0x6400E10001030001
 ---
-It's some andalusia sunflowers!
+Here's some andalusia sunflowers!
 
 ---
 id: 1162713
@@ -7938,7 +7938,7 @@ attribute: 0x6400E10001030001
 id: 1162714
 attribute: 0x6400E10001030001
 ---
-It's an roman aquaduct!
+It's a roman aquaduct!
 
 ---
 id: 1162715
@@ -12582,8 +12582,8 @@ attribute: 0x6400E10001030002
 id: 1481080
 attribute: 0x6400E10001030002
 ---
-{{255:0 arg="0x0100"}}"This will be the last letter of appreciation
-for you. We are eternally indebted to you."
+{{255:0 arg="0x0100"}}"We are eternally indebted to you.
+Now let's sacrifice that goat!"
 
 ---
 id: 1481081
