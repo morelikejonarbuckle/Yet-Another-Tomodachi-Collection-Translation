@@ -74,8 +74,8 @@ attribute: 0x6400E10001000001
 id: 40
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} here! I'm a bit
-laid-back, but I worry a lot."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} here! I'm a bit laid-back
+and self-paced, but I worry a lot."
 
 
 ---
