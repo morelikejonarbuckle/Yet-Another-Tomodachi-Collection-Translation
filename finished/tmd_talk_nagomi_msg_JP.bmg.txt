@@ -2413,7 +2413,7 @@ id: 300500
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Actually, I tend to be a bit
-of a mama's boy with people I like."
+of a mama's kid with people I like."
 
 
 ---
