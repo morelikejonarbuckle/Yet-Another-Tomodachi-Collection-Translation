@@ -1140,8 +1140,7 @@ Construction Site
 
 －－－－Criteria to Open－－－－
 Collect at least 5 treasures.
-Maybe see what a Mii wants
-if they wave their arms...
+Keep checking in on Miis...
 
 ---
 id: 202400
@@ -1206,7 +1205,7 @@ attribute: 0x6400A00001010006
 Construction Site
 
 －－－－Criteria－－－－
-You'll find out eventually...
+You'll find out soon...
 
 ---
 id: 203000
@@ -1792,7 +1791,7 @@ Data sent.
 id: 701650
 attribute: 0x6400B40001010007
 ---
-Receiving...
+Receiving Mii...
 
 ---
 id: 701670
@@ -1804,7 +1803,7 @@ Receiving and saving data...
 id: 701680
 attribute: 0x6400B40001010007
 ---
-Data received...
+Receiving item...
 
 ---
 id: 701700
@@ -1952,16 +1951,11 @@ send data.
 id: 703200
 attribute: 0x6400B40001010007
 ---
-Searching for an available Wii…
-Please press A, B, 1, 2 buttons
-on the Mii Channel in order.
-(Press and hold 2.) And then
-press "Connect to DS" and wait.
-
-
-(This won't work on an emulator!)
-(Might work on a Wii U through
-vWii, with specific homebrew.)
+Searching for an available Wii...
+In the Mii Channel, press A, B,
+1, & 2 in that order. Hold down 2,
+then press "Connect to DS."
+(Won't work on Wii U w/o Hacks)
 
 ---
 id: 703300
@@ -1979,7 +1973,7 @@ Failed to send a Mii.
 id: 703500
 attribute: 0x6400B40001010007
 ---
-You exchanged Miis!
+You shared a Mii!
 Here's a DS T-shirt!
 
 ---
@@ -2161,7 +2155,7 @@ Mii
 id: 1100102
 attribute: 0x6400500001010101
 ---
-
+ 
 
 ---
 id: 1100103
@@ -2298,7 +2292,7 @@ be a resident of this island{{255:0 arg="0x0800"}}.
 id: 1300700
 attribute: 0x6400B40001010007
 ---
-Now then, please {{255:0 arg="0x0200"}}create a avatar{{255:0 arg="0x0800"}}
+Now then, please {{255:0 arg="0x0200"}}create an avatar{{255:0 arg="0x0800"}}
 as a {{255:0 arg="0x0200"}}Mii{{255:0 arg="0x0800"}} to live on this island.
 
 ---
@@ -2306,8 +2300,8 @@ id: 1300750
 attribute: 0x6400B40001010007
 ---
 You have created {{255:0 arg="0x0200"}}your lookalike{{255:0 arg="0x0800"}}!
-From now on, {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} will be living
-on this island.
+From now on, {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
+will be living on this island.
 
 ---
 id: 1300770
@@ -2321,8 +2315,8 @@ Let's look inside their room!
 id: 1300800
 attribute: 0x6400B40001010007
 ---
-Let's visit {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}'s room. Please press
-the button labeled {{255:0 arg="0x0200"}}Enter{{255:0 arg="0x0800"}}.
+Let's visit {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}'s room. 
+Please press the button labeled {{255:0 arg="0x0200"}}Enter{{255:0 arg="0x0800"}}.
 
 ---
 id: 1300850
@@ -2395,7 +2389,8 @@ id: 1301500
 attribute: 0x6400B40001010007
 ---
 Miis can meet up on their own,
-talk to each other, and become friends.
+talk to each other,
+and become friends.
 
 ---
 id: 1301600
@@ -2444,7 +2439,7 @@ attribute: 0x6400B40001010007
 Their personalities seem
 to be similar. They're
 good friends in real life
-too, aren't they?
+too, right?
 
 ---
 id: 1301700
@@ -2458,7 +2453,7 @@ id: 1301800
 attribute: 0x6400B40001010007
 ---
 If you see a speech bubble
-in a apartment window, it means
+in an apartment window, it means
 that Mii{{255:0 arg="0x0200"}} has a problem{{255:0 arg="0x0800"}}.
 Can we solve it?
 
@@ -2482,7 +2477,7 @@ id: 1302400
 attribute: 0x6400B40001010007
 ---
 You've bought some food.
-Now, let's give it to {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
+Let's give it to {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
 
 ---
 id: 1302450
