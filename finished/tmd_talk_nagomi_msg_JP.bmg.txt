@@ -75,7 +75,7 @@ id: 40
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} here! I'm a bit
-laid-back and self-paced, but I worry a lot."
+laid-back, but I worry a lot."
 
 
 ---
@@ -91,7 +91,7 @@ id: 50
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} here! Many
-compliment me for being comfortable around."
+say I'm nice to be around."
 
 
 ---
