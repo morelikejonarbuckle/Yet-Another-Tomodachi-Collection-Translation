@@ -897,8 +897,8 @@ attribute: 0x6400E00001030001
 id: 200209
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}You might be mistaking this mii for 
-a narcicist. Select another Mii.
+{{255:0 arg="0x0100"}}This Mii cares for themselves
+a lot. Don't worry, select another Mii.
 
 ---
 id: 200250
