@@ -411,7 +411,7 @@ attribute: 0x6400E10001000001
 id: 330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"I heard my tummy rumble."
 
 ---
 id: 331
@@ -484,7 +484,7 @@ attribute: 0x6400E10001000001
 id: 390
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"Yum yum for tum tum?"
 
 ---
 id: 391
@@ -592,7 +592,7 @@ attribute: 0x6400E10001000001
 id: 480
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm hungry."
+{{255:0 arg="0x0100"}}"Wish I got a snack..."
 
 ---
 id: 481
@@ -773,7 +773,7 @@ attribute: 0x6400E10001000001
 id: 1030
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a simple clothes."
+{{255:0 arg="0x0100"}}"I want some simple clothes."
 
 ---
 id: 1031
@@ -847,7 +847,7 @@ id: 1090
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I'd like a tacky outfit.
-It'd be fun to wear it occasionally."
+It'd be fun to wear sometimes."
 
 ---
 id: 1091
@@ -2101,7 +2101,7 @@ attribute: 0x6400E10001000001
 id: 103610
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Guess I'll go on a trip!"
+{{255:0 arg="0x0100"}}"In that case, I'm off to have fun!"
 
 ---
 id: 103611
@@ -4369,7 +4369,7 @@ attribute: 0x6400E10001000002
 id: 6001310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But I thought we're getting
+{{255:0 arg="0x0100"}}"But I thought we were getting
 along fine..."
 
 
