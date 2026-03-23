@@ -4837,7 +4837,7 @@ attribute: 0x6400E10001030001
 id: 891000
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Oh, {{1:250 arg="0x0000"}}!"
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}!"
 
 ---
 id: 891001
@@ -9230,7 +9230,7 @@ attribute: 0x6400C00001030005
 ---
 Try to move closer while
 the Mii isn't looking. 
-You'll keep walking as long as
+You'll take a few steps as
 you touch the button. Touch
 the Mii to win!
 
@@ -12478,7 +12478,7 @@ attribute: 0x6400E10001030002
 id: 1481000
 attribute: 0x6400E10001030002
 ---
-{{255:0 arg="0x0100"}}"A letter of appreciation for
+{{255:0 arg="0x0100"}}"Today, we hold a ceremony of appreciation for
 {{1:1 arg="0x0000"}}'s lookalike."
 
 ---
@@ -12556,8 +12556,8 @@ attribute: 0x6400E10001030002
 id: 1481060
 attribute: 0x6400E10001030002
 ---
-{{255:0 arg="0x0100"}}"Therefore this achievement award is
-presented to {{1:20 arg="0x0000"}}..."
+{{255:0 arg="0x0100"}}"We will give you something in return: A
+{{1:20 arg="0x0000"}}."
 
 ---
 id: 1481061
@@ -12569,8 +12569,8 @@ attribute: 0x6400E10001030002
 id: 1481070
 attribute: 0x6400E10001030002
 ---
-{{255:0 arg="0x0100"}}"On 0000/00/00, by {{1:1 arg="0x0300"}},
-the residents' representative."
+{{255:0 arg="0x0100"}}"Today (Y/M/D), {{1:1 arg="0x0000"}}/{{1:1 arg="0x0100"}}/{{1:1 arg="0x0200"}}, resident
+representative {{1:1 arg="0x0300"}} bestow thee."
 
 ---
 id: 1481071
