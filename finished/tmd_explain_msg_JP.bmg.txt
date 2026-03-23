@@ -2950,7 +2950,8 @@ Also known as a Steeplejack.
 id: 1165
 attribute: 0x6400A00001030002
 ---
-Behold: You're the punchline!
+A serious suit for important
+buisness over the internet.
 
 ---
 id: 1166
