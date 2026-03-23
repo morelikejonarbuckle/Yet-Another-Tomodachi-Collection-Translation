@@ -56,7 +56,7 @@ Toga (Black)
 id: 7
 attribute: 0x6400780001030101
 ---
-Soccer Uniform
+"Kicking" Uniform
 
 ---
 id: 8
