@@ -2454,7 +2454,7 @@ attribute: 0x6400B40001010007
 ---
 If you see a speech bubble
 in an apartment window, it means
-that Mii{{255:0 arg="0x0200"}} has a problem{{255:0 arg="0x0800"}}.
+that Mii {{255:0 arg="0x0200"}}has a problem{{255:0 arg="0x0800"}}.
 Can we solve it?
 
 ---
@@ -2467,7 +2467,7 @@ attribute: 0x6400B40001010007
 id: 1302300
 attribute: 0x6400B40001010007
 ---
-The {{255:0 arg="0x0200"}}food mart{{255:0 arg="0x0800"}} has just opened! 
+The {{255:0 arg="0x0200"}}food mart{{255:0 arg="0x0800"}} has just opened!
 Go there and buy something {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
 likes. Maybe pick what you think
 their lookalike will like.
@@ -2476,7 +2476,7 @@ their lookalike will like.
 id: 1302400
 attribute: 0x6400B40001010007
 ---
-You've bought some food.
+You've probably some food.
 Let's give it to {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
 
 ---
