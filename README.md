@@ -15,6 +15,7 @@ https://github.com/R-YaTian/TinkeDSi/actions/runs/22517582323
 If you have windows use THIS exact copy of MSBT editor, the later updates break the BMG
 https://gitlab.com/AeonSake/msbt-editor/-/releases/2.9.4
 For News & Job and maybe Song BMGs use NitroPaint. I know it sounds crazy but it works
+
 ![text localization tips](https://github.com/user-attachments/assets/af0b543f-c12d-4a32-8b17-9097c4e4ed7d)
 
 
