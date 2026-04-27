@@ -16623,7 +16623,7 @@ attribute: 0x6400E10001000002
 id: 2600000
 attribute: 0x6400800001010101
 ---
-PLEASE save your game!
+SAVE THEN QUIT
 
 ---
 id: 2600010
