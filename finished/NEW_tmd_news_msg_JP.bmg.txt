@@ -16296,7 +16296,7 @@ attribute: 0x6400E10001000002
 id: 2550000
 attribute: 0x6400800001010101
 ---
-Wireless Comms. Unlocked!
+Connect with other Islands!
 
 ---
 id: 2550010
