@@ -2518,8 +2518,8 @@ attribute: 0x6400E10001000001
 id: 300280
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I are
-close now as we were when we originally started dating."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I are closer now than
+when we originally started dating."
 
 
 ---
@@ -2654,7 +2654,7 @@ id: 300370
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do you think taking over the world sounds
-charming to you? You're already a ruler of this island."
+charming? You already rule the island."
 
 
 ---
@@ -3074,7 +3074,7 @@ Thanks for checking in!"
 id: 300651
 attribute: 0x6400E10001000001
 ---
-ハナシカケラレルトウレシイデス
+ハナシカケラレルトウレシイデスハナシカケラレルトウレシイデス＿私に気づいて＿先輩
 
 
 ---
@@ -3274,8 +3274,7 @@ attribute: 0x6400E10001000001
 id: 300790
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I love the sense of accomplishment
-I get after working hard."
+{{255:0 arg="0x0100"}}"I hate to lose."
 
 
 ---
@@ -4104,8 +4103,8 @@ attribute: 0x6400E10001000002
 id: 301350
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Bathing in the morning sun
-makes me feel refreshed and full of energy."
+{{255:0 arg="0x0100"}}"Bathing in the morning sun makes me feel
+refreshed and full of energy."
 
 
 ---
@@ -4386,8 +4385,8 @@ attribute: 0x6400E10001000002
 id: 301540
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I wish we’d have more residents on this island.
-It’d be fun, right?"
+{{255:0 arg="0x0100"}}"I wish we’d have more residents
+on this island. It’d be fun, right?"
 
 ---
 id: 301541
@@ -4459,8 +4458,8 @@ attribute: 0x6400E10001000002
 id: 301590
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Someday, I want to go to another
-island. Who knows what’d happen over there?"
+{{255:0 arg="0x0100"}}"Someday, I want to go to another island.
+Who knows what’d happen over there?"
 
 
 ---
@@ -4594,8 +4593,8 @@ attribute: 0x6400E10001000002
 id: 301680
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's good to play games on my
-cell phone occasionally, isn't it?"
+{{255:0 arg="0x0100"}}"Mobile games are fun to play
+ocassionally, right?"
 
 
 ---
@@ -4759,7 +4758,7 @@ id: 301790
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"You can do something fun if you
-poke on a Mii’s face when they sleep. Keep it a secret!"
+poke on a Mii’s face when they sleep."
 
 
 ---
