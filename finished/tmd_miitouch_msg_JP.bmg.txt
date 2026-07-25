@@ -224,7 +224,7 @@ Fairly Happy
 id: 1001150
 attribute: 0x6400640001030001
 ---
-Slightly unHappy
+Slightly Unhappy
 
 ---
 id: 1001160
@@ -896,7 +896,7 @@ Interior
 id: 1304430
 attribute: 0x6400400001010101
 ---
-Catchphrase
+Fav. Word
 
 ---
 id: 1304500
@@ -1006,7 +1006,7 @@ Wii
 id: 1305010
 attribute: 0x6400400001010101
 ---
-melonDS
+DS
 
 ---
 id: 1305020
@@ -1054,7 +1054,7 @@ attribute: 0x6400E00001010001
 id: 1305110
 attribute: 0x6400E00001010001
 ---
-{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}melonDS{{255:0 arg="0x0100"}} as a present!
+{{255:0 arg="0x0100"}}You gave the {{255:0 arg="0x0400"}}DS{{255:0 arg="0x0100"}} as a present!
 
 ---
 id: 1305120
