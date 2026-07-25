@@ -2959,7 +2959,7 @@ attribute: 0x6400E10001030001
 id: 651020
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Do you have a (melon)DS?"
+{{255:0 arg="0x0100"}}"Do you have a DS?"
 
 ---
 id: 651021
@@ -3237,7 +3237,7 @@ attribute: 0x6400E10001030001
 id: 652040
 attribute: 0x6400E10001030001
 ---
-{{255:0 arg="0x0100"}}"Yes, I have a (melon)DS."
+{{255:0 arg="0x0100"}}"Yes, I have a DS."
 
 ---
 id: 652041
@@ -6659,8 +6659,7 @@ PM   12:00-1:00   Street Band
 　　  7:00-8:00　English Lesson 2
 　　  9:00-11:00  Street Band
 Events might be canceled
-only if a few people
-participate.
+due to low participation.
 
 ---
 id: 1041001
@@ -7542,7 +7541,7 @@ attribute: 0x6400E10001030001
 id: 1162202
 attribute: 0x6400E10001030001
 ---
-It's... I don't know.
+Look at those skyscrapers!
 
 ---
 id: 1162203
@@ -7554,7 +7553,7 @@ attribute: 0x6400E10001030001
 id: 1162204
 attribute: 0x6400E10001030001
 ---
-It's a Clock Tower!
+It's a clock tower!
 
 ---
 id: 1162205
@@ -7962,7 +7961,7 @@ attribute: 0x6400E10001030001
 id: 1162802
 attribute: 0x6400E10001030001
 ---
-Look, a market!
+I found some dragonfruit!
 
 ---
 id: 1162803
@@ -8964,10 +8963,9 @@ attribute: 0x6400E10001030001
 id: 1241000
 attribute: 0x6400C00001030003
 ---
-It's RPS & look that way!
-Winner of RPS points. Look
-at the same direction as
-the hand to lose in LTW.
+Now with Rock Paper Scissors!
+Winner points. Look the same
+way as the hand to lose.
 
 ---
 id: 1252000
@@ -11878,7 +11876,7 @@ attribute: 0x6400E10001030001
 id: 1480000
 attribute: 0x6400E10001030002
 ---
-Light & Dark
+Light&Dark
 
 ---
 id: 1480001
@@ -11926,7 +11924,7 @@ attribute: 0x6400E10001030002
 id: 1480040
 attribute: 0x6400E10001030002
 ---
-Japanese
+Roots
 
 ---
 id: 1480041
@@ -11962,7 +11960,7 @@ attribute: 0x6400E10001030002
 id: 1480070
 attribute: 0x6400E10001030002
 ---
-Dots & Lines
+Connection
 
 ---
 id: 1480071
