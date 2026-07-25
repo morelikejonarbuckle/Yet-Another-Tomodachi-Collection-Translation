@@ -2356,7 +2356,7 @@ least you don't stink today!"
 id: 300401
 attribute: 0x6400E10001000001
 ---
-ホメルコトガニガテデス＿あなた＿うんこくさいよ
+ホメルコトガニガテデスホメルコトガニガテデス＿あなた＿うんこくさいよ
 
 
 ---
@@ -4395,8 +4395,8 @@ attribute: 0x6400E10001000002
 id: 301780
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I was thinking about how nice it’d
-be if a kind-looking person came to this island..."
+{{255:0 arg="0x0100"}}"I was thinking about how nice it’d be if a
+kind-looking person came to this island..."
 
 
 ---
@@ -4724,8 +4724,7 @@ id: 302000
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When viewing the list of residents, press
-the A button to view the catchphrase you have assigned to us."
-
+the A button to view their catchphrase."
 
 ---
 id: 302001
