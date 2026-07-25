@@ -1066,7 +1066,7 @@ problems, go here!
 id: 201800
 attribute: 0x6400A00001010006
 ---
-It's food. Islanders eat it.
+Everyone needs to eat!
 Products change daily!
 If you bought something,
 you can order it again from
