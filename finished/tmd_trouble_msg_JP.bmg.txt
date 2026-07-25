@@ -1111,7 +1111,8 @@ attribute: 0x6400E10001000001
 id: 1800
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a new interior for my apartment."
+{{255:0 arg="0x0100"}}"I want a new interior 
+for my apartment."
 
 ---
 id: 1801
@@ -2796,7 +2797,7 @@ attribute: 0x6400E10001000001
 id: 501900
 attribute: 0x6400E10001010002
 ---
-{{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} was put
+{{255:0 arg="0x0100"}}You won {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} and put it
 in your {{255:0 arg="0x0300"}}treasure collection{{255:0 arg="0x0100"}}.
 
 ---
@@ -4696,7 +4697,7 @@ attribute: 0x6400E10001000002
 id: 6002310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I thought we were getting alone
+{{255:0 arg="0x0100"}}"I thought we were getting along
 well..."
 
 
@@ -5023,8 +5024,8 @@ attribute: 0x6400E10001000002
 id: 6003310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But I thought we're getting
-along well..."
+{{255:0 arg="0x0100"}}"I thought we were 
+getting along well..."
 
 
 ---
