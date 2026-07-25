@@ -1696,8 +1696,8 @@ attribute: 0x6400E10001000001
 id: 300020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
-often hang out once every two days."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I often hang out
+once every two days."
 
 
 ---
@@ -2486,7 +2486,7 @@ id: 300550
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I want to get along with everyone
-on this island. Hopefully, it won't be too hard!"
+on this island. Hope it goes well!"
 
 
 ---
