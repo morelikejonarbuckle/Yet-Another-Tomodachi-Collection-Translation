@@ -410,7 +410,7 @@ Shumai
 id: 66
 attribute: 0x6400780001030101
 ---
-Shortcake
+S. Shortcake
 
 ---
 id: 67
@@ -1004,7 +1004,7 @@ Moon Rock
 id: 165
 attribute: 0x6400780001030101
 ---
-Box of Tissues
+Tissue Box
 
 ---
 id: 166
@@ -1238,13 +1238,13 @@ Marimo
 id: 204
 attribute: 0x6400780001030101
 ---
-Stomach Medicine
+Stomach Meds
 
 ---
 id: 205
 attribute: 0x6400780001030101
 ---
-Cold Medicine
+Cold Meds
 
 ---
 id: 206
@@ -1262,7 +1262,7 @@ Travel Ticket
 id: 208
 attribute: 0x6400780001030101
 ---
-Internship Ticket
+Intern Ticket
 
 ---
 id: 209
@@ -1346,31 +1346,31 @@ Myoga
 id: 222
 attribute: 0x6400780001030101
 ---
-Letter of Appreciation
+Thank-U Note
 
 ---
 id: 223
 attribute: 0x6400780001030101
 ---
-Bronze Trophy
+Bronze Award
 
 ---
 id: 224
 attribute: 0x6400780001030101
 ---
-Silver Trophy
+Silver Award
 
 ---
 id: 225
 attribute: 0x6400780001030101
 ---
-Gold Trophy
+Gold Award
 
 ---
 id: 226
 attribute: 0x6400780001030101
 ---
-Platinum Trophy
+Plat. Award
 
 ---
 id: 227
@@ -1460,7 +1460,7 @@ Novel
 id: 241
 attribute: 0x6400780001030101
 ---
-DS
+Nintendo DS
 
 ---
 id: 242
@@ -1484,7 +1484,7 @@ Song
 id: 245
 attribute: 0x6400780001030101
 ---
-Catchphrase
+Fav. Word
 
 ---
 id: 246
