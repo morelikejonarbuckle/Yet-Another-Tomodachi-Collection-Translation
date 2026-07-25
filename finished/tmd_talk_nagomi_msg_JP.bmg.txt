@@ -619,7 +619,7 @@ attribute: 0x6400E10001000001
 id: 100070
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's so heartbreaking..."
+{{255:0 arg="0x0100"}}"My poor heart..."
 
 
 ---
@@ -2158,16 +2158,14 @@ attribute: 0x6400E10001000001
 id: 300330
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"My relationship with {{1:31 arg="0x0000"}}
-is as good as when we started dating."
-
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I are closer now than
+when we originally started dating."
 
 ---
 id: 300331
 attribute: 0x6400E10001000001
 ---
 {{1:31 arg="0x0000"}}トワ＿コイビトダッタトキトカワラナイクライ＿ナカガイインデスヨ
-
 
 ---
 id: 300340
@@ -2361,7 +2359,7 @@ Thanks for checking in!"
 id: 300461
 attribute: 0x6400E10001000001
 ---
-ハナシカケラレルトウレシイデス
+ハナシカケラレルトウレシイデスハナシカケラレルトウレシイデス＿私に気づいて＿先輩
 
 
 ---
@@ -2428,7 +2426,7 @@ id: 300510
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I wish my eyes were a bit bigger.
-Could you do that? Pretty please with sprinkles on top?"
+Could you do that? Pretty please?"
 
 
 ---
@@ -2665,9 +2663,7 @@ attribute: 0x6400E10001000001
 id: 300670
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Others say I believe anything
-they say."
-
+{{255:0 arg="0x0100"}}"Others say I'm gullible."
 
 ---
 id: 300671
@@ -3999,8 +3995,8 @@ attribute: 0x6400E10001000002
 id: 301570
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Bathing in the morning sun
-makes me feel refreshed and full of energy."
+{{255:0 arg="0x0100"}}"Bathing in the morning sun makes me feel
+refreshed and full of energy."
 
 
 ---
@@ -4340,8 +4336,8 @@ attribute: 0x6400E10001000002
 id: 301800
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I wish we’d have more residents on this island.
-It’d be fun, right?"
+{{255:0 arg="0x0100"}}"I wish we’d have more residents
+on this island. It’d be fun, right?"
 
 
 ---
@@ -4370,8 +4366,8 @@ attribute: 0x6400E10001000002
 id: 301820
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I was thinking about how nice it’d
-be if a kind-looking person came to this island..."
+{{255:0 arg="0x0100"}}"I was thinking about how nice it’d be if a
+kind-looking person came to this island..."
 
 
 ---
@@ -4504,8 +4500,8 @@ attribute: 0x6400E10001000002
 id: 301910
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I occasionally see airplanes. 
-Where do they come from? Where do they go?"
+{{255:0 arg="0x0100"}}"I occasionally see airplanes. Where
+do they come from? Where do they go?"
 
 
 ---
@@ -4580,8 +4576,8 @@ attribute: 0x6400E10001000002
 id: 301960
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's good to play games on my
-cell phone occasionally, isn't it?"
+{{255:0 arg="0x0100"}}"Mobile games are fun to play
+ocassionally, right?"
 
 
 ---
@@ -4744,7 +4740,7 @@ id: 302070
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"You can do something fun if you
-poke on a Mii’s face when they sleep. Keep it a secret!"
+poke on a Mii’s face when they sleep."
 
 
 ---
