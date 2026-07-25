@@ -35,7 +35,7 @@ https://github.com/R-YaTian/TinkeDSi/actions/runs/22517582323
 This MSBT editor works to edit BMG (the text file of the game):
 https://gitlab.com/AeonSake/msbt-editor/-/releases/
 For News & Job and maybe Song BMGs you might have to use NitroPaint. Previous versions of that editor were breaking the translation.
-
+I recommend not touching the Job BMG at all. That thing is very dangerous.
 
 ![text localization tips](https://github.com/user-attachments/assets/af0b543f-c12d-4a32-8b17-9097c4e4ed7d)
 
