@@ -2875,8 +2875,8 @@ attribute: 0x6400E10001000001
 id: 300020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
-often hang out once every two days."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I often hang out
+once every two days."
 
 
 ---
@@ -3398,8 +3398,8 @@ attribute: 0x6400E10001000001
 id: 300370
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I sometimes think that sleeping
-is a waste of time. You can do many other things!"
+{{255:0 arg="0x0100"}}"I sometimes think that sleeping is a
+waste of time. Think of the potential!"
 
 
 ---
@@ -3444,8 +3444,8 @@ attribute: 0x6400E10001000001
 id: 300400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm starting to think that I
-fixate on the results of who wins and looses."
+{{255:0 arg="0x0100"}}"I'm starting to think that I fixate on
+the results of who wins and looses."
 
 
 ---
@@ -3803,7 +3803,7 @@ id: 300640
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Actually, I tend to be a bit
-of a mama's boy with people I like."
+of a mama's kid with people I like."
 
 
 ---
@@ -4694,7 +4694,7 @@ id: 301240
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When viewing the list of residents, press
-the A button to view the catchphrase you have assigned to us."
+the A button for their catchphrase."
 
 
 ---
@@ -4709,7 +4709,7 @@ id: 301250
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Touch the sign near the entrance
-to the apartment building to see all kinds of information."
+to the apartment building. It's cool!"
 
 
 ---
