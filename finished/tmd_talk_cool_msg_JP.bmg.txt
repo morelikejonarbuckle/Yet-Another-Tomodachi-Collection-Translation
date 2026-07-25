@@ -1781,8 +1781,8 @@ attribute: 0x6400E10001000001
 id: 300020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}{{1:31 arg="0x0000"}} and I
-often hang out once every two days."
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I often hang out
+once every two days."
 
 
 ---
@@ -2156,16 +2156,14 @@ attribute: 0x6400E10001000001
 id: 300270
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I are
-close now as we were when we originally started dating."
-
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I are closer now than
+when we originally started dating."
 
 ---
 id: 300271
 attribute: 0x6400E10001000001
 ---
 {{1:31 arg="0x0000"}}トワ＿コイビトダッタトキトカワラナイクライ＿ナカガイインデスヨ
-
 
 ---
 id: 300280
@@ -2358,7 +2356,7 @@ least you don't stink today!"
 id: 300401
 attribute: 0x6400E10001000001
 ---
-ホメルコトガニガテデス
+ホメルコトガニガテデス＿あなた＿うんこくさいよ
 
 
 ---
@@ -2426,7 +2424,7 @@ id: 300450
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I wish my eyes were a bit bigger.
-Could you do that? Pretty please with sprinkles on top?"
+Could you do that? Pretty please?"
 
 
 ---
@@ -3064,7 +3062,7 @@ id: 300880
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Sometimes, I wish I could change my
-personality, but that’ll never happen, right?"
+personality. That won't happen...right?"
 
 
 ---
@@ -4515,8 +4513,8 @@ attribute: 0x6400E10001000002
 id: 301860
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I occasionally see airplanes. 
-Where do they come from? Where do they go?"
+{{255:0 arg="0x0100"}}"I occasionally see airplanes. Where
+do they come from? Where do they go?"
 
 
 ---
@@ -4545,8 +4543,8 @@ attribute: 0x6400E10001000002
 id: 301880
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's good to play games on my
-cell phone occasionally, isn't it?"
+{{255:0 arg="0x0100"}}"Mobile games are fun to play
+ocassionally, right?"
 
 
 ---
