@@ -2355,8 +2355,8 @@ attribute: 0x6400E10001000001
 id: 200480
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It was the first time I've lost
-something that I loved so much..."
+{{255:0 arg="0x0100"}}"You never notice something
+you love until it's gone..."
 
 
 ---
@@ -2414,9 +2414,8 @@ attribute: 0x6400E10001000001
 id: 300020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
-often hang out once every two days."
-
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I often hang out 
+once every two days."
 
 ---
 id: 300021
@@ -2431,7 +2430,6 @@ attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}} and I
 get along really well."
-
 
 ---
 id: 300031
@@ -3175,7 +3173,7 @@ id: 300530
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Do you think taking over the world sounds
-charming to you? You're already a ruler of this island."
+charming? You already rule the island."
 
 
 ---
@@ -3538,7 +3536,7 @@ Thanks for checking in!"
 id: 300771
 attribute: 0x6400E10001000001
 ---
-ハナシカケラレルトウレシイデス
+ハナシカケラレルトウレシイデスハナシカケラレルトウレシイデス＿私に気づいて＿先輩
 
 
 ---
@@ -3739,8 +3737,8 @@ attribute: 0x6400E10001000001
 id: 300910
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I sometimes think that sleeping
-is a waste of time. You can do many other things!"
+{{255:0 arg="0x0100"}}"I sometimes think that sleeping is a
+waste of time. Think of the potential!"
 
 
 ---
@@ -3839,7 +3837,7 @@ least you don't stink today!"
 id: 300971
 attribute: 0x6400E10001000001
 ---
-ホメルコトガニガテデス
+ホメルコトガニガテデスホメルコトガニガテデスあなたうんこくさいよ
 
 
 ---
@@ -4085,8 +4083,7 @@ id: 301140
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Actually, I tend to be a bit
-of a mama's boy with people I like."
-
+of a mama's kid with people I like."
 
 ---
 id: 301141
@@ -4100,7 +4097,7 @@ id: 301150
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I wish my eyes were a bit bigger.
-Could you do that? Pretty please with sprinkles on top?"
+Could you do that? Pretty please?"
 
 
 ---
@@ -4175,7 +4172,7 @@ id: 301200
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I want to get along with everyone
-on this island. Hopefully, it won't be too hard!"
+on this island. I hope it goes well!"
 
 
 ---
@@ -4397,8 +4394,8 @@ attribute: 0x6400E10001000001
 id: 301350
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I like to exercise my brain.
-If you don't use it that much, it'll smooth out."
+{{255:0 arg="0x0100"}}"I like to exercise my brain. If you don't
+use it often, it'll smooth out."
 
 
 ---
@@ -5082,7 +5079,7 @@ id: 301810
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Sometimes, I wish I could change my
-personality, but that’ll never happen, right?"
+personality. That won't happen...right?"
 
 
 ---
@@ -6774,8 +6771,8 @@ attribute: 0x6400E10001000001
 id: 302950
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I wish we’d have more residents on this island.
-It’d be fun, right?"
+{{255:0 arg="0x0100"}}"I wish we’d have more residents 
+on this island. It’d be fun, right?"
 
 
 ---
@@ -6984,8 +6981,8 @@ attribute: 0x6400E10001000001
 id: 303090
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I occasionally see airplanes. 
-Where do they come from? Where do they go?"
+{{255:0 arg="0x0100"}}"I occasionally see airplanes. Where
+do they come from? Where do they go?"
 
 
 ---
