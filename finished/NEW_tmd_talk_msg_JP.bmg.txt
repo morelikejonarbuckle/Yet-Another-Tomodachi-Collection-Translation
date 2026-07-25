@@ -45,8 +45,8 @@ attribute: 0x6400E10001000001
 id: 20
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I'm carefree.
-but I worry about lots of things."
+{{255:0 arg="0x0100"}}"I'm {{1:31 arg="0x0000"}}! I'm carefree, but I
+worry about the small stuff."
 
 
 ---
@@ -871,8 +871,8 @@ attribute: 0x6400E10001000001
 id: 100210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm usually
-never angry, except for NOW."
+{{255:0 arg="0x0100"}}"I'm usually never angry,
+except right NOW."
 
 
 ---
@@ -3837,7 +3837,7 @@ least you don't stink today!"
 id: 300971
 attribute: 0x6400E10001000001
 ---
-ホメルコトガニガテデスホメルコトガニガテデスあなたうんこくさいよ
+ホメルコトガニガテデスホメルコトガニガテデスあなたうんこくさいよ＿あなた＿うんこくさいよ
 
 
 ---
@@ -4319,9 +4319,7 @@ attribute: 0x6400E10001000001
 id: 301300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Others say I believe anything
-they say."
-
+{{255:0 arg="0x0100"}}"Others say I'm gullible."
 
 ---
 id: 301301
@@ -6311,8 +6309,8 @@ attribute: 0x6400E10001000001
 id: 302640
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Bathing in the morning sun
-makes me feel refreshed and full of energy."
+{{255:0 arg="0x0100"}}"Bathing in the morning sun makes me feel
+refreshed and full of energy."
 
 
 ---
@@ -6816,8 +6814,8 @@ attribute: 0x6400E10001000001
 id: 302980
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I was thinking about how nice it’d
-be if a kind-looking person came to this island..."
+{{255:0 arg="0x0100"}}"I was thinking about how nice it’d be if a
+kind-looking person came to this island..."
 
 
 ---
@@ -6875,8 +6873,8 @@ attribute: 0x6400E10001000001
 id: 303020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Someday, I want to go to another
-island. Who knows what’d happen over there?"
+{{255:0 arg="0x0100"}}"Someday, I want to go to another island.
+Who knows what’d happen over there?"
 
 
 ---
@@ -7042,8 +7040,8 @@ attribute: 0x6400E10001000001
 id: 303130
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's good to play games on my
-cell phone occasionally, isn't it?"
+{{255:0 arg="0x0100"}}"Mobile games are fun to play
+ocassionally, right?"
 
 
 ---
@@ -7087,8 +7085,8 @@ attribute: 0x6400E10001000001
 id: 303160
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Cleaning up your room makes you feel good, doesn't it?"
-
+{{255:0 arg="0x0100"}}"Cleaning up your room 
+makes you feel good, doesn't it?"
 
 ---
 id: 303161
@@ -7296,8 +7294,7 @@ id: 303300
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When viewing the list of residents, press
-the A button to view the catchphrase you have assigned to us."
-
+the A button for their catchphrase."
 
 ---
 id: 303301
@@ -7326,7 +7323,7 @@ id: 303320
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"You can do something fun if you
-poke on a Mii’s face when they sleep. Keep it a secret!"
+poke on a sleeping Mii’s face."
 
 
 ---
@@ -7341,7 +7338,7 @@ id: 303330
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Touch the sign near the entrance
-to the apartment building to see all kinds of information."
+to the apartment building!"
 
 
 ---
@@ -7356,8 +7353,7 @@ id: 303340
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"You can scroll across a list by
-touching and sliding with your stylus."
-
+sliding with your stylus."
 
 ---
 id: 303341
