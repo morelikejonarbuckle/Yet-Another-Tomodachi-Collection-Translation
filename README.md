@@ -1,4 +1,5 @@
 # Yet-Another-Tomodachi-Collection-Translation
+https://github.com/morelikejonarbuckle/Yet-Another-Tomodachi-Collection-Translation/blob/main/pixel%20title.png?raw=true
 An alternative translation of Tomodachi Collection.
 The foundation of this translation relies on Deepl, **an AI translator.** It's the most accurate one I can find. Otherwise, I used **ChatGPT** for phrases that don't translate well. Complain about it here: https://gbatemp.net/threads/complain-about-morelikejonarbuckle0s-tomodachi-collection-translation-using-ai-here.681360/
 ### If you hate AI, use tools in the wiki as a template to make another translation
