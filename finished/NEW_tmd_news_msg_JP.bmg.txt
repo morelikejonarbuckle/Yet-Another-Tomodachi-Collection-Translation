@@ -2662,8 +2662,8 @@ Fruit Power Experiment!
 id: 1160010
 attribute: 0x6400E10001000002
 ---
-Students learned electricity with
-{{1:30 arg="0x0000"}} around {{1:30 arg="0x0100"}}.
+Today, students researched electricity with
+{{1:30 arg="0x0000"}}.
 
 ---
 id: 1160011
@@ -7242,13 +7242,13 @@ attribute: 0x6400E10001000002
 id: 1630050
 attribute: 0x6400E10001000002
 ---
-
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1630051
 attribute: 0x6400E10001000002
 ---
-
+{{1:30 arg="0x0300"}}
 
 ---
 id: 1630060
@@ -7261,7 +7261,7 @@ Songs With A Kettle.
 id: 1630061
 attribute: 0x6400E10001000002
 ---
-
+あなた以外_誰も私のことを理解してくれない
 
 ---
 id: 1631010
@@ -8718,7 +8718,7 @@ attribute: 0x6400E10001000002
 id: 1770030
 attribute: 0x6400E10001000002
 ---
-The latest news will air at 7: A.M
+The latest news will air at 7 A.M
 and 7 P.M. Don't miss it!
 
 ---
@@ -9093,7 +9093,7 @@ it's recommended to visit often.
 id: 1820051
 attribute: 0x6400E10001000002
 ---
-ココガリューコーノハッシンチニナリソー＿
+ココガリューコーノハッシンチニナリソー＿ココガリューコーノハッシンチニナリソー
 
 ---
 id: 1820060
@@ -16328,7 +16328,7 @@ attribute: 0x6400E10001000002
 id: 2550030
 attribute: 0x6400E10001000002
 ---
-Miis won't move away*! Instead,
+Miis won't move away! Instead,
 they get copied to other islands.
 
 ---
