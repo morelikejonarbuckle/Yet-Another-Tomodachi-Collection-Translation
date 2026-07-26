@@ -4364,8 +4364,8 @@ attribute: 0x6400E10001000001
 id: 301020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Which is better: Having infnite money but
-no time or having infinite time but no money?"
+{{255:0 arg="0x0100"}}"Which is better: Infnite money but 
+no time or infinite time but no money?"
 
 
 ---
@@ -4469,8 +4469,8 @@ attribute: 0x6400E10001000001
 id: 301090
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I feel like there hasn't been
-any new residents moving in... Is it just my imagination?"
+{{255:0 arg="0x0100"}}"I feel like no new residents
+have been moving in... Is it me?"
 
 
 ---
