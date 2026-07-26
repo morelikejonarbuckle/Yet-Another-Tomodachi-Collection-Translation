@@ -858,7 +858,7 @@ attribute: 0x6400E00001010001
 id: 200203
 attribute: 0x6400E00001010101
 ---
- OK
+OK
 
 ---
 id: 200204
@@ -1411,8 +1411,9 @@ They might as well be married already!
 id: 300000
 attribute: 0x6400800001020005
 ---
-Who takes care of themselves
-the most? Who needs fixing up?
+Who takes care of
+themselves the most? 
+Who needs fixing up?
 (Birth date required)
 
 ---
@@ -1449,10 +1450,8 @@ id: 300400
 attribute: 0x6400800001020005
 ---
 
-What duo is the happiest?
-(Based on a spree 
-I had while using the 
-Compatibility Tester.)
+Which duo is the happiest?
+(Don't take it too seriously!)
 
 ---
 id: 300500
@@ -1540,6 +1539,6 @@ Check
 id: 900000
 attribute: 0x6400000001030001
 ---
-ck
+
 
 
