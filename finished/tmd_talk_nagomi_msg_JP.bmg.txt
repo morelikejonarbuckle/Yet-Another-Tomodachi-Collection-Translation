@@ -4755,7 +4755,7 @@ id: 302080
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Pat my head once in a while, OK?
-I'll even give you something extra."
+I'll throw in a bonus."
 
 
 ---
