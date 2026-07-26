@@ -1282,7 +1282,7 @@ Switch rooms with this Mii?
 id: 301000
 attribute: 0x6400460001010001
 ---
-Yes
+Ok
 
 ---
 id: 301100
@@ -1391,7 +1391,7 @@ attribute: 0x6400E00001030001
 id: 400850
 attribute: 0x6400E00001030002
 ---
-{{255:0 arg="0x0100"}}Welcome! What legendary trinket
+{{255:0 arg="0x0100"}}"Welcome! What legendary trinket
 do you want to sell me?"
 
 ---
@@ -2399,9 +2399,9 @@ attribute: 0x6400B40001010007
 ---
 Each Mii has different
 personalities. It may be
-easy to befriend
-some Miis, or hard
-with other Miis.
+easy to befriend some
+Miis, or difficult with
+other Miis.
 
 ---
 id: 1301610
@@ -2453,8 +2453,8 @@ now? Let's take a peek.
 id: 1301800
 attribute: 0x6400B40001010007
 ---
-If you see a speech bubble
-in an apartment window, it means
+If you see a speech bubble in
+an apartment window, it means
 that Mii {{255:0 arg="0x0200"}}has a problem{{255:0 arg="0x0800"}}.
 Can we solve it?
 
@@ -2529,8 +2529,8 @@ attribute: 0x6400B40001010007
 The most basic way to play
 Tomodachi Collection is to
 observe the lives of your
-lookalike and acquaintances
-and help solve their problems.
+residents and help solve
+their problems.
 
 ---
 id: 1302800
@@ -2559,8 +2559,7 @@ attribute: 0x6400B40001010007
 Let's have other people's Miis
 live on {{1:1 arg="0x0000"}} Island,
 and gently watch over the lives
-and relationships they build
-on this island.
+they build on this island.
 
 ---
 id: 1303010
