@@ -4260,8 +4260,8 @@ attribute: 0x6400E10001000002
 id: 301690
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Which is better: Having infnite money but
-no time or having infinite time but no money?"
+{{255:0 arg="0x0100"}}"Which is better: Infnite money but 
+no time or infinite time but no money?"
 
 
 ---
@@ -4724,7 +4724,7 @@ id: 302000
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When viewing the list of residents, press
-the A button to view their catchphrase."
+the A button for their catchphrase."
 
 ---
 id: 302001
