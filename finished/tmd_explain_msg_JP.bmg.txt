@@ -2490,7 +2490,7 @@ fluffy feel's delightful.
 id: 1099
 attribute: 0x6400A00001030002
 ---
-Gives off a refeshing impression.
+Has a refeshing impression.
 The thick fabric is warm.
 
 ---
@@ -3438,8 +3438,8 @@ pastel pink outfit!
 id: 1235
 attribute: 0x6400A00001030002
 ---
-Monochrome checker patterns:
-easy for anyone to wear.
+Monochrome checker patterns
+are easy for anyone to wear.
 
 ---
 id: 1236
