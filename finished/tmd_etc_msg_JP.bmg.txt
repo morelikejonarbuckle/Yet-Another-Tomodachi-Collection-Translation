@@ -764,7 +764,7 @@ Edit
 id: 110150
 attribute: 0x6400340001010101
 ---
-Registration
+Register
 
 ---
 id: 110200
@@ -1067,7 +1067,7 @@ id: 201800
 attribute: 0x6400A00001010006
 ---
 Everyone needs to eat!
-Products change daily!
+Products change daily.
 If you bought something,
 you can order it again from
 the catalog.
@@ -2316,7 +2316,8 @@ id: 1300800
 attribute: 0x6400B40001010007
 ---
 Let's visit {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}'s room. 
-Please press the button labeled {{255:0 arg="0x0200"}}Enter{{255:0 arg="0x0800"}}.
+Please press the button labeled 
+{{255:0 arg="0x0200"}}Enter{{255:0 arg="0x0800"}}.
 
 ---
 id: 1300850
