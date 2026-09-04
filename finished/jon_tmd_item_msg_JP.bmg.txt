@@ -32,7 +32,7 @@ Apple Pie
 id: 3
 attribute: 0x6400780001030101
 ---
-Grilled Sweetfish
+Grl. Swtfish
 
 ---
 id: 4
@@ -68,7 +68,7 @@ Pickled Plum
 id: 9
 attribute: 0x6400780001030101
 ---
-Nutritional Drink
+Health Drink
 
 ---
 id: 10
@@ -80,7 +80,7 @@ Shrimp Pilaf
 id: 11
 attribute: 0x6400780001030101
 ---
-Deep-fried Shrimp
+Fried Shrimp
 
 ---
 id: 12
@@ -176,7 +176,7 @@ Castella
 id: 27
 attribute: 0x6400780001030101
 ---
-Chocolate Cake
+Choc. Cake
 
 ---
 id: 28
@@ -266,7 +266,7 @@ Gyoza
 id: 42
 attribute: 0x6400780001030101
 ---
-Sour milk
+Rotten milk
 
 ---
 id: 43
@@ -356,7 +356,7 @@ Cherries
 id: 57
 attribute: 0x6400780001030101
 ---
-Baked Turban Shell
+Cooked Sazae
 
 ---
 id: 58
@@ -374,7 +374,7 @@ Zaru Soba
 id: 60
 attribute: 0x6400780001030101
 ---
-Tricolor Dango
+Dango
 
 ---
 id: 61
@@ -386,13 +386,13 @@ Sandwich
 id: 62
 attribute: 0x6400780001030101
 ---
-Grilled saury
+Grl. saury
 
 ---
 id: 63
 attribute: 0x6400780001030101
 ---
-Buttered Potato
+But. Potato
 
 ---
 id: 64
@@ -422,7 +422,7 @@ Bread
 id: 68
 attribute: 0x6400780001030101
 ---
-Baked Sweet Potato
+Sweet Potato
 
 ---
 id: 69
@@ -458,13 +458,13 @@ Steak
 id: 74
 attribute: 0x6400780001030101
 ---
-Sweet & Sour Pork
+S&S Pork
 
 ---
 id: 75
 attribute: 0x6400780001030101
 ---
-Red Bean Soup
+Bean Soup
 
 ---
 id: 76
@@ -482,7 +482,7 @@ Soft-Serve
 id: 78
 attribute: 0x6400780001030101
 ---
-Sea Bream Sashimi
+SB Sashimi
 
 ---
 id: 79
@@ -536,7 +536,7 @@ Chocolate
 id: 87
 attribute: 0x6400780001030101
 ---
-Chocolate Parfait
+Choc. Yogurt
 
 ---
 id: 88
@@ -614,7 +614,7 @@ Hamburger
 id: 100
 attribute: 0x6400780001030101
 ---
-Salisbury Steak
+Salis. Stk
 
 ---
 id: 101
@@ -686,19 +686,19 @@ Mapo Tofu
 id: 112
 attribute: 0x6400780001030101
 ---
-Macadamia Nuts
+Mac. Nuts
 
 ---
 id: 113
 attribute: 0x6400780001030101
 ---
-Matsutake Mushroom
+Matsutake
 
 ---
 id: 114
 attribute: 0x6400780001030101
 ---
-Meat Sauce Pasta
+Meat Pasta
 
 ---
 id: 115
@@ -734,7 +734,7 @@ Peach
 id: 120
 attribute: 0x6400780001030101
 ---
-Roasted Sweet Potato
+Rst. Potato
 
 ---
 id: 121
@@ -746,7 +746,7 @@ Yakisoba
 id: 122
 attribute: 0x6400780001030101
 ---
-Grilled Eggplant
+Grl.Eggplant
 
 ---
 id: 123
@@ -824,7 +824,7 @@ Pacifier
 id: 135
 attribute: 0x6400780001030101
 ---
-Omamori Amulet
+Omamori
 
 ---
 id: 136
@@ -854,7 +854,7 @@ Toy Robot
 id: 140
 attribute: 0x6400780001030101
 ---
-Glass Scuplture
+Glass Figure
 
 ---
 id: 141
@@ -872,7 +872,7 @@ Mail Stamp
 id: 143
 attribute: 0x6400780001030101
 ---
-Wooden Bear Carving
+Wooden Bear
 
 ---
 id: 144
@@ -926,7 +926,7 @@ Rubber Tube
 id: 152
 attribute: 0x6400780001030101
 ---
-Someone's Autograph
+Autograph
 
 ---
 id: 153
@@ -986,7 +986,7 @@ Towel Set
 id: 162
 attribute: 0x6400780001030101
 ---
-Expensive-Looking Vase
+Costly Vase
 
 ---
 id: 163
@@ -1034,7 +1034,7 @@ Bird's Nest
 id: 170
 attribute: 0x6400780001030101
 ---
-Wedding Album
+Wed. Album
 
 ---
 id: 171
@@ -1070,7 +1070,7 @@ Bouquet
 id: 176
 attribute: 0x6400780001030101
 ---
-Firework Ball
+Firework
 
 ---
 id: 177
@@ -1088,13 +1088,13 @@ Wax Seal
 id: 179
 attribute: 0x6400780001030101
 ---
-Suruga Hina Dolls
+Hina Dolls
 
 ---
 id: 180
 attribute: 0x6400780001030101
 ---
-Fashion Magazine
+Fashion Mag.
 
 ---
 id: 181
@@ -1112,7 +1112,7 @@ French Doll
 id: 183
 attribute: 0x6400780001030101
 ---
-Umbilical Cord
+Umb. Cord
 
 ---
 id: 184
@@ -1124,7 +1124,7 @@ Bonsai Tree
 id: 185
 attribute: 0x6400780001030101
 ---
-Back Scratcher
+B Scratcher
 
 ---
 id: 186
@@ -1190,7 +1190,7 @@ Key Chain
 id: 196
 attribute: 0x6400780001030101
 ---
-Pagoda Tower Figure
+Pagoda Tower
 
 ---
 id: 197
@@ -1214,7 +1214,7 @@ Spanish Fan
 id: 200
 attribute: 0x6400780001030101
 ---
-Elephant Figure
+Eleph. Fig.
 
 ---
 id: 201
@@ -1250,19 +1250,19 @@ Cold Meds
 id: 206
 attribute: 0x6400780001030101
 ---
-Disposable Camera
+Dispos. Cam.
 
 ---
 id: 207
 attribute: 0x6400780001030101
 ---
-Travel Ticket
+Travel Tik.
 
 ---
 id: 208
 attribute: 0x6400780001030101
 ---
-Intern Ticket
+Intern Tik.
 
 ---
 id: 209
@@ -1436,7 +1436,7 @@ Wii
 id: 237
 attribute: 0x6400780001030101
 ---
-Cell Phone
+Cell phone
 
 ---
 id: 238
@@ -1490,7 +1490,7 @@ Fav. Word
 id: 246
 attribute: 0x6400780001030101
 ---
-Unused
+MY
 
 ---
 id: 247
@@ -1544,7 +1544,7 @@ Unused
 id: 1000
 attribute: 0x6400780001030001
 ---
-Ice cream again and again until the end of the universe and then what IDK
+アイスクリーム
 
 ---
 id: 1001
