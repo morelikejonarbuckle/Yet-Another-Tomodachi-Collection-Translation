@@ -44,8 +44,8 @@ attribute: 0x6400E10001000001
 id: 20
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I seem quiet,
-but I have a burning spirit."
+{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. Many say
+I'm quiet, but I have a burning spirit."
 
 
 ---
@@ -60,8 +60,8 @@ attribute: 0x6400E10001000001
 id: 30
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I struggle with
-the gap between ideals and reality."
+{{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I struggle
+with the gap between ideals and reality."
 
 
 ---
@@ -93,7 +93,7 @@ id: 50
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"My name is {{1:31 arg="0x0000"}}. I boast
-a lot, but I'm a capable woman."
+about this a lot, but I'm a capable woman."
 
 
 ---
@@ -1995,15 +1995,15 @@ attribute: 0x6400E10001000001
 id: 100100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Happy New Year. Let's make it a nice
-year!"
+{{255:0 arg="0x0100"}}"Happy New Year. Can't wait for the
+destruction of humanity to continue!"
 
 
 ---
 id: 100101
 attribute: 0x6400E10001000001
 ---
-アケマシテオメデトーゴザイマス．コトシモヨロシクオネガイシマス
+アケマシテオメデトーゴザイマス．コトシモヨロシクオネガイシマスコトシモヨロシクオネガイシマス
 
 
 ---
@@ -2097,8 +2097,7 @@ attribute: 0x6400E10001000001
 id: 100170
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-It's been 2 weeks since we talked, hasn't it?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike, it's been
 
 
 ---
@@ -2156,8 +2155,8 @@ attribute: 0x6400E10001000001
 id: 100210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It feels like I'm meeting you for
-the first time, {{1:31 arg="0x0000"}}'s lookalike."
+{{255:0 arg="0x0100"}}"It feels like I'm meeting you for the
+first time, {{1:31 arg="0x0000"}}'s lookalike."
 
 
 ---
@@ -2187,7 +2186,7 @@ id: 100230
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-have you been traveling somewhere?"
+did you go on a trip?"
 
 
 ---
@@ -2247,8 +2246,7 @@ id: 100270
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"It's {{1:31 arg="0x0000"}}'s lookalike!
-It's been 2 months since we last met, right?"
-
+Where have you been? It's been 2 months."
 
 ---
 id: 100271
@@ -2292,7 +2290,7 @@ id: 100300
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike! It's been
-3 months since we last met... wow, that's a while."
+3 months since we last met. What gives?"
 
 
 ---
@@ -2445,7 +2443,7 @@ I'm being strangled by a blanket!"
 id: 200031
 attribute: 0x6400E10001000001
 ---
-キョーモアツイデスネ
+キョーモアツイデスネアツイデスネキョーモ
 
 
 ---
@@ -2460,7 +2458,7 @@ warmer to stay in a freezer!"
 id: 200041
 attribute: 0x6400E10001000001
 ---
-キョーモサムイデス
+キョーモサムイデスキョーモサムイデス
 
 
 ---
@@ -2613,7 +2611,7 @@ attribute: 0x6400E10001000001
 id: 200150
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Hah... Somehow I don't feel like myself..."
+{{255:0 arg="0x0100"}}"Hm... I don't feel like myself..."
 
 
 ---
@@ -2995,7 +2993,7 @@ attribute: 0x6400E10001000001
 id: 300100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It isn't like I'm obsessed with
+{{255:0 arg="0x0100"}}"It's not like I'm obsessed with
 {{1:31 arg="0x0000"}} or anything."
 
 
@@ -3010,8 +3008,8 @@ attribute: 0x6400E10001000001
 id: 300110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I don't believe that having
-a partners means I don't need anything else."
+{{255:0 arg="0x0100"}}"I don't believe having
+a partner means I don't need anything else."
 
 
 ---
@@ -3175,7 +3173,7 @@ attribute: 0x6400E10001000001
 id: 300220
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I think my married life is great."
+{{255:0 arg="0x0100"}}"I think married life is great!"
 
 
 ---
@@ -3280,7 +3278,7 @@ id: 300290
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"Do you think {{1:31 arg="0x0000"}}
-would make a good leader for this island?"
+would be a good leader for this island?"
 
 
 ---
@@ -3310,7 +3308,7 @@ id: 300310
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"If you only play it safe all the time,
-I don't think you'd have an interesting life."
+you'd likely have an dull life."
 
 
 ---
@@ -3399,7 +3397,7 @@ id: 300370
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I sometimes think that sleeping is a
-waste of time. Think of the potential!"
+waste of time. Wish I could have it back."
 
 
 ---
@@ -3549,7 +3547,7 @@ attribute: 0x6400E10001000001
 id: 300470
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Actually, I'm drawn to competitive a
+{{255:0 arg="0x0100"}}"Somehow, I'm drawn to competitive a
 society."
 
 
@@ -3683,8 +3681,8 @@ attribute: 0x6400E10001000001
 id: 300560
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm very particular about how much
-time I'm spending. Some people think it's annoying."
+{{255:0 arg="0x0100"}}"I'm very particular about how much time
+I'm spending. Many say it's annoying."
 
 
 ---
@@ -3714,7 +3712,7 @@ id: 300580
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I've never cried while
-watching a movie. Not even that one about the ship."
+watching a movie. Not even the ship one."
 
 
 ---
@@ -3833,14 +3831,14 @@ id: 300660
 attribute: 0x6400E10001000001
 ---
 {{255:0 arg="0x0100"}}"I like to exercise my brain.
-If you don't use it that much, it'll smooth out."
+It'll smooth out without frequent use."
 
 
 ---
 id: 300661
 attribute: 0x6400E10001000001
 ---
-アタマヲツカウコトガスキデス
+アタマヲツカウコトガスキデスコトガスキデス
 
 
 ---
@@ -3862,8 +3860,8 @@ attribute: 0x6400E10001000001
 id: 300680
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Do you often talk to me
-over there? Do I even exist?"
+{{255:0 arg="0x0100"}}"Do you often talk to me in
+the real world? Do I even exist?"
 
 
 ---
@@ -3964,8 +3962,8 @@ attribute: 0x6400E10001000001
 id: 300750
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Winter nights are quiet. It feels 
-like nothing’s stirring, not even a mouse."
+{{255:0 arg="0x0100"}}"Winter nights are quiet. It feels like
+nothing’s stirring, not even a mouse."
 
 
 ---
@@ -4054,8 +4052,8 @@ attribute: 0x6400E10001000001
 id: 300810
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You know summer’s started
-when there’s cicadas screaming in your ears."
+{{255:0 arg="0x0100"}}"You know summer’s started when
+there’s cicadas screaming in your ears."
 
 
 ---
@@ -4142,8 +4140,8 @@ attribute: 0x6400E10001000001
 id: 300870
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is April Fools Day. Have you
-heard about that Ligma thing?"
+{{255:0 arg="0x0100"}}"Today is April Fools Day. I bet you'll
+easily fall for a prank or two."
 
 
 ---
@@ -4424,8 +4422,8 @@ attribute: 0x6400E10001000001
 id: 301060
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike,
-do you have any hopes or dreams for the future?"
+{{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}'s lookalike, do you have
+any hopes or dreams for the future?"
 
 
 ---
@@ -4498,7 +4496,7 @@ attribute: 0x6400E10001000001
 id: 301110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I saw a mysterious dream, but I already
+{{255:0 arg="0x0100"}}"I had a mysterious dream, but I already
 forgot what it was."
 
 
@@ -4514,14 +4512,14 @@ id: 301120
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Someday, I want to go to another
-island. Who knows what’d happen over there?"
+island. Who knows what'd happen?"
 
 
 ---
 id: 301121
 attribute: 0x6400E10001000001
 ---
-イツカコノシマヲヌケダシテ＿ホカノシマエイッテミタイデス
+イツカコノシマヲヌケダシテ＿ホカノシマエイッテミタイデス？
 
 
 ---
@@ -4589,7 +4587,7 @@ id: 301170
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"It's convenient to have a cell phone.
-But you have to keep in mind your phone bill..."
+But don't make the phone bill costly..."
 
 
 ---
@@ -4604,7 +4602,7 @@ id: 301180
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"When I use the phone, I only talk about
-important stuff. I don’t have many long conversations..."
+important stuff. My chats aren't long..."
 
 
 ---
@@ -4708,8 +4706,8 @@ attribute: 0x6400E10001000002
 id: 301250
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Touch the sign near the entrance
-to the apartment building. It's cool!"
+{{255:0 arg="0x0100"}}"Touch the sign near the entrance to the
+apartment building for neat information."
 
 
 ---
@@ -4724,7 +4722,7 @@ id: 301260
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"If you fill out a Mii’s entire profile,
-they’ll get a star in the list of residents."
+they’ll get a star in the islander list."
 
 
 ---
@@ -4767,7 +4765,7 @@ attribute: 0x6400E10001000002
 id: 301290
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Please drop by often."
+{{255:0 arg="0x0100"}}"Come back anytime."
 
 
 ---
@@ -4865,7 +4863,7 @@ attribute: 0x6400E10001000002
 id: 400010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Today is my birthday, you know!"
+{{255:0 arg="0x0100"}}"Hurrah! It's my birthday!"
 
 
 ---
@@ -4880,7 +4878,7 @@ id: 400020
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"{{1:31 arg="0x0000"}}’s celerating their
-birthday today. Yippee!"
+birthday today. Can you celebrate with me?"
 
 
 ---
