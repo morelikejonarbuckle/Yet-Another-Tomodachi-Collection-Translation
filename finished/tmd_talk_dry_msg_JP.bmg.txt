@@ -4631,7 +4631,7 @@ attribute: 0x6400E10001000002
 id: 301200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I regularly use the study set you gave me.
+{{255:0 arg="0x0100"}}"I often use the study set you gave me.
 I'm slowly warming up to it."
 
 
