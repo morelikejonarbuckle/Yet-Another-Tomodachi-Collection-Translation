@@ -8,6 +8,7 @@ hasMID1: true
 MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
+*remove me: you started at line 1000000*
 %%%
 
 ---
