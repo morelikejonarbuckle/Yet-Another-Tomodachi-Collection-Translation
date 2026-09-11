@@ -8,7 +8,6 @@ hasMID1: true
 MID1Format: 0x1000
 hasSTR1: false
 hasFLW1: false
-*remove me: you started at line 1000000*
 %%%
 
 ---
@@ -3333,27 +3332,28 @@ I'm busy
 id: 1000000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Are you an ocean? Because
-I'm lost in your waves."
+{{255:0 arg="0x0100"}}"I've liked you for a really long time.
+Will you go out with me?"
 
 ---
 id: 1000001
 attribute: 0x6400E10001000001
 ---
-ズットマエカラスキデシタ＿ツキアッテクダサイ
+アイヴ・ライクト・ユー・フォー・ア・リーリー・ローング・タイム＿ウィール・ユー・ゴー・アウト・ウィーズ・ミー
 
 ---
 id: 1000002
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Your eyes are more beautiful than
-diamonds, my love."
+diamonds. Will you go out with me?"
 
 ---
 id: 1000003
 attribute: 0x6400E10001000001
 ---
-アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ
+ユアアイズアーモアビューティフルザンダイヤモンズ。ウィルユーゴーアウトウィズミー？
+
 
 ---
 id: 1000004
@@ -3365,7 +3365,7 @@ attribute: 0x6400E10001000001
 id: 1000005
 attribute: 0x6400E10001000001
 ---
-ツキアッテアゲテモイイデスヨ
+アイ・ゲース・アイル・デイト・ユー
 
 ---
 id: 1000006
@@ -3378,19 +3378,19 @@ Please go out with me!"
 id: 1000007
 attribute: 0x6400E10001000001
 ---
-ナンデモシマスカラツキアッテクダサイ！
+アイルドゥエニシングユーワント。プリーズゴーアウトウィズミー！
 
 ---
 id: 1000010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Okay!"
+{{255:0 arg="0x0100"}}"I'd love to!"
 
 ---
 id: 1000011
 attribute: 0x6400E10001000001
 ---
-コチラコソ，オネガイシマス
+アイズラブトゥー!
 
 ---
 id: 1000020
@@ -3402,7 +3402,7 @@ attribute: 0x6400E10001000001
 id: 1000021
 attribute: 0x6400E10001000001
 ---
-ゴメンナサイ＿＿＿＿＿＿＿＿＿＿
+アイム・サーリー＿＿＿＿＿＿＿＿＿＿
 
 ---
 id: 1000030
@@ -3414,72 +3414,72 @@ attribute: 0x6400E10001000001
 id: 1000031
 attribute: 0x6400E10001000001
 ---
-ソノヒ＿＿ケッキョクアノヒトガクルコトワナカッタ
+ゼイネバーボザードトゥショウアップ…
 
 ---
 id: 1000100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is it hot out here,
-or is it just you?"
+{{255:0 arg="0x0100"}}"I've liked you for a really long time.
+Will you go out with me?"
 
 ---
 id: 1000101
 attribute: 0x6400E10001000002
 ---
-ズットマエカラスキデシタ＿ツキアッテクダサイ
+ユアアイズアーモアビューティフルザンダイヤモンズ。ウィルユーゴーアウトウィズミー？
 
 ---
 id: 1000110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Are you a tree? Because you've rooted
-yourself in my thoughts."
+{{255:0 arg="0x0100"}}"I always want to be by your side.
+Please go out with me!"
 
 ---
 id: 1000111
 attribute: 0x6400E10001000002
 ---
-イツモアナタノソバニイタイデス＿ツキアッテクダサイ
+アイオールウェイズウォントトゥビーバイユアサイド。プリーズゴーアウトウィズミー！
 
 ---
 id: 1000120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You must've fallen from heaven,
-because you made a huge dent in this roof."
+{{255:0 arg="0x0100"}}"We were destined for each other as soon
+as I first saw you. Can we be partners?"
 
 ---
 id: 1000121
 attribute: 0x6400E10001000002
 ---
-ヒトメミタトキカラキニナッテマシタ＿ツキアッテクダサイ
+ウィーワーデスティンドフォーイーチアザーアズスーンアズアイファーストソーユー。キャンウィービーパートナーズ？
 
 ---
 id: 1000130
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"If beauty were time, you'd be an
-eternity of detention."
+{{255:0 arg="0x0100"}}"I enjoyed watching you from that seat.
+Please go out with me!"
 
 ---
 id: 1000131
 attribute: 0x6400E10001000002
 ---
-イツモアノセキカラミツメテイマシタ＿ツキアッテクダサイ
+アイエンジョイドウォッチングユーフロムザットシート。プリーズゴーアウトウィズミー！
 
 ---
 id: 1000200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You're more wonderful than this
-sparkling ocean. Please go out with me."
+{{255:0 arg="0x0100"}}"You're more wonderful than the
+sparkling ocean. Please go out with me!"
 
 ---
 id: 1000201
 attribute: 0x6400E10001000002
 ---
-アナタワキラメクウミヨリモステキデス＿ツキアッテクダサイ
+ユアモアワンダフルザンスパークリングオーシャン。プリーズゴーアウトウィズミー！
 
 ---
 id: 1000210
@@ -3491,98 +3491,98 @@ attribute: 0x6400E10001000002
 id: 1000211
 attribute: 0x6400E10001000002
 ---
-アナタトフタリデ＿コイトイウナノキヲハグクンデイキタイデス
+アイウォントトゥグロウアツリーオブラブウィズユー。
 
 ---
 id: 1000220
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Your eyes are more beautiful than
-diamonds. Please go out with me."
+diamonds! Please go out with me."
 
 ---
 id: 1000221
 attribute: 0x6400E10001000002
 ---
-アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ
+イズアーモアビューティフルザンダイヤモンズ！プリーズゴーアウトウィズミー。
 
 ---
 id: 1000230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You are milk and I am espresso.
+{{255:0 arg="0x0100"}}"You're sweet milk and I'm espresso.
 We'd make the best café au lait."
 
 ---
 id: 1000231
 attribute: 0x6400E10001000002
 ---
-アナタガアマイミルクデ＿ワタシガエスプレッソ＿アイノカフェオレノヨーニトケアイマショー
+ユアスウィートミルクアンドアイムエスプレッソ。ウィードメイクザベストカフェオレ。
 
 ---
 id: 1000300
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"No one loves you more than I do.
-Now, you wanna go out with me?"
+Wanna go out with me?"
 
 ---
 id: 1000301
 attribute: 0x6400E10001000002
 ---
-ワタシヨリアナタノコトヲスキニナレルヒトワイマセンヨ＿ツキアッタラドーデスカ？
+ノーワンラブズユーモアザンアイドゥ。ワナゴーアウトウィズミー？
 
 ---
 id: 1000310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"It's so obvious that you love
-me. I don't mind going out with you."
+{{255:0 arg="0x0100"}}"It's so obvious that you like me.
+I don't mind going out with you."
 
 ---
 id: 1000311
 attribute: 0x6400E10001000002
 ---
-ワタシノコトガスキッテミエミエデスヨ＿ショーガナイカラツキアイマショーカ？
+イッツソーオブビアスザットユーライクミー。アイドントマインドゴーイングアウトウィズユー。
 
 ---
 id: 1000320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I don't have anyone special yet, so
-I don't mind going out with you."
+{{255:0 arg="0x0100"}}"I don't have anyone special yet,
+so I don't mind going out with you."
 
 ---
 id: 1000321
 attribute: 0x6400E10001000002
 ---
-アイテガイナイナラ＿ツキアッテアゲテモイイデスヨ
+アイドントハブエニワンスペシャルイェット、ソーアイドントマインドゴーイングアウトウィズユー。
 
 ---
 id: 1000330
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"We're already dating, aren't we?
+{{255:0 arg="0x0100"}}"We're already dating, right?
 I just want to confirm that."
 
 ---
 id: 1000331
 attribute: 0x6400E10001000002
 ---
-モーワタシタチ＿ツキアッテマスヨネ＿イチオーカクニンシタダケデスケド
+ウィアーオールレディデイティング、ライト？アイジャストウォントトゥコンファームザット。
 
 ---
 id: 1000400
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Please be my lover. We can enjoy
-running together on the beach."
+{{255:0 arg="0x0100"}}"Please be my lover! We can enjoy
+chasing each other on the beach!"
 
 ---
 id: 1000401
 attribute: 0x6400E10001000002
 ---
-ワタシトスナハマデオイカケッコスルカンケイニナッテクダサイ！
+プリーズビーマイラバー！ウィーキャンエンジョイチェイシングイーチアザーオンザビーチ！
 
 ---
 id: 1000410
@@ -3595,33 +3595,33 @@ Please don't abandon me!"
 id: 1000411
 attribute: 0x6400E10001000002
 ---
-ドーシテモツキアイタインデス！ミステナイデクダサイ！
+アイリアリーワントトゥゴーアウトウィズユー！プリーズドントアバンドンミー！
 
 ---
 id: 1000420
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'll do anything you want.
-Please go out with me!"
+{{255:0 arg="0x0100"}}"Please go out with me!
+I'll do anything for you!"
 
 ---
 id: 1000421
 attribute: 0x6400E10001000002
 ---
-ナンデモシマスカラツキアッテクダサイ！
+プリーズゴーアウトウィズミー！アイルドゥエニシングフォーユー！
 
 ---
 id: 1000430
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'll let you cheat off my
-homework. Please go out with me!"
+{{255:0 arg="0x0100"}}"Please go out with me! I'll give you
+pudding packed in my lunch!"
 
 ---
 id: 1000431
 attribute: 0x6400E10001000002
 ---
-キューショクノプリンアゲルカラツキアッテクダサイ！
+プリーズゴーアウトウィズミー！アイルギブユープーディングパックトインマイランチ！
 
 ---
 id: 2000000
@@ -3633,31 +3633,31 @@ attribute: 0x6400E10001000001
 id: 2000001
 attribute: 0x6400E10001000001
 ---
-ワタシタチ＿ケッコンスルコトニナリマシタ
+ウィアーゲッティングマリード！
 
 ---
 id: 2000050
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Thanks."
+{{255:0 arg="0x0100"}}"Hi."
 
 ---
 id: 2000051
 attribute: 0x6400E10001000001
 ---
-ドーモ
+ハイ
 
 ---
 id: 2000100
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We'll have a happy life together."
+{{255:0 arg="0x0100"}}"We'll live a happy life together."
 
 ---
 id: 2000101
 attribute: 0x6400E10001000001
 ---
-スエナガクシアワセニクラシマス
+ウィールリブアハッピーライフトゥゲザー。
 
 ---
 id: 2000200
@@ -3677,25 +3677,25 @@ got married!
 id: 2000300
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"Please take this as a memento."
+{{255:0 arg="0x0100"}}"Please take this as a memento!"
 
 ---
 id: 2000301
 attribute: 0x6400E10001000001
 ---
-キネンニ＿コレオモラッテクダサイ
+プリーズ・テイク・ジース・アズ・ア・ミメーントー!
 
 ---
 id: 2000400
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"We're off for a honeymoon."
+{{255:0 arg="0x0100"}}"Well then, we're off on our honeymoon."
 
 ---
 id: 2000401
 attribute: 0x6400E10001000001
 ---
-ソレデワ＿0シンコンリョコーニイッテキマス
+ウェルゼン、ウィアーオフオンアワーハネムーン。
 
 ---
 id: 3000000
@@ -3707,7 +3707,7 @@ attribute: 0x6400E10001000001
 id: 3000001
 attribute: 0x6400E10001000001
 ---
-コナイダワゴメンナサイ
+アイムソーリーアバウトワットハプンド.
 
 ---
 id: 3000010
@@ -3719,7 +3719,7 @@ attribute: 0x6400E10001000001
 id: 3000011
 attribute: 0x6400E10001000001
 ---
-コチラコソゴメンナサイ
+アイムソーリートゥー
 
 ---
 id: 3000020
@@ -3731,7 +3731,7 @@ attribute: 0x6400E10001000001
 id: 3000021
 attribute: 0x6400E10001000001
 ---
-ユルシマセン
+アィウォントフォーギブユー
 
 ---
 id: 4000000
@@ -3743,19 +3743,19 @@ attribute: 0x6400E10001000001
 id: 4000001
 attribute: 0x6400E10001000001
 ---
-モーイチドヤリナオシマショー
+レッツスタートオーバー
 
 ---
 id: 4000010
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I'm willing to try again."
+{{255:0 arg="0x0100"}}"I'm counting on you."
 
 ---
 id: 4000011
 attribute: 0x6400E10001000001
 ---
-コチラコソ＿オネガイシマス
+アイムカウンティングオンユー
 
 ---
 id: 5000000
@@ -3767,7 +3767,7 @@ attribute: 0x6400E10001000001
 id: 5000001
 attribute: 0x6400E10001000001
 ---
-モーツカレマシタ＿ワカレマショー
+アイムタイアード。レッツブレイクアップ
 
 ---
 id: 6000000
