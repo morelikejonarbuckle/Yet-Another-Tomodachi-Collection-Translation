@@ -20,7 +20,7 @@ attribute: 0x6400E10001000001
 id: 1
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーム・カールブズ・オール・プローチーン
+アイウォントゥイートサムカーブズオアプロテイン
 
 ---
 id: 10
@@ -32,7 +32,7 @@ attribute: 0x6400E10001000001
 id: 11
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・ハールチー
+アイウォントゥイートサムシングハーティ
 
 ---
 id: 20
@@ -44,7 +44,7 @@ attribute: 0x6400E10001000001
 id: 21
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・ア・サイド・ディーシュ
+アイウォントゥイートアサイドディッシュ
 
 ---
 id: 30
@@ -56,7 +56,7 @@ attribute: 0x6400E10001000001
 id: 31
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・ディザート
+アイウォントゥイートデザート
 
 ---
 id: 40
@@ -68,7 +68,7 @@ attribute: 0x6400E10001000001
 id: 41
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・サーンシング・トゥ・ドリーングク
+アイウォントサムシングトゥドリンク
 
 ---
 id: 50
@@ -80,7 +80,7 @@ attribute: 0x6400E10001000001
 id: 51
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・スウィート
+アイウォントゥイートサムシングスウィート
 
 ---
 id: 60
@@ -92,7 +92,7 @@ attribute: 0x6400E10001000001
 id: 61
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・スパイシー
+アイウォントゥイートサムシングスパイシー
 
 ---
 id: 70
@@ -104,7 +104,7 @@ attribute: 0x6400E10001000001
 id: 71
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・ソールチー
+アイウォントゥイートサムシングソルティ.
 
 ---
 id: 80
@@ -116,7 +116,7 @@ attribute: 0x6400E10001000001
 id: 81
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・サウアー
+アイウォントゥイートサムシングサワー.
 
 ---
 id: 90
@@ -128,7 +128,7 @@ attribute: 0x6400E10001000001
 id: 91
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・オイリー
+アイウォントゥイートサムシングオイリー.
 
 ---
 id: 100
@@ -140,7 +140,7 @@ attribute: 0x6400E10001000001
 id: 101
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・コールド
+アイウォントゥイートサムシングコールド.
 
 ---
 id: 110
@@ -152,7 +152,7 @@ attribute: 0x6400E10001000001
 id: 111
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・ウォールム
+アイウォントゥイートサムシングウォーム
 
 ---
 id: 120
@@ -165,7 +165,7 @@ tastes bad. Don't ask why."
 id: 121
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーンシング・ザート・テイストス・バード。ドーント・アスク・ワイ
+アイウォントゥイートサムシングザットテイスツバッド.ドントアスクホワイ
 
 ---
 id: 130
@@ -177,7 +177,7 @@ attribute: 0x6400E10001000001
 id: 131
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーム・カーンディー
+アイウォントゥイートサムキャンディー
 
 ---
 id: 140
@@ -189,7 +189,7 @@ attribute: 0x6400E10001000001
 id: 141
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーム・フルート
+アイウォントゥイートサムフルーツ
 
 ---
 id: 150
@@ -201,7 +201,7 @@ attribute: 0x6400E10001000001
 id: 151
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーム・ヴェージーズ
+アイウォントゥイートサムベジーズ
 
 ---
 id: 160
@@ -213,7 +213,7 @@ attribute: 0x6400E10001000001
 id: 161
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・イート・サーム・ライス
+アイウォントトゥイートサムライス
 
 ---
 id: 170
@@ -1027,13 +1027,13 @@ attribute: 0x6400E10001000001
 id: 1500
 attribute: 0x6400E10001000001
 ---
-{{255:0 arg="0x0100"}}"I want a {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}."
+{{255:0 arg="0x0100"}}"I want {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}."
 
 ---
 id: 1501
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・ア｜{{1:1 arg="0x0000"}}
+アイ・ワーント{{1:1 arg="0x0000"}}
 
 ---
 id: 1600
@@ -1131,7 +1131,7 @@ attribute: 0x6400E10001000001
 id: 2501
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・ビー・フレーンドズ・ウィーズ｜{{1:1 arg="0x0000"}}
+アイ・ワーント・トゥ・ビー・フレーンドズ・ウィーズ{{1:1 arg="0x0000"}}
 
 ---
 id: 2510
@@ -1144,7 +1144,7 @@ but I'm too nervous to confess..."
 id: 2511
 attribute: 0x6400E10001000001
 ---
-アイム・イン・ラーヴ・ウィーズ＿{{1:1 arg="0x0000"}}, バート・アイム・ツー・ナーヴァス・トゥ・カンフェース
+アイム・イン・ラーヴ・ウィーズ{{1:1 arg="0x0000"}}, バート・アイム・ツー・ナーヴァス・トゥ・カンフェース
 
 ---
 id: 2520
@@ -1195,7 +1195,7 @@ attribute: 0x6400E10001000001
 id: 2551
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・ブレイク・アプ・ウィーズ＿{{1:1 arg="0x0000"}}
+アイ・ワーント・トゥ・ブレイク・アプ・ウィーズ{{1:1 arg="0x0000"}}
 
 ---
 id: 2560
@@ -1208,7 +1208,7 @@ attribute: 0x6400E10001000001
 id: 2561
 attribute: 0x6400E10001000001
 ---
-アイ・ワーント・トゥ・ブレイク・アプ・ウィーズ＿{{1:1 arg="0x0000"}}
+アイ・ワーント・トゥ・ブレイク・アプ・ウィーズ{{1:1 arg="0x0000"}}
 
 ---
 id: 3000
@@ -1580,7 +1580,7 @@ attribute: 0x6400E10001000001
 id: 100101
 attribute: 0x6400E10001000001
 ---
-サーングク・ユー
+サンキュー
 
 ---
 id: 100200
@@ -1604,7 +1604,7 @@ attribute: 0x6400E10001000001
 id: 100301
 attribute: 0x6400E10001000001
 ---
-アイム・ナート・ハーンググリー・イナーフ・トゥ・イート・ジース
+アイムノットハングリーイナフトゥイートディス
 
 ---
 id: 100400
@@ -1888,7 +1888,7 @@ attribute: 0x6400E10001000001
 id: 103231
 attribute: 0x6400E10001000001
 ---
-アイ・コール・イト＿{{1:1 arg="0x0000"}}
+アイ・コール・イト{{1:1 arg="0x0000"}}
 
 ---
 id: 103240
@@ -2839,7 +2839,7 @@ attribute: 0x6400E10001000001
 id: 502100
 attribute: 0x6400E10001010002
 ---
-{{255:0 arg="0x0100"}} You got a {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} and
+{{255:0 arg="0x0100"}} You got {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} and
 put it in your treasure collection.
 
 ---
@@ -3781,7 +3781,7 @@ the best spouse ever."
 id: 6000001
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイフーフダトオモッテイルノデスガ
+アイ・シーングク{{1:1 arg="0x0000"}}イズザベスツスパウスエバー
 
 
 ---
@@ -3796,7 +3796,7 @@ a very nice spouse."
 id: 6000011
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイフーフダトオモッテイルノデスガ
+アイ・シーングク{{1:1 arg="0x0000"}}イズ・ア・ヴェーリー・ナイス・スパウス
 
 
 ---
@@ -3811,7 +3811,7 @@ a good spouse."
 id: 6000021
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイフーフダトオモッテイルノデスガ
+アイ・シーングク{{1:1 arg="0x0000"}}イズアグッドスパウス。
 
 
 ---
@@ -3826,7 +3826,7 @@ I don't get along very well."
 id: 6000031
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+アイ・シーングク{{1:1 arg="0x0000"}}アンドアイドントゲットアロングベリウェル
 
 
 ---
@@ -3841,29 +3841,29 @@ I don't get along."
 id: 6000041
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+アイ・シーングク{{1:1 arg="0x0000"}}アンドアイドントゲットアロング
 
 
 ---
 id: 6000050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"What do you think about
-{{1:1 arg="0x0000"}} and I?"
+{{255:0 arg="0x0100"}}"How compatable am I with
+{{1:1 arg="0x0000"}}?"
 
 
 ---
 id: 6000051
 attribute: 0x6400E10001000002
 ---
-ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+ハウコンパティブルアムアイウィズ{{1:1 arg="0x0000"}}？
 
 
 ---
 id: 6000060
 attribute: 0x6400500001030001
 ---
-A Perfect Match!
+Perfect Fit!
 
 
 ---
@@ -3883,65 +3883,65 @@ A bad pair...
 id: 6000100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! I knew it!"
+{{255:0 arg="0x0100"}}"I knew it!"
 
 
 ---
 id: 6000101
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ！
+アイニューイット！
 
 
 ---
 id: 6000110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I see! Now I'm relieved."
+{{255:0 arg="0x0100"}}"That's right! I'm relieved."
 
 
 ---
 id: 6000111
 attribute: 0x6400E10001000002
 ---
-ソーデスヨネ！アンシンシマシタ
+ザッツライト！アイムリリーブド
 
 
 ---
 id: 6000120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right?"
+{{255:0 arg="0x0100"}}"I see. I hope that means
+we get closer!"
 
 
 ---
 id: 6000121
 attribute: 0x6400E10001000002
 ---
-ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+アイシー．アイホープザットミーンズウィーゲットクロサー！
 
 
 ---
 id: 6000130
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really? I'll try harder to
-make it work out for us."
+{{255:0 arg="0x0100"}}"Really? I'll try harder
+to get closer to them."
 
 
 ---
 id: 6000131
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+リアリー？アイルトライハーダートゥゲットクロサートゥゼム。
 
 
 ---
 id: 6000140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really? That's what you think?
+{{255:0 arg="0x0100"}}"Really? Does it look like that?!
 I'll keep trying harder."
 
 
@@ -3949,21 +3949,21 @@ I'll keep trying harder."
 id: 6000141
 attribute: 0x6400E10001000002
 ---
-エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+リアリー？ダズイットルックライクザット！？アイルキープトライイングハーダー
 
 
 ---
 id: 6000200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Average? That's a shame."
+{{255:0 arg="0x0100"}}"Average? That's disapointing."
 
 
 ---
 id: 6000201
 attribute: 0x6400E10001000002
 ---
-フツーデスカ．チョットザンネンデス
+アベレージ？ザッツディサポインティング
 
 
 ---
@@ -3977,204 +3977,203 @@ attribute: 0x6400E10001000002
 id: 6000211
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．マー＿イインデスケド
+リアリー？ウェル、ザッツファイン
 
 
 ---
 id: 6000220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I knew it, right?"
+{{255:0 arg="0x0100"}}"I guess that makes sense."
 
 
 ---
 id: 6000221
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ
+アイゲスザットメイクスセンス
 
 
 ---
 id: 6000230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship
-will probably get better, right?"
+{{255:0 arg="0x0100"}}"I see. Maybe we can get along
+a little better."
 
 
 ---
 id: 6000231
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+アイシー．メイビーウィーキャンゲットアロングアリトルベター
 
 
 ---
 id: 6000240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I see. We might be a better match
-than I thought we were."
+{{255:0 arg="0x0100"}}"I see... We're more compatable than I
+thought."
 
 
 ---
 id: 6000241
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+アイシー＿ウィアーモアコンパティブルザンアイソート.
 
 
 ---
 id: 6000300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"What?! Ok..."
+{{255:0 arg="0x0100"}}"Oh! Ok..."
 
 
 ---
 id: 6000301
 attribute: 0x6400E10001000002
 ---
-エ！ソーデスカ．ワカリマシタ
+オー！オーケー
 
 
 ---
 id: 6000310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I thought we were getting along
-just fine..."
+{{255:0 arg="0x0100"}}"I thought we were compatible, but..."
 
 
 ---
 id: 6000311
 attribute: 0x6400E10001000002
 ---
-ジブンデワアウトオモッテイタノデスガ
+アイソートウィーワーコンパティブル、バット
 
 
 ---
 id: 6000320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? That's a shame..."
+{{255:0 arg="0x0100"}}"Is that so? That's disapointing..."
 
 
 ---
 id: 6000321
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ．チョットザンネンデス
+イズザット？ザッツディサポインティング
 
 
 ---
 id: 6000330
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"As I thought..."
 
 
 ---
 id: 6000331
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーナンデスネ
+アズアイソート
 
 
 ---
 id: 6000340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"As I thought..."
 
 
 ---
 id: 6000341
 attribute: 0x6400E10001000001
 ---
-ヤッパリソーナンデスネ
+アズアイソート
 
 
 ---
 id: 6001000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I absolutely adore {{1:1 arg="0x0000"}}
-as a lover."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I get along
+very well."
 
 
 ---
 id: 6001001
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイコイビトドーシダトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイゲットアロングベリウェル
 
 
 ---
 id: 6001010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a great lover."
+{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and I
+are pretty close."
 
 
 ---
 id: 6001011
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイコイビトドーシダトオモッテイルノデスガ
+アイシンク{{1:1 arg="0x0000"}}アンドアイアープリティクロース
 
 
 ---
 id: 6001020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a good lover."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I get along
+well, but..."
 
 
 ---
 id: 6001021
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイコイビトドーシダトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイゲットアロングウェル、バット__
 
 
 ---
 id: 6001030
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'm starting to think {{1:1 arg="0x0000"}} and
-I don't get along really well."
+{{255:0 arg="0x0100"}}"I'm starting to think {{1:1 arg="0x0000"}} 
+and I don't get along."
 
 
 ---
 id: 6001031
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+アイムスターティングトゥシンク{{1:1 arg="0x0000"}}アンドアイドントゲットアロング
 
 
 ---
 id: 6001040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I'll say it: {{1:1 arg="0x0000"}} and
-I don't get along."
+{{255:0 arg="0x0100"}}"I'm starting to think {{1:1 arg="0x0000"}}
+and I don't fit."
 
 
 ---
 id: 6001041
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+アイムスターティングトゥシンク{{1:1 arg="0x0000"}}アンドアイドントフィット
 
 
 ---
 id: 6001050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"How compatible am I with
+{{255:0 arg="0x0100"}}"How compatable am I with
 {{1:1 arg="0x0000"}}?"
 
 
@@ -4182,42 +4181,42 @@ attribute: 0x6400E10001000002
 id: 6001051
 attribute: 0x6400E10001000002
 ---
-ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+ハウコンパティブルアムアイウィズ{{1:1 arg="0x0000"}}？
 
 
 ---
 id: 6001060
 attribute: 0x6400500001030001
 ---
-Very!
+Perfect fit!
 
 
 ---
 id: 6001070
 attribute: 0x6400500001030001
 ---
-Just fine
+So-so
 
 
 ---
 id: 6001080
 attribute: 0x6400500001030001
 ---
-Not at all
+A bad fit...
 
 
 ---
 id: 6001100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! That must be it!"
+{{255:0 arg="0x0100"}}"Just as I thought!"
 
 
 ---
 id: 6001101
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ！
+ジャストアズアイソート！
 
 
 ---
@@ -4231,22 +4230,22 @@ attribute: 0x6400E10001000002
 id: 6001111
 attribute: 0x6400E10001000002
 ---
-ソーデスヨネ！アンシンシマシタ
+アイシー！ナウアイムリリーブド
 
 
 ---
 id: 6001120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right?"
+{{255:0 arg="0x0100"}}"I see. I hope that means
+we get closer!"
 
 
 ---
 id: 6001121
 attribute: 0x6400E10001000002
 ---
-ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+アイシー．アイホープザットミーンズウィーゲットクロサー！
 
 
 ---
@@ -4261,7 +4260,7 @@ make it work out for us."
 id: 6001131
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+リアリー？アイルトライハーダートゥメイクイットワークアウトフォーアス。
 
 
 ---
@@ -4276,21 +4275,21 @@ I'll keep trying harder."
 id: 6001141
 attribute: 0x6400E10001000002
 ---
-エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+ワット？ザッツワットユーシンク？アイルキープトライイングハーダー
 
 
 ---
 id: 6001200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"'Just fine?' That's a bit disappointing."
+{{255:0 arg="0x0100"}}"So-so? That's a bit disappointing."
 
 
 ---
 id: 6001201
 attribute: 0x6400E10001000002
 ---
-フツーデスカ．チョットザンネンデス
+ソーソー？ザッツアビットディサポインティング
 
 
 ---
@@ -4304,36 +4303,36 @@ attribute: 0x6400E10001000002
 id: 6001211
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．マー＿イインデスケド
+リアリー？ウェル、ザッツファイン
 
 
 ---
 id: 6001220
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I knew it!"
+{{255:0 arg="0x0100"}}"That's what I thought!"
 
 
 ---
 id: 6001221
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ
+ザッツワットアイソート！
 
 
 ---
 id: 6001230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship
-will probably get better, right?"
+{{255:0 arg="0x0100"}}"Is that so? Maybe we can get along
+a bit more."
 
 
 ---
 id: 6001231
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+イズザット？メイビーウィーキャンゲットアロングアビットモア
 
 
 ---
@@ -4355,71 +4354,70 @@ attribute: 0x6400E10001000002
 id: 6001300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"What?! Is that so? I see..."
+{{255:0 arg="0x0100"}}"Oh! Is that so... I see."
 
 
 ---
 id: 6001301
 attribute: 0x6400E10001000002
 ---
-エ！ソーデスカ．ワカリマシタ
+オー！イズザット...アイシー
 
 
 ---
 id: 6001310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I thought we were getting
-along fine..."
+{{255:0 arg="0x0100"}}"I thought they would suit me..."
 
 
 ---
 id: 6001311
 attribute: 0x6400E10001000002
 ---
-ジブンデワアウトオモッテイタノデスガ
+アイソートゼイウッドスートミー__
 
 
 ---
 id: 6001320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so? That's dissapointing..."
 
 
 ---
 id: 6001321
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ．チョットザンネンデス
+イズザット？ザッツディサポインティング_
 
 
 ---
 id: 6001330
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"Figures..."
 
 
 ---
 id: 6001331
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーナンデスネ
+フィギャーズ
 
 
 ---
 id: 6001340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"So that's how it is..."
 
 
 ---
 id: 6001341
 attribute: 0x6400E10001000001
 ---
-ヤッパリソーナンデスネ
+ソーザッツハウイットイズ
 
 
 ---
@@ -4427,59 +4425,59 @@ id: 6002000
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a wonderful best friend."
+a very close best friend."
 
 
 ---
 id: 6002001
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイシンユーダトオモッテイルノデスガ
+アイシンク{{1:1 arg="0x0000"}}イズアベリークロースベストフレンド
 
 
 ---
 id: 6002010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a great best friend."
+{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and I
+get along pretty well for best friends."
 
 
 ---
 id: 6002011
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイシンユーダトオモッテイルノデスガ
+アイシンク{{1:1 arg="0x0000"}}アンドアイゲットアロングプリティウェルフォーベストフレンズ.
 
 
 ---
 id: 6002020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a normally good best friend."
+{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and I
+get along just fine."
 
 
 ---
 id: 6002021
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイシンユーダトオモッテイルノデスガ
+アイシンク{{1:1 arg="0x0000"}}アンドアイゲットアロングジャストファイン
 
 
 ---
 id: 6002030
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and
-I don't get along really well."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I
+don't get along."
 
 
 ---
 id: 6002031
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイドントゲットアロング
 
 
 ---
@@ -4494,14 +4492,14 @@ I are best friends."
 id: 6002041
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+アイドントノウワイ{{1:1 arg="0x0000"}}アンドアイアーベストフレンズ
 
 
 ---
 id: 6002050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"What do you think about me and
+{{255:0 arg="0x0100"}}"How compatable am I with
 {{1:1 arg="0x0000"}}?"
 
 
@@ -4509,42 +4507,42 @@ attribute: 0x6400E10001000002
 id: 6002051
 attribute: 0x6400E10001000002
 ---
-ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+ハウコンパティブルアムアイウィズ{{1:1 arg="0x0000"}}？
 
 
 ---
 id: 6002060
 attribute: 0x6400500001030001
 ---
-Wonderful!
+Perfect Fit!
 
 
 ---
 id: 6002070
 attribute: 0x6400500001030001
 ---
-Average
+Normal
 
 
 ---
 id: 6002080
 attribute: 0x6400500001030001
 ---
-Terrible
+A bad fit…
 
 
 ---
 id: 6002100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Yeah! That must be it!"
+{{255:0 arg="0x0100"}}"I knew it!"
 
 
 ---
 id: 6002101
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ！
+アイニューイット！
 
 
 ---
@@ -4558,7 +4556,7 @@ attribute: 0x6400E10001000002
 id: 6002111
 attribute: 0x6400E10001000002
 ---
-ソーデスヨネ！アンシンシマシタ
+アイシー！ナウアイムリリーブド
 
 
 ---
@@ -4573,7 +4571,7 @@ get closer, right?"
 id: 6002121
 attribute: 0x6400E10001000002
 ---
-ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+イズザット？ウィールプロバブリーゲットクローサー、ライト?
 
 
 ---
@@ -4581,57 +4579,57 @@ id: 6002130
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Really? I'll try harder to
-stay with them."
+get along with them."
 
 
 ---
 id: 6002131
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+リアリー？アイルトライハーダートゥゲットアロングウィズゼム
 
 
 ---
 id: 6002140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"That's what you think?
-Guess I'll keep trying."
+{{255:0 arg="0x0100"}}"Wait, do I really seem that way?
+Guess I'll try harder then."
 
 
 ---
 id: 6002141
 attribute: 0x6400E10001000002
 ---
-エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+ウェイト、ドゥーアイリアリーシームザットウェイ？ゲスアイルトライハーダーゼン.
 
 
 ---
 id: 6002200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Average? That's a bit disappointing."
+{{255:0 arg="0x0100"}}"Normal? That's a bit of a shame."
 
 
 ---
 id: 6002201
 attribute: 0x6400E10001000002
 ---
-フツーデスカ．チョットザンネンデス
+ノーマル？ザッツアビットオブアシェイム
 
 
 ---
 id: 6002210
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really? Well, that's fine."
+{{255:0 arg="0x0100"}}"I see. I suppose that's fine."
 
 
 ---
 id: 6002211
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．マー＿イインデスケド
+アイシー。アイサポーズザッツファイン.
 
 
 ---
@@ -4645,94 +4643,93 @@ attribute: 0x6400E10001000002
 id: 6002221
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ
+アイニューイット！
 
 
 ---
 id: 6002230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship
-will probably get better, right?"
+{{255:0 arg="0x0100"}}"Hmm. Maybe we'll grow closer."
 
 
 ---
 id: 6002231
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+フム.メイビーウィールグロウクローサー
 
 
 ---
 id: 6002240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? I guess our
-relationship's a bit complicated then."
+{{255:0 arg="0x0100"}}"Is that so? I guess we're closer than
+I thought."
 
 
 ---
 id: 6002241
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+イズザッ？アイゲスウィアークローサーザンアイソート
 
 
 ---
 id: 6002300
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Oh. I see..."
+{{255:0 arg="0x0100"}}"Oh! I see..."
 
 
 ---
 id: 6002301
 attribute: 0x6400E10001000002
 ---
-エ！ソーデスカ．ワカリマシタ
+オー！アイシー__
 
 
 ---
 id: 6002310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I thought we were
-getting along well..."
+{{255:0 arg="0x0100"}}"I thought we were getting along
+well..."
 
 
 ---
 id: 6002311
 attribute: 0x6400E10001000002
 ---
-ジブンデワアウトオモッテイタノデスガ
+アイソートウィーワーゲッティングアロングウェル__
 
 
 ---
 id: 6002320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so... That's a shame."
 
 
 ---
 id: 6002321
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ．チョットザンネンデス
+イズザット.ザッツアシェイム.
 
 
 ---
 id: 6002330
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"I guess that's how it is."
 
 
 ---
 id: 6002331
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーナンデスネ
+ゲスザッツハウイットイズ
 
 
 ---
@@ -4746,89 +4743,89 @@ attribute: 0x6400E10001000002
 id: 6002341
 attribute: 0x6400E10001000001
 ---
-ヤッパリソーナンデスネ
+ユーシンクソートゥー、ライト？
 
 
 ---
 id: 6003000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-such a wonderful friend."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I
+get along very well."
 
 
 ---
 id: 6003001
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイトモダチトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイゲットアロングベリーウェル
 
 
 ---
 id: 6003010
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a very nice friend."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I
+get along fairly well."
 
 
 ---
 id: 6003011
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイトモダチトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイゲットアロングフェアリィウェル
 
 
 ---
 id: 6003020
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} is
-a very average friend."
+{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and I
+get along just fine."
 
 
 ---
 id: 6003021
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイトモダチトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイゲットアロングジャストファイン
 
 
 ---
 id: 6003030
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and
-I don't get along really well."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I
+don't get along."
 
 
 ---
 id: 6003031
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイドントゲットアロング
 
 
 ---
 id: 6003040
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I think {{1:1 arg="0x0000"}} and
-I don't get along."
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}} and I
+really don't get along."
 
 
 ---
 id: 6003041
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+{{1:1 arg="0x0000"}}アンドアイリアリードントゲットアロング
 
 
 ---
 id: 6003050
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"What do you think about me and
+{{255:0 arg="0x0100"}}"How compatable am I with
 {{1:1 arg="0x0000"}}?"
 
 
@@ -4836,28 +4833,28 @@ attribute: 0x6400E10001000002
 id: 6003051
 attribute: 0x6400E10001000002
 ---
-ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+ハウコンパティブルアムアイウィズ{{1:1 arg="0x0000"}}？
 
 
 ---
 id: 6003060
 attribute: 0x6400500001030001
 ---
-Wonderful!
+Perfect Fit!
 
 
 ---
 id: 6003070
 attribute: 0x6400500001030001
 ---
-Eh
+Normal
 
 
 ---
 id: 6003080
 attribute: 0x6400500001030001
 ---
-Bad
+Not good...
 
 
 ---
@@ -4871,7 +4868,7 @@ attribute: 0x6400E10001000002
 id: 6003101
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ！
+イェア！ザットマストビーイット！
 
 
 ---
@@ -4885,22 +4882,22 @@ attribute: 0x6400E10001000002
 id: 6003111
 attribute: 0x6400E10001000002
 ---
-ソーデスヨネ！アンシンシマシタ
+アイシー！ナウアイムリリーヴド
 
 
 ---
 id: 6003120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? We'll probably
-get closer, right?"
+{{255:0 arg="0x0100"}}"Is that so? That means
+we'll probably get closer!"
 
 
 ---
 id: 6003121
 attribute: 0x6400E10001000002
 ---
-ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+イズザット？ザットミーンズウィルプロバブリーゲットクロウサー
 
 
 ---
@@ -4908,43 +4905,43 @@ id: 6003130
 attribute: 0x6400E10001000002
 ---
 {{255:0 arg="0x0100"}}"Really? I'll try harder to
-make it work out for us."
+get along with them."
 
 
 ---
 id: 6003131
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+リアリー？アイルトライハーダートゥゲットアロングウィズゼム
 
 
 ---
 id: 6003140
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really? That's what you think?
-I'll keep trying harder then."
+{{255:0 arg="0x0100"}}"Wait, does it look that way?
+I'll try a bit harder then."
 
 
 ---
 id: 6003141
 attribute: 0x6400E10001000002
 ---
-エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+ウェイト、ダズイットルックザットウェイ？アイルトライアビットハーダーゼン
 
 
 ---
 id: 6003200
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"'Eh?' That's a bit disappointing."
+{{255:0 arg="0x0100"}}"'Normal?' That's a bit disappointing."
 
 
 ---
 id: 6003201
 attribute: 0x6400E10001000002
 ---
-フツーデスカ．チョットザンネンデス
+ノーマル？ザッツァビットディサポインティング
 
 
 ---
@@ -4958,7 +4955,7 @@ attribute: 0x6400E10001000002
 id: 6003211
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．マー＿イインデスケド
+リアリー？ウェル、ザッツファイン
 
 
 ---
@@ -4972,37 +4969,37 @@ attribute: 0x6400E10001000002
 id: 6003221
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーデスヨネ
+アイニューイット！
 
 
 ---
 id: 6003230
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship
-will probably get better, right?"
+{{255:0 arg="0x0100"}}"Is that so? Maybe we'll
+get along more."
 
 
 ---
 id: 6003231
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+イズザット？メイビーウィルゲットアロングモア
 
 
 ---
 id: 6003240
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Our relationship might
-not be as good as you think."
+{{255:0 arg="0x0100"}}"Is that so? Maybe we're more
+compatible than I thought."
 
 
 ---
 id: 6003241
 attribute: 0x6400E10001000002
 ---
-ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+イズザット？メイビーウィアモアコンパティブルザナイソート。
 
 
 ---
@@ -5016,64 +5013,64 @@ attribute: 0x6400E10001000002
 id: 6003301
 attribute: 0x6400E10001000002
 ---
-エ！ソーデスカ．ワカリマシタ
+オー.アイシー
 
 
 ---
 id: 6003310
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"But I thought we were
-getting along well..."
+{{255:0 arg="0x0100"}}"I thought we were getting along
+well..."
 
 
 ---
 id: 6003311
 attribute: 0x6400E10001000002
 ---
-ジブンデワアウトオモッテイタノデスガ
+アイソートウィーワーゲッティングアロングウェル__
 
 
 ---
 id: 6003320
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Is that so? Too bad..."
+{{255:0 arg="0x0100"}}"Is that so? That's a shame."
 
 
 ---
 id: 6003321
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ．チョットザンネンデス
+イズザット？ザッツアシェイム.
 
 
 ---
 id: 6003330
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"So that's how it is, then."
 
 
 ---
 id: 6003331
 attribute: 0x6400E10001000002
 ---
-ヤッパリソーナンデスネ
+ソザッツハウイットイズ、ゼン
 
 
 ---
 id: 6003340
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"You think so too, right?"
+{{255:0 arg="0x0100"}}"I guess that's how it is."
 
 
 ---
 id: 6003341
 attribute: 0x6400E10001000001
 ---
-ヤッパリソーナンデスネ
+ゲスザッツハウイットイズ
 
 
 ---
@@ -5088,7 +5085,7 @@ attribute: 0x6400E10001000002
 id: 6004001
 attribute: 0x6400E10001000002
 ---
-{{1:1 arg="0x0000"}}ノコトヲヨクシラナイノデスガ
+アイダントノウマッチアバウト{{1:1 arg="0x0000"}}
 
 
 ---
@@ -5103,14 +5100,14 @@ with {{1:1 arg="0x0000"}}?"
 id: 6004011
 attribute: 0x6400E10001000002
 ---
-ワタシト{{1:1 arg="0x0000"}}トワ＿キガアイソーデスカ？
+ハウコンパティブルアムアイウィズ{{1:1 arg="0x0000"}}？
 
 
 ---
 id: 6004060
 attribute: 0x6400500001030001
 ---
-Very!
+Perfect Fit!
 
 
 ---
@@ -5124,62 +5121,61 @@ Normal
 id: 6004080
 attribute: 0x6400500001030001
 ---
-Terrible
+A Bad Fit...
 
 
 ---
 id: 6004100
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really? Now I think we might
-be able to get along."
+{{255:0 arg="0x0100"}}"Huh! Now I'm curious."
 
 
 ---
 id: 6004101
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ！チョットキニナッテキマシタ
+ハァ!ナウアイムキュリオス.
 
 
 ---
 id: 6004110
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Ah, is that so? I see."
+{{255:0 arg="0x0100"}}"Oh! Is that so... I see."
 
 
 ---
 id: 6004111
 attribute: 0x6400E10001000002
 ---
-ア＿ソーデスカ．ワカリマシタ
+オー！イズザット...アイシー
 
 
 ---
 id: 6004120
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"Really? That's a bit disappointing."
+{{255:0 arg="0x0100"}}"Really? That's kinda disappointing."
 
 
 ---
 id: 6004121
 attribute: 0x6400E10001000002
 ---
-ソーナンデスカ．チョットザンネンデス
+リアリー？ザッツカインダディサポインティング.
 
 
 ---
 id: 6005000
 attribute: 0x6400E10001000002
 ---
-{{255:0 arg="0x0100"}}"I got something I need your help with,
-but I already forgot what it was."
+{{255:0 arg="0x0100"}}"I think I forgot what
+I wanted to ask you."
 
 
 ---
 id: 6005001
 attribute: 0x6400E10001000002
 ---
-ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                
+アイシンクアイフォーガットワットアイウォンティッドゥアスクユー.                
