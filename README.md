@@ -14,20 +14,6 @@ Some text might get cut off when you play this ROM hack. Might set up a google f
 
 ---
 
-### Project has slowed down a lot due to hard drive errors
-
-Somehow I formated the hard drive with all the mod stuff. I think a couple textures were deleted but I can just decompile the rom hack and fix them again.
-
-### "How?"
-
-Windows was running slow and laggy, so I wanted to switch over to ZorinOS (debian-based linux which I already dual-booted). But then it won't auto-mount my internal SSD, so I tried formatting it. I formatted my external SSD instead, which had the mod files on there. After that kerfuffle, Zorin became slow and didn't work as well. So I switched to Bazzite, but for some reason there's a bug with the external monitor that makes everything 15 fps. So I switched to CatchyOS (arch linux) and everything seems to be mostly working fine... except for windows programs. I spent today trying to set up Winboat and I hope that works. Bazzite also killed my windows boot drive after I set up Windows again. Finally, I was using the data recovery software DMDE and it turns out I overwrote the files I copied over.
-
-
-Second issue: Two conflicting files with no way to fix them.
-There's this file that stores all the news article text called NEWS.bmg and another file that stores all the job descriptions called JOB.bmg. They hate each other. A possible solution is to steal the job file and
-manually type everything with NitroPaint. I wish I could get some help... Every BMG editor on the internet breaks the job file and crashes the game. Nitropaint is the most stable.
-I do want to undo some of the edits I made because I don't think they fit the game.
-
 Some people have starred this for some reason, if they want to try translating their own copy here's a neat guide to some textures: https://gbatemp.net/threads/tomodachi-collection-textures-to-replace.675991/
 Use this version of Tinke or else the textures refuse to load.
 https://github.com/R-YaTian/TinkeDSi/actions/runs/22517582323
