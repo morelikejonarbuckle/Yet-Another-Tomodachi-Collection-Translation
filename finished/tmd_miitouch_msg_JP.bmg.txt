@@ -1036,7 +1036,7 @@ Novel
 id: 1305060
 attribute: 0x6400400001010101
 ---
-Cell phone
+Phone
 
 ---
 id: 1305070
