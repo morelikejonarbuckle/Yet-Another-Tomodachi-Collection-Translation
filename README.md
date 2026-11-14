@@ -3,6 +3,7 @@
 
 An alternative translation of Tomodachi Collection.
 The foundation of this translation relies on Deepl, **an AI translator.** It's the most accurate one I can find. Otherwise, I used **ChatGPT** for phrases that don't translate well. Complain about it here: https://gbatemp.net/threads/complain-about-morelikejonarbuckle0s-tomodachi-collection-translation-using-ai-here.681360/
+Textures are horribly drawn by me with Aseprite and GIMP.
 ### If you hate AI, use tools in the wiki as a template to make another translation
 Some phrases were left out because they were too long in English, or I thought of some of my own. Hopefully they don't break immersion too much...
 
