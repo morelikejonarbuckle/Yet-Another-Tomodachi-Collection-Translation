@@ -102,37 +102,37 @@ Quit
 id: 101000
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I randomly chose this one."
+{{255:0 arg="0x0100"}}"I randomly picked one."
 
 ---
 id: 101001
 attribute: 0x6400E00001030001
 ---
-テキトウニエラビマシタ
+アイランダムリピックトワン.
 
 ---
 id: 101002
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I guess it's this one."
+{{255:0 arg="0x0100"}}"I guess I'll choose this."
 
 ---
 id: 101003
 attribute: 0x6400E00001030001
 ---
-ヤッパリコッチカナー
+アイゲスアイルチューズディス.
 
 ---
 id: 101004
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}" It's Totally this one!"
+{{255:0 arg="0x0100"}}"It's totally this one!"
 
 ---
 id: 101005
 attribute: 0x6400E00001030001
 ---
-ゼッタイコッチ!
+イッツトータリーディスワン!
 
 ---
 id: 101006
@@ -144,31 +144,31 @@ attribute: 0x6400E00001030001
 id: 101007
 attribute: 0x6400E00001030001
 ---
-ドッチカトイウト_コッチカナ
+アイウェントウィズディスワン.
 
 ---
 id: 101008
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one's fine, isn't it?"
+{{255:0 arg="0x0100"}}"Ain't this the right one?"
 
 ---
 id: 101009
 attribute: 0x6400E00001030001
 ---
-コッチデイインジャナイ?
+エイントディスザライトワン？
 
 ---
 id: 101010
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I'm not sure either..."
+{{255:0 arg="0x0100"}}"I'm not sure about this one..."
 
 ---
 id: 101011
 attribute: 0x6400E00001030001
 ---
-ジシンナイケド
+アイムノットシュアアバウトディスワン
 
 ---
 id: 101012
@@ -180,7 +180,7 @@ attribute: 0x6400E00001030001
 id: 101013
 attribute: 0x6400E00001030001
 ---
-マー_ドッチモオナジカモネ
+メイビーゼアザセイムシング
 
 ---
 id: 101014
@@ -192,7 +192,7 @@ attribute: 0x6400E00001030001
 id: 101015
 attribute: 0x6400E00001030001
 ---
-コチラヲオススメシマス
+アイレコメンドディスワン!
 
 ---
 id: 101016
@@ -204,7 +204,7 @@ attribute: 0x6400E00001030001
 id: 101017
 attribute: 0x6400E00001030001
 ---
-ショウキョホウデキメマシタ
+ディスワン、スルーマイプロセスオブイリミネーション.
 
 ---
 id: 101018
@@ -216,19 +216,19 @@ attribute: 0x6400E00001030001
 id: 101019
 attribute: 0x6400E00001030001
 ---
-ヤッパリアッチダッタカナ
+パーハップスアイシュッドハヴゴーンザットウェイ...
 
 ---
 id: 101020
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Everyone followed me."
+{{255:0 arg="0x0100"}}"I just followed everyone."
 
 ---
 id: 101021
 attribute: 0x6400E00001030001
 ---
-ミンナニツイテキマシタ
+アイジャストフォロウドエブリワン
 
 ---
 id: 101022
@@ -240,19 +240,19 @@ attribute: 0x6400E00001030001
 id: 101023
 attribute: 0x6400E00001030001
 ---
-コッチカラ_オイシソウナニオイガシタノデ
+アイスメルドサムシンググッドオーヴァーヒ
 
 ---
 id: 101024
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I'm in the mood for this one!"
+{{255:0 arg="0x0100"}}"This one represents how I feel!"
 
 ---
 id: 101025
 attribute: 0x6400E00001030001
 ---
-コッチガイマノキブンデス!
+ディスワンレプリゼンツハウアイフィール!
 
 ---
 id: 101026
@@ -264,19 +264,19 @@ attribute: 0x6400E00001030001
 id: 101027
 attribute: 0x6400E00001030001
 ---
-ワタシワコッチハデス。
+アイムオンディスサイド.
 
 ---
 id: 101028
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"It was my destiny to choose this."
+{{255:0 arg="0x0100"}}"I was destined to choose this!"
 
 ---
 id: 101029
 attribute: 0x6400E00001030001
 ---
-コッチニウンメイヲカンジタノデ
+アイワズデスティンドトゥチューズディス!
 
 ---
 id: 101030
@@ -288,31 +288,31 @@ attribute: 0x6400E00001030001
 id: 101031
 attribute: 0x6400E00001030001
 ---
-イマ_コッチニメガハナセナイ!
+アイキャントテイクマイアイズオフディスワン!
 
 ---
 id: 101032
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This is the correct answer!"
+{{255:0 arg="0x0100"}}"This is the right answer!"
 
 ---
 id: 101033
 attribute: 0x6400E00001030001
 ---
-コッチガセイカイ!
+ディスイズザライトアンサー!
 
 ---
 id: 101034
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"The other one seemed unrealistic."
+{{255:0 arg="0x0100"}}"The other one seems far-fetched, right?"
 
 ---
 id: 101035
 attribute: 0x6400E00001030001
 ---
-アッチワチョットアリエナイデショ
+ジアザーワンシームズファーフェッチト、ライト?
 
 ---
 id: 101036
@@ -324,7 +324,7 @@ attribute: 0x6400E00001030001
 id: 101037
 attribute: 0x6400E00001030001
 ---
-コッチガコトシラシイヨネ
+ディスワンズアプロウプリエイトフォーディスイヤー.
 
 ---
 id: 101038
@@ -336,79 +336,79 @@ attribute: 0x6400E00001030001
 id: 101039
 attribute: 0x6400E00001030001
 ---
-マア_テイバンデコッチカナ
+ウェル、ジェネラリー、イッツディスワン.
 
 ---
 id: 101040
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I thought it was this way instead."
+{{255:0 arg="0x0100"}}"I thought about this one instead."
 
 ---
 id: 101041
 attribute: 0x6400E00001030001
 ---
-ギャクニコッチカナトオモッテ
+アイソートアバウトディスワンインステッド.
 
 ---
 id: 101042
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I took this one, just felt like it."
+{{255:0 arg="0x0100"}}"I chose this one on purpose."
 
 ---
 id: 101043
 attribute: 0x6400E00001030001
 ---
-アエテコッチデス
+アイチョウズディスワンオンパーパス.
 
 ---
 id: 101044
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one is the standard one."
+{{255:0 arg="0x0100"}}"I suppose this one's the default choice."
 
 ---
 id: 101045
 attribute: 0x6400E00001030001
 ---
-コッチガキホンカナ
+アイサポウズディスワンズザデフォルトチョイス.
 
 ---
 id: 101046
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"It's better than the other side."
+{{255:0 arg="0x0100"}}"This is better than the other choice."
 
 ---
 id: 101047
 attribute: 0x6400E00001030001
 ---
-アッチヨリワマシダヨ
+ディスイズベターザンジアザーチョイス.
 
 ---
 id: 101048
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Surprisingly, it's this one."
+{{255:0 arg="0x0100"}}"I'm surprised I chose this one!"
 
 ---
 id: 101049
 attribute: 0x6400E00001030001
 ---
-イガイトコッチ
+アイムサプライズドアイチョウズディスワン!
 
 ---
 id: 101050
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I got popular after choosing this one."
+{{255:0 arg="0x0100"}}"This one made me popular. VERY popular."
 
 ---
 id: 101051
 attribute: 0x6400E00001030001
 ---
-コッチニシテカラモテモテデス
+ディスワンメイドミーポピュラー.ヴェリーポピュラー.
 
 ---
 id: 101052
@@ -420,55 +420,56 @@ attribute: 0x6400E00001030001
 id: 101053
 attribute: 0x6400E00001030001
 ---
-ケイケンカライッテコッチ!
+フロムマイエクスペリエンス、アイチョウズディスワン!
 
 ---
 id: 101054
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I saw a 100-yen coin over here."
+{{255:0 arg="0x0100"}}"I found a 100-yen coin over here."
 
 ---
 id: 101055
 attribute: 0x6400E00001030001
 ---
-コッチニジュウエンダマガオチテタノデ
+アイファウンドアワンハンドレッドイェンコインオーヴァーヒア.
 
 ---
 id: 101056
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"The other one's painful."
+{{255:0 arg="0x0100"}}"I chose the other one once.
+It was a bad experience."
 
 ---
 id: 101057
 attribute: 0x6400E00001030001
 ---
-アッチニシテイタイメニアッタノデ
+アイチョウズジアザーワンワンス.イットワズアバッドエクスペリエンス.
 
 ---
 id: 101058
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Is there dodge ball here?"
+{{255:0 arg="0x0100"}}"This seems like verbal dodgeball."
 
 ---
 id: 101059
 attribute: 0x6400E00001030001
 ---
-ドッチボールジャナインデスカ
+ディスシームズライクヴァーバルドッジボール.
 
 ---
 id: 101060
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Only amateurs would choose the other one."
+{{255:0 arg="0x0100"}}"Only amateurs choose the other one."
 
 ---
 id: 101061
 attribute: 0x6400E00001030001
 ---
-シロウトワアッチヲエラビタガリマスヨネ
+オンリーアマチュアズチューズジアザーワン
 
 ---
 id: 101062
@@ -480,175 +481,176 @@ attribute: 0x6400E00001030001
 id: 101063
 attribute: 0x6400E00001030001
 ---
-コッチワセンスノイイミーガオオイデスヨネ
+ゼアズアロットオブスタイリッシュミーズオーヴァーヒア.
 
 ---
 id: 101064
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I think this one is better."
+{{255:0 arg="0x0100"}}"I think this one is the better choice."
 
 ---
 id: 101065
 attribute: 0x6400E00001030001
 ---
-コッチノホウガイイトオモウヨ
+アイシンクディスワンイズザベターチョイス.
 
 ---
 id: 101066
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I read the room and decided to try this."
+{{255:0 arg="0x0100"}}"I read the room and decided to go here."
 
 ---
 id: 101067
 attribute: 0x6400E00001030001
 ---
-クウキヲヨンデ_コッチニシテミマシタ
+アイレッドザルームアンドディサイディッドトゥゴーヒア.
 
 ---
 id: 101068
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"My family has chose this for many generations."
+{{255:0 arg="0x0100"}}"My family has chosen this one for eons."
 
 ---
 id: 101069
 attribute: 0x6400E00001030001
 ---
-センゾダイダイ_コッチデスネ
+マイファミリーハズチョウズンディスワンフォーイーオンズ.
 
 ---
 id: 101070
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Probably this one? Who knows."
+{{255:0 arg="0x0100"}}"It's probably this one? I hope so."
 
 ---
 id: 101071
 attribute: 0x6400E00001030001
 ---
-タブン_コッチカナ?
+イッツプロバブリーディスワン？アイホープソウ.
 
 ---
 id: 101072
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"At the moment, it's definitely this one."
+{{255:0 arg="0x0100"}}"These days, it's definitely this one."
 
 ---
 id: 101073
 attribute: 0x6400E00001030001
 ---
-サイキンワ_ダンゼンコッチダネ
+ジーズデイズ、イッツデフィニットリーディスワン.
 
 ---
 id: 101074
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I kind of like the other side, but this one's OK."
+{{255:0 arg="0x0100"}}"That side's not bad, though."
 
 ---
 id: 101075
 attribute: 0x6400E00001030001
 ---
-アッチモワルクナインダケドネ
+ザットサイズノットバッド、ゾウ.
 
 ---
 id: 101076
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I choose this side by a narrow margin!"
+{{255:0 arg="0x0100"}}"I thought it over, and this side barely
+won me over!"
 
 ---
 id: 101077
 attribute: 0x6400E00001030001
 ---
-キンサデコッチ!
+アイソートイットオーバー、アンドディスサイドベアリーウォンミーオーバー!
 
 ---
 id: 101078
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I don't think there's a right side."
+{{255:0 arg="0x0100"}}"I don't think there's a right option."
 
 ---
 id: 101079
 attribute: 0x6400E00001030001
 ---
-ドチラガセイカイッテワケジャナイダロウケドネ
+アイドントシンクゼアズアライトオプション.
 
 ---
 id: 101080
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I choose this. No reason, just felt like it."
+{{255:0 arg="0x0100"}}"I felt like going over here."
 
 ---
 id: 101081
 attribute: 0x6400E00001030001
 ---
-コッチッテキブンデシタ。
+アイフェルトライクゴーイングオーヴァーヒア.
 
 ---
 id: 101082
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I had a hunch it was this one."
+{{255:0 arg="0x0100"}}"I chose to trust my instincts."
 
 ---
 id: 101083
 attribute: 0x6400E00001030001
 ---
-チョッカンヲシンジテミマシタ
+アイチョウズトゥトラストマイインスティンクツ.
 
 ---
 id: 101084
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I couldn't decide, but I chose this one."
+{{255:0 arg="0x0100"}}"I was undecided, but chose this one."
 
 ---
 id: 101085
 attribute: 0x6400E00001030001
 ---
-マヨイマシタガ_コッチニキメマシタ
+アイワズアンディサイディッド、バットチョウズディスワン.
 
 ---
 id: 101086
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I'm not indecisive when it comes to this."
+{{255:0 arg="0x0100"}}"I chose this because I'm not indecisive."
 
 ---
 id: 101087
 attribute: 0x6400E00001030001
 ---
-ユウジュウフダンジャナイノデ
+アイチョウズディスビコーズアイムノットインディサイシヴ.
 
 ---
 id: 101088
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I didn't hesitate and chose this one."
+{{255:0 arg="0x0100"}}"I immediately went here, no hesitation."
 
 ---
 id: 101089
 attribute: 0x6400E00001030001
 ---
-マヨワズ_コッチニシマシタ
+アイイミーディアトリーウェントヒア、ノウヘジテイション.
 
 ---
 id: 101090
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Both are good, but I like this one."
+{{255:0 arg="0x0100"}}"It's hard to choose, but I chose this."
 
 ---
 id: 101091
 attribute: 0x6400E00001030001
 ---
-アッチモステガタイケド_コッチカナ
+イッツハードトゥチューズ、バットアイチョウズディス.
 
 ---
 id: 101092
@@ -1449,7 +1451,6 @@ sure.)
 id: 300400
 attribute: 0x6400800001020005
 ---
-
 Which duo is the happiest?
 (Don't take it too seriously!)
 
@@ -1539,6 +1540,4 @@ Check
 id: 900000
 attribute: 0x6400000001030001
 ---
-
-
 
