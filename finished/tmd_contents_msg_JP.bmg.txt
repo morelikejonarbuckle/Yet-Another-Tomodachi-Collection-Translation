@@ -451,13 +451,13 @@ attribute: 0x6400E00001030001
 id: 101058
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This seems like verbal dodgeball."
+{{255:0 arg="0x0100"}}"This somehow feels like dodgeball."
 
 ---
 id: 101059
 attribute: 0x6400E00001030001
 ---
-ディスシームズライクヴァーバルドッジボール.
+ズィスサムハウフィールズライクドッジボール.
 
 ---
 id: 101060
@@ -644,49 +644,50 @@ attribute: 0x6400E00001030001
 id: 101090
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"It's hard to choose, but I chose this."
+{{255:0 arg="0x0100"}}"It's hard to pick,
+but I went with this one."
 
 ---
 id: 101091
 attribute: 0x6400E00001030001
 ---
-イッツハードトゥチューズ、バットアイチョウズディス.
+イッツハードトゥピック、バットアイウェントウィズディスワン
 
 ---
 id: 101092
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one, but I'll never tell why."
+{{255:0 arg="0x0100"}}"This one. You asked why? It's a secret!"
 
 ---
 id: 101093
 attribute: 0x6400E00001030001
 ---
-コッチデス_キメテハナイショデスガ
+ディスワン。ユーアスクトワイ？イッツアシークレット!
 
 ---
 id: 101094
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one's more grown up."
+{{255:0 arg="0x0100"}}"This zone's clearly made for grown-ups."
 
 ---
 id: 101095
 attribute: 0x6400E00001030001
 ---
-オトナワ_トウゼンコッチデスヨ
+ディスゾーンズクリアリーメイドフォーグロウンアップス。
 
 ---
 id: 101096
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I chose this one with pure intentions."
+{{255:0 arg="0x0100"}}"I chose this side with pure intentions."
 
 ---
 id: 101097
 attribute: 0x6400E00001030001
 ---
-ジュンスイナキモチデコッチニシマシタ
+アイチョウズディスサイドウィズピュアインテンションズ。
 
 ---
 id: 101098
@@ -698,55 +699,55 @@ attribute: 0x6400E00001030001
 id: 101099
 attribute: 0x6400E00001030001
 ---
-ワカモノワコッチシカアリエナイ!
+ディスサイズポピュラーウィズザユース!
 
 ---
 id: 101100
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"It was hard to choose."
+{{255:0 arg="0x0100"}}"Sigh... that was a tough decision."
 
 ---
 id: 101101
 attribute: 0x6400E00001030001
 ---
-イヤ～_ムズカシカッタデス
+イヤ～…ザットワズアタフディシジョン。
 
 ---
 id: 101102
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"To be honest, I couldn't decide."
+{{255:0 arg="0x0100"}}"To be honest, it was hard to choose."
 
 ---
 id: 101103
 attribute: 0x6400E00001030001
 ---
-ショウジキニイウト_ナヤミマシタ。
+トゥービーオネスト、イットワズハードトゥチューズ。
 
 ---
 id: 101104
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one! No, maybe it's the other one..."
+{{255:0 arg="0x0100"}}"This one! Wait, maybe it's the other one?"
 
 ---
 id: 101105
 attribute: 0x6400E00001030001
 ---
-ウ～ン_コッチ!イヤ_アッチカナ?
+ディスワン!ウェイト、メイビーイッツジアザーワン？
 
 ---
 id: 101106
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This isn't wrong, right?"
+{{255:0 arg="0x0100"}}"It's not wrong to choose this, right?"
 
 ---
 id: 101107
 attribute: 0x6400E00001030001
 ---
-コッチデマチガッテマセンヨネ？
+イッツノットロングトゥチューズディス、ライト？
 
 ---
 id: 101108
@@ -758,67 +759,70 @@ attribute: 0x6400E00001030001
 id: 101109
 attribute: 0x6400E00001030001
 ---
-ヤッパリ_コッチジャナイト
+アフターオール、イッツガットトゥービーディスワン。
 
 ---
 id: 101110
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This side's very comfy."
+{{255:0 arg="0x0100"}}"I feel like I fit on this side."
 
 ---
 id: 101111
 attribute: 0x6400E00001030001
 ---
-コッチノホーガシックリキマス
+アイフィールライクアイフィットオンディスサイド。
 
 ---
 id: 101112
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I decided this with the pure heart of a baby."
+{{255:0 arg="0x0100"}}"I have made my judgement
+with the pure heart of a child."
 
 ---
 id: 101113
 attribute: 0x6400E00001030001
 ---
-コドモノコロノピュアナココロデキメマシタ
+アイハヴメイドマイジャッジメントウィズザピュアハートオブアチャイルド。
 
 ---
 id: 101114
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"Based on first impressions, this one."
+{{255:0 arg="0x0100"}}"This side had gave me a good
+first impression."
 
 ---
 id: 101115
 attribute: 0x6400E00001030001
 ---
-ダイイチインショーカラキメテイマシタ
+ディスサイドハドゲイヴミーアグッドファーストインプレッション。
 
 ---
 id: 101116
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"I knew it the moment I saw it!"
+{{255:0 arg="0x0100"}}"I decided this side was meant for me
+the moment I saw it!"
 
 ---
 id: 101117
 attribute: 0x6400E00001030001
 ---
-ヒトメミテ_キメタヨ!
+アイディサイディッドディスサイドワズメントフォーミーザモーメントアイソーイット!
 
 ---
 id: 101118
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}"This one seemed a little funny."
+{{255:0 arg="0x0100"}}"Don't doubt! Choose this one!!!"
 
 ---
 id: 101119
 attribute: 0x6400E00001030001
 ---
-ズバリ!コッチ!!
+ドントダウト!チューズディスワン!!!
 
 ---
 id: 101120
@@ -830,7 +834,7 @@ attribute: 0x6400E00001030001
 id: 101121
 attribute: 0x6400E00001030001
 ---
-ケイケンカライッテコッチ!
+フロムマイエクスペリエンス、イッツディスワン!
 
 ---
 id: 101700
@@ -899,8 +903,8 @@ attribute: 0x6400E00001030001
 id: 200209
 attribute: 0x6400E00001030001
 ---
-{{255:0 arg="0x0100"}}This Mii cares for themselves
-a lot. Don't worry, select another Mii.
+{{255:0 arg="0x0100"}}You can't run a diagnosis
+on the same Mii.
 
 ---
 id: 200250
@@ -992,13 +996,13 @@ attribute: 0x6400F00001010101
 id: 201400
 attribute: 0x6400F00001010101
 ---
-{{255:0 arg="0x0500"}}They get along well like cats and dogs
+{{255:0 arg="0x0500"}}Getting along like cats and dogs
 
 ---
 id: 201420
 attribute: 0x6400F00001010101
 ---
-{{255:0 arg="0x0500"}}The worst friends ever?! Oh no...
+{{255:0 arg="0x0500"}}The worst friends ever?!
 
 ---
 id: 201450
@@ -1077,7 +1081,7 @@ attribute: 0x6400F00001010101
 id: 202500
 attribute: 0x6400F00001010101
 ---
-{{255:0 arg="0x0200"}}The worst ever couple
+{{255:0 arg="0x0200"}}The worst couple ever
 
 ---
 id: 202700
@@ -1101,7 +1105,7 @@ Oh my. It's rare to see such a bad match.
 id: 202900
 attribute: 0x6400E00001010002
 ---
-These two like to argue about their opinions.
+These two often argue about their opinions.
 Their feelings are completely incompatable.
 
 ---
